@@ -1,0 +1,6299 @@
+Beyond Adventure Lies 
+
+AKALMETH 
+
+
+
+
+
+TOP OF THE ORCHARD SOFTWARE PRODUCT 
+
+i; f y. from California Pacific Computer Company 
+
+
+
+JANUARY 1981 
+
+
+
+
+
+Chairman John Haller 
+
+President Margot Comstock 
+Tommervik 
+
+Vice-President Al Tommervik 
+
+Vice-President William Depew 
+
+Treasurer William 
+
+V. R. Smith 
+
+Secretary John Mitchell 
+
+Editor Margot Comstock 
+Tommervik 
+
+Technical 
+
+Editor William Depew 
+
+Contributing 
+
+Editor Roger Wagner 
+
+Art Director Kurt A. Wahlner 
+
+
+
+Production 
+Manager 
+
+Business 
+Manager 
+
+Operations 
+Manager 
+
+Editorial 
+Assistants 
+
+
+
+Al Tommervik 
+
+William 
+
+V. R. Smith 
+
+John Mitchell 
+
+
+
+Robert Koehler 
+Patrick J. 
+Ratchford 
+
+
+
+Circulation Carmen Cowper 
+
+Advertising Sales Al Tommervik 
+213-980-5074 Margot 
+
+Tommervik 
+William 
+
+V. R. Smith 
+
+Cover by Kurt Wahlner. "Pascal Spoken 
+Here" sign used with permission of Apple 
+Computer Inc., Cupertino, California. New 
+York City taxi courtesy of Michael Strum, 
+driver. In the background is the statue of At- 
+las in Rockefeller Center in New York, New 
+York. 
+
+Composition by Photographies, Hollywood, California. 
+Printing by California Offset Printers, Glendale, Cali- 
+fornia. \^ 
+Apple is a trademark of Apple Computer Inc>, Cuper- 
+tino, California. 
+
+Stiftiilk. Volume 1, Number 5. Copyright ' 1980 by Softalk 
+Publishing Inc. All rights reserved. ISSN: 0274-9829. Sub- 
+scriptions to Softalk are complimentary to all owners of 
+Apple computers in the USA; multiple or non- Apple- 
+owner subscriptions for one year: one, $10; two through 
+five, $8 each; more than five, $6 each. Back issues, $2; 
+November and December issues are sold out. Softalk is 
+published monthly by Softalk Publishing Inc., 10432 Bur- 
+bank Boulevard, North Hollywood, CA 91601. Tel. (213) 
+980-5074. Controlled circulation postage paid at Los 
+Angeles, CA. Postmaster: Send address changes to 
+Softalk, 10432 Burbank Boulevard, North Hollywood, CA 
+91601. 
+
+ADVERTISEI^S inDEX 
+
+Avant Garde 10 
+
+Book Publishing 17 
+
+Broderbund Software 29 
+
+California Pacific Cover 2 
+
+Cavri Systems 31 
+
+Continental Software 34 
+
+Datasoft 3 
+
+Edu-Ware Services 8 
+
+FSI 28 
+
+Image Systems 12, 33 
+
+Information Unlimited Cover 4 
+
+Micro Lab 14 
+
+Microsoft 7 
+
+MUSE Software 24 
+
+On-Line Systems 19, 21, 23, 25, 27 
+
+Peripherals Plus 11 
+
+Rainbow Computing 22 
+
+Sirius Software 13, 15 
+
+Small Business Computer Systems 16 
+
+Software Publishing 35 
+
+Southwestern Data Systems 26 
+
+Spectrum Software 30 
+
+Stellation Two 2 
+
+Strategic Simulations Cover 3 
+
+Synergistic Software 9, 20 
+
+
+
+c o n T E tl T S 
+
+
+
+Big Apple Gives Little Apple the Business 
+
+Apples are selling like hoicakes in New York City — many to 
+megabusinesses. 
+
+MARGOT COMSTOCK TOMMERVIK 
+
+
+
+Robot War: Strategy for Learning 
+
+Revolutionary concept in gaming software teact)es logic and 
+programming through fun. 
+
+MARY TAYLOR ROLLO 
+
+
+
+Softalk's First Annual Most Popular Software Poll 
+
+Readers have a chance to air their opinions of the all-time top 
+ten in popular software 
+
+
+
+Disk Drive Doctor Moves East 
+
+A very special person, Mike Cornblith deals in Apple service 
+and general good will. 
+
+AL TOMMERVIK 
+
+
+
+Exec California Pacific: 
+
+Quiet, thoughtful Al Remmers has made his software company 
+a howling success. 
+
+
+
+RICHARD KNUDSEN 
+
+
+
+
+D E f A b T H E H T S 
+
+
+
+Contest and Contest Winners 2 
+
+Open Discussion 9 
+
+The Logical Way. Bill Depew 12 
+
+Morketalk Reviews 16 
+
+
+
+Tradetalk 
+
+Assembly Lines: Roger Wagner 
+
+Morketalk News 
+
+Bestsellers 
+
+
+
+21 
+22 
+28 
+36 
+
+
+
+
+2 
+
+
+
+^ WHTAI V 
+
+
+
+JANUARY 1981 
+
+
+
+Hbly Smoke; 
+
+More Contest 
+Winners! 
+
+
+
+
+Enter the words, 
+
+oh so slow 
+Out with the anagrams 
+
+and on we go 
+Two-siocteen 
+
+with which to play 
+That turkey 
+
+had a lot to say 
+Apple listings 
+
+oh so quick 
+Then a word — 
+
+FANTASTIC! 
+
+With those words, Dave Pointon of 
+Sparks, Nevada, summed up Novem- 
+ber's contest. He'll get another chance to 
+regale Softalk with poetry if he enters 
+this month's limerick contest. 
+
+Fantastic was the message we were 
+looking for, but our program to ensure 
+that it was the only sensible answer avail- 
+able failed miserably, as witnessed by 
+fifty-two entries that found other an- 
+swers. All were accepted. 
+
+J. V. McGinn of Mount Clemens, Mich- 
+igan, deserves special recognition for 
+finding ten alternative answers, none of 
+which were fantastic. 
+
+As with every contest in which there is 
+more than one correct entry, Apple's ran- 
+dom number generator was used to de- 
+termine the winner. 
+
+Jerry L. Kynsi of Longview, Washing- 
+ton, was so anointed. He chose a selec- 
+tion of Quality Software's entertainment 
+programs as his prize. 3t 
+
+
+
+Left to right: Elliott R. Greene of Computerland of Nassau, New York, presents Lawrence Lando with a Magic 
+Window. Landa was winner of October's Bobbing for Apples contest. Gary Iverson of Computer Technologies, 
+Albuquerque, New Mexico, awards VisiCalc to Mark Korenkiewicz, one of September's contest winners. 
+
+(OnTESLLILTin'LmKKS 
+
+
+
+To honor the gremlins so prominent in 
+a game reviewed this month, January's 
+contest involves another product of Irish 
+inventiveness: the limerick. 
+
+A limerick is a five-line verse of a light, 
+usually humorous, and sometimes non- 
+sensical nature. Its meter is anapestic, 
+meaning each line is made up of group- 
+ings of two short syllables followed by 
+one long one; its rhyme scheme is 
+aabba — lines one, two, and five rhyme 
+and lines three and four rhyme. Rules 
+such as these are made to be broken, but 
+your entry must be recognizable as a lim- 
+erick. Here's a limerick: 
+
+There once was a girl from Poughkeepsie, 
+Who liked to get just a bit tipsy. 
+
+When they held back her wine 
+
+Just to keep her on-line, 
+She became an itinerant gypsy. 
+
+Writing limericks is meant to be fun, 
+not work, and you need not be a poet to 
+come up with a fun one. 
+
+Here are the rules for Softalk's Liltin' 
+Limerick contest: 
+
+1. Any subject is okay, and your lim- 
+erick can be funny, punny, witty, subtle, 
+broad — do what suits you best. 
+
+2. Each entered limerick must con- 
+
+
+
+SUPERCHARGE 
+
+
+
+
+Plug 
+
+into your machine and tap 
+the sizzling power of 
+Motorola's 6809. 
+$275, includes 
+Complete Documentation 
+
+
+
+tain within it either the name of one of 
+Softalk's January advertisers or of one of 
+the products of those advertisers. This 
+name need not be the subject of the lim- 
+erick, but may be merely worked in some 
+way. For example : 
+
+"Odds Bodkins," young Romeo did muse, 
+"Soft, where are my Juliet's shoes? 
+
+Is her power for losing 
+
+By chance or by choosing? 
+Ye Gads, how it doth me confuse!" 
+
+3. To be eligible, each entry must be 
+accompanied by a secret word, which 
+those rascally gremlins have hidden 
+somewhere in the pages of this issue. 
+When you find it, you'll know it; if you 
+have a doubt, you haven't found it. 
+
+4. You can enter as many limericks as 
+you like, but each must be attached to an 
+entry form or a copy or simulation of an 
+entry form. 
+
+5. Limericks will be judged the only 
+way they can be judged — subjectively. 
+Judges will be looking for wit, humor, 
+originality of rhyme, and originality in 
+general. Softalk judges will choose ten 
+semifinalists whose limericks will ap- 
+pear in the March Softalk (Saint Pat- 
+rick's Day — gremlins at work again) , the 
+final winner to be chosen by Softalk's 
+readers. 
+
+6. All entries must arrive at Softalk by 
+February 2, 1981; late arrivals will be 
+gobbled by groundhogs. 
+
+7. First-place winner, chosen by our 
+readers in March, will receive $100 worth 
+of product from one of Softalk's January 
+advertisers. Semifinalists whose limer- 
+icks appear in the March issue will win 
+$10 credit at their local retailers. 
+
+8. Have fun. Hi 
+
+
+
+The Secret Word: 
+
+
+
+— THE MILL STELLATION TWO, Box 2342, Santa Barbara, CA 93120 - ,)hoi)e (805) 966-1 140 
+
+
+
+My limerick is attached. 
+The prize I'd like if I win is: 
+
+My local retailer is : 
+
+
+
+Name : 
+
+Address: 
+
+aty/State/Zip:. 
+My Autograph : 
+
+
+
+ItPlNTYOURJIPPLE 
+
+
+
+And don't spare any of the 21 vibrant colors 
+provided with Datasoft's MICRO-PAIINTER'" 
+computer program. 
+
+MICRO-PAINTERS" is a modestly priced soft- 
+ware package that bridges the gap between Apple 
+hardware and the artist in us all. 
+
+Apple 11* users can now heighten their 
+creative and artistic IQs as they electronically paint 
+extraordinary pictures. 
+
+And since the MICRO-PAINTER"*" uses state- 
+of-the-art technology in its programming and 
+implementation, anyone will find the program easy 
+to use and the results — magnificent. 
+
+Children can ease their transition into a com- 
+puterized society by familiarizing themselves with 
+computer operations while they create beautiful 
+pictures. 
+
+Hobbyists can entertain friends with 
+colorful designs and unusual color combinations 
+
+•Apple U is a registered trademarl< of Apple Computer Inc. 
+
+
+
+
+Businessmen can enhance demonstrations, 
+presentations or illustrations where the emphasis 
+is on color. 
+
+The AAICRO-PAINTERS" even magnifies 
+images for dot-by-dot coloring, inverts colors for 
+various color combinations and saves or displays 
+pictures automatically. 
+
+So if you've been waiting to reveal your true 
+artistic colors (or wishing you had more) call or 
+write Datasoft, Inc., 16606 Schoenborn Street, 
+Sepulveda, CA 91343, (213) 894-9154 or toll free 
+(800) 423-5630 for details. Dealer inquiries invited. 
+
+Ask your local dealer for information on Datasoft Products. 
+
+C MICRO-I gHNTER 
+
+COMPUTER PAINTSET BY Ijatason Inc. 
+
+
+
+
+
+THE 
+
+
+
+BIG APPLE 
+GIVES THE 
+LITTLE APPLE 
+THE BUSINESS 
+
+
+
+
+
+BV HARCOT (OnSTOCk TOtinERYIk 
+
+
+
+Apples are booming business in New York City ; the Big Ap- 
+ple is giving a warm and massive welcome to the little Apple 
+with a bite missing. From Yorktown to Wall Street, New York- 
+ers are adopting Apples, not only into their homes, but into the 
+stately halls of giant corporations: NBC, CBS, Time-Life, Cela- 
+nese, Exxon, Citibank, Bank of New York, Oppenheimer, Mor- 
+gan Stanley, Columbia University, Fordham — ^the distin- 
+guished list goes on. 
+
+Apple is not new to the Big Apple. It's been there just about 
+as long aa it's been anywhere in the country. But the emphasis 
+on Apple over other microcomputer brands that formerly 
+topped Apple's sales in New York City and its environs has 
+come about only in the past year and has skyrocketed in the 
+past few months. The Dick Cavett radio and newspaper ads 
+and the Wall Street activity in anticipation of the anxiously 
+awaited Apple public issue have combined to shoot Apple sales 
+sky high. 
+
+New Yorkers, contrary to common viewpoints west of the 
+Delaware Water Gap, are an enthusiastic, caring — if street- 
+wise — kind of people. What is taken by non-New Yorkers for 
+unfriendliness or scepticism is merely caution : the conviction 
+that knowledge must precede action or display. There's no 
+truer friend than a New Yorker — but you won't gain that 
+friendship until there's no chance it'll be withdrawn. 
+
+So it is with New Yorkers' enthusiasm and acceptance of 
+product. Now that Gothamites have tested and tried, now that 
+
+
+
+the value is proven, they are flocking to buy Apples. And it's 
+not likely they'll quit. 
+
+Off-Path Location Shelters Top-Volume Retailer. Thus, a 
+tucked-away — if anything two blocks from Grand Central Sta- 
+tion can be considered away — store like the Computer Fac- 
+tory can afford to wait to be sought. 
+
+You have to know where you're going to visit the Computer 
+Factory. Shunning a storefront in favor of a set of three side- 
+by-side facilities along an arcade within a building running 
+from one street to the next. Computer Factory turns its back — 
+or its blank outside walls — on walk-in trade. Yet it is within the 
+top few and may indeed be the largest volume dealer of Apple 
+computers in the country. 
+
+Since the airing of the Dick Cavett Apple radio ad cam- 
+paign in New York City, Computer Factory has not failed to 
+reach the century mark in Apple sales in any week. In straight 
+language, they're selling at least one hundred Apples every 
+week. That's a hot product. 
+
+The day Softalk visited the Factory, it was buzzing with ac- 
+tivity. A full Manhattan-size complement of people lined soft- 
+ware racks and peripherals counters; and the closing room, a 
+private office for people buying computers, was never empty. 
+
+Formal Attire Adds Professional Flavor. Unlike many of 
+Manhattan's Apple dealers, 35 percent of Computer Factory's 
+sales are to individuals for home use. Even of these, many cus- 
+tomers come back for a second Apple to take to the office. 
+
+
+
+The personnel gear their tone and their dress — mostly 
+three-piece suits — to accommodate the other 65 percent, the 
+business sales to large businesses (New York's Citibank is 
+among their customers) and small. "We understand the needs 
+of the small business because we are — were — one," says Greg 
+Pearlstone, marketing manager of Computer Factory. 
+
+Computer Factory calls itself the one-stop shop for compu- 
+ter equipment and boasts the most complete stock of Apple 
+gear in the city of New York, according to Pearlstone. "Where 
+other retailers stock one or two word processors, their favor- 
+ites, we carry every one made. We stock all peripheral boards 
+and every possible chip and part, as well as most software." 
+
+Buy Your Apple at a Bookstore. Broad steps descend as to 
+an amphitheater to the several londerplayed commercial en- 
+terprises surrounding the sunken entrance to the McGraw-Hill 
+Building on Manhattan's Avenue of the Americas. The path 
+most trodden leads to the McGraw-Hill Bookstore. 
+
+A bookstore seems an unlikely place to buy computers, but 
+at the McGraw-Hill Boookstore, always popular with book buy- 
+ers and browsers, the computer department seems a natural 
+extension of its technical book line. 
+
+By virtue of the same management thinking, the bookstore 
+was an early retail outlet for Hewlett-Packard calculators. 
+
+A year ngo, store management wanted to get involved with 
+the micro industry. Parent McGraw-Hill Publishing, itself 
+owner of Standard and Poors and the former Osborne Publish- 
+
+
+
+ing Company and publisher of Byte magazine, approved. The 
+Apple was selected on the basis of recommendation as the mi- 
+crocomputer to carry. 
+
+Bruce Tucker, manager of the computer department at the 
+store, attributes a recent giant step forward in sales to Dick 
+Cavett's efforts on behalf of Apple. But the computers were no 
+slouch on the market before, either. 
+
+Sky's the Limit When Optimism Prevails. An enthusiastic 
+Apple owner himself. Tucker won't attempt to sell a product he 
+doesn't know inside and out. His knowledge and enthiisiasm 
+build confidence in his customers, evidenced by a sample of 
+who they are: Celanese, Morgan Stanley, Exxon. 
+
+Until October, Tucker's department was a one-man opera- 
+tion; then salesperson Charles Pringle joined the force. Busi- 
+ness is increasing steadily, says Tucker, "and with Apple's ex- 
+pectations, McGraw-Hill's expectations, and my own, the sky's 
+the limit." 
+
+Tucker sells more Apples to middle management of large 
+companies than to small companies. Businessmen use the Ap- 
+ple mostly for data and financial analyses. "Higher manage- 
+ment uses Apples, then refers lower management to us for 
+their own," Tucker comments. Many come back to buy Ap- 
+ples for their homes, too. 
+
+Another segment of business comes from the universities. 
+Tucker has sold Apples to professors from schools such as Co- 
+lumbia and Fordham ; but 70 percent of sales are to business. 
+
+
+
+JANUARY 1981 
+
+
+
+The Apple II is in its renaissance now, Tucker says ; it had a 
+rough start because it didn't look like the things businesspeo- 
+ple arc used to. But, "the tough New York market is an acid 
+test, and the II has stood up to the test." 
+
+Looks Give Apple III Advantage. The McGraw-Hill Book- 
+store isn't showing the Apple III yet; it won't do that until 
+Tucker learns it thoroughly. He considers the III "a nice, neat, 
+comfortable integrated unit. Business Basic is good, SOS is 
+fast and powerful, and the keyboard is excellent for word pro- 
+cessing; the double-the-II memory capacity is great." 
+
+The III will be better accepted by the business community 
+in the long run because it looks more like machines they're 
+used to than the II. "It looks more like machines such as the 
+DEC and Wang, and looks are important. You can see that in 
+software. Well-packaged software, such as that from Personal 
+or Muse, sells faster than cheaply packaged programs." 
+
+
+
+ness Machines doesn't wait for customers to come to it; 
+walk-in customers are not its trade. Instead, Super's salespeo- 
+ple go into offices to make their sales. That practice, along 
+with the store's emphasis on the Apple as a corporate middle- 
+management vertical tool, result in single orders that vary 
+from five to thirty Apples, often with promise of four or five 
+hundred more Apples to be ordered later. 
+
+Super counts among its customers many names commonly 
+found among the Fortune 500, and several representatives of 
+the top twenty-five of that prestigious group. 
+
+Along with Apples, Super Sells Service. Super's staff and 
+their clients think so much of the Apple that the Super people 
+have written proprietary software to enable those clients to use 
+the Apple for numerous previously unprogrammed manage- 
+ment tasks. Yet they seldom sell an Apple as an accounting 
+machine, and they've never sold one as a word processor; they 
+
+
+
+
+
+Clockwise from the top left: Apple on a pedestal at Date! Systems; The Computer Factory; Greg Pearlstone of 
+The Computer Factory; George Pitogorsky, president of People and Solutions, Inc., totes a new solution out 
+of Computer Factory; Super Business Machines, next to historical Old Trinity Church; Charles Pringle of 
+McGraw-Hill Bookstore; Computer Era; Steve Haas of Computer Era; Charles Lewis of Date! ploys Hi-Res 
+Football to an audience. 
+
+Softalk photos 
+
+
+
+
+
+Tucker believes the III will cut into the II's sales only slight- 
+ly. He predicts many mixed orders, with lis for backup. 
+
+"I love my work," declares Bruce Tucker, "I'm nuts about 
+this industry and about this product— the Apple." 
+
+Datel Puts Apple on Pedestal. Just a few building away 
+from the bookstore and directly across from the Radio City 
+Music Hall side of Rockefeller Center is Datel Systems. As you 
+enter Datel, you can't avoid seeing a pedestal, and arranged on 
+the pedestal, an Apple II. 
+
+Datel carries several brands of computers, but Apple is 
+their largest seller. Business this year, says president Bill Bar- 
+ton, is up 400 percent from last year; the store has thirteen em- 
+ployees and is rapidly expanding. 
+
+Datel sells Apples for stock market charting and word pro- 
+cessing, but, declares Barton, "Most systems are sold by Visi- 
+Calc." The tribute to VisiCalc is undoubtedly deserved, and 
+well received from a man who discovered during the course of 
+the recent COMDEX convention in Las Vegas that his individ- 
+ual store is responsible for 1 percent of all VisiCalc sales. 
+
+Still, it should not be overlooked, when considering Visi- 
+Calc as selling Apples, that VisiCalc is available for other 
+brands of computers as well. 
+
+Among its regular customers, Datel counts two television 
+networks, Time-Life Publishing, and Bank of New York. 
+
+Wall Street Supplier Sells Apples by the Dozen. Super Busi- 
+
+
+
+don't need to. Among the uses they've implemented with their 
+own software is managing the bond market ; according to Su- 
+per, no one else does this. 
+
+Along with Apples, Super sells service, in true big-busi- 
+ness. New York fashion. Being a business machines store 
+first — and exclusively until the last couple of years — Super 
+never dropped the habit of servicing its products in the 
+customers' offices. The store is a class A level one service 
+center for Apple, and provides this service on call as quickly 
+and efficiently as any other computer company — including 
+those handling the best-known mainframes. 
+
+Because it has been a business machines store for a long 
+time. Super has a built-in clientele that its sales force can in- 
+troduce this revolutionary new product to. But they're finding 
+that their customers are doing a lot of talking, too, and new 
+prospects are calling Super with interest in buying Apples. 
+
+Apple Speeding to Sales Leadership. Last year, says store 
+representative James Grimaldi, only 10 percent of his time 
+was spent on computers; his main focus remained business 
+machines. This year, computers, primarily Apples, are com- 
+manding 60 percent of iiis time. 
+
+This change reflects a change in business thinking— an en- 
+lightenment Super has had no small part in bringing about. 
+For example, a New York bank, one of the top five in the 
+world, is considering a major order of Apples to fulfill a need 
+
+
+
+AN EVEN BETTCR DEA. 
+
+
+
+Memory — you never seem to have quite 
+enough of it. 
+
+But if you're one of the thousands of Apple 
+owners using the SoftCard, there's an economical 
+new way to expand your memory dramatically. 
+
+16K ON A PLUG-IN CARD. 
+
+Microsoft's new RAMCard simply ^ ^ 
+plugs into your Apple 11,® and adds 16k M ^ 
+bytes of dependable, buffered I flp 
+
+read/write storage. I 
+
+Together with the SoftCard, ^^mk^f^ 
+the RAMCard gives you a 56k ^^■■■■■■i 
+CP/M® system that's big enough S| j-sji-j 
+to take on all kinds of chores that | 'il' ~' 
+would never fit before (until now, 8 »i 1| 
+the only way to get this much V 
+memory was to have an Apple ^ _ 
+
+Language Card installed). iL • 
+
+GREAT SOFTWARE: : ;l 
+
+YOURS,OURS,OR THEIRS. lih -«LL 
+
+With the RAMCard and t ^j^ ;S 
+
+SoftCard, you can tackle large- jff ^ 
+
+scale business and scientific §1 | 
+
+computing with our COBOL and %l ' 
+
+FORTRAN languages. Or greatly ^^j^i ji 
+
+increase the capability of CP/M I fCrssa? 
+
+
+
+applications like the Peachtree Sonware account- 
+ing systems. VisiCalc^" and other Apple software 
+packages can take advantage of RAMCard too. 
+
+And RAMCard gives you the extra capacity to 
+develop advanced programs of your own, using the 
+SoftCard and CP/M. Even with the RAMCard in 
+place, you can still access your ROM BASIC 
+m and monitor routines. 
+
+I# JOIN THE SOFTCARD 
+
+K FAMILY. 
+
+jt^^^ The RAMCard is just the 
+
+"niBH latest addition to the SoftCard 
+
+^^HB^ family — a comprehensive sys- 
+
+6\ tSM tem of hardware and software 
+
+i s * ° , 3 that can make your Apple more 
+
+^ versatile and powerful than you 
+
+J^-^^^^-r^^^^ ever imagined. 
+' ' /Zv^^ Your Microsoft dealer has all 
+- ' " ^^^SS exciting details. Visit him 
+
+: 1 j ^^/y^ 2 soon, and discover a great idea 
+
+that keeps getting better. 
+Zl£^y2^1Sm Microsoft Consumer 
+
+. -^yf^ Products, 400 108th Ave. N.E., 
+
+,\ Suite 200, Bellevue, WA 98004. 
+
+j!r! =^ (206)454-1315. 
+
+
+
+• if« ijj 
+
+
+
+t ^ * • r I 
+
+
+
+
+8 
+
+
+
+N C) i: T A 1 1^ 
+
+
+
+JANUARY 1981 
+
+
+
+for which they had planned to purchase DECs; Super got to 
+them before they had taken action. 
+
+Within a year, Super will surpass all its sales in business 
+systems with the Apple, Grimaldi believes. "I'm a naturally 
+pessimistic person who's been made into an extreme optimist 
+where the Apple is concerned." 
+
+What has caused this great boost in Apple sales to the cor- 
+porate market? Other than Super's unique marketing tech- 
+niques and service policies, Grimaldi attributes much of the 
+boom to the "legitimization" of Apple through the public 
+offering of stock. Extra oomph was added through the New 
+York Times front-page coverage of the proposed offering and 
+of Apple Computer Inc. And the radio and newspaper Dick Ca- 
+vett ads haven't hurt, although Super credits its own radio spot 
+on WINS as a major spur to its own growth. 
+
+Talking with Grimaldi and others at Super Business Ma- 
+chines leaves no doubt that Wall Street is welcoming the Apple 
+with open arms and a pleasured eye on the balance sheets. 
+
+High Principles Pay Off In Computer Era. Strictly busi- 
+ness is also the keyword at Computer Era on Third Avenue on 
+Manhattan's fashionable Upper East Side. Customers come 
+from all kinds of businesses; with a touch of mystery, Steve 
+Haas, proprietor of Computer Era, declines to specify uses for 
+which his customers purchase Apples, but reveals that his 
+clients "have some very sophisticated applications; many 
+have had to write their own software." 
+
+Computer Era sold electronic parts for many years before 
+adding computer lines four years ago; it has been carrying 
+the Apple for two years. At present, Apple and Vector have 
+been trading off first position in sales from week to week. 
+
+A thoughtful man whose gentle enthusiasm disdains any 
+smack of the bandwagon, Haas believes the most important 
+principle in selling a computer system is "to make sure the 
+system includes the right item and software for the cus- 
+tomer," whether he believes that means Apple or another sys- 
+tem. Apple often happens to be the "right item." 
+
+"The Apple is extremely viable," Haas says, and the subtle 
+
+
+
+the 
+Prisoner 
+
+
+
+
+by David Muliich 
+
+
+
+
+Inspired by the highly 
+acclaimed television series, 
+your Apple puts you in a 
+nightmare 1984 world 
+whose rulers seek to break 
+you down by an extensive 
+array of brainwashing tech- 
+niques, while you are armed 
+only with your intelligence 
+and sense of individuality. 
+Can you escape to freedom 
+or will you remain forever 
+THE PRISONER' 
+
+
+
+We want information . . . " 
+
+
+
+
+g29.95^ 
+
+
+
+
+Available at compvter stores in finer vlllates everywhere. CA res. add 6% tx. Add $1 (er sbipiiing. 
+EDU-WARE SERVICES. INC. 2Z222 Sherman Way # 1 02 • Canoga Park. CA9)303 
+
+
+
+enthusiasm begins to creep into his voice. "Apple is a product 
+you can sell proudly." 
+
+Proud Owners Prompt International Trade. Principles and 
+pride are no strangers in Haas's life. He cannot understand the 
+"get-rich-quickers" in the industry. "When you sell a compu- 
+ter system, you're selling a business machine, not a television 
+set. Someone's business hangs on it." 
+
+But the profit-takers don't bother Haas overmuch; an eld- 
+er statesman by contrast with the mid-twenties majority in the 
+microcomputer world, he sees the get-rich-quickers as a pass- 
+ing phenomenon. 
+
+To Haas's clientele, ads don't much matter. The best busi- 
+ness promotion is the satisfied customer. "Heads of compa- 
+nies learn about the Apple by word of mouth; pretty soon, they 
+buy one for themselves." And pass the word to still others. 
+
+This age-old advertising method works on an international 
+scale for Computer Era. Because of the inflated prices of ev- 
+erything overseas, people are coming from Europe to Amer- 
+ica to buy machines. Many arrive at Computer Era on the rec- 
+ommendation of friends in Europe who bought their Apples at 
+the store. 
+
+Like Super Business Machines, Computer Era offers 
+service on the customer's premises. 
+
+DDP Sells from Office, Not Store. Still another approach is 
+taken by DDP Systems. Although a retail vendor of computer 
+systems, DDP maintains not a store, but an office; and to 
+prove it, the facility is in an eight-floor suit, in Gotham's 
+west thirties district known as Chelsea. 
+
+In its office environment, DDP offers a comfortable place 
+for potential clients to try out the computers while enjoying 
+coffee and calling for assistance from the staff if they wish. 
+Visits are by invitation or appointment; the company doesn't 
+want walk-in customers. 
+
+DDP sells a full line of minicomputers, but it carries only 
+one micro. The Apple holds its own among products such as 
+DEC, IBM Series I, and Control Data for about 10 percent of 
+the company's sales. 
+
+Once a Toy, Now No Limits. "A year ago, the Apple was a 
+toy," says David Mack, chairman of DDP Systems. "Since 
+then, Apple Computer Inc. has done a good job of presenting it 
+seriously. Now, we can sell it as the powerful tool it is." 
+
+In commenting on the Apple III, Mack made very clear his 
+opinion of the II. "The II is just as good as the III. The III is 
+nice — it has a better keyboard, more memory. But it's not 
+worth it because you're not limited by the II. I haven't yet 
+found the limits of the II." 
+
+Most of DDP's clientele consists of small business people, 
+professionals, and executives of larger companies who want 
+business tools on their desks. The Apples are used mostly as 
+business controllers, individually or in networks of three or 
+four Apples. 
+
+Skiers Find Apples Shortening Lift Waits. Like Barton at 
+Datel, Mack considers VisiCalc better than any other com- 
+mercial software to date. Executives of large corporations buy 
+Apple systems with VisiCalc for budgeting and for creating 
+budget presentations. 
+
+Occasionally, there are unusual applications. Recently, 
+DDP sent representatives to Austria on request to develop cus- 
+tom software to hook the Apple to a card reader for a ski re- 
+sort ; skiers would merely show their prepaid card to the card 
+reader to gain entry to the ski lift. 
+
+DDP is in concord with the other strictly business sup- 
+pliers in its attitude toward service. Mack emphasizes the 
+importance of keeping in touch with clients' needs by visiting 
+clients' offices. "We sell teaching as much as products," Mack 
+says. The company spends an average of two days in a client's 
+office to expedite setup and learning. 
+
+The Market Felt Bound the World. As usual, when New 
+Yorkers move, they move in a big way; when Manhattan's 
+business community acts, it makes waves felt throughout the 
+country and the world. The ripple effect it is creating with its 
+enthusiastic acceptance of Apple has only just begun. 
+
+The end results are astounding to contemplate. JM 
+
+
+
+JANUARY 1981 
+
+
+
+OPEH Discussion 
+
+
+
+Classified Information 
+
+May I ask why you request the serial number [of subscribers' 
+Apples)? It was explained [in September's Softalk] that you use 
+Apple's list which is where our Apple is registered. No other 
+magazine we subscribe to makes this request. 
+
+My son shared your first issue with his fifth grade class- 
+mates. Star Wars was a big hit! 
+
+For me Marketalk is great. 
+R. B. Sawyer, Bronx, NY 
+
+No other magazine requests your serial number, hut they 
+do ask for something Softalk doesn't: money. Because Softalk 
+is mailed to Apple owners free, and because it is available in 
+stores as well, we have no way of knowing if people "subscrib- 
+ing" are Apple owners; if they are not Apple owners, and we 
+count them in our circulation numbers, toe are being unfair to 
+our advertisers — who are the people that make it possible for 
+you to receive Softalk /ree. Requesting your serial number is 
+merely a means of determining which of our readers actually 
+own Apples. The number will not be used in any way other than 
+to count our circulation for advertisers' information. 
+
+Softalk is not always mailed through Apple Computer's list. 
+Being on Apple's list will not ensure your getting Softalk 
+regularly; this is a major reason we ask our readers to mail 
+their names and addresses to Softalk; only this way can you be 
+sure you are on Softalk 's cit^culatio7i list. 
+
+Any people who received the September Softalk but did not 
+receive the October issue can be certain they are not on Sof- 
+talk '5 mailing lust; unless they have already mailed in a sign- 
+up card or coupon, they should do so now, including — in lieu of 
+money — their Apple serial number. If you missed copies and 
+wish to obtain them, back issues for September and October 
+
+
+
+are available for $2.00, which covers first class mailing. 
+November and December issues are sold out and back issues 
+are not available. 
+
+Apple Power 
+
+I am the owner of an Apple computer and president of the 
+Apple Power Users Group of Long Island, New York. Kindly 
+add my name to your mailing list in order that I may begin re- 
+ceiving Softalk as soon as possible. 
+Jim Lyons, Farmingville, NY 
+
+We are happy to have users groups and clubs encourage all 
+their members to sign up for our magazine. Any club that 
+wishes to send all their members' names and addresses in a 
+package — with members' permission — may do so; each name 
+will be processed as though it had been sent individually. 
+
+Magical Loading Machine 
+
+Your article about Frank Krogh's loading machine rang a bell 
+in me. I had his problems too, but solved them a bit different- 
+ly. This solution uses audible feedback for indicating the 
+proper playback level, and it is possible to monitor tape play- 
+back regardless of whether the computer is being loaded or 
+not. This way, a new record can be found without unplugging 
+the earphone jack. 
+
+Reinhard K. Quednau, Nolensville, TN 
+Dealer Gift and Softalk Goofed 
+
+Thank you for sending me the October back issue in response 
+to my check and signup form. Unfortunately, I asked for the 
+September issue — because of the letters praising it in the No- 
+vember issue, which my dealer gave me with my new Apple. 
+
+
+
+^SYNERGISTIC SOFTWARE ^ 
+
+
+
+Program Line Editor 
+
+
+
+by Neil Konzen 
+
+
+
+Stronger than the Integer 
+More powerful than Applesoft 
+Faster than a speeding cursor 
+Able to leap the longest statennents in a 
+
+single move. 
+
+The Program Line Editor is the most sophisticated 
+program development tool for the Apple II compute 
+Program Line Editor includes full feature line editors for 
+both Integer and Applesoft programs that render all other 
+techniques obsolete. Program development and modification 
+can now be performed in a tenth the time previously required. 
+
+• More than 11 editing commands such as insert, delete, 
+find & pack. 
+
+• Versatile escape functions execute a complex user defined 
+command with just 2 keystrokes. 
+
+•Complete listing control (stop list, resume, abort) 
+
+• Invisible and indestructible routines actually become part 
+of DOS and are unaffected by INT, FP, or MAXFILES. 
+
+Available on disk only for any Apple] [ or Apple] ( Plus for 
+$40.00. 
+
+
+
+
+by Darrell & Ron Aldrich 
+
+
+
+When the Apple's text out- 
+put isn't good enough, Higher 
+Text gives you the flexibility of: 
+
+• Full 96 characters of ASCII upper 
+and lower case. 
+• Colorful text in 10 high resolution colors. 
+• Foreign alphabets or scientific symbols. 
+
+• Old English, script, or even sideways text. 
+
+• Mixed text and graphics anywhere on the high 
+resolution screen. 
+
+•Choice of normal 7x8 characters or detailed 
+14 X 16 dot characters. 
+
+• Regular, extra tall, extra wide, or large characters. 
+Higher Text allows you to design unique character sets with 
+the easy to use character editors. Graphs, game boards, and 
+program logos can be labeled with this versatile package. 
+Now you can create professionally customized displays using 
+routines that can be easily linked to any Applesoft or Integer 
+BASIC program. 
+
+Available on disk only for any Apple ] [ or Apple ] [ Plus for 
+$35.00. 
+
+
+
+Send check or inquiry to Synergistic Software, 5221 120th Ave. S.E. 
+
+Washington residents add 5.3% sales tax. 
+
+
+
+Bellevue, WA 98006 
+
+
+
+10 
+
+
+
+< t s o i: T A 
+
+
+
+E 
+
+
+
+JANUARY 1981 
+
+
+
+o p E H Discussion 
+
+
+
+Would you be kind enough to debug your mailroom and output 
+a copy of September Softalk as ordered? Thank you. 
+
+Incidentally, I do enjoy your articles and look forward to 
+more and bigger. I'm also interested in reviews of computer- 
+education software for ages twelve to sixteen. 
+Paul J. Friedman, La Jolla, CA 
+
+Oub Offers Side Benefits 
+
+Let readers know that members of A.P.P.L.E. can get an 
+Integer Basic in RAM. That and their program line editor (on- 
+ly $600 long) are worth the price of membership. 
+D. C. O'Shea, Atlanta, GA 
+
+Shopping Ideas 
+
+Softalk is very helpful — it has given me some good ideas about 
+programs I'll be buying. 
+L. Brenner, Oakton, VA 
+
+Programming Enthusiast 
+
+This is the second copy of Softalk I have received, and I must 
+compliment you on your fine publication. 
+
+In addition to some great articles, your technical informa- 
+tion is super. Your article last month [September] on "Illegal 
+Commands" was readily understandable by me the first time, 
+and workable. The series on assembly language looks like it 
+will be great for someone like myself (less than expert status) . 
+
+P.S. Have any remedies for tired eyes? 
+Henry Getson, Cherry Hill, NJ 
+
+
+
+less time with your Apple. We have yet to find anyone unlling to 
+implement that solution, however. Some relief comes from 
+double folding a washcloth, saturating it with warm water, and 
+holding it against your eyes for several minutes. 
+
+If you're willing to do without color, there is a monitor 
+available (Sanyo, $325) with a green screen. This cuts dovm 
+greatly on the glare and eye fatigue. 
+
+Neighbors 
+
+Looking at the magazine Apple Cookbook, I saw your 
+advertisement about your new magazine, Softalk, for Apple 
+users. 
+
+I'm very interested to get your magazine for my computer 
+club; we have more than twenty-five Apple users in the club. If 
+there is some charge for the subscription, please let me know 
+and I will send you the money. It will also be good to get the 
+back issues. 
+
+Alfredo Buzali I., Tecamachalco, Mexico 
+
+Since Softalk has done no advertising, we thank Apple 
+Cookbook for their mention of us. 
+
+We are currently working on the problems involved in mail- 
+ing Softalk to Apple owners in neighboring countries and over- 
+seas. We are most complimented by the demand for Softalk in 
+places as widespread as Japan, France, Germany, England, 
+Australia, Canada, and Mexico; we have even received a sign- 
+up form from Pago Pago. Softalk is already available in retail 
+stores in several of these countries. 
+
+
+
+Thanks for the compliments. Now to the problem that 
+many computerists share: tired eyes. One solution is spending 
+less time looking at a monitor screen, which means spending 
+
+
+
+THE MAILING LABEL AND FILING SYSTEM 
+
+
+
+From Avant-Garde Creations 
+
+
+
+only $24.95 ppd. 
+
+
+
+This unique system will handle both your fiUng needs and your 
+mailing label needs. 
+
+It's uniqueness starts with user-determined variables (up to 10 
+options) and continues with a special COUNT/SORT routine that 
+allows the user to sort up to 9 VALUES for each of any 9 (out of 18) 
+variables. It will print maiUng labels, do a regular print-out or 
+just display the criteria -meeting records while it counts them. It 
+will also range-sort for 3 particular variables. 
+
+It makes an alphabetized directory of names and record numbers. 
+You can find records by name or by numbers in seconds. If you 
+don't know the exact spelling there's a quick-find option for directory- 
+reading. 
+
+You can customize your labels and print up to 6 Unes of your 
+variables on them. 
+
+It includes special quick-copy and backup programs. 
+
+An easy to use system, brimming with options and dynamics, 
+which ends the need for separate filing and mailing label programs. 
+
+Includes 40-page program manual and disk. APPLE II PLUS, 
+48K, one or two disk drives. 
+
+
+
+$24.95 ppd. 
+
+We accept VISA/Mastercharge 
+
+Write for our detailed brochure 
+£md more information: 
+
+Avant-Garde Creations 
+P.O. Box 30161 
+Eugene, OR 97403 
+
+Dept. st 
+
+
+
+jm MAILING LABEL 
+AND 
+FILING SYSTEM 
+
+
+
+APPLE II PLIS.48K 
+
+
+
+Mountain Man Likes Hardware 
+
+I have received the first two issues of Softalk. Congratula- 
+tions ! I think you have a hit. I live in the rnountalns of North- 
+ern California and do not have access to a dealer, so I'm unable 
+to preview many programs. Your magazine has provided an 
+enjoyable answer. 
+
+There is one thing that would really add to my enjoyment of 
+your magazine. Being an electronics hobbyist, I'm Interested 
+in designing peripherals for the Apple II. Would it be possible 
+to have a column devoted to construction projects? 
+
+Also, it would be Interesting to know how the winners of the 
+contests (especially "Talking Turkey") arrived at their an- 
+swers. 
+
+Ken Loomis, Mount Shasta, CA 
+Too Many Chips 
+
+Wait! Don't take me off your mailing list! Your pub Is great! 
+
+Also, how about comments on problems, in particular the 
+$55 DOS 3.3 package? I already have the chips (part of Pascal 
+Language System) , all I need is the software pieces, but Apple 
+refuses to price just the programming. (Yes, I wrote them a 
+letter. No reply!) So I have the choice of paying for chips I 
+don't need, or "finding" the software. Pirate, you say! Well, 
+who is the pirate — most — Apple or me? How about asking your 
+readership — or maybe Apple — why they won't unbundle? 
+G. D. Gauck, Raleigh, NC 
+
+Softalk uses a Language System and sympathizes with you. 
+
+According to Rob Campbell, software product marketing 
+manager at Apple Inc., the decision on how to package DOS 3.3 
+was difficult and long considered. Selling the chips separately 
+would require separate packaging and boost the price of the 
+chips. Yet packaging the chips with the software meant that 
+Apple owners with Language Systems would find themselves 
+overly in the chips. 
+
+Finally, taking the view that extra chips may always come 
+in handy and that the worse situation would be the user arriv- 
+ing home from the store with 3.3. software sans chips, Apple 
+decided to go with the combined package, pricing the software 
+and throwing in the chips as a convenience. 3M 
+
+
+
+PRICE BREAKTHROUGH 
+
+
+
+
+
+We have used the VersaWriter to draw a 
+picture of itself. Text may be added in any size 
+or direction. 
+
+
+
+V«rsoWriter 
+
+
+
+High-Resolution 
+Color Graphics for 
+Apple II or Apple II Plus 
+
+
+
+The VersaWriter graphics tablet 
+lets you create multicolor graphics 
+and drawings with your Apple com- 
+puter. It compares in quality to 
+graphic bit pads and digitizers cost- 
+ing three times more money. 
+
+VersaWriter is a digitizer and soft- 
+ware package which presents a new 
+approach to hi-res graphics. It con- 
+sists of a mylar plotting board with a 
+clear plastic overlay. Attached to 
+this board is the drawing arm, which 
+has a magnifying lens with a cros- 
+shairs at its end. You simply place 
+any graph, picture or drawing (up to 
+8V2" X 11") under the plastic overlay 
+and "trace" it with the drawing arm. 
+As you trace the drawing appears on 
+the video screen. 
+
+The superior software of the 
+VeraWriter enables you to do much 
+more than just trace. Immediate 
+commands include: color choice, 
+brush size (the width of the drawing 
+line), fill figure with color, draw a 
+straight line between two points, use 
+a different scale for drawing (.25 to 
+4), edit, erase, smothing factor 
+(rounds off the rough edges as you 
+draw), store picture on disk, and 
+more. 
+
+One exceptional feature of the 
+VersaWriter is the Shape Table 
+function. You can take any picture, 
+
+
+
+or portion of a picture, and store it as 
+a shape table. Then the table can be 
+recalled from memory and placed on 
+any part of the screen. You can 
+change the size of the image, rotate 
+it, add to it, etc. By incorporating a 
+series of images into a single shape 
+table, commonly used symbols can 
+be easily inserted into a variety of 
+different programs. VersaWriter soft- 
+ware includes an Electronic Drawing 
+program which is a shape table of 
+common schematic symbols-this 
+program will give you a good idea of 
+what the shape table can do, as well 
+as let you easily produce electronic 
+or logic diagrams. 
+
+Other programs included in the 
+software are: the Textwriter, with 
+which text can be added to graphics 
+(UPPER & lower case, choice of 
+color, text size, direction of text, 
+starting point of text). Area/Dis- 
+tance-this program allows you to 
+calculate distances (or perimeters) by 
+establishing a measuring unit (of 
+your choice) and tracing the shape or 
+map route with the drawing arm. 
+Areas of figures are calculated in the 
+same way-this includes irregular and 
+open figures. A very simple calibra- 
+tion program is also on this software 
+disk. 
+
+A second software disk contains 
+
+
+
+VersaWriter demonstration pro- 
+grams. For more advanced use of 
+high-res graphics, there is a skeleton 
+program which contains the guts of 
+the VersaWriter. The VersaWriter is a 
+sturdy peripheral device which plugs 
+into the game paddles I/O port-the 
+VersaWriter does not use up a card 
+slot in the Apple computer. Also, the 
+VersaWriter is not subject to the 
+grounding problems and strong mag- 
+netic field problems of other, more 
+expensive, hi-res graphic devices. 
+
+VersaWriter requires an Apple II with 
+Applesoft in ROM (or an Apple II 
+Plus), Disk, and a least 32K of 
+memory. 
+
+VersaWriter comes complete with 
+8V2" X 11" drawing surface, plastic 
+overlay and two disks of software. 
+Price $252.00 postpaid in continental 
+USA. VersaWriter has a 90-day 
+warranty on parts and labor. 
+
+Credit card customers include card 
+number and expiration date of your 
+Visa, Mastercard or American Ex- 
+press card. No C.O.D.'s. Bankcard 
+customers may order toll-free to: 
+
+800-631-8112 
+
+(In NJ call 201-540-0445) 
+Dealer Inquiries Invited. 
+
+
+
+Perioheroi ^ Plus 
+
+119 Maple Ave., Morristown, NJ 07960 
+
+
+
+A Bit of Logic 
+
+In October, the Logical Way addressed the structiire and el- 
+ements of high-level languages. These languages are pro- 
+grams written in lower-level microprocessor languages. They 
+are also called machine languages, because they are directly 
+executed by the microprocessor chips. 
+
+The machine language instruction set directly reflects the 
+hardware capabilities of the chip being used. Given the large 
+number of chips in use today, one might expect great func- 
+tional differences in their instruction sets. In fact, most of the 
+differences are architectural — the amount of memory acces- 
+sible, the number of internal memory registers, and other 
+physical dimensions. Excluding these physical characteris- 
+tics, the data functions performed are very similar from chip 
+to chip. 
+
+The instruction set of a typical chip, such as the 6502, is 
+divided into classes. First there is a data transfer group. These 
+move data from register to register, memory to register, or 
+register to memory. The data is not changed; therefore, no 
+function is performed on the data. Second is the control group. 
+This group includes jumps, subroutines, conditional branch- 
+ing, and other operations controlling program execution. 
+
+The final group comprises data functions. This group in- 
+cludes all operations that change data— that is, that perform 
+
+
+
+
+some function on the data. This group represents the com- 
+puting power of the chip. 
+
+The data functions of the 6502, and most other chips, are 
+very simple. They include arithmetic operations such as add, 
+subtract, increment and decrement, and shift left or right. 
+Multiply and divide are seldom present in microprocessor in- 
+struction sets. Also included are logical operations. 
+
+The logic functions are always included, even when arith- 
+metic operations are not. The logic functions are unique in sev- 
+eral ways. They are the only data functions that operate on a 
+single bit. The nature of the 6502 is such that data is trans- 
+ferred in groups of eight bits, each group constituting one byte. 
+The 6502 logic functions reflect this by performing the function 
+on all eight bits in parallel; yet each bit is independent of its 
+neighbors. 
+
+The real importance of logic functions is that they are the 
+root of all other functions. The digital computer would not be 
+possible without them. 
+
+To introduce the logic functions, we'll use the logic symbols 
+and state tables, or truth tables, familiar to the digital com- 
+puter hardware designer. Fairly simple to understand, they 
+are sufficiently common in computer literature to merit study 
+and understanding. 
+
+Logic Symbols. The shape of the logic symbol identifies its 
+function. Input enters at the wide end of the symbol and output 
+exits through the narrow end. When several symbols are in- 
+cluded in a logic diagram, the states are analyzed from the 
+first inputs through each symbol to the outputs. The inputs and 
+outputs of a logic diagram are often labeled with letters cor- 
+responding to a state table. 
+
+State Tables (Truth Tables). State tables identify the logic 
+operation performed by showing the output states for each 
+combination of input states. They do not show how the logic 
+function is implemented; that is only done by logic diagrams. 
+In most cases, the how is not as important as the what, par- 
+ticularly when the function is complicated. 
+
+One-Bit Logic Operations. The simplest operations have 
+one bit as input and one bit as output. The bits are binary dig- 
+its, which can have one of two states. These states are often 
+noted as 0 and 1, but can represent true or false, yes or no, on or 
+off, or any two logical states. Flgfure 1 shows the state table for 
+all possible one-input logic functions. 
+
+With one bit as input, two input states are possible : 0 and 1. 
+For each input state, an output state is produced. These output 
+states can have four unique combinations, which are the out- 
+puts of the four one-input logic functions. The state table shows 
+the input as / and the output functions as 0 to 3. 
+
+Several characteristics appear in such a state table. First, 
+if the table is folded over between functions 1 and 2, a pattern 
+emerges. The output states for 0 and 1 are the exact opposite 
+for those for 3 and 2. This observation leads to the definition of 
+two classes of logic. The functions to the left of the fold are non- 
+inverting functions and those to the right are inverting func- 
+tions. This simplifies the process, because we can analyze the 
+noninverting function and realize that each has a similar but 
+inverted sibling. 
+
+
+
+Figure 1. State table for one-input functions. 
+
+
+
+APPLE II 16K, CASSETTE 
+
+This utiiity program works in complete harmony with the Apple 
+monitor to extend your computer's capability and help you use 
+the full power of machine language programming. 
+
+Screen display shows memory in HEX, ASCII or BINARY. Move 
+data anywhere in memory without regard to direction or overlap- 
+ping and read or write any sector on disk. Insertions may be in 
+HEX or ASCII so you can easily format high speed text displays 
+without conversions. 
+
+Study,, modify or disassemble any program, complete with 
+labels. Several programs may be combined, and the entire 
+disassembled text file stored on disk/tape for later assembly. 
+
+The slow listing feature steps through listings with ease. 
+Copyright 1980 Glenn R. Sogge, All Rights Reserved. 
+
+■ IWWMEPRODUCTS 312/£64-5060 
+
+
+
+JANUARY 1981 
+
+
+
+SOT lAI 1^ 
+
+
+
+13 
+
+
+
+Ootput'Funcfioni (0 to 7) 
+
+
+
+Figure 2. State table for two-input functions. 
+
+Looking at function 0, we see that it produces a 0 regard- 
+less of the state of the input /. Not a very useful function! Sib- 
+ling 3 is also useless, always producing a 1. This leaves func- 
+tions 1 and 2. 
+
+Function 1 passes from the input state to the output un- 
+changed. This function is called buffering. Although it may 
+seem pointless, the buffer is important, not for its logic value 
+but for its ability to transfer and isolate data electrically. You 
+might consider the buffer as the logic function that allows data 
+to be transferred from here to there in a digital system. 
+
+Its sibling, function 2, is very important. The inverting 
+buffer flips the state of the input bit before transferring it to the 
+output. The ability to invert or complement a bit is a require- 
+ment, along with addition, for performing the subtraction op- 
+eration. Despite its importance, this function is excluded from 
+the 6502 instruction set ; instead, a sophisticated two-input logic 
+function simulates the inverter as one of its operations. 
+
+Look ahead to parts a and b of figure 3 to see the logic sym- 
+bols for the buffer and inverter. They are identical in shape, 
+but the inverting buffer has a circle at the output. In the logic 
+diagrams, the circle at the output identifies the logic symbol as 
+belonging to the inverting class of logic. 
+
+Two-Bit Operations. Two-input logic is the real workhorse 
+in digital systems, including 6502s. The logic functions have 
+two bits as input and one bit as output. In the case of 6502 in- 
+structions, one bit comes from memory and the other from the 
+accumulator register. The computer performs the operation 
+and updates the accumulator with the output bit. With two in- 
+put bits, four input states exist and sixteen output functions are 
+possible. Figure 2 shows the state table for the two-input func- 
+tions. Inputs are labeled as / and J ; outputs are numbered 
+from 0 to F, the hexadecimal digits for 0 to 15. For your conve- 
+nience, the table has been flipped and separated into nonln- 
+verting and inverting functions. 
+
+Let's examine the nonin verting two-input functions. Func- 
+tion 0 always produces 0 and is useless. Functions 3 and 5 act as 
+buffers for I and J respectively. Because these functions are 
+dependent on only one of the two inputs, they have no value as 
+two-input functions. This leaves us with five potentially useful 
+functions. Of these, three are so useful that they've been hon- 
+ored with names. The names reflect the logic functions they 
+perform. Function 1 is called and, 7 is or, and 6 is exclusive-or. 
+These functions are included in the 6502 set as AND, ORA, and 
+EOR. Let's look at the logic definitions. 
+
+"And" Logic. If all inputs (7 and J) are 1, then the output is 
+1. In a,ll other cases, the output is 0. The inverting version of 
+and is called nand (not I and J) . Figures 3c and 3d show the 
+logic symbols for and and nand. 
+
+"Or" Logic. If any input (7 or J) is 1, then the output is 1. 
+
+
+
+NONINVERTING BUFFER 
+(BUFFER) 
+
+
+
+INVERTING BUFFER 
+(INVERTER) 
+
+
+
+EXCLUSIVE-OR GATE 
+
+
+
+:=)[>- <^ 
+
+
+
+EXCLUSIVE -NOR GATE 
+
+
+
+
+SIRIUS SOFTWARE PRESENTS 
+
+Action Software 
+For The i4pple 
+
+
+
+Both Barrels 
+
+This package features two games: HIGH NOON 
+and DUCK HUNT. Fun for the very young and 
+the young at heart. . .you'll love the bad 
+guy that falls off the roof and the dogs 
+fighting over the ducks. 
+
+Star Cruiser 
+
+STAR CRUISER is a fast action arcade game 
+that can be played by ages 3 and up. 
+SOFTALK magazine rated this one number 
+three... need we say more? 
+
+Cyber Strike 
+
+CYBE3R STRIKE This is brand new game for the 
+
+APPLE II a hi-res action adventure in 
+
+space with a full 48k of Assembly Language 
+programming with animation and 3-D effects 
+you haven't seen before. MIND BOGGLING! 
+Everyone said a game like this wasn't 
+possible on the APPLE II, but we did it. 
+Also includes a real time clock (software 
+implemented) and several levels of play. 
+WARNING. . .THIS GAME REQUIRES PRACTICE TO 
+PLAY SUCCESSFULLY! Uses either 13 or 16 
+sector APPLE II, II+, or III. 
+
+
+
+*APPLE TI is a registered trademark of 
+Apple Computer, Inc. HIGHER TEXT is a 
+copyrighted product of Synergistic 
+Software. BOTH BARRELS, DUCK HUNT, 
+HIGH noon, STAR CRUISER, and CYBER 
+STRIKE are all copyrighted products of 
+SIRIUS SOFTWARE. Al) rights reserved. 
+
+
+
+Sirius Softvrare 
+
+
+
+1537 Howe Ave., Suite 106, Sacramento, CA 95825 
+
+
+
+Figure 3. logic symbols. 
+
+
+
+14 
+
+
+
+JANUARY 1981 
+
+
+
+THE LOGICAL WAY 
+
+otherwise, the output is 0. The inverting version of or is nor. 
+Figiires 3e and 3/ show the logic diagrams. 
+
+"Exclusive-Or" Logic. If the inputs have opposing states, 
+the output is 1. When the inputs are of like state, the output is 0. 
+The inverting version of exclusive-or is exclu^ive-nor . Figures 
+
+and 3ft show the logic symbols. 
+
+Programmable One-Bit Logic. Using two-input logic, one 
+input may be used for data while the other controls, or pro- 
+grams, one of two functions to be performed on the data bit. 
+There is a unique pair of functions for each two-input function. 
+Only one function in the pair is unique, however. All noninvert- 
+ing functions have buffering as one of their functions. 
+
+Clear /Buffer with "And. " If 0 is presented at either input to 
+the and function, 0 is always presented at the output. A 1 at the 
+control input causes the data to be buffered to the output. This 
+can be used to clear bits selectively. Consider a byte of eight 
+bits. A mask byte is created with 0 in every bit position to be 
+cleared to 0, with the other mask bits set to 1 to buffer the oth- 
+er bits. Then the mask byte is anded with the data byte, clear- 
+ing the desired bits. 
+
+Buffer /Set with "Or. " If 1 is placed at either input of an or 
+function, the output will always show 1. A 0 at one input buffers 
+the other to the input. Similar to and masking, or masking is 
+used to set bits selectively to 1. 
+
+Buffer /Invert with "Exclusive-Or" (EOR). The output for 
+these functions always reflects the state of the data bit. A con- 
+trol bit of 0 selects buffering the data, and a control bit of 1 se- 
+lects inverting the data. With EOR in the 6502 instruction set, 
+there is no need for a complement instruction. The nature of 
+and and or lead to an analogy. Consider a path running from 
+the data input to the output. The control input represents a 
+gate. When the gate input is in the buffer state, the gate is open, 
+allowing traffic on the path. In the other case, the gate is 
+
+
+
+closed, forcing a fixed state at the output. Although this anal- 
+ogy does not apply to the exclusive-or function, all the func- 
+tions have earned the name "logic gates." 
+
+Making It All Work. Let's look at a software application 
+using these logic gating functions. In Apple hi-res graphics, 
+patterns of bits represent colors. All bits off are black, all on 
+are white. Patterns of on and off produce other colors. Every 
+bit that is on shows up on the video screen. If we want to draw 
+the same shape in many different colors, we start with a white 
+shape. This provides the detail of the shape. To get the color, 
+the detail is anded with a color mask. This has the effect of gat- 
+ing out the bits of detail not belonging in that color pattern. 
+Since this is every other bit, we lose half the detail that would 
+be in a white or black shape. The colored detail is then ored 
+with the existing data on the screen. This masks in the colored 
+detail without affecting nondetail bits. 
+
+Exclusive-or allows patterns to be nondestructively drawn 
+in the video area. In the previous case, the colored detail bits 
+replace whatever was on the screen. Here the detail is exclu- 
+sive-ored with the screen, inverting the screen bits corres- 
+ponding to the detail bits. The shape appears in this contrast. If 
+the process is repeated, the shape is removed from the screen, 
+leaving whatever was there before untouched. This happens 
+because two inversions make a noninversion. 
+
+The Negative Approach. We've been neglecting the invert- 
+ing functions nand, nor, and exclusive-nor. At the software lev- 
+el, these functions are not available, requiring us to create 
+them by inverting the result of a noninverting function with 
+EOR. To the hardware designer, the inverting nature of the 
+functions has a special appeal. By inverting an inverter, we get 
+a buffer. Inverting a nand results in an and, and so on. The 
+common trait of inverting two-input logic gates is that in- 
+verters can be made from them. This is a bonanza to the hard- 
+ware creator. By using one type of inverting logic gate and in- 
+verters made from that same type, any logic function can be 
+realized. In figure 4, equivalent logic diagrams are given for 
+
+
+
+
+NEW FOR THE APPLE 
+
+
+
+BY BILL BASHAM 
+
+A NEW CHALLENGE 
+
+DOGFIGHT will capture your imagina- 
+tion. You are the pilot of a jet going into 
+combat. You may fly alone on this mis- 
+sion, or you may have another pilot 
+flying with you to defeat the enemy. 
+First you fly against one enemy jet. You 
+are in complete control: fly faster or 
+slower, turn left or right — but most 
+importantly, FIRE. If you are shot down, 
+and you act quickly, you can bail out. 
+You and your parachute float gently 
+downward, hoping an enemy plane 
+does not shoot you. If you survive, you 
+will quickly return to the fierce dog- 
+fight. The enemy can also bail out!! You 
+must shoot him down before he has a 
+chance to return. 
+
+THE ENEMY RETURNS 
+
+Each time you defeat all enemy jets or 
+helicopters, you advance to the next 
+
+
+
+level where you fly against faster 
+and/or more enemy planes. There are 
+sixteen levels of difficulty to fight 
+through. Bill Basham, the talented au- 
+thor of this high resolution program, 
+has made it through only 8 levels be- 
+fore his planes were destroyed. 
+
+
+
+MANY WAYS TO PLAY 
+
+DOGFIGHT may be played in several 
+different ways. You, alone, may chal- 
+lenge the computer, or, two players 
+may fly against the computer — either 
+on the same team or on different teams. 
+With DOGFIGHT you can create your 
+own custom game with as many as 
+eight players crowding around your 
+Apple keyboard controlling their own 
+planes. You may select jets or helicop- 
+ters on any level — be a daredevil with 7 
+computer jets against you. You are in 
+charge with the custom mode. 
+
+
+
+FOR THE ACES 
+
+Micro Lab will award a special 
+achievement plaque to the first 10 
+pilots who reach 10,000 points in any of 
+the auto modes (one player, two 
+players same team, two players diffe- 
+rent teams). A special, individual, sec- 
+retly coded message will appear when 
+reaching that score. Report that code 
+to Micro Lab to claim the Ace title. 
+
+AVAILABLE NOW 
+
+The Dogfight is available on disk at 
+your Apple Dealer for $29.95. 
+
+
+
+systems 
+that work 
+
+811 STONEGATE • HIGHLAND PARK, IL 60035 
+312-433-7877 
+
+
+
+JANUARY 1981 
+
+
+
+15 
+
+
+
+
+EXCIUSIVE-OR 
+
+
+
+Figure 4. Equivalent logic diagrams using nands. 
+
+the inverter, and, or, and exclicsive-or gates, built using only 
+nand gates. As an exercise, you could re-create these using nor 
+gates. 
+
+These logic gates are the only items needed to build just 
+about any computer, apart from electrical characteristics. 
+The 6502 is a very complicated grouping of these simple gates. 
+
+Arithmetic Primer. So far, we've discussed log^lcal opera- 
+tions. Now we'll examine how these logic elements are com- 
+bined to perform binary computer arithmetic — adding, sub- 
+tracting, and shifting bits. 
+
+The rules for binary addition are actually simpler than 
+those for decimal addition. Zero plus zero is zero. One plus zero 
+is one. One plus one is zero and generates a carry to the next 
+digit. Without the carry, the excliisive-or function is a binary 
+adder. The carry bit is necessary for adding more than one bi- 
+nary digit. To deal with the carry bit, we need a two-stage 
+adder. The first stage adds the two bits and, using an and-type 
+gate, checks to see if both bits are 1. If so, a carry bit is gener- 
+ated to the next digit. The second stage adds the result of the 
+first stage with the carry from the previous digit and gener- 
+ates a carry if both bits are 1. This circuit is shown in figure 5 
+as the binary full adder. By cascading these circviits, we can 
+add two binary numbers of arbitrary length. 
+
+To subtract, a process called two's complement addition is 
+used. In this process, the number to be subtracted is inverted 
+(complemented) , then one is added to it. This results in a two's 
+complement number that is added to the other number, effect- 
+ing a subtraction operation. For this reason, negative num- 
+bers are usually represented as two's complement numbers in 
+digital systems. 
+
+The last of the 6502 arithmetic functions is shifting bits. 
+Shift registers are used with addition to perform binary multi- 
+plication. If a decimal number, such as ten, is shifted to the left 
+by one digit, the effect is the same as that of multipljing the 
+number by the base of the number system. In decimal, the 
+base is ten, and the value one hundred results from the shift. A 
+shift to the right performs a similar division. By straight shift- 
+ing, we can multiply or divide binary numbers by the powers 
+of two. Also, looking at a decimal calculation such as six times 
+three and seeing that it is the same as the product of four times 
+three plus the product of two times three illustrates a general 
+method to multiply binary numbers by adding the factors of 
+the powers of two. 
+
+Hopefully, this evolutionary discussion has helped you 
+grasp the logic behind machine languages that are simple in 
+structure yet so flexible in application. Follow up by trjdng to 
+build some logic functions and diagrams of your own. A good 
+challenge might be to modify the binary full adder (figure 5) to 
+perform subtraction via two's complement addition. 
+
+
+
+
+SIRIUS SOFTWARE PRESENTS 
+
+i4ction Software 
+For The ^^pple 
+
+
+
+E-Z Draw 
+
+E-Z DRAW is the software that started it 
+all... the poor man's graphic tablet. But 
+now it has been updated to 3.3 DOS and 
+completely rewritten for the professional 
+user. E-Z DRAW now includes the powerful 
+HIGHER TEXT character generator written by 
+Ron and Darrel Aldrich. With our new 
+routines the fonts or any part of the 
+picture can be flipped upside down, slanted 
+left or right, rotated 90 or 180 degrees, 
+mirrored or any combination of the above. 
+Also the fonts or parts of the screen can 
+be expanded in width or heighth, or 
+compressed in heighth or width. You can 
+mix portions of pictures together, or save 
+only a portion of the screen on disk. Now 
+fully keyboard controlled for better 
+accuracy. Professional documentation and 
+20 different and imaginative type styles 
+included. Also included are commands to 
+print the hi-res screen on the Trendcom or 
+Silentype printers. Updates are available 
+for the customer who already purchased E-Z 
+DRAW 2.0. The update is only $10.00 for 
+those who return their original disk 
+directly to us... please don't bug your 
+dealer for the update. 
+
+*APPLE II is a registered trademark of 
+Apple Computer, Inc. HIGHER TEXT is a 
+copyrighted product of Synergistic 
+Software. Trendcom is a registered 
+trademark of Trendcom. Silentype is a 
+registered trademark of Apple Computer, 
+Inc. E-Z DRAW is a copyrighted product 
+of SIRIUS SOFTOARE. All rights 
+
+reserved. 
+
+
+
+
+Sirius Software 
+
+
+
+1537 Howe Ave., Suite 106. Sacramenta CA 95825 
+
+
+
+NEXT DIGIT 
+
+Figure 5. Binary full adder (I + J = Q). 
+
+
+
+16 
+
+
+
+# W ) [ T A I IT 
+
+
+
+JANUARY 1981 
+
+
+
+
+Applewriter Graphics. Apple Computer's DOS Tool Kit comes 
+with twenty-two ready-made typefaces and a program that al- 
+lows you to design even more. These are intended for use in 
+programs and for display on your monitor. Apple also makes 
+the Silentype printer, a neat and supersilent thermal printer 
+with nice graphics dump capability. Yet another product of the 
+prolific Apple company is the Apple Writer word processor, 
+possibly the most convenient to use of all continuous-text word 
+processors and definitely among the most powerful. 
+
+Computer Station has put these products together, along 
+with the concept that you might want to combine their fea- 
+tures, and has come up with Appleivriter Graphics. 
+
+There appears to be very little on the Applewriter Graph- 
+ics disk, and the instructions are brief. But the capacities this 
+package gives you pack a wallop. 
+
+Using DOS 3.3's Muffin program, convert your Apple 
+Writer to 3.3. Using F/D, copy the programs on Computer Sta- 
+tion's disk and your choices of typefaces from the Tool Kit onto 
+the 3.3 Apple Writer disk. Boot the new disk and change the 
+printer address to the one specified by Applewriter Graphics. 
+
+Next time you want to print a text file, select "Quit" on your 
+Apple Writer. Run a new print file from the Computer Station 
+software and choose your typeface. You'll find yourself auto- 
+matically at the Apple Writer print menu. Continue as though 
+you'd never left Apple Writer. But your Silentype will print 
+your text in the typeface you chose. 
+
+It is so simple, so cleanly designed, that you'll soon forget 
+you were ever without this capability. 
+
+
+
+THE PERFORMANCE SLICE 
+
+
+
+o^ogii!!^^ Ml Mni-aj!® win? 
+
+^lood f.ace is Bl i;|opQ Black, 
+
+
+
+/ •::::■■;::;•.'•■■>■ /,'•;■ t-f/'ij. S/ o.h'C f'c--h'C . 
+
+Flo 1.1.1 6' y p r p ij s e s r- <^ e 1 1 s 8 1-"- \> e c:l 
+by tF'ie t^iriCRiijf: t'ont and 1 i-fesi-y 1 e , 
+
+C a B t:: □ y} e n t: r e a g i.j b is s a b t: 1:1 t li e 
+!:! E I'" 1 1-..' iB t i [::! ri 1::] f S y t: e f 1:1 n 1: e n b\t\b ? 
+
+
+
+Good Subhead 
+
+
+
+I- o L. s r !.j 4:- j.j i-:-. ^ l. ■ j pi p j e \: o 
+
+L- 6 S 01 S (.J r 2 S 9- ILf Vj j 15 c 4.. 
+H lo h J G m L- r 41- S L. 13 !... S- h \\ I O 2 
+
+bi... TI.J4:' rud D03 i'^oi KT-f,^ 
+
+n io S r Cj 6 n O i"n l-J -f' i~! S +. O LLf ■' li O i"1 1... 
+
+!■..■ 15 m 'iiii' L- C;j 12 41' l-J G 2 6 C L- 8 ^I' m O L- Of 
+
+li IJ ri LI 6 6 -jl' O 6 U4:' S L- \: fJ I 2 
+
+lit O Lt ^ |.J ^ 5 C ci kl G 4: " J j-J G 5 G C L- G 
+
+PI Ci L- C:j 12: S j. J 9- ILi 1... Ci C \< " £ U '"J O i"1 
+
+li O ri L- S: G J -!•;. 9' Li q O O Q\ J n C [••;: fil I ^- f J 
+
+rl iJ ri (•-■ A G [•-• S G S " 
+
+
+
+es 
+
+
+
+\e\i 
+
+
+
+,\ance 
+
+
+
+be 
+
+
+
+2000 
+
+
+
+anS," -^"V "me °^ 
+i and 1 '^'"ed f",s 
+
+
+
+ACCOUNTS 
+
+PAYABLE COMING SOON! 
+
+★ Complete your accounting system with the soon to be released 
+A/P package, featuring automatic application of credit and debit 
+memos, open or closed Item listing, full mvoice aging, and 
+multiple reports that provide a complete transaction review, 
+
+•k Your bookkeeping doesn't have to be a bulky, complicated process. The 
+SBCS Accounting System Is designed lor flexibility and high performance 
+with a cost effectiveness sure to benefit your business! 
+
+YOU NEED EXPERIENCE WORKING FOR YOU 
+
+* Packages available at your local Apple dealer. ^ 
+
+
+
+SMALL BUSINESS COMPUTER SYSTEMS 
+
+41 40 Greenwood, Lincoln, IME 68504 (402) 467-1 878 
+
+
+
+A couple of things are different about the special font print- 
+outs. One tremendous advantage is that almost all the regular 
+typefaces have descenders — p, g, y, j, and q actually descend. 
+In achieving this, speed was sacrificed. Each line of type is ac- 
+tually two printing passes : one direction captures the body of 
+the letters, the return run captures the descenders. So printing 
+time is doubled, assuming you were printing in the bidirec- 
+tional mode to begin with. 
+
+Any fonts you wish to design using the DOS Tool Kit pro- 
+gram may be printed by your Silentype via the Applewriter 
+Graphics package. 
+
+Just for fun, you can print letters upside down or in mirror 
+writing; and, should you be multilingual, the Tool Kit's Cyril- 
+lic, Greek, and Katakana (Japanese) fonts can be printed, too. 
+You even have access to Esperanto. 
+
+The Applewriter Graphics software can be used without the 
+Apple Wiiter, but it's designed to make full use of that pro- 
+gram's capabilities. 
+
+Computer Station offers similar packages designed to work 
+with Paper Tigers and with the NEC Spinwriter; some of the 
+Paper Tiger programs are for Pascal. n(T 
+Appleivriter Graphics. Computer Station, Granite City, IL. DOS 3.3, 
+DOS Tool Kit, Silentype. $34.95. 
+
+Dogfight. Bill Basham's elaborate arcade-type game may not 
+make you feel like Eddie Rickenbacker annihilating the ene- 
+my in the heavens — but it comes close. Such a complete im- 
+mersion could be achieved only with a player/pilot point of 
+view format, but this would eliminate one of Dogfight's fine 
+features : a custom mode that sends you into a dizzying, whirl- 
+ing dervish of airborne conflict against as many as seven oth- 
+er players. 
+
+Like the Apple itself. Dogfight is versatile, permitting a sol- 
+itaire approach, dual two-player modes — as enemies and as 
+
+
+
+JANUARY 1981 
+
+
+
+SOFTAI 1^ 
+
+
+
+17 
+
+
+
+friends (careless allies seem to be able to shoot each other 
+down, despite the rulebook's declaration to the contrary), and 
+the multiplayer custom mode. 
+
+In all cases, there is the enemy, without country, cause, or 
+mercy, to contend with. As you survive each level, the action 
+becomes faster and rival forces grow in numbers and dexter- 
+ity, eventually adding heUcopters to their arsenal. These Bash- 
+am has successfully simulated, from the sluggish, unpredict- 
+able motion to the whirring rotary blades. 
+
+Hi-res animation represents planes as tiny jets. All but the 
+computer's planes tow numerals for identification, the way ad- 
+vertising planes pull banners. Despite their utilitarian pur- 
+pose, the numbers reaUstically simulate a towed object's mo- 
+tion according to the twists of the plane. Planes move in any 
+pattern, including circles, with paddle or keyboard control. 
+
+Reality is suspended in only one aspect. If planes are shot 
+down and, in the process of bailing out by parachute, their pi- 
+lots avoid enemy fire, the fliers are instantly airborne once 
+more and a bit rabid for revenge. Through sixteen levels of dif- 
+ficulty, you'll need all the luck you can get. 
+
+Dogfight's manufacturer. Micro Lab, will reward the first 
+ten would-be Rickenbackers with a special achievement 
+plaque for scoring ten thousand points. Watch for the secret 
+code that flashes on screen — if you survive that long. ^V. 
+Dogfight by Bill Basham. Micro Lab, Highland Park, XL. 32K, disk. 
+$29.95. 
+
+Akalabeth. By Lord British. Your adventure starts in a town 
+somewhere on a twenty-one unit square map of the lands of 
+Akalabeth. You can see one unit in each direction about you. 
+You choose a lucky number, accept or reject a set of charac- 
+teristics values, and decide whether you will travel as fighter 
+or mage. Fighters cannot control magic amulets, but magi, 
+who can, cannot use rapiers— the most powerful weapons — 
+and bows. 
+
+Scant instructions give you the background of the adven- 
+ture, which merely tells you why Lord British wishes the evil 
+monsters of the dungeons destroyed, a description of the func- 
+
+
+
+tion of each characteristic, a key to items on the map, and a set 
+of movement commands. All this takes three pages of large 
+type — quite a contrast to the books of ins and outs that come 
+with most simulation games. 
+
+Because of this, and because you may have difficulty get- 
+ting beyond the upper dungeon level upon starting, you might 
+decide there's very little to this game. You'd be wrong. Akala- 
+beth is full of surprises, not only in the dungeons, but in the ca- 
+pabilities your character has. Persevere through the first few 
+trials, and you'll find a game that not only challenges your 
+strategy and resourcefulness but offers considerable depth. 
+The dearth of instructions is intentional; it's assumed that the 
+player will enjoy discovering these things by trial and error or 
+careful thought. 
+
+Hi-res graphics are finely drawn and clean in the outline 
+style. The game moves quickly with no time-consuming re- 
+turns to the disk. Although a dungeon hole is the same each 
+time you descend it — it could be mapped, but what a task — 
+there are a dozen holes and each has a different layout and dif- 
+ferent characteristics. One small hint: in some dungeons, car- 
+rion crawlers appear on higher levels than gremlins; in oth- 
+ers, gremlins first. You'll only understand the significance of 
+this when first you lock horns with a cute little gremlin. 
+
+Besides the comprehensive care in design and attention to 
+detail that characterize Akalabeth, subtle touches suggest the 
+mysterious Lord British to be a person of droll wit and good na- 
+ture. Incidentally, British apparently derives his pseudonym 
+from the character in Akalabeth who doles out quests and con- 
+fers knighthoods. 
+
+The only problem with the game is that it cannot be saved 
+and resumed. Unless you have seven or eight hours at a stretch 
+to spend on it or an Apple you can leave devoted to it for days 
+at a time, don't try more than difficulty one of the ten avail- 
+able. Chances are, you'll soon be willing to devote a weekend to 
+the higher levels anyway. flCT 
+Akalabeth by Lord British. California Pacific Computer Company, Da- 
+vis, CA. Applesoft ROM, 48K, disk. $34.95. Jt 
+
+
+
+ATTENTION! 
+
+Apple Computer Owners. 
+
+Before buying your next piece of Apple Software, Consult 
+
+
+
+
+$19.95 
+
+
+
+This is the one book that should be on 
+all Apple Computer Owners' shelves. 
+
+OF 
+
+APPLE COMPUTER SOFTWARE 
+
+
+
+$19.95 
+
+
+
+'XiiJl ii#«Dy| contains a CQnnplete critical analysis of the majority of Apple Software on the market today. 
+Each review is done by an expert; teachers for education programs, businessmen and accountants 
+for business programs, programmers for utilities, etc. 
+
+Order Today from your local dealer or from: 
+
+mm wm 
+
+1 401 3 Old Harbor Lane, Suite 312 
+Marina Del Rey, CA. 90291 
+[213] 371-4012 
+
+Apple is a registered trademark of the Apple Corporation 
+»»» 
+
+
+
+California residents add 6% sales tax 
+
+
+
+
+18 
+
+
+
+JANUARY 1981 
+
+
+
+
+Modelled by Stan and Hank Capshaw. 
+
+
+
+BY HARY TAYLOR ROLLO 
+
+
+
+The robots take the battlefield, each tiny animated shape 
+with a sole purpose : to destroy the others and reign as victor at 
+war's end. 
+
+Two human spectators follow the battle closely. With rapt 
+attention, they watch as the more intelligent robots map intri- 
+cate patterns, scan, and parry. Both pairs of human eyes dart 
+to the left of the monitor as Random, a one-dimensional dem- 
+onstration robot, runs into a wall. Its totally random pattern 
+gives it no means of detecting obstacles in its path ; occasion- 
+ally, it destroys itself through collision. 
+
+This time, Random will not destroy itself. Bottom, another 
+demo whose limited movement confines it to the bottom of the 
+battlefield, has caught Random in its relentless upward scan 
+and it is shooting. 
+
+The spectators quickly lose interest in this skirmish as their 
+attention is diverted by a sudden movement toward the center 
+of the field. One of their own robots has been dealt a glancing 
+blow from another demo, Square, a fast-moving robot whose 
+pattern is its name, and who, fortunately, shoots only once at 
+any robot he sees within the field and rapidly moves on. 
+
+The robots of the spectators have several dimensions, and 
+the injured one, called Beowulf, recognizing its wound and per- 
+il, has scooted to a far corner of the field and begun a 270-de- 
+gree scan, covering the entire field except the corner behind it. 
+
+JeanDark, the other spectator's robot, continues a small- 
+area vigil of circling and scanning. Beowulf scans in fifteen-de- 
+gree increments; if JeanDark's area is less than fifteen de- 
+grees wide and does not happen to fall across one of those lines 
+of vision, Beowulf may never find it. With apprehension, Beo- 
+wulf's creator realizes that this is probably the case. 
+
+His apprehension is well-founded. JeanDark has been de- 
+signed to scan in seven-degree increments. In seven full-circle 
+scans, it sees everything on the field. 
+
+As it. happens, it only takes two circling scans for Jean- 
+Dark to key in on Beowulf. Instantly, JeanDark fires. Beo- 
+wulf's spectator unconsciously grips the arms of his chair. Will 
+his plan II evasive action routine work? It would, but not fast 
+
+
+
+enough. Before Beowulf has reached that subroutine, Jean- 
+Dark fires again — another head-on hit. 
+
+Unfortunately, the new damage short-circuits Beowulf's in- 
+tent and sends it back to its damage assessment loop. Once 
+more JeanDark fires. 
+
+Recognizing his robot's weakness and its consequent inev- 
+itable defeat, Beowulf's spectator wishes only for the battle to 
+end so he can take his robot back to the testbench, pinpoint the 
+trouble in the assembly, and edit Beowulf's source code. He 
+feigns disinterest, waiting for his companion's robot to finish 
+Beowulf off. 
+
+It is not to be. Just then. Square has come around again, 
+and JeanDark takes a direct hit. It gets one last shot off at Beo- 
+wulf, assesses its damage and begins to move smartly. Square 
+is long gone, but Random, having randomly located Bottom 
+during Bottom's assault and thus having shot its way out of 
+Bottom's line of fire, has wandered into JeanDark's territory. 
+
+JeanDark is concentrated on scanning for its lost prey; it 
+doesn't notice Random until Random runs into it. Groping at 
+random for a way out. Random bumps into JeanDark again. 
+Both are damaged with each collision. Meanwhile, Beowulf 
+has completed its escape cycle and has gotten away. 
+
+Working its way back and forth across the bottom. Bottom 
+has again spotted Random; Beowulf, however, ensconced in 
+its new position, has spotted Bottom. Shots fly furiously. Ran- 
+dom succumbs. JeanDark, taking the shrapnel from Bottom's 
+barrage of Random, finds a clear position and is scanning. 
+
+Bottom changes direction and attempts to scoot with each 
+hit; it succeeds in escaping Beowulf, only to be sighted by 
+JeanDark. JeanDark's fusillade is fast and unrelenting; Bot- 
+tom is trapped by its need to change direction before scooting. 
+Caught in its own loop, it is destroyed. 
+
+Only the spectators' robots and Square remain. Moving too 
+swiftly to be caught by more than two of JeanDark's shots 
+from across the board. Square, despite its single dimension, 
+appears to have a good chance of winning. But it, too, has a fa- 
+tal flaw: when it sights a robot in its path, rather than within 
+
+
+
+JANUARY 1981 
+
+
+
+19 
+
+
+
+
+
+the field, it cuts a right angle at that point, modifying its square 
+to a rectangle. 
+
+Now, Square is sighted by JeanDark — from the rear. It 
+takes three shots before making its normal turn south ; unfor- 
+tunately, immediately in its path is Beowulf. Sighting Beo- 
+wulf, Square turns again, directly into JeanDark's fire. It, too, 
+is destroyed. 
+
+In the end, after several minor scuffles and much search- 
+ing, the superior shooting cycle of JeanDark does prevail, to 
+the great satisfaction of its creator. 
+
+Beowulf's creator immediately claims the Apple to ex- 
+amine his defeated robot's computer-brain program on the Ro- 
+bot War testbench. When he believes he has identified the spe- 
+cific bytes causing Beowulf's flaws, he will run the robot's 
+source code on the built-in editor and reprogram the problem 
+areas. 
+
+Learning Isn't Just Fun — It's Addictive. JeanDark's mak- 
+er, Joe, now plays Robot War purely for fun; he has a stable of 
+several robots he's programmed, each a variation or im- 
+provement on the others. JeanDark is his latest creation. This 
+battle was a trial: he's hoping that, with JeanDark, he will fi- 
+nally be able to defeat his wife's robot, Ohjay. 
+
+Beowulf's creator, Moe, plays Robot War for a different 
+reason. He's using it to learn to program. Three weeks ago, he 
+knew the barest minimum about programming: enough to init 
+a disk or to print a message on the screen. When he saw a 
+friend's Robot War, he believed he could make a better robot. 
+
+Once he had his own Robot War, he was determined to 
+learn to code his vision of a superrobot. Because the Robot War 
+language uses labels and simple instructions, Moe found it 
+quite easy to produce a working robot ; but this was far from 
+the valiant warrior he had in mind. He began to plan out the se- 
+quence of commands a better robot would have to follow. Thus 
+bloomed the seeds of logical programming thinking. 
+
+Moe Applied Methods to Applesoft. Now Moe finds himself 
+thinking of ways to computerize various aspects of his work 
+and hobby; he knows how to break the tasks into steps, and he 
+recognizes how the steps should work. He turns to the Apple- 
+soft Tutorial with a specific requirement in mind and learns 
+the applicable sequence of commands in that language. 
+
+
+
+A graphic artist by profession, he is working on a program 
+that will automatically wrap type from a text file around an il- 
+lustration, given only the height, width, and name of the shape 
+of the illustration. Later, he will refine the program to wrap 
+around complex shapes. 
+
+Moe still does not know all the commands in Applesoft; 
+some he has not found a need for yet. But he is confident that 
+he can write any program he can conceive, and write It in any 
+computer language, given access to the commands. 
+
+JeanDark's maker had studied the Applesoft and Integer 
+Basic Tutorials, had successfully input and run all the exam- 
+ple programs, before he began playing Robot War. But, hav- 
+ing finished the books, he found himself in command of a lot of 
+commands, but with no clear idea of how to apply them to a 
+program for his own purposes. He did not know how to look at a 
+task in such a way as to break it down into its step-by-step pro- 
+grammable parts. 
+
+Had To Learn Logical Thinking To Play. When Joe re- 
+ceived Robot War as a present, he leaped right into program- 
+ming a robot. Shunning the testbench in his eagerness to see 
+his first robot run, Joe sent it directly to the battlefield, pitted 
+against the simplest demos. Target, who is exactly that and no 
+more, and Scanner, who shoots when its scan reveals another 
+robot, but who never moves. 
+
+Joe's robot moved — directly into a wall; seemingly deter- 
+mined to leave the field of battle, it rappelled itself down the 
+side wall, increasing its damage with each collision, until it 
+reached the bottom corner of the battlefield. There it pro- 
+ceeded to bang its head against the \yall until it was destroyed. 
+
+Joe was aghast. He took his robot back to the source code 
+editor and put in a lot of new commands and loops. This time 
+the robot scanned and shot for a while before it began hitting 
+the wall. But even while it was working, it was so slow that its 
+target — unless it was Target — was long gone before Joe's ro- 
+bot got his shot off. 
+
+
+
+HI-RES ADVENTURE #0 
+MISSION: ASTEROID 
+
+FROM 
+ON LINE SYSTEMS 
+
+MISSION: ASTEROID is an intro- 
+duction to the HI-RES ADVENTURE 
+FAMILY OF GAMES. This adven- 
+ture is slightly easier and a little 
+shorter than our other HI-RES 
+ADVENTURE games. MISSION: 
+ASTEROID is designed to 
+acquaint beginning Adventure 
+players to the wonderful world 
+of Hi-Res Adventure. 
+In this adventure you find that 
+an Asteroid is about to hit the 
+Earth and destroy it. It is your 
+mission, as an Astronaut, to 
+rocket to the Asteroid and blow 
+it up before it reaches Earth. 
+You must fight through the Red 
+Tape at Mission Control, then 
+enter the Rocket Ship and learn 
+how to fly it. I hope you have a 
+flight plan or you will never find 
+your way through space to the 
+Asteroid. Be careful with the 
+explosives, as they can be very dangerous if not handled correctly. This game 
+should provide weeks of Adventure. 
+
+OVER A HUNDRED HI-RES PICTURES. (Looks great on b/w and color televisions). 
+FULL 21-COLOR!! HI-RES GRAPHICS. (Each room a work of art). YOUR GAME MAY BE 
+SAVED FOR LATER CONTINUANCE. RUNS ON BOTH 48K APPLE-II AND APPLE-II PLUS. 
+Hi-Res Adventure ^0 is available now at your local computer store and requires a 
+disk drive. To order directly send $19.95 to: 
+
+On-Line Systems 
+36575 Mudge Ranch Road 
+Coarsegold. CA 93614 
+209-683-6858 
+VISA, MASTER CHARGE, COD. CHECK ACCEPTED. 
+
+
+
+
+20 
+
+
+
+W)r TAI 1^ 
+
+
+
+JANUARY 1981 
+
+
+
+Again, Joe edited new commands into the source code, but 
+the new edition never made it to the battlefield. When he tried 
+to assemble the edited robot, the assembler announced that he 
+was well over the 256 two-word assembled lines allowed by a 
+robot computer-brain. 
+
+Testbench Led To Understanding Programming. Finally, 
+Joe decided to try the testbench. There, he could see his as- 
+sembled robot program run line by line. He watched his robot 
+go into a move loop that looped before it got to the conditional 
+exit command. He could simulate damage and see that sub- 
+routine work — or not. He could simulate radar sightings and 
+count how many instructions his robot needed to respond to be- 
+fore it actually shot. 
+
+As he worked on fixing these problems, Joe was forced to 
+break his thinking into small steps. He became aware of de- 
+tails that had escaped him before. Without realizing what was 
+happening to him, he began to think in programming logic. 
+
+When his robot continued to snag in the assembly because 
+of its length, Joe learned to use the robot's twenty-four memo- 
+ry registers for storing values and to use arithmetic to consoli- 
+date commands to the nine input/output registers. Joe's abil- 
+ity to think logically increased by the power to think econom- 
+ically. 
+
+Several months later, Joe considers himself a good pro- 
+grammer in Applesoft, as well as an expert in Robot War code. 
+He has just begun dabbling in assembly language and finds 
+that his experience with the assembler and testbench in Robot 
+War has given him a headstart in understanding the processes 
+involved. 
+
+Joe's only remaining frustrations are at home. One, his 
+wife's superior robot, he hopes to defeat tonight with Jean- 
+Dark. The other, he has surrendered to: his twelve-year-old 
+
+
+
+daughter's robot Chewbacca. Chewbacca has lost only once 
+and has achieved the maximum 250 points. 
+
+No Fantasy — Robot War Is a Real Program. In February, 
+Robot War will be available in retail stores. The program this 
+article describes is real and, although the narrative of Joe and 
+Moe is fictitious, it is based on Softalk's real experiences in 
+test-playing a preliminary copy. You program your own ro- 
+bots for battle in what is perhaps the most strategy-filled game 
+yet devised. And you can learn or improve your programming 
+skills at the same time. 
+
+Robot War was designed by Silas Warner for MUSE Soft- 
+ware; it's source code editor is a mini SuperText, which, as a 
+side effect, makes learning to edit the real SuperText a snap. 
+The assembled code can be printed out and studied; at this 
+writing, source code cannot be printed, although people with 
+the actual SuperText can capture the file on it and print it from 
+that program. 
+
+This game that uses strategy gaming to teach program- 
+ming is designed to be used in schools as well as by individual 
+users. If a spoonful of sugar really makes the medicine go 
+down. Robot War is a perfect teaching vehicle. Once you feel 
+the challenge to have a robot to compete, you'll feel a com- 
+pelling desire to learn the coding. A compelling desire to learn 
+anything is hard to come by. Robot War has it built-in. 
+
+One National Tournament Coming Up. To follow shortly af- 
+ter the release of Robot War, MUSE plans to sponsor a nation- 
+wide tournament of user-made robots. Preliminary play will 
+be conducted on a local level, playoffs will be regional, and the 
+final championship battle will take place near MUSE in Balti- 
+more, Maryland. Prizes, rules, and local centers for play will 
+be announced at a later date. MUSE is immediately looking for 
+test players; contact the company if interested. IE 
+
+
+
+New From SYNERGISTIC SOFTWARE 
+
+THE STAR GAZER'S GUIDE 
+
+A High-Resolution Handbook of the Constellations for the Apple \\ 
+
+The Star Gazer's Guide puts the universe at your fingertips, letting you display at will the entire summer or winter sky of the northern 
+hemisphere, or any specified section thereof, in great detail. The 50 programs are oriented toward teaching painlessly the locations and names of 
+the major constellations and interesting stellar objects. Features include: 
+
+• All major constellations are displayed in detail with or without outlines to identify stars and objects composing 
+the star groupings. 
+
+• Both geometrical and graphical type outlines are utilized. 
+
+• Major galaxies, nebulae, clusters, double stars, etc. are pinpointed by special symbols for quick identification. 
+
+• Brightest stars are identified by name and location in each constellation. 
+
+• The touch of a key presents text describing the objects displayed. 
+
+• Objects and constellations are indentified by general sky orientation so no special equipment or training is required, 
+but program documentation provides spatial coordinates for those interested. 
+
+The entire collection of programs is designed to make it easy to find the stellar objects you seek. Alternatively, when you find something 
+unfamiliar, the program will help you identify your sighting. 
+
+The Star Gazer's Guide is easy to use. Menu driven, it allows you to jump instantly from any program on one subject or area of 
+the sky to any other. A joy for amateur astronomers, students, or Apple owners who want to learn about the heavens. Informative text 
+provides additional detail for those wanting to learn more. Requires 48K, disk, Applesoft ROM. $30.00. 
+
+DETAILED HIGH RESOLUTION GRAPHICS BRING THE SKY TO YOU 
+
+
+
+
+mm 
+
+
+
+
+SUMMER SKIES 
+
+
+
+Available at your local dealer or send check or inquiry to: 
+
+
+
+URSA MAJOR 
+(BIG DIPPER) 
+
+
+
+SYNERGISTIC SOFTWARE, 5221 - 120th Ave. S.E., Bellevue, WA 98006, (206) 641-1917 
+(WA residents add 5.3% sales tax.) 
+
+
+
+JANUARY 1981 
+
+
+
+v on 
+
+
+
+21 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i4l 
+
+
+
+
+
+□ strategic Simulations is the latest software publisher to out- 
+grow its facilities. President Joel Billings announced the move 
+from Palo Alto to new quarters at 465 Fairchild Drive, #108, 
+Mountain View, California 94043. "We started with one office in 
+our old building and had expanded first to a second office and 
+then to a third. Finally, we realized we'd have to move to a 
+building with significantly more space." The Mountain View 
+facility doubles the area available to the company. When the 
+lease was taken, that seemed sufficient; but Billings now wari- 
+ly reports, "We just fit in comfortably; more growth will 
+cramp us sooner than I expected." More growth appears to be 
+in the offing; Billings projects four new products for the first 
+quarter of this year. 
+
+□ Hayden Publishing Company (Rochelle Park, NJ) has an- 
+nounced the acquisition of two publications. Personal Comput- 
+ing and Minicomputer News. President James S. MulhoUand 
+looks upon the buys as "logical extensions of Hayden's current 
+pubhsiiing efforts." Jules Gilder, author of some of Hayden's 
+more valuable math routine programs for the Apple, is as- 
+suming the position of editor of Personal Computing , effective 
+with this month's issue. 
+
+□ Another publishing company in the news is Creative Com- 
+puting, the Morristown, New Jersey, magazine and software 
+publisher. They've moved into a new building of their own con- 
+struction. No, management of the firm didn't succumb to the 
+edifice complex; they had operations scattered among sever- 
+al locations and finally decided to consolidate all operations un- 
+der one roof. The best way was to build their own. Mailing ad- 
+dress for the various entities of the miniconglomerate re- 
+mains the same. 
+
+□ Also finding it more practical to erect its own building was 
+Integral Data Systems, Inc., maker of the Paper Tiger line of 
+printers. IDS left Ma.ssachusetts for forty-six forested acres of 
+land in Milford, New Hampshire. Their new, two-story build- 
+ing was designed to be compatible with the environment and 
+was constructed with elevators and other amenities to enable 
+employment of the handicapped. Facility also has a jogging 
+trail, locker rooms, and a skating pond. 
+
+□ The exploding interest in Apple Computer Inc.'s initial pub- 
+lic offering, sold over the counter, has ignited a dramatic up- 
+surge in the per-share price. Originally set at a range of $14 to 
+$17, the price level rose to the $22 level forty-eight hours before 
+the stock went public on Friday, December 12. 
+
+Then, the results of oversubscription bore fruit : three hours 
+after its opening, Apple's price had soared to $29. As this 
+Softalk goes to press, there hasn't been a noticeable abate- 
+ment in Apple's stellar opening day performance, with buyers 
+gobbling up all shares as soon as they become available. 
+
+□ Southwestern Data Systems initiates a new approach to fa- 
+miliarizing retailers with new software this month. Through 
+the project, called The Courier, disks comprised of programs 
+demonstrating new releases from software publishers sub- 
+scribing to the service, along with supporting literature, will be 
+mailed every four months to every Apple dealer in the United 
+States and Canada. The goal is to help dealers build a library of 
+software that they can demonstrate for customers or use for 
+reference. Costs are shared among participants. Hi 
+
+
+
+The Future Is Today 
+
+Carnegie Mellon Institute in Pittsburgh plans to present ev- 
+ery incoming freshman with a microcomputer, beginning in 
+the near future. Regardless of the major a student chooses, in 
+the new world, computers will play a role in the business or 
+professional world that study leads to. Carnegie Mellon recog- 
+nizes this fact and leads the way in preparing for it. It 
+
+
+
+
+THE mZARD AIVD THE PRIIV€ES»S 
+HI-RKvS ADVEIVTURE *2 
+
+Only ON-LI\I- SYSTEMS could deliver a HI-RES 
+.\I)\T;\TI/RE game on such an epic scale. In diis adxcnture you 
+find you must dot)attle against an e\1l wizard in order to sfive tJic 
+life of the princess. To find die wizanl and his castle you nuist 
+first cToss deserts, (Kcans, moinitains, tra\el to an island and 
+encoiuiter many strange beasts. You will he (breed to learn 
+magic, na\1gate at sea and dig for treasure. Hiis game should 
+pro\1de months of" adventure. 
+
+• HUNDREDS OF HI -RES PICTURES (looks great on b/w and 
+color tcleWsions) 
+
+• Fl TL 2 1 -COLOR!! HI-RES GRAPHICS ( each r(K)m a work of 
+art) 
+
+• YOIT* GAME MAY BE SA\'ED FOR LATER CONTINLTANCE 
+
+• Rl'XS OX BOTH 48K APPLE II AXD .APPLE II PLI'S 
+
+• BY FAR THE MOST /VMBITIOUS GRiyillC GAME E\T;R 
+WTUTTEN FOR THE APPLE!! 
+
+Hi-Res Adventure *2 is available now ut >()ur local computer 
+store and requires a disk drive. To order direct h send S;^2.9n in: 
+
+On-Llne Svstems 
+;i(i57n Muflge Ranch Road 
+(\«irsegold, C A 93614 
+2()9-683-6a=S8 
+
+\1S.\, MST CIIG, CX)D, CHECK ACCEITED 
+Dx)k for Hi-Res F(K)tball coming s(K)n 
+
+
+
+22 
+
+
+
+WH TA I 1/ 
+
+
+
+JANUARY 1981 
+
+
+
+
+Every Person's Guide to Assembly Language, 
+
+Part 4 
+
+
+
+As a preface, I'd like to offer a few of my own program- 
+ming philosophies. Writing programs to do a given task is es- 
+sentially an exercise in problem solving. Problem solving is in 
+fact a subject of itself, and I hope to be able to spend a little 
+space in a future issue on just this topic. For now, though, a few 
+previews and helpful hints. No matter what your program- 
+ming goal is, it will always involve solving some particular as- 
+pect that, at that moment, you don't really know how to solve. 
+The most important part is that, if you keep at it, you even- 
+tually will get the solution. 
+
+One of the key elements in this process, I believe, and the 
+particular point I will stress now, is that it is Important to be a 
+"tool user." Programming in any langtiage consists of using 
+the various commands and fimctions available to you in that 
+language, and putting them all together in a more complex and 
+functioning unit. If you are not familiar with the options you 
+have at any given moment, that is, your tools, the problem- 
+solving process is immensely more difficult. 
+
+My intent in this series is to present in an organized way the 
+various operations available in assembly language and how 
+they can be combined to accomplish simple objectives. The 
+
+
+
+BY ROCER WACHER 
+
+more familiar you are with these elements, the easier it will be 
+to solve a particular programming problem. 
+
+You may wish to keep your own list of the mnemonics and 
+their functions as we go along. Such lists are already available 
+to you in books and even in your Apple reference manuals, but 
+I think you'll agree that by taking the time to write each one 
+down as you learn it, along with your own personal explana- 
+tion of what it does, you will create a much stronger image in 
+your mind of that particular operation. 
+Now on to the project at hand. 
+
+
+
+SAYS... 
+
+
+
+1^ 
+
+
+
+WITH OUR SPECIAL 
+
+mTAyMl,FiSiyR!Lu 
+
+
+
+
+WRITE OR CALL TODAY 
+FOR YOUR FREE 
+CATALOG (OVER 100 
+PACES- INCLUDES 
+PRODUCTS FROM 
+EVERY MAJOR 
+MANUFACTURER.) 
+
+
+
+FOR INNER STELLAR DELIVERY 
+(BARRING KLINCONS) ADD S2,00 US/ 
+S10.00 FOREIGN FOR SHIPPING AND 
+6% TAX IN CALIFORNIA 
+
+
+
+Bnpplc computer mc 
+
+
+
+
+VISA/ 
+
+
+
+OPENTUES - SUM, 
+VISA/ MASTERCHARCE WELCOME 
+
+
+
+GARDEN PLAZA SHOPPING CENTER 
+9719 RESEDA BOULEVARD DEPT 1ST 
+NORTHRIDGE, CALIFORNIA 91324 
+PHONE: (213) 349-5560 
+
+
+
+Commands Covered So Far: 
+
+JSR LDA LDX LDY 
+
+RTS STA STX STY 
+
+This month we start to get into not only more mnemonics, 
+but the techniques of using them to accomplish various overall 
+operations. In particular, we'll look at counters and loops in as- 
+sembly language. In Basic, the FOR-NEXT loop is one of the 
+more essential parts of many programs, and this is no less true 
+in machine programming. The only difference is how the 
+loop/counter combination is actually carried out. 
+
+In Basic, the testing of counters is done either by IF-THEN 
+statements or, automatically, in the NEXT statement of the 
+FOR-NEXT loop. In assembly language, the testing is done by 
+examining various flags that indicate the status of the various 
+registers and memory locations. The flags for these opera- 
+tions are located in the status register. This is a fourth register 
+of the 6502, which we have not previously mentioned. 
+
+Like the other three registers — accumulator, X, and Y — the 
+status register holds a single byte. You'll recall that each byte 
+in the Apple can have a value from 0 to 255 ($00 to $FF) . 
+
+As it happens, there are many ways of looking at and inter- 
+preting numbers. The one of common experience is that in 
+which we consider only the magnitude of the number. Notic- 
+ing that 255 is larger than 128 gives us essentially three kinds of 
+relationships and, therefore, information: a number is either 
+less than, equal to, or greater than another number. 
+
+The second way of looking at numbers allows us to see a 
+much greater degree of information in a number and, hence, is 
+that much more useful. This involves the idea that a single 
+byte can be represented not in the usual way of $00 to $FF but, 
+rather, in a base two or binary representation, in which the 
+number 133 would be written as: 10000101. In this case, each 1 
+or 0 represents the presence or absence of a given condition. 
+Thus, eight distinct pieces of information are conveyed, as well 
+as all the various combinations possible. 
+
+Before you run shrieking from the room, remember that 
+this is all done to make things easier, not harder. Besides, 
+learning base sixteen (hex) wasn't that bad back at the begin- 
+ning of this series, was it? So let's take a moment to see what 
+all this bits and bytes stuff is all about. 
+
+Binary Numbers. The Apple is an electronic device and, ac- 
+tually, in many ways, a simple one at that. In most parts of its 
+circuitry, the current is either off or on. That's it. No in-be- 
+tween. That's where base two comes in. The idea of a number 
+base has to do with how many symbols, or units, you use for 
+counting. We normally use ten. We have a total of ten possible 
+symbols to write in a single position before we have to start 
+doubling up and using two positions to represent a number. 
+You'll recall in hex that, by using 0 through 9 and A through F, 
+we had sixteen possibilities; thus, we were in base 16. With the 
+on/off nature of the Apple, we're limited to 0 or 1. 
+
+
+
+JANUARY 1981 
+
+
+
+23 
+
+
+
+How high can we count in one position? Not very. We start 
+at 0, then go to 1, and that's it. Then we have to add another po- 
+sition. The next number, therefore, is 10. As before, remember 
+that, in this case, 10 represents what we usually call 2. If we al- 
+low three positions, the highest number is 100 (representing the 
+quantity four in base ten). 
+
+There are patterns to both the first and the highest decimal 
+number you can represent in a given number of positions in a 
+given base. In base two, the highest number you can represent 
+by a given number of positions found using the formula 
+
+N = 2 " — 1 
+
+where N is the largest number and n is the number of positions 
+available. For n = 3, the highest number is 7, or 111 in binary. 
+
+In base two, the first number in a given number of posi- 
+tions is found by using the formula 
+
+N = 2 
+
+where N is the first number in a given number of positions and 
+n is the number of positions available. For n^= 3, N becomes 4, 
+which is the decimal number equivalent to 100 in binary. 
+
+By using eight positions, we can go up to 11111111, which 
+just happens to equal 255. How handy! This is the same maxi- 
+mum value as our bytes. And, if the truth be known, it's ac- 
+tually the other way around. We use the numbers 0 through 255 
+because we are using eight bits to make up each byte. Wheth- 
+er each bit is a 0 or a 1 depends on whether the part of the cir- 
+cuit that is responsible for that bit is off or on. 
+
+The Status Register. Here at last is our representation of a 
+single byte, made up of eight bits. In particular, the byte we 
+are looking at is the status register of the 6502. 
+
+7 6 5 4 3 2 1 0 
+
+
+
+N 
+
+
+V 
+
+
+
+
+B 
+
+
+D 
+
+
+1 
+
+
+Z 
+
+
+e 
+
+
+1 
+
+Sign 
+
+
+Break 
+
+
+Interrupt 
+
+
+1 
+
+Carry 
+
+
+
+Overflow Decimal Zero 
+
+The bits are numbered from right to left, with bit zero often 
+being called the least significant bit and bit seven the most sig- 
+nificant. Each bit in this register indicates the status and/or re- 
+sults of different operations and is called a flag. It is by the use 
+of this register that we can create counters and loops in our 
+programs. The flag we will be immediately concerned with is 
+bit one, the zero flag. In terms of the commands we already 
+know, the zero bit is affected by an LDA, LDX, or LDY. 
+
+If the value loaded into the accumulator, X register, or Y 
+register were 00, the flag would be set to 1. If it were a nonzero 
+number, the flag would be 0. Seemingly backward perhaps, 
+but remember, each flag is set to show the presence or ab- 
+sence of a given condition, in this case, $00. 
+
+Incrementing and Decrementing. To create a counter and 
+then a loop, we will use the status register to tell when a given 
+register or memory location reaches zero. We will also need a 
+way of changing the value of the counter in a regular fashion. 
+In the 6502, this is done by incrementing or decrementing by 
+one each time, as indicated. 
+
+
+
+Accumulator X-Reg Y-Reg Mem. Loc. 
+
+
+
+Increment by 1 
+Decrement by 1 
+
+
+
+Not Avail. 
+Not Avail. 
+
+
+
+INX 
+DEX 
+
+
+
+INY 
+DEY 
+
+
+
+INC 
+DEC 
+
+
+
+In the first row are the mnemonics for the commands to 
+increment the given location by 1. The second row shows the 
+corresponding commands to decrement each location. 
+
+Note that directly incrementing or decrementing the accu- 
+mulator is not possible. Each of these commands affects the 
+zera flag, depending on whether the result of the operation is 
+zero or not. 
+
+The usual syntax for using these commands in an assem- 
+bly listing is : 
+
+10 INX 
+
+11 INY 
+
+12 DEX 
+
+13 DEY 
+
+14 INC $0600 
+
+15 DEC $AA53 
+
+
+
+Oi^-LII^E SYSTEMS 
+
+PRESENTS 
+
+HI-RES FOOTBALL 
+
+By JAY SrLLIVA.\ And KEX WILLIAMS 
+
+
+
+This is the football gome you always 
+thought your Apple was capable of, but 
+no one seemed able to deliver! 
+Of course, Hi-Kes EoQtball portrays the 
+
+fuyi^nimoted Hi-Res 
+onfuse it with 
+e variety, 
+stratlioy aspects 
+s coach 
+clock 
+itical 
+field 
+
+OS 
+
+d 
+
+eyeing your 
+ame|time trying to 
+t is impossible 
+ings one gets 
+mplete that two 
+ill or on defense 
+quarterback on third 
+isit a computer store 
+quest o demonstration. 
+Thank you. 
+ny 48K Apple II or II Plus, DOS 
+Available now for $39.95 on 
+
+
+
+
+field and players 
+Graphics, but do 
+football gorriesr-o 
+This gome 
+of on octu 
+you: coll th 
+to your odv! 
+fourth doV/: 
+posit io#'^ 
+qugrterbpck 
+th#iefe^ 
+receiver a 
+"Fake Out 
+to describe 
+when you"^ 
+minute go 
+when you 
+and goal, 
+in your or 
+
+
+
+
+Runs 
+3.2 or 
+
+disk from your local computer store or you 
+may order directly from: 
+
+ON-LINE SYSTEMS 
+36575 Mudge Ranch Rood 
+Coorsegold, CA 93614 
+
+209-683-6656 
+
+J) 
+
+ORDERS MAY DE CHECK, VISA, MASTER CHARGE OR C.O.D. 
+
+
+
+CLEAN UP lOUR ACT 
+
+
+
+
+Professionals demand quality products tailored 
+to meet their needs. Super-Text continues to 
+provide affordable word processing while 
+meeting tfie fiighest performance standards, 
+Now Muse adds two new products to our family 
+of business oriented software. 
+
+The Form Letter Module joins Super-Text to 
+perform a broad range of sophisticated word 
+processing jobs. Have all the features a serious 
+businessperson wants without the prohibitive 
+cost of larger systems. And by not being a 
+single purpose computer, your Apple and 
+Muse software can help solve many other busi- 
+ness problems. 
+
+Take Data/Plot for example. After increasing 
+sales with Super-Text form letters, you may 
+need attractive graphs and charts to show 
+your boss just how you've increased profits as 
+well as your salary which explains your $800 
+designer suits, After reviewing the brief specs 
+below, visit your nearest computer retailer who 
+carries Muse and Apple products and ask for a 
+demonstration of our business software. 
+
+
+
+
+Bminessware for Professionals 
+
+
+
+Using Super-Text ($150) as your word processing 
+editor, the Form Letter Module ($100) allows 
+you to create complex form letters which can 
+be customized for each person or business 
+entered in the Address Book Mailing List ($50), 
+On screen prompts and menus facilitate oper- 
+ator entry of additional information and allow 
+piecing together of complex documents. Runs 
+on the Apple II or II plus with 48k and disk drive. 
+
+
+
+Data Plot's easy editing features allow you to 
+create and modify a wide variety of full color 
+graphic representations of numerical informa- 
+tion. Bar charts, including additive bars, as well 
+as single and multiple line charts may be plot- 
+ted individually or cumulatively. Pie charts are 
+easily sliced. All figures may be output to a 
+graphics printer. Runs on an Apple II or II plus 
+with 48k, Applesoft ROM and disk drive. 
+
+
+
+MUSE 
+
+
+
+SOFTWARE^ 
+
+
+
+Apple II IS a frademorv of Apple 330 N. CHARLES STREET 
+
+computerccxp BALTIMORE, MD 21201 
+
+r■'^n1^^fiQ-7919 
+
+
+
+For the register operations, the command stands alone, 
+with no need of an operand. In the case of INC and DEC, the 
+memory locations to be operated on are given, in hex, of 
+course, usually preceded by the dollar sign. 
+
+One thing to mention here is the wrap-around nature of the 
+operations. To understand this, examine the following chart: 
+
+
+
+Original 
+
+
+
+
+
+
+Z Flag 
+
+
+
+
+Contents 
+
+
+Incrennent 
+
+
+Decrement 
+
+
+set? 
+
+
+Z 
+
+
+$05 
+
+
+$06 
+
+
+$04 
+
+
+no, no 
+
+
+0, 0 
+
+
+$0F 
+
+
+$10 
+
+
+$0E 
+
+
+no, no 
+
+
+0, 0 
+
+
+$01 
+
+
+$02 
+
+
+$00 
+
+
+no, yes 
+
+
+0, 1 
+
+
+$FF 
+
+
+$00 
+
+
+SFE 
+
+
+yes, no 
+
+
+1, 0 
+
+
+$00 
+
+
+$01 
+
+
+$FF 
+
+
+no, no 
+
+
+0, 0 
+
+
+
+The effects of incrementing and decrementing different 
+values are shown, along with the effects on the zero flag after 
+the operations. The first case is simple, 5 + 1 = 6, 5 — 1 = 4. In 
+both cases, the result is nonzero, so the zero flag is not set. For 
+$0F, the same holds true. Remember that, in hex, the next 
+number after $0F is $10. In the case of $01, incrementing pro- 
+duces $02. When we decrement, since the result is $00, the zero 
+flag is set. 
+
+Here's where it gets interesting. When the starting value is 
+$FF, adding 1 would normally give $100. However, since a sin- 
+gle byte only has a range of $00 to $FF, the 1 is ignored, and the 
+value becomes $00. This sets the zero flag. In the case of decre- 
+menting, $FF - 1 = $FE, so the zero flag is not set. 
+
+If we start with $00, although incrementing produces the ex- 
+pected $01, decrementing wraps around in the reverse of the 
+previous case, giving $FF. Since both results are nonzero, Z — 
+short for the zero flag — is clear, not set, for both operations. 
+
+Counters and Loops. The only procedure remaining to en- 
+able you to create a loop is a way of testing the Z flag and then 
+being able to get back to the top of the loop for another pass. In 
+Basic, a simple loop might look like this: 
+
+10 HOME 
+X = 255 
+PRINT X 
+
+X = X - 1 
+
+IF X <> 0 THEN GOTO 30 
+END 
+
+In this program, we start with the counter X set at 255. Then 
+the value is printed, decremented, and the process repeated 
+until the counter reaches zero. We can make the loop execute 
+any number of times by properly setting the initial value of X. 
+
+In machine code, the test and GOTO is done with a branch 
+instruction. In this case, the one we'll use first is BNE. Here is 
+the assembly language equivalent of the Basic listing: 
+
+
+
+20 
+
+30 
+
+40 
+
+50 
+60 
+
+
+
+
+
+"We've lost the new microcomputer!' 
+
+
+
+announcing... 
+
+HI-RES V 
+FOR THE APPLE II OR II PLUS COMPUTERS 
+
+ON-LINE SYSTEMS is now offering o Cribboge gome to challenge even 
+the best Cribboge player os you play ogoinst the computer. The 
+cribboge board is done with beautiful Hi-Res Graphics and you can 
+watch (and hear) the scores being pegged. The cords ore dealt 
+randomly,- they actually look as if they ore being turned over one by 
+one by on invisible hand. If you're not careful, and don't ploy your 
+cords right, the computer will skunk you. For the beginning Cribboge 
+player, HI-RES CRIDDAGE comes with complete instruction and strategy 
+aspects of the game. For the experienced Cribboge ployer, HI-RES 
+CRIDDAGE offers o totally challenging gome. 
+
+Hi-Res Cribboge is available now at your local computer store and 
+requires o disk drive. To order directly send S24.95 tO: 
+
+On-Line Systems 
+36575 Mudge Ranch Rood 
+Coorsegold, CA 93614 
+209-683-6858 
+
+VISA, AAASTER CHARGE, COD, CHECK ACCEPTED 
+
+
+
+Meldrom The Bulletin Sydney reprinted from World Press Review September 1980 
+
+
+
+26 
+
+
+
+JANUARY 1981 
+
+
+
+presents 
+
+SOFTWARE YOU CAN COUNT ON 
+
+You depend on good software to save you time and to have your 
+computer help you do a job more efficiently. Our softv\/are is 
+designed to do just that. We are one of the oldest companies 
+supplying software for the Apple H', and one of the very few that 
+offers an unconditional guarantee of satisfaction or your money 
+back! Here are a few that you'll want to add to your library: 
+
+Super Terminal Software 
+
+ASCII EXPRESS II: The most complete communications package 
+available for the Apple II. Designed for the most efficient transfer 
+of data to or from practically any online computer. Fully supports 
+upper/lower case, including characters normally unavailable; 
+underscore, rubout, break, and most others. Keyboard macros 
+allow you to define dual keystrokes as entire strings for fast sign- 
+ons, sign-offs, and system commands. A 20Kdata bufferallowsfor 
+large files, and a convenient line editor means easy editing 
+before and after transfer. Buffer can be output to printer, disk, or 
+viewed at any time. Supports Micromodem IT and most other 
+communication devices. 
+
+Price: S64.95 on Disk. 
+
+And for the Z80 Apple. . . 
+
+Z-TERM: A flexible communications package for the Apple II 
+equipped with Z80 Softcard' and the CP/M" environment Allows 
+file transfers to or from all types of dial-in systems. Fully supports 
+Micromodem II and most other communication devices, as well 
+as 80 column display boards and external terminals! Utilizes 
+standard CP/M sequential text files, with up to a 40K internal 
+buffer (using additional RAM or Language Card.) Supports multi- 
+ple modes of data transfer and includes keyboard macros, auto- 
+dial (with Micromodem II), and upper/lower case. 
+
+Price: S74.95 on 16 sector diskette. 
+
+Also available. . . 
+
+By Roger Wagner 
+
+APPLE-DOC: A set of several utilities to speed up software develop- 
+ment and customization. Vardoc makes a list of all the variables 
+in a program and every line on which they occur. Also allows you 
+to create a list of descriptors of what each one does. Llnedoc 
+makes a similar list for each line/subroutine called by a GOTO, 
+GOSUB, etc. Condoc is similar but documents all numeric con- 
+stants — great for scientific & business uses! Replace is a powerful 
+replacement editor which mokes changing any occuronce of a 
+variable or group of statements a breeze! 
+
+Price: $34.95, Disk. 
+
+THE CORRESPONDENT: An extremely versatile program! Designed 
+primarily for writing letters and other documents in a very visual 
+way. The Apple screen acts as a "windov/' onto a 40-80 column 
+page. 4-directional scrolling lets you see any part of the page just 
+as it will be printed. Editor functions include full upper/lower case 
+& control chdrs., block move/copy, split screen option, even math 
+functions! Additional utilities & uses include printing form letters, 
+a free-form database, putting bi-directional scrolling in your own 
+programs, single-disk copy program, DOS remove for greater 
+storage on diskettes, and morel 
+
+Price: $44.95 on Disk. 
+
+All programs require 48K and Applesoft in ROM or language card. 
+Specify DOS 3.2 or 3.3. California residents add 6% to all prices. 
+
+See these and other S.D.S. products at your local dealer, or for 
+more information, write or call: 
+
+soutnuuesteRn data svstems 
+
+P.O. Box 582-S . Santee, CA 92072 • (714) 562-3670 
+
+*Apple II is a reglstefed Trademark of Apple Computer Co 
+
+'Micromodem II is a registered rroderrrartc of Hayes Microcomputer Products, inc. 
+*Z60 Softcard Is a registered trademark of Microsoft Consurrver Products. Inc 
+"CP/M is a registered troderrvark of Digital (Research, Inc 
+
+
+
+Softalk's 
+
+First Annual 
+
+
+
+Enthusiasm for Softalk's Top Thirty Bestseller list has 
+grown more than anyone anticipated; but there's another side 
+to the disk. Several Softalk readers have asked for the oppor- 
+tunity to present a bestseller list of their own — which really 
+means a most popular list. 
+
+So here it is: Softalk's First Annual Most Popular Pro- 
+grams of the Year election — except that this premiere poll will 
+cover more than a year. It will cover all software published 
+prior to January 1, 1981. 
+
+The author and publisher of the Most Popular Program will 
+be presented with a Softalk Award. 
+
+Use your ballot, or a facsimile of it, to vote for your ten all- 
+time favorite programs. Fill in your name and address, and be 
+sure to include your zip code. 
+
+Only one ballot will be accepted per Apple user ; that means 
+that a family-owned Apple might generate four or five bal- 
+lots — one from each member of the family; where there are 
+two ballots from one person, only one will be counted if the 
+choices are the same, and neither will be counted if they differ. 
+
+There are no rules against including your comments. If you 
+want to tell why you like one program and not another, do it. 
+We'll pass on a compilation of your comments and ideas to 
+software publishers. 
+
+Your ballot must reach Softalk by February 16, in time for 
+results to be published in the April issue of Softalk. 
+
+Now, pull up your Apple and begin reminiscing about all the 
+software you've enjoyed. JM 
+
+
+
+
+
+2 * LOOP PROG. #1 
+
+4 * 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+10 
+11 
+12 
+13 
+14 
+
+
+
+OBJ $300 
+ORG $300 
+HOME EQU $FC58 
+
+* 
+
+START JSR HOME 
+
+LDX #$FF 
+LOOP STX $700 
+
+DEX 
+
+BNE LOOP 
+END RTS 
+
+
+
+And here is the way Apple's disassembler would show it: 
+
+
+
+*300L 
+
+
+
+
+
+
+
+
+
+
+
+
+0300- 
+
+
+20 
+
+
+58 
+
+
+FC 
+
+
+JSR 
+
+
+$FC58 
+
+
+0303- 
+
+
+A2 
+
+
+FF 
+
+
+
+
+LDX 
+
+
+^$FF 
+
+
+0305- 
+
+
+8E 
+
+
+00 
+
+
+07 
+
+
+STX 
+
+
+$0700 
+
+
+0308- 
+
+
+CA 
+
+
+
+
+
+
+DEX 
+
+
+
+
+0309- 
+
+
+do 
+
+
+FA 
+
+
+
+
+BNE 
+
+
+$0305 
+
+
+030B- 
+
+
+60 
+
+
+
+
+
+
+RTS 
+
+
+
+
+
+In this program, we first do a JSR to the clear screen rou- 
+tine in the Monitor that we used last month. Then we load the X 
+register with a starting value of $FF. Now we start the loop. 
+Storing the X register at $700 will make the loop's action vis- 
+ible as a character on the screen for each pass through the 
+loop. Next, DEX subtracts 1 from the current value of the X 
+register. The BNE will then continue the loop back up to LOOP 
+until the X register reaches $00, at which point the test will fail, 
+
+
+
+JANUARY 1981 S C3 1^ T A L K W ) 27 
+
+— 
+
+Most Popular Software Poll 
+
+I O ffirial Ralint — i 
+
+Vote for your ten top favorite programs ever of any kind. Arrange the programs from one to ten with your 
+favorite first and runners-up following in order of preference. 
+
+1. 6 
+
+2. 7 
+
+3. 8. 
+
+4. 9. . 
+
+5. 10. 
+
+
+
+Mail this ballot or a facsimile to Softalk Election, 10432 Burbank Boulevard, North Hollywood, CA 91601, 
+before February 16, 1980. 
+
+Name : 
+
+Address : 
+
+City/State/Zip: 
+
+
+
+and program execution will fall through to the RTS to the end 
+of the program. 
+
+Try entering this now, and also notice how fast the pro- 
+gram runs. You probably weren't able to see very much, but 
+all 255 values were put to the screen. The inverse A that's left 
+on the screen is how a $01 at $700 appears. ($00 doesn't get 
+printed — why?) 
+
+To verify that each pass is being executed, replace the STX 
+$700 in the source Usting with a JSR $FBDD. If you don't want 
+to hear 255 beeps, try changing the initial value of the X regis- 
+ter in line 10. As before, you should be able to call this program 
+from the Monitor with a 300G, or from Basic with a CALL 768. 
+
+You may also wish to try the equivalent version of the pro- 
+gram, using the Y register or a memory location as the count- 
+er. I would also suggest trying to write a program using INC, 
+INX, or INY to drive the counter as a practice program. 
+
+If you have any comments or suggestions for things you 
+would like to see in this series, write to me, care of Softalk. 
+
+Next month, we'll fill in the use of the branch instructions 
+and with that, have enough knowledge to write a good many in- 
+teresting programs! Until then, Happy Appling! 
+
+
+
+Correction to December 1980 Issue, Page 14 
+
+
+
+In the December installment of the Assembly Lines series, the 
+source listing for the assembly language program, lines 6 and 
+7, were listed as: 
+
+6 OBJ EQU $300 
+
+7 ORG EQU $300 
+
+In actuality, the EQU is only needed in most assemblers when 
+defining variable and not when defining the OBJect and 
+ORiGin locations. These lines should have read: 
+
+6 OBJ $300 
+
+7 ORG $300 
+
+My apologies for any problems this may have caused. 
+
+
+
+
+Ill-IWvS ADVEOTURE *1 
+
+Your .VI'PLE computer becomes your eyes and ears as you enter 
+a sp(K)k3' old mansion in search of treasure. You are in complete 
+control as you open cabinets, smash walls etc. Danger is ever 
+present as you find your co-adventurers being murdered one by 
+one. Can you find the killer before the killer finds you? 
+
+• ()\TiR A m-NDRED HI-RES PICTURES 
+
+• YOm GAME MAY BE SA\TJ) FOR LATER CONTINLTANCE 
+
+• RlTsIS ON BOTH 4SK APPLE II AND APPLE II PLUS 
+Hi-Res Adventure *1 is available now at your local computer 
+store and requires a disk drive. To order directly send 824.95 to: 
+
+On- Line Svstems 
+
+Mucige Ranch Road 
+C<)arsegold, CA 93614 
+209-683-6858 
+
+MSA, MST CHG, COD, CHECK ACCEPTED 
+Lx)k for Hi-Res Ftxjtball coming soon 
+
+
+
+1 
+
+
+1 
+
+
+i 
+
+
+■ 
+
+
+
+
+1 
+
+
+
+
+1 
+
+
+1 
+
+
+1 
+
+
+9 
+
+
+
+
+
+
+
+
+1 
+
+
+1 
+
+
+1 
+
+
+
+
+
+
+
+N e w s 
+
+
+
+□ Multi-Modi;i Video (Santa Clara, CA) 
+offers a bilingual Apple II system. Called 
+Ai apple, system in Arabic language is 
+designed for Arab world and has exten- 
+sive peripheral support, including the 
+Anibphnt 160 ($4,200). Software includes 
+Arabic English video dictionary, voice 
+data input device called Arabic Speech- 
+link, bilingual graphics tablet, business 
+programs for accounting, inventory, 
+scheduling, data base management; 
+cash register system; education pro- 
+grams for basic and advanced math, sta- 
+tistical analysis, medicine and general 
+survey of Arab countries; and Videomax 
+game series specifically designed for 
+Arab users. Of particular note is bilin- 
+gual adaptation of NESTAR's Clus- 
+ter/One Model A system through which 
+65 Arapples can interface in a single net- 
+work. The Arapple alone is $2,850. 
+
+□ Strategic Simulations (Mountain 
+View, CA) offers a two-in-one package in 
+its wargame tradition. Computer 
+Coujlict's duo represent the minigame 
+genre, compared to Strategic's other 
+
+
+
+sagas: each game is brief in play time 
+and relatively simple to learn. Strategy is 
+not simple though, and repeat play re- 
+veals much depth. Rebel Force by Rog- 
+er Keating is a solitaire game; Red At- 
+tack by Jim Yarbrough is for two play- 
+ers — but you can take both sides. ROM 
+Applesoft, 48K, disk. $39.95. 
+
+□ Hi-RcH Adventure #1: Mission Aster- 
+oid takes its number from its intended 
+level of difficulty, according to On-Llne 
+Systems (Coarsegold, CA). Less expen- 
+sive to serve as an introduction to hi-res 
+adventures. Mission Asteroid includes 
+methodology hints in the course of play. 
+It also includes the best graphics yet 
+from the company and a delightful ad- 
+venture — even for veterans — in attempt- 
+ing to save the earth from an asteroid 
+within a time limit. By Ken and Roberta 
+Williams. 48K, disk. $19.95. 
+
+□ Leighton Paul (Telephone Software 
+Connection, Torrance, CA) offers Dou- 
+ble DOS. This program loads into the top 
+of your Apple's memory, slightly lower- 
+ing HIMEM, and stays there as long as 
+
+
+
+TODAY you phone . « 
+TOMORROW you set! 
+
+
+
+Floppy Disks— Minis- 
+Data Cassettes — Cartridges 
+Full Line 
+
+
+
+For APPLE equipment with 
+hub ring Specify "Apple" 
+
+
+
+Soft Sectored & Hard 
+Sectored diskettes 
+Single or double sided 
+
+"fc Diskette drive head 
+
+Cleaning kits for 8" and 5' 
+drives 
+
+Hard disk modes, Disk 
+Cartridges, Disk packs. 
+Data Modules, Winchester 
+type disks 
+
+
+
+\ferbatim 
+maxell 
+
+FD-08 
+
+CLEANING KITS 
+
+NASHUA 
+
+
+
+DATA SHEETS, SPECS. AND PRICES ON CALL 
+WAREHOUSE STOCK, SHIPPED SAME DAY (call before 1 pm) 
+COMPETITIVE PRICING—DEALERS INVITED 
+
+
+
+- — = 6901 Canby Avenue, Reseda, CA 91335 
+
+= = =-. ~ = ' Los Angeles Phone (213) 705-4202 
+
+=~ = : 2680 Bayshore Frontage Road, Suite 1030 
+
+=s =-=r = Mountain View, CA 94043 (415) 962-9275 
+
+LARGEST MASTER OlSTRIBUTOR FOR VERBATIM REMOVABLE MAGNETIC STORAGE MEDIA 
+
+
+
+
+you don't clobber it with programs that 
+require full memory. While it's there, you 
+can switch from DOS 3.3 to 3.2 and vice 
+versa at will and as often as you wish, 
+merely by a call or, from Applesoft, an 
+ampersand. 48K, disk, DOS 3.2 and 3.3, 
+Apple's Muffin program. $18. 
+
+□ Sybex (Berkeley, CA) announces the 
+latest book by Rodnay Zaks, Introduc- 
+tion to Pascal. Though intended as be- 
+ginners' tutorial to UCSD and Standard 
+Pascals, the volume includes advanced 
+level material. Paperback. $12.95. 
+
+□ Microsoft ( Belle vue, WA) announces 
+Olympic Decathlon, a game based on a 
+decathlon athletic competition. The de- 
+cathlon encompasses ten events in all of 
+which each entrant must compete. Points 
+are awarded in each event and cumula- 
+tive scores of the competitors determine 
+order of finish. It is considered one of the 
+most difficult and gruelling of all Olym- 
+pic events. Microsoft's game includes all 
+ten events: 100-meter dash, long jump, 
+pole vault, discus throw, shot put, 400- 
+meter dash, 110-meter hurdles, 1,500- 
+meter run, high jump, and javelin throw. 
+Keyboard keys control an animated hi- 
+res figure on the screen. As many as 
+eight players can compete for a gold 
+medal. Points are awarded for each 
+event according to how each perfor- 
+mance rates against world champion 
+standards. Requires 32K. $24.95. 
+
+□ Hot off of Microsoft's hardware press 
+is their 16K RAMCurd, which increases 
+Apple's RAM capacity to 64K. Com- 
+patible with the SoftCard, but can't be 
+used simultaneously with the Apple Lan- 
+guage Card. $195. 
+
+□ Backup VisiCalcs are available from 
+Personal Software (Sunnyvale, CA) for 
+original owners of VisiCalcs whose war- 
+ranty cards are on file at that company 
+or who can show proof of purchase. $30. 
+
+□ Superclock II (West Side Electronics, 
+Chatsworth, CA) , a real-time clock, com- 
+bines time of day and calendar features 
+with powerful interrupt capabilities. Ex- 
+tremely easy to use, Superclock offers 
+four software-controlled interrupts from 
+one msec to one hour, plus an Appleclock 
+emulation mode that makes it compati- 
+ble with existing software. Works with 
+both Basics and Pascal. Battery in- 
+cluded. $159. 
+
+□ Arizona Computer Systems (Jerome, 
+AZ) announces the Pascal Database. 
+Program offers unlimited applications 
+for such diverse data as mailing lists, 
+personal business accounting, inventory, 
+job estimates, sales analysis, and prop- 
+erty management. Clear screen instruc- 
+tions enable even the novice to operate 
+
+
+
+JANUARY 1981 
+
+
+
+S O [ T A I 1^ 
+
+
+
+29 
+
+
+
+the program. Features include on-line in- 
+teraction, update, search and traverse 
+files, sort on multiple fields, maintain 
+records in several sorted orders; screen 
+formatting — you design the layout of 
+your files; immediate and automatic in- 
+dexing of information at data entry ; and 
+user definable data description— you de- 
+fine file, record, and field names. Gen- 
+erates easy-to-read custom reports. 48K, 
+language system, disk. 
+
+□ Small but fast-growing. Peelings II of- 
+fers extensive and thoughtful reviews of 
+Apple II software. Reviews-only format 
+results in abundance of information ; rat- 
+ing system makes it easy to digest. Cov- 
+erage of seven major Apple word pro- 
+cessors and educational and business 
+software are current features, in addi- 
+tion to general reviews. Available in com- 
+puter stores at $2.50 per issue, or by sub- 
+scription, $15 per year — less for longer. 
+
+□ Turn your IBM Selectric into a print- 
+er for your Apple with the EP-lOk Selec- 
+tric Conversion System from Escon 
+Products (San Ramon, CA). Coupled 
+with a Selectric I, II, or III, the EP-104, a 
+single-board computer, will not affect 
+manual operation of the typewriter. Fea- 
+tures include buffer hold, backspace, tab 
+control, form-feed, and bell output. Also 
+has 96-character buffer for incoming 
+character storage. $575. 
+
+□ Space War 1 (Galaxy, San Diego, CA) 
+is a strategy game in which one or two 
+players have complete control of their 
+space fleet tactical maneuvers. Hi-res 
+with sounds of war. Each player builds 
+his starting fleet and adds to it during the 
+game. Allocating energy among fleet and 
+among functions on each ship is crucial. 
+Move throughout universe within sector 
+or through hyperspace. Use short-range 
+and long-range sensors, move and at- 
+tack simultaneously. 48K, ROM Apple- 
+soft, disk. $39.95. 
+
+□ Hartley Software (Kentwood, MI) of- 
+fers an extensive line of educational soft- 
+ware. Developed by a veteran classroom 
+teacher and a professional programmer, 
+all Hartley software is classroom tested. 
+All programs require 48K, Applesoft in 
+ROM, and disk. Priced from $15 to $80. 
+
+□ Charles Mann & Associates (Yucca 
+Valley, CA) has released a Dental Office 
+Management package, which provides 
+for appointment scheduling, patient 
+checkup followup, private patient bill- 
+ing, and insurance form preparation. 
+System maintains patients' general in- 
+formation files, prints daily schedules, 
+keeps track of all daily payments and 
+charges, and prepares daily activity 
+summaries, as well. Designed to be op- 
+erated by receptionist or accounts secre- 
+tary, system is menu driven with its own 
+assistance element. Remodel element al- 
+lows customization for individual offices 
+without programming knowledge. Until 
+January 30, 1981, $359.95. 
+
+□ The TecLar (Placerville, CA) com- 
+puter interactive videotape enables any- 
+one to use color broadcast quality video- 
+
+
+
+tapes to illustrate educational material. 
+Instructional programs are individ- 
+ualized and self-paced. Electronic inter- 
+face between the videotape player and 
+the computer enables the user to quiz self 
+on important segments of the videotape 
+and arbitrarily select any portion of the 
+program for review. 
+
+□ The Model 460 Paper Tiger (Integral 
+Data Systems, Milford, NH) uses a bal- 
+listic print head with nine staggered 
+wires to present correspondence quality 
+characters at throughput speeds up to 150 
+characters per second. Packs several 
+high cost features in a precision printer; 
+DotPlot graphics capability. $1,295. 
+
+□ Program Protection (Mission Viejo, 
+CA) offers a program protection service 
+for programmers and software publish- 
+ers. Free trial available if you send pro- 
+gram and a blank disk. Company will 
+send back program on disk, protected. 
+Service, $100 plus $.50 per disk sold. 
+
+□ The Model lh2k Calendar /Clock 
+Module is California Computer Systems 
+contribution to time-keeping on the Ap- 
+ple. Clock includes three separate, jump- 
+er-selectable driver programs, plus 
+space for user- written drivers, onboard 
+in IK of EPROM. One driver transfers 
+data and time in Mountain Computer for- 
+mat to Apple's input buffer; another uses 
+interrupts to write correct time into an 
+Applesoft string from which it may be 
+called by software; third driver uses in- 
+
+
+
+terrupts to maintain correct time on CRT 
+screen. Because data is addressed one 
+decimal digit at a time, programmer has 
+complete freedom of data format. $125. 
+
+□ Southwestern Data Systems (Santee, 
+CA) is releasing Bill Blue's communica- 
+tions package, ASCII Express II. Blue, 
+author of ABBS system, has created a 
+high-speed medium through which files 
+can be sent back and forth between Ap- 
+ples that are hooked up with Hayes Mi- 
+cromodem II or a communications card 
+(sans automatic dialing) . 20K buffer pro- 
+vides ample room for files ; rapid editing 
+is possible with hne editor. Expansive 
+user features include upper/lower case 
+and unusual characters, transfer rou- 
+tines, compressing of files, macrocom- 
+mands that define dual keystrokes as 
+complete strings. $64.95, 48K, disk. 
+
+□ Micro Data Base Systems (Lafayette, 
+IN) has released a utility for their hier- 
+archical data base management pro- 
+gram. The Schema Redesign System 
+modifies existing data base structure, al- 
+lowing user to add and rename fields and 
+expand data base size. $150. The Dynam- 
+ic Restructuring System functions simi- 
+larly for a large network data base. $300. 
+
+□ Checkbook headaches can be a thing 
+of the past with Check-Mate by The Com- 
+puter Emporium (Des Moines, lA) . Rap- 
+id edit, search, and sort; bank statement 
+reconciliation and an archive system for 
+a year's checks. $59.95. 
+
+
+
+FROM Br^dcrbund Softujarc 
+
+
+
+STRRTEGY 
+GflmESJ 
+
+
+
+FRST ACTION 
+
+cnmES! 
+
+
+
+
+THE SAGA CONTINUES 
+
+IV Tnuunin's insi r€doubt 
+
+The cruel Emperor Tawala has been forced from 
+his throne on the world of Galactica and has fled 
+for his life to the planet of Farside, where he and 
+a small bank of adherents prepare to make their 
+last stand. Extreme solar conditions have 
+isolated Farside from the rest of the galaxy, and 
+so it remains to Benthi, leader of the local insur- 
+rectionists, to press the final assault on Tawala 
+and his minions. 
+
+TAWALA'S LAST REDOUBT puts you in the 
+position of rebel leader. You must intercept and 
+decipher Tawala's secret messages to his sup- 
+porters, form alliances with local chiefs, detect 
+Tawala's spies in your midst, separate hard intel- 
+ligence from enemy disinformation, avoid Ta- 
+wala's military forays against you and, finally, 
+lead the assault against the Prince's stronghold. 
+
+Minimum Configuration: 
+
+TRS-80 Cassette, 16K, Level II, $19.95 
+
+TRS-80 Disk, 32K, $24.95 
+
+APPLE Disk, 48K with APPLESOFT, $29.95 
+
+
+
+Apple Galaxian — In brilliantly colored array, the 
+Galaxians swoop down from all sides in 
+dazzlingly swift attacks to do battle upon the 
+lone defender. This faithful rendition of that most 
+popular of all bar games may drive you around 
+the bend, but think of all the quarters you'l! be 
+saving! Apple II Integer or Plus, 48K disk, $24.95. 
+
+
+
+How to order; Ask your dealer or send check or 
+money order for the exact retail price to: 
+
+6r0derbund SoftiuQre 
+
+Box 3266, Eugene, Oregon 97403 
+Call (503) 343-9024 to order. NO CHARGE 
+FOR SHIPPING AND HANDLING! 
+Visa and Mastercard accepted. 
+
+We've got morel Send for our free catalogi 
+
+
+
+30 
+
+
+
+SOFTAI 1/ 
+
+
+
+JANUARY 1981 
+
+
+
+APPLE U TRS'80 
+
+® QUALITY ^ 
+S DISK SOFTWARE «A 
+
+
+
+□ HOME FIIMAIMCE PAK I: Entire Series $49.95 (g)® 
+
+□ CHECK REGISTER AND BUDGET This comprehensive CHECKING ACCOUNT MANAGEMENT SYS 
+TEM not oiilv keeps complete records, it also gives you the analysis and control tools yob need to actively 
+manage your account The system provides cootrnes lor BUDGETING INCOME AND EXPENSE, AUTO- 
+MATIC CHECK SEARCH, and BANK STATEMENT RECONCILING, CRT or prrntcr reports are produced 
+lor ACTUAL EXPENSE vs BUDGET, CHECK SEARCH DISPLAY, RECONCILIATION REPORT and 
+CHECK REGISTER DISPLAY hy month. Check entry is prompted hy user-defined menus of standard 
+purposes and recipient codes, speeding data entry and reducrny drsk storage and retrieval time. Six fields of 
+data ate stored for each check: amount, check no,, date, purpose, recipient and TAX DEDUCTIBLE RE 
+n/IINDER. CHECK SEARCH routines alloiAi seaiching on any of these data fields. Routines are also provrd 
+ed tor CHECK SORT by date and check no , DATA EDITING and Report Formats, Up to 100 checks/mo, 
+storage S39,96 
+
+I I SAVINGS. Account management system for up to 20 separate Savings accounts. Organizes, files and 
+displays deposits, withdrawals and interest earned for each account. Complete records shown vra CRT or 
+prrnter SI'. 95 
+
+n CREDIT CARD: Get control of your credit cards with this program. Organizes, stores and displays 
+purchases, payments and service charges foi up to 20 separate cards. Use for credit cards or bank loans. 
+CRT or printer reports S14.95 
+
+□ UNIVERSAL COMPUTING MACHINE: $49.95(g)0 
+
+A user programmablR computing system structured around a 50 row k 50 column table. User defines row 
+and column names and equations fornuny a unique compuliny machine Table elements can be multiplied, 
+divided, subtracted or added to any otber element. User can define lepeated functions common to a row or 
+column greatly simplifvinij table setup. Hundreds of unique computing machines can be defined, used, stored 
+and recalled, witb or without old data, foi later use. Excellent for sales forecasts, engineering design analysis, 
+budgets, inventoiy lists, income statements, production planning, project cost estimales-in short foi any 
+planning, analysis or reporting problem that can be solved with 3 table. Unique cutser commands allow you 
+lo move to any element, change its value and immediately sec the effect on other table values Entire table 
+can be printed by machine pages (uset-defined 3-5 columns) on a 40 column printer 
+
+□ color CALENDAR: $29.95 ® 
+
+HI RES color graphics display of your personal calendar. Automatic multiple entry of repetitive events, Re 
+view at a glance important dates, appointments, annivetsaries, birthdays, action dates, etc. over a 1 year per 
+lod. Graphic calendar marks dates. Printer and screen display a summary report by month nt your full text 
+describing each day's action item or event Ideal for anyone with a busy calendar 
+
+□ BUSINESS SOFTWARE: Entire Series $159.95 ®® 
+
+□ MICROACCOUNTANT The ideal accountrna system for the small business Based on i:lassic T accounts 
+and double errtry bookkeeping, thrs efficient prngrani records and produces reports iiii accouni balances, 
+general ledger (oiirnals, revenue and expenses Screen oi 40 column printer reports Handles tii 1000 
+[ournal entries per month up to 300 accounts. Includes a short primer in Financial Accniintrng, S49 95 
+
+□ UNIVERSAL BUSINESS MACHINE: This program is designed to SIMPLIFY ani) SAVE TIME lin ilu' 
+serious businessman who must periodically Analyze. Plan and Estimate The ijrugrani was created using iiui 
+Universal Computrng Machine anil it is progiammeil to provide the following plaiiiiiiig and forecasting inuls 
+CASH FLOW ANALYSIS PRO f 0 RWIA BA L AIMCE SH E E T SO U RCE AIM 0 USE 0 F F UN DS 
+PROFORMA PROFIT 14 LOSS SALES FORECASTE R lOB COST ESTIMATOR 
+
+Price, including a copy of the Universal Computrng Macbrne SH9 95 
+
+□ BUSINESS CHECK REGISTER AND BUDGET: Out Check Register and Budget programs expanded to 
+include up to 50 budgetable itenrs and up to 400 checks pet month Includes bank statement reconciling 
+
+and automatic check search I48K) S49.96 
+
+□ ELECTRONICS SERIES: Entire Series $259.95 (g)® 
+
+□ LOGIC SIMULATOR SAVE TIME AND MONEY Simulate your digital logic circuits before you burld 
+them CMOS, TTL, oi wliatevei, if it s iligital logic, this program can handle it The program is an intei 
+active, ntenu driven, full fledged logic simirlaloi capable of srmrrlaling the bit time by hit Iinie response ul a 
+logrc network to user specrlred input patterns It will handle up lo 1000 gates, including NANUS, NORS, IN 
+veiteis, FLIP FLOPS, SHIFT REGISTERS, COUNTERS and usei ilelined UlACROS Up to 40 usei ijelinert, 
+landoiii, or binaiy input palleins Simiilaliun results displayetl on CRT ui priiitei Accepts iietwoik des 
+ciiptions Irom keyboard or liom LOGIC DESIGNER lor siiiiulatioii 5159,96 
+
+□ logic designer Interactive HI RES Graphrcs piogiam lor designing digital logrc systems, A menu 
+drrven serres of keyboard commands allows yuii to draw directly un the screen irp to 1 5 different gate types, 
+including 10 gate shape patterns supplied with the piogiani and 6 reserved loi iisei specification Staiidaid 
+patterns supplied are NANO, NOR, INVERTER, EX OR, T FLOP, JK FLOP, 0 FLOP, RS FLOP. 4 Bit 
+COUNTER and N-BIT SHIFT REGISTER Usei iiitercuniiects gates |usl as you would normally draw using 
+line graphics conrmands Network descrrptroiis lui LOGIC SIMULATOR geneiated simultaneously with Ihe 
+
+CRT diagram being drawn S159-96 
+
+MANUAL AND DEMO DISK Instruction manual and demo disk illustrating capabrlities of both pro 
+grams S29.95 
+
+□ MATHEMATICS SERIES: Entire Series $49.95 (g) 
+
+□ STATISTICAL ANALYSIS I This iiieiiu diiven piogiaiii peilornis SIMPLE LINEAR REGRESSION aiialy 
+MS, determines the mean staiidaid deviation and pints the frequency riislriliiiiinn iit user Mipiilied data sets 
+Pruitei, Disk, l.'O and edit loutines included (32K mm ) S19 95 
+
+□ NUMERICAL ANALYSIS HI RES 2 Dimensional plot ul any function. Automatic scalmg. At youi opliun, 
+the piugram will pinr the function, plot the INTEGRAL, plot the DERIVATIVE, deteimine the ROOTS, 
+find the MAXIMA and MINIMA and list the INTEGRAL VALUE I S19 96 
+
+□ MATRIX A general purpose, menu driven program for determrning the INVERSE aod DETERMINANT of 
+any matrix, as well as the SOLUTION to any set of SIMULTANEOUS LINEAR EQUATIONS Drsk I/O lor 
+data save Specify 55 egn set I48K1 or 35 cr|n. (32KI S19.96 
+
+□ 3 0 SURFACE PLOTTER Explore the ELEGANCE aod BEAUTY ul MATHEMATICS by ciealing HI RES 
+PLOTS ul 3 dimensional suifaces fioiii any 3 vaiiable equatiun. Oisk save and recall routines foi plots Menu 
+driven In vaiy surface paiameteis Hidden line in tianspai em pluttimi S19 95 
+
+□ ACTION ADVENTURE GAMES: Entire Series $29.95 ® 
+
+□ red baron Can you uulfly the RED BARON' This last actum .game simulates a machrue gun DOG 
+FIGHT between youi WORLD WAR I Bl PLANE and the baion's You can LOOP, DIVE, BANK ui CLIMB 
+in any one of 8 diiections and so can Ihe BAR ON ui H I R ES graphrcs S14 95 
+
+□ BATTLE OF MIDWAY You are m commarrd nl the D S S HORNETS' DIVE BOMBER sguadron Youi 
+targets are the Aircraft carrrers, Akagi, Soryu and Kaga You miisr fly youi way thiough ZEROS and AA 
+FIRE 10 make your DIVE BDMB ruo In HI RES graphics S14 95 
+
+□ sub ATTACK Ifs Apirl, 1943, The enemy coiivuy is headed loi Ihe CORAL SEA Yiiui suh, rbe 
+MORAY, has |ust srghted the CARRIERS and BATTLESHIPS Easy prckiiii|s Bui watch nut foi the DE 
+STROYERS they're fast and deadly. In HI RES graphics 514 95 
+
+□ free CATALOG All programs are supplied on disk and lun un Apple II w;Disk S Applesntt ROM Caril H 
+TRS 80 Level II and ret|orre 32K RAM unless otherwrse noted Detailed instiiictions included Oideis ship 
+pcd within 5 days. Caid users rnclude card nunibei Add SI 50 onstage and handling with each oidei 
+Califiitma resrdenis add 6V;% sales tax Foreign orders add S5 00 postage and handling. 
+
+Make checks payable to: 
+
+SPECTRUM SOFTWARE 
+
+P.O. Box 2084 142 Carlow, Sunnyvale, CA 94087 
+For phone orders - 408-738-4387 
+DEALER INQUIRIES INVITED 
+
+
+
+
+BY ALLAh TOnhERVIk 
+
+
+
+One of the joys of being involved on the ground floor of a 
+booming industry such as the personal computer industry is 
+watching the growth of the various enterprises. For the most 
+part, the nascent stage of an industry is typified by good 
+news — dynamic entrepreneurs entering the industry and 
+growth and new products on all sides. The infrastructure of a 
+new industry presents a dramatically different picture than 
+television newscasts and newspaper front pages, which are 
+almost always dedicated to bringing us the bad news. 
+
+Enthusiasm of Youth. The people involved in forging a new 
+industry are usually more interesting and dynamic, as a gen- 
+eralization, than those in more mature industries where an en- 
+trenched bureaucracy has taken hold. This is no less true at 
+Apple Computer Inc. itself than at the various small satellite 
+companies that service the Apple industry with software and 
+peripherals. 
+
+Talk to anyone at Apple and you'll sense an esprit de corps 
+absent in most companies of that size. Most laborers in the or- 
+chard share a sense of pioneering enthusiasm about their in- 
+dustry and their product that make them more open to ideas 
+and suggestions and less closed about the past, present, and fu- 
+ture than their counterparts in, for example, the ball bearing 
+industry. 
+
+One significant outgrowth of having such an enthusiastic 
+and loyal employee base is that as the company grows and ex- 
+pands, and as it transfers some of its management people to 
+other locations, that enthusiasm is spread throughout the coun- 
+try. It is reassuring to note that enthusiasm, high morale, and 
+loyalty are as easily carried and transferred as the latest ver- 
+sion of the flu. 
+
+One main area of expansion for Apple in the past few 
+months has been the opening of regional service centers to ad- 
+dress maintenance and repair problems that are beyond the 
+abilities of the level one service retailers and to provide all the 
+retailers with technical support a little closer to home. 
+
+Regional centers have been formed in Massachusetts, 
+North CaroUna, Texas, and southern California to comple- 
+ment headquarters in Cupertino. 
+
+Bright Star in the East. The eastern seaboard was a clear 
+beneficiary of Apple's expansion, not just in that they now have 
+two nearby service centers, but in the personnel from Apple 
+that made the transfer. In North Carolina, regional service is 
+now managed by Mike Comblith, formerly acting western 
+area service manager, a title which actually meant that he 
+was supervising five people in Sunnyvale, California, who, a.t 
+that time, were handling all Apple maintenance problems in 
+the country. 
+
+Comblith is an outstanding example of the caUber of peo- 
+ple Apple has been able to attract. First, he sought out Apple 
+for employment, as so many of Apple's management team 
+have done, rather than waiting for Apple to take the employ- 
+ment initiative by running help-wanted ads. 
+
+Second, perhaps partially due to the former reason, Com- 
+blith is a man who truly enjoys his work ; his enthusiasm is not 
+only apparent to those who come in contact with him, it feeds 
+him during the long hours he sometimes is required to work. 
+
+Charts His Own Course. Comblith, like so many others at 
+Apple, has never been one to let events pass him by. In fact, he 
+had seized his future by the nape of the neck and was master of 
+his own fate long before Apple attracted him. 
+
+He began as an electronics technician and spent years with 
+various companies in that capacity, sometimes as a super- 
+visor, before deciding that he should be in better control of his 
+fate than he could be as a wage slave. 
+
+At that point, he mustered his resources and, with a part- 
+ner, opened a small print shop. Those who have operated their 
+own small businesses know that such entrepreneurial efforts 
+involve exchanging one form of slavery for another. Instead of 
+being a wage slave, you become a slave to the*future of your- 
+self, your family, and your employees. 
+
+What makes this latter slavery more palatable is that at 
+
+
+
+
+Softalk photo 
+
+
+
+Disk Drive Doctor 
+Goes East 
+
+least you are lashed to the helm of your own ship, captaining 
+your own destiny for better or for worse. 
+
+It was in 1977 that Cornblith became aware of the infant 
+personal computer industry. After much consideration, he de- 
+termined that, captain of his fate notwithstanding, his future 
+was better tied to this new form of electronic madness than to 
+the printing business. 
+
+Cornblith immediately set about researching the various 
+companies then in the field to determine where he should seek 
+alliance. At every turn he was told that Apple had the best 
+product and the best company. Ignoring good advice is not one 
+of Comblith's shortcomings, so he hied himself off to Cuperti- 
+no and got hired. 
+
+Ownership Yields to Apple Charisma Inc. Nothing he's 
+come across in his two years with the company has disillu- 
+sioned him. What he takes greatest pleasure in is, "I'm free to 
+function within flexible guidelines and I have the latitude to 
+make service an integral part of the product sold." 
+
+Roughly, this can be translated as meaning that he's still at 
+the wheel of his own ship. It's true that the ship is now part of 
+an armada, and the armada has a chain of command. But 
+Cornblith and most others in similar positions in other parts of 
+the company are given the helm of their own particular craft 
+and made responsible for keeping the craft on course. That the 
+course is set by someone else does not diminish captaincy in 
+the least. 
+
+Mike Comblith's own comment on Apple's esprit de corps is 
+testimony to that truth: "The Apple spirit is amazing. Apple 
+isn't a company, it's a charisma." 
+
+While still in California, Cornblith earned the title of disk 
+drive doctor in certain segments of southern Cahfomia. What 
+happened was that a disk drive died at a most inopportune mo- 
+ment in that, first, it was being employed on a crash business 
+project ; second, no local service center could identify the prob- 
+lem ; third, the drive was out of its ninety-day warranty by five 
+days; and fourth, it occurred just days before Apple an- 
+nounced its extended warranty program. 
+
+Doctored Disk in Record Time. The distressed drive owner 
+finally placed a call to Sunnyvale, location of the maintenance 
+hub, with two questions: If no one local could fix the drive, 
+what was the fastest way to get it repaired? Because the war- 
+ranty had expired, how much would it cost? 
+
+The lucky owner's call was directed to Cornblith, whose re- 
+action was immediate and responsive: "Have the local retail- 
+
+
+
+er ship the drive to Sunnyvale for repair." But it was the an- 
+swer to the second question that ratified for that owner her 
+choice of Apple over competing products : "Apple would never 
+stiff an owner if the equipment died within days of expiration of 
+the warranty." 
+
+Cornblith signed on at Apple within days of Will Hood, ar- 
+chitect of the service philosophy at Apple, so he's seen the salu- 
+tary effects of Hood's policies. "We've just about perfected the 
+level one retailer concept now. What we're shooting for Is one- 
+day diagnostics and module replacement at the retail level and 
+one-day turnaround for module repair for the retailer from our 
+service centers. We're close now and we'll get there soon." 
+
+Very Rare Is the Bad Apple. This emphasis on service is re- 
+markable from a company that manufactures such reliable 
+hardware. The fact that' five technicians in Sunnyvale were 
+able to handle all maintenance problems until July of last year 
+is a commentary on the trouble-free nature of the Apple II. 
+
+It is also a tribute to Hood and Apple's top management 
+that they foresaw the tremendous spurt in sales now occurring 
+and made service provisions throughout the country before 
+they had serious maintenance problems. 
+
+Comblith's comment on Apple's expansion is relevant, 
+"We're not growing, we're exploding." His enthusiasm for the 
+company carries over to the rest of the family. His daughter 
+Joanne made him a lapel nameplate that proudly proclaims 
+him "Apple Mike." And his wife, Linda, like Mike a native Cal- 
+ifornian, is delighted with their new home in Fort Mill, South 
+Carolina, outside of Charlotte. 
+
+Generosity Typifies Appiers Like Mike. The Combliths typ- 
+ify other Apple families in one other important way — they are 
+not takers from their community, they're givers. While in Cal- 
+ifornia, Mike spent two years manning the Santa Clara County 
+suicide and crisis hotline on a volunteer basis. While it's too 
+soon and too busy for them yet to be involved in community ac- 
+tivities in their new home, it's a likely bet that the Charlotte 
+area will soon be feeling the beneficial effects from the new Ap- 
+ple installation. 
+
+
+
+interactive \ideo 
+
+
+
+• Provide a sophisticated teaching/training 
+system or an audiovisual procedure manual 
+
+• Offer a comprehensive audio-visual data- 
+base searchable by keyword 
+
+
+
+Integrate interactive power of the 
+computer with audiovisual impact of 
+videotape using the same TV screen 
+
+• Use with Apple* or RS-232 computers, 
+Sony or Panasonic VCR's 
+
+• Order in Applesoft or PASCAL, Choice of 
+Authoring systems. Frame accurate stops 
+and switches, no accumulated error 
+
+
+
+Cavri 
+
+
+
+SYSTEMS, INC. 
+
+26 Trumbull Street, New Haven, CT 06511 
+(203) 562-4979 
+
+
+
+32 
+
+
+
+JANUARY 1981 
+
+
+
+
+OIUFORNIk 
+P/4CIFIC 
+
+
+
+
+Sohalk photos 
+
+
+
+Innovative IVIarketing Budges 
+
+
+
+The unforeseen ramifications of a company's policies can 
+sometimes have a ripple effect that goes well beyond the ob- 
+vious objects of the policy in question. 
+
+Such has been the case with one manufacturer of small, as 
+opposed to personal, computers. The company gave prefer- 
+ence to large, volume customers while pushing individual 
+orders from small retailers to the back burner. 
+
+What resulted unintentionally, but almost certainly as a di- 
+rect result of that manufacturer's order-filling policy, was the 
+formation of one of today's most successful software publish- 
+ers for the Apple — California Pacific Computers, Inc. 
+
+Cal Pacific's founder, Al Remmers, was working as a sales 
+rep for the computer company in question. Remmers not only 
+felt the brunt of the dissatisfaction of the small retailer who 
+could not get his order filled, he shared it. 
+
+"Individual retailers would put in an order for one or two 
+systems. Then Computerland corporate or another big buyer 
+would come in with orders for several dozen systems. The in- 
+dividual orders would be placed in a back-order status while 
+the larger orders were being processed. Sometimes, the small- 
+er orders would take six to eight months to fill." This, despite 
+the fact that they could have been filled in a few weeks had the 
+orders been processed in the sequence in which they had been 
+received at the plant. 
+
+Remmers already had a strong desire to test his sales and 
+marketing philosophies under his own shingle, and the frus- 
+trations of obtaining and submitting orders that took months to 
+fill only fueled that desire. 
+
+Led Super Invasion. It was about that time, early 1979, that 
+Remmers wa^ visiting one of his regular customers, a retailer 
+in Lawndale. There he saw Super Invaders for the first time. 
+
+"Super Invaders was only in eight stores in southern Cali- 
+fornia at that time. It had only been out for a week and I saw 
+this as an opportunity to get into business on my own." 
+
+Remmers contacted Astar International, the Japanese firm 
+who was importing Super Invaders, and made a deal for ex- 
+
+
+
+clusive rights to the program for northern California — rights 
+he still holds. 
+
+Thus was California Pacific bom. But Astar's quid pro quo, 
+in addition to royalties, for the territorial rights led to the most 
+momentous event so far in the history of the firm. 
+
+"Invaders was only available on cassette and the terms of 
+my deal with Astar included my manufacturing the program 
+on disk and copy-protecting it." 
+
+Budge Wouldn't Budge, But Association Began. It was 
+while searching for someone to handle the copy protection 
+chores that Remmers met Bill Budge, still the star of Cal Pa- 
+cific's stable of free-lance programmers. Budge didn't accept 
+the copy protection task — that went to Pete Rowe — but Budge 
+and Cal Pacific became a team subsequent to that meeting. 
+
+Remmers also obtained the rights to some CP/M product 
+when he opened California Pacific and the Bay Area centrali- 
+zation of the various CP/M-based hardware manufacturers led 
+him to the only false step as yet taken by the firm — he opened 
+an Oakland office even though the company headquarters and 
+his home were in Davis, California, near Sacramento. 
+
+"I felt that I needed a business base near Silicon Gulch" is 
+Remmers' explanation. Recently, the CP/M product line was 
+phased out and the Oakland office closed. 
+
+Computer Biz Is Location- Free. "We gave thoughtful con- 
+sideration to uprooting from Davis and taking the whole firm 
+to Oakland. In fact, I made the decision to do just that. I told 
+my wife, Diane, we were moving. Then, as we were walking 
+our dogs in the park one evening about eleven o'clock, it struck 
+me that there was no place in the Bay Area where we could go 
+this late at night and feel safe and secure. 
+
+"I turned to Diane and said, *I know I told you we were go- 
+ing to Oakland, but I just changed my mind. We're staying.' " 
+
+Although this makes Remmers sound autocratic and seem- 
+ingly puts Diane outside the mainstream of California Pa- 
+cific's business, neither is the case. As with so many firms that 
+are emerging successful, Cal Pacific was a husband-and-wife 
+
+
+
+JANUARY 1981 
+
+
+
+33 
+
+
+
+
+A rare picture of an 
+unbearded Al Remmers is 
+featured on the left. Clockwise 
+from lower left; Elain Von 
+Fcnge, administrative 
+assistant; Steve Gibson, 
+programmer; and Duane 
+Remmers, production. In lower 
+right is the only available 
+representation of Lord British. 
+
+
+
+Retailers 
+
+
+
+team effort at the beginning, and Diane Remmers still keeps 
+her finger on the pulse of the company by handling the books. 
+
+One positive note About the Oakland base was that it gave 
+Remmers geographical access to Budge, an Oakland resi- 
+dent. Budge had already written his successful Tranquility 
+Base, which was published by Stoneware. 
+
+Remmers approached Budge about marketing his next pro- 
+gram with the soft sell approach. "Give us a try and open up 
+your options. Then you'll have a basis for choice on your sub- 
+sequent programs." 
+
+Remmers Scored with Triple Play. Budge agreed to mar- 
+ket his next program through California Pacific, but it was 
+Remmers who ended up with the choice. As events transpired. 
+Budge had three arcade games near completion and gave 
+Remmers the option as to which he'd market. 
+
+At this point, Remmers 's marketing instincts stood him in 
+good stead. He proposed that all three programs be marketed 
+on the same disk, strongly pressing home the point that they'd 
+be the first to have marketed multiple good programs on a sin- 
+gle disk at a single price. 
+
+Thus was Trilogy born, certainly one of the top five selling 
+programs of 1980. 
+
+Even the name of the package reflected Remmers's differ- 
+ent approach. Prior to Trilogy, the names of the authors had 
+been downplayed and the names of the software publishers 
+prominently displayed. Remmers noted this was contrary to 
+the natural order of things in the book and movie businesses, 
+where the name of the publisher or distributor is far less no- 
+ticeable and important to the end consumer than that of the au- 
+thor, star, or director. 
+
+"Nobody goes to see Twentieth Century-Fox's Star Wars; 
+they go to see George Lucas's Star Wars. Likewise, nobody 
+reads a book because it's published by Doubleday— they read 
+the book because they know and like the author. People in the 
+software business had their priorities backward." 
+
+Publisher Sensitivity Leads to Author's Fame. Remmers 
+
+
+
+moved immediately to remedy this misplaced emphasis by ti- 
+tling the disk Bill Budge's Trilogy. The success of Trilogy and 
+Budge's subsequent product for California Pacific, Space Al- 
+bum and 3-D Graphics Package, had the effect of the author 
+eclipsing the publisher. Game players everywhere knew pro- 
+grams by Bill Budge, but practically no one could dredge up 
+the name of the publisher. 
+
+It wasn't only in naming the program that Remmers's 
+marketing philosophy was felt. Rather than spending big dol- 
+lars on advertising, Remmers put the equivalent money into 
+producing and mailing a demonstration disk that would let the 
+retailer see exactly what he was buying. 
+
+The demo disk not only serves the retailer, it addresses a 
+problem that has troubled Remmers for some time. "Time is 
+always the bottleneck. First, there's the time in developing the 
+program. Then there's the time in getting each retailer to eval- 
+uate the product." 
+
+A demo disk can't help the development process, but it cuts 
+dramatically the time it takes a retailer to make a buying de- 
+cision. That time-saving is convertible directly to sales. 
+
+Respect for Retailer Pays Off. Remmers shows his con- 
+cern for retailers in another way. California Pacific absolutely 
+refuses to make direct sales to the end consumer. When they 
+receive inquiries, the user is directed to his local computer 
+store or to retailers who advertise in national magazines. 
+
+Success of Remmers's marketing tactics was most graphi- 
+cally demonstrated in Softalk's first bestseller poll (October 
+1980). Four California Pacific products made the Top Thirty: 
+Head-Oyi, from Astar, and Budge's three programs. 
+
+That accomplishment was effectively achieved within the 
+time span of twelve months. California Pacific's Super In- 
+vaders hit northern California in mid-October of 1979 and Tril- 
+ogy followed in December. Space Album made its debut at the 
+West Coast Computer Faire in March. Head-On was released 
+in July. 
+
+Following were 3-D Graphics from Budge and Akalabeth, 
+written by Lord British. 
+
+
+
+Apple Disk Fixer 
+
+
+
+
+
+APPLE II 
+
+32K, DISK 
+
+
+
+
+13 OR 16 SECTOR 
+
+
+
+If you care enough to back up critical programs and files, Disk 
+Fixer'''i^will give additional peace of mind. This powerful utility 
+for experienced Apple users is a tool kit for manipulating, repair- 
+ing, and protecting all data on disk. 
+
+Use the high-speed full screen editor to examine and easily 
+change any portion of a disk, correct space usage within files, 
+and save money by locking out bad tracks on disks. Directories 
+are alphabetized, if you choose. 
+
+The display and search capabilities show where specific HEX 
+or ASCII data is located and you can modify any data including 
+binary files. DOS 3.2, DOS 3.3 & language system disk 
+
+Written by Jeffrey P. Garbers 
+©1980 The Image Producers, Inc., All Rights Reserved 
+
+
+
+computer 
+products: 
+
+
+
+615 Academy Drive 
+Northbrook, IL 60062 
+312/564-5060 
+
+
+
+34 
+
+
+
+SOFTAI 1/ 
+
+
+
+JANUARY 1981 
+
+
+
+The success of the 3-D Graphics System has been a pleas- 
+ant surprise. "Budge developed the program as a utility for his 
+own use, but we thought, 'Why not try to market it for other 
+programmers?' We thought we might sell a few hundred over 
+a long period of time." Instead, the program zoomed to the 
+third slot on the Top Thirty and, although it's tailed off some, 
+remains a solid seller. 
+
+Paradox: Author Lord British Is Anonymous. California 
+Pacific maintains an aura of mystery about the identity of 
+Lord British, author of Akalabeth. Speculation has ranged 
+from a child prodigy being protected by his parents to a Brit- 
+ish recluse. Neither is correct. Remmers is vdllingto acknowl- 
+edge any correct gxiess as to the identity of Lord British, but of- 
+fers no information on his own."* 
+
+Although Remmers looks at California Pacific as primar- 
+ily a software publisher, its marketing success has drawn it 
+into distribution as a second business activity. Currently, Cal 
+Pacific has nonexclusive rights to product from Sirlus Soft- 
+ware and Strategic Simulations. With each of those publishers 
+having product on the Top Thirty list, Cal Pacific is one of the 
+major volume shippers of product in the country. 
+
+Company Grows with Success. This expansion of business 
+activity has had concomitant growth in personnel. Starting 
+with himself and Diane in Davis and Randy Moore in Oak- 
+land, Remmers has since added three people, although Moore 
+left the company when the Oakland office was closed. 
+
+The first addition, in May, was Duane Remmers, Al's 
+brother, to handle production and shipping. In September, 
+Elain Von Fange and Steve Gibson came on board. Von Fange 
+
+*Softalk will award $50 in product from any Softalk advertiser to 
+the reader who can first correctly describe the identity of Lord Brit- 
+ish. Each month that Lord British remains unidentified, Softalk will 
+publish a clue provided by California Pacific. Most imaginative incor- 
+rect descriptions may also be published. Al Remmers of California Pa- 
+cific shall be the sole judge of whether the identification in any par- 
+ticular entry is sufficient. First clue : Lord British is not a resident of 
+Silicon Gulch. 
+
+
+
+functions administratively and Gibson has assumed such pro- 
+gramming chores as copy protection. 
+
+Good copy protection has a high priority at California Pa- 
+cific. "In areas where Super Invaders was sold on cassette and 
+unprotected, Trilogy outsold Invaders ten to one," reports 
+Remmers. Considering that Invaders is probably the bestsell- 
+ing game to date for the Apple, that sales ratio indicates the 
+lethal economic effect of the software pirate. 
+
+Gibson had a negative insight into the effect of copy protec- 
+tion. "Programmers will write code differently — in a more 
+cumbersome manner — when they know their program will be 
+copy-protected." 
+
+New Product Will Include Nongames. California Pacific 
+lost the battle to have Budge's next package and Lord Brit- 
+ish's next fantasy game ready for Christmas, so both will be 
+available early in the first quarter of this year, and still other 
+packages are in the works. 
+
+The focus will not remain entirely on entertainment prod- 
+uct. Remmers aspires to bring out the complete word proces- 
+sor for the Apple computer. He has a vision for such a product 
+while conceding that it does not yet exist. 
+
+A new refrain that's being heard in more than one comer of 
+the Apple industry was also sounded by Remmers. "We're 
+running into the limitations of the hardware in our new prod- 
+uct development." This is not to be taken as a pejorative jab 
+at Apple, but merely as a reflection that the programmers are 
+finally achieving technological parity with the hardware. How- 
+ever, Remmers has no concern about those limitations as they 
+affect his new product development. 
+
+Multitasking and Multlmlcroprocessors In Future. Rem- 
+mers sees the next programming breakthrough as harnessing 
+the Apple to do multitasking, which would contribute to mak- 
+ing it a more valuable business tool as well as allowing more 
+flexibility in constructing complex entertainment. 
+
+He's looking forward to the day when other microproces- 
+sors will be harnessed in tandem with the 6502 in the Apple to 
+make some of these advances not only possible, but easy. 
+
+
+
+
+REVOLUTIONAKY PKOGKAMS from COHTIHENTAL SOFTWARE 
+
+for your Apple Computer 
+
+^ THOROUGHLY TESTED ^ WELL DOCUMENTED 
+^ WRITTEN BY PROFESSIONALS ^ USER ORIENTED 
+
+AVAILABLE NOW! 
+
+
+
+L.A. LAND MOHOPOLY 
+$29.95 
+
+The object of L.A. Land Monopoly is to become the richest player in 
+the game in terms of total assets— cash, property, and buildings— and 
+to drive all your opponents into bankruptcy. Hi-Res Graphics! 
+
+HYPERSPACE WARS 
+S29.95 
+46-K TREK 
+
+The Terraunion is being attacked by a deadly Klepton invasion force. 
+As commander of the United Starship Excalibur, it is your mission to 
+destroy this invasion force. Hi-Res Graphics! 
+
+3-D SPACE DATTLE 
+
+A high resolution three dimensional space game where the player 
+searches for an alien ship using the on-board scanners. 
+
+
+
+THE MAILROOM 
+S29.95 
+
+* Up to 650 names per disk. * Ability to sort on any of 12 items 
+and/or special sorts on a portion of total entries. ♦ Prints labels 1, 2, 
+or 3 across. * Sorts names in 1-6 seconds. 
+
+THE HOME MOHEY MiHDER 
+$34.95 
+
+* Transactions for month by each type of expense; check, credit card 
+& cash. * Transactions for month by check, credit card and cash 
+sorted by budget category. * Bank reconciliation. * Budget for year 
+
+* Comparison of total expenses for month and year to date sorted by 
+budget category. 
+
+
+
+Complete Program $175 GEHERAL LEDGER Manual Only $15' 
+
+We challenge the competition with the first revolutionary general ledger program for the Apple that your accountant will like as much as you will 
+★ Complete step-by-step instructions * Automatic double-entry ★ Complete audit trails ★ Menu Driven ★ Easiest to use by far ★ Hi-Res 
+charting of all accounts ■*■ Maintains Complete Year's history of all transactions ★ Excellent error-checking 
+
+^ See All CONTINENTAL SOFTWARE at your Local Dealer or Order from 
+
+CONTINENTAL SOFTWARE 
+
+30448 Via Victoria Rancho Pales Verdes, CA 90274 Phone (213) 371-5612 
+
+California residents add 6% sales tax Apple is a registered trademark of the Apple Corporation 
+
+
+
+
+n^; software 
+
+Who needs it; 
+
+
+
+
+¥)udo. 
+
+
+
+For small amounts of information a pencil and paper 
+filing system works great. But when you want to keep track 
+of hundreds of pieces of information this system 
+has limitations. Recording information is slow, 
+locating what you want can be impossible, and the 
+system is so time consuming it keeps you from 
+filing information you know is valuable. 
+
+With PFS software and an APPLE* 
+computer you have a powerful alternative. 
+Using the concept of designing a form on 
+the screen, PFS lets you create a file of 
+information on any subject you wish 
+without programming. You can catalog 
+your stereo record collection, 35 mm 
+slides, magazine articles, daily ex- 
+penses, or your club's membership list. 
+Using PFS at work you can make better 
+decisions by creating files on inventory, customers, or or- 
+ders and accessing them in seconds. 
+
+To use PFS you simply design a form on the screen 
+by typing the names of the items you want to store in- 
+formation about. Once the form is created you tab from 
+
+PFS is a trademark of Software Publishing Corporation. 
+
+
+
+
+requires a 48K, 16'Sectordisc based 
+APPLE II system 
+
+
+
+item to item and fill in the information. This can be a 
+single piece of data or several pages of text. Up to 1000 
+forms can be stored on a diskette. 
+
+Looking up information is just as easy PFS 
+can search for a number, a single data item, or a 
+word within a page of text. All forms that match 
+are displayed on the screen. You can browse 
+through each one and change, delete, ex- 
+pand, or print it. PFS even has a print for- 
+matter that lets you create mailing labels. 
+
+PFS software is different. It is not a 
+specialized application package or a 
+complex programmer oriented data 
+base manager. It is a personal filing sys- 
+tem that lets you communicate with 
+the computer using meaningful every- 
+day concepts to rapidly create files on 
+any subject matter you require. 
+
+PFS is available through your local dealers. If they 
+don't carry it, have them give us a call at (415) f^^^^ 
+368-7598 or write to us at Software Publishing 
+Corporation, P.O. Box 50575, Palo Alto, CA l^^^J 
+
+"APPLE is a registered trademark of Apple Computer, Inc. 
+
+
+
+SoftwareRiblishing Corporation 
+
+
+
+36 
+
+
+
+< f S O r T A I IT 
+
+
+
+JANUARY 1981 
+
+
+
+Soflalk Presents Hie Bestsellers 
+
+
+
+Vi.siCalc from Personal Software again heads Softalk's Top 
+Thirty listing. However, an amendment to the Top Thirty as 
+published in the November and December issues drops Visi- 
+Calc to second for those two months. 
+
+November's Bestsellers discussed the reasons why Softalk 
+was disqualifying DOS 3.3, from Apple Computer Inc., from 
+consideration. The basic rationale was that the buyer had to 
+purchase chips at the same time, making the product a hybrid 
+as opposed to pure software. 
+
+The inclusion of the chips in the DOS 3.3 package is dis- 
+cussed on page 10 of this issue in Open Discussion. Rob Camp- 
+bell of Apple was sufficiently persuasive in his position that 
+DOS 3.3 is software and that the chips are included in the pack- 
+age as a convenience that Softalk has adopted that view. 
+
+For those who track the Top Thirty on a monthly basis, this 
+revision to the published lists is called for to reflect DOS 3. 3 for 
+the months of October and November: place DOS 3.3 at the top 
+of both lists with an index rating of 111.32 in the November 
+
+
+
+TlieTopTliirty 
+
+VisiCalc, Software Arts Inc. /Dan Bricklin and 
+Robert Frankston, Personal Software 
+DOS 3.3, Apple Computer Inc. 
+Star Cruiser, Nasir, Sirius Software 
+Hi-Res Adventure #2: The Wizard and the 
+Princess, Ken and Roberta Williams, On- Line 
+Systems 
+
+Flight Simulator, Bruce Artwick, SubLogic 
+Cyber Strike, Nasir, Sirius Software 
+Super Invaders, M. Hata, Creative Comput- 
+ing 
+
+Dogfight, Bill Basham, Micro Lab 
+Apple Plot, Apple Computer Inc. 
+Data Factory, Bill Passauer, Micro Lab 
+Hellfire Warrior, Automated Simulations 
+A.steroids in Space, Bruce Wallace, Quality 
+Software 
+
+DOS Tool Kit, Apple Computer Inc. 
+Hi-Res Football, Jay Sullivan and Ken Wil- 
+liams, On-Line Systems 
+
+CCA Data Management System, Creative 
+Computer Applications, Personal Software 
+Odyssey, Bob Clardy, Synergistic Software 
+Sargon, Dan and Kathe Spracklen, Hayden 
+Temple of Apshai, Automated Simulations 
+Rescue at Rigel, Automated Simulations 
+Bill Budge's Space Album, Bill Budge, Cali- 
+fornia Pacific 
+
+Apple Writer, Apple Computer 
+Adventure, Software Associates/Gordon Let- 
+win, Microsoft 
+
+Akalabeth, Lord British, California Pacific 
+Morloc's Tower, Automated Simulations 
+Asteroids, Marc Goodman, Adventure Inter- 
+national 
+
+Datestone of Ryn, Automated Simulations 
+Computer Quarterback, Dan Bunten, Strate- 
+gic Simulations 
+
+Easy Writer, John Draper, Information Un- 
+limited 
+
+Apple Adventure, Apple Computer 
+Bill Budge's 3-D Graphics Package, Bill 
+Budge, California Pacific 
+
+
+
+1. 
+
+
+1. 
+
+
+98.07 
+
+
+2. 
+
+
+
+
+74.85 
+
+
+3. 
+
+
+3. 
+
+
+70.05 
+
+
+4. 
+
+
+2. 
+
+
+59.36 
+
+
+5. 
+
+
+4. 
+
+
+50.88 
+
+
+6. 
+
+
+
+
+49.04 
+
+
+7. 
+
+
+15. 
+
+
+44.98 
+
+
+8. 
+
+
+11. 
+
+
+42.03 
+
+
+9. 
+
+
+10. 
+
+
+39.45 
+
+
+10. 
+
+
+19. 
+
+
+38.34 
+
+
+11. 
+
+
+9. 
+
+
+37.97 
+
+
+12. 
+
+
+7. 
+
+
+36.13 
+
+
+13. 
+
+
+8. 
+
+
+33.18 
+
+
+14. 
+
+
+
+
+32.45 
+
+
+15. 
+
+
+5. 
+
+
+31.71 
+
+
+16. 
+
+
+14. 
+
+
+30.60 
+
+
+17. 
+
+
+16. 
+
+
+29.86 
+
+
+18. 
+
+
+16. 
+
+
+28.76 
+
+
+19. 
+
+
+27. 
+
+
+28.39 
+
+
+20. 
+
+
+6. 
+
+
+28.02 
+
+
+21. 
+
+
+
+
+26.17 
+
+
+22. 
+
+
+25. 
+
+
+25.81 
+
+
+23. 
+
+
+
+
+22.12 
+
+
+24. 
+
+
+
+
+19.91 
+
+
+25. 
+
+
+28. 
+
+
+18.43 
+
+
+
+
+
+
+18.43 
+
+
+27. 
+
+
+12. 
+
+
+17.70 
+
+
+
+
+18. 
+
+
+17.70 
+
+
+29. 
+
+
+
+
+16.60 
+
+
+30. 
+
+
+19. 
+
+
+16.22 
+
+
+
+printed Top Thirty and an index rating of 102.67 in the Decem- 
+ber printed Top Thirty. 
+
+DOS 3.3 was accepted so rapidly by Apple owners that its 
+sales are already beginning to diminish as reflected by its sec- 
+ond place finish in this month's poll. 
+
+Three other items of particular note were the ascension of 
+Nasir from Sirius Software as the hottest new programmer, 
+the displacement of Easy Writer as the top word processor, 
+and the rise of the Data Factory data base. 
+
+Nasir's Star Cruiser held on to third place in this month's 
+poll. The surprise was his Cyber Strike moving into sixtji posi- 
+tion. That makes him competitive with Bill Budge, Ken Wil- 
+liams, and Bob Clardy, all of whom remain well-represented 
+on the Top Thirty, and each has several programs that were 
+near misses. 
+
+Easy Writer's drop in the Top Thirty was attributed by 
+many to the difficulty in procuring eighty-column boards in- 
+tended to run with the Pro system. 
+
+Micro Lab's Data Factory has been stalking CCA DMS for 
+the position of top data base program for some months. It has 
+gone from twenty-eighth to nineteenth to this month's tenth 
+and has finally overtaken CCA DMS. Many retailers are re- 
+porting a heating up of the data base competition with the De- 
+cember arrival of DB Master from Barney Stone. 
+
+November sales, which are represented in this poll, were 
+significantly ahead of October retail results. Interest in Apple 
+microcomputers and software has had added impetus from 
+Apple's new advertising campaign and from nationwide cov- 
+erage of the stock issue by Apple. 
+
+The varying level of sales from month to month makes ne- 
+cessary the caution that the sales index numbers shown to the 
+left of the program name have a correlation only in the month 
+to which they pertain. Trying to equate an index number of 50 
+in December with an index number of 50 in January will only 
+cause confusion and misleading conclusions. The index num- 
+bers are arbitrary representations of the relative strength of 
+the programs listed in the Top Thirty. 
+
+Low index numbers are patently not an indication of weak- 
+ness of those programs. These programs are successful com- 
+mercial software or they wouldn't have received sufficient 
+market acceptance to rank in the Top Thirty. 
+
+Rather, low index numbers are testimony to the real 
+strength of the program currently leading the list. In each 
+month to date, that program has been VisiCalc. 
+
+Commencing with the February issue, which will be track- 
+ing December sales, the Bestsellers will be expanded to in- 
+clude separate listings for business programs and utility and 
+other nonentertainment programs. Many such programs have 
+steadily appeared in the second thirty list. 31 
+
+Apple-franchised retail stores representing approximately 11 per- 
+cent of all sales of Apple and Apple-related products volunteered to 
+participate in the poll. 
+
+Respondents were contacted early in December to ascertain their 
+sales leaders for the month of November. 
+
+The only criterion for inclusion on the list was number of sales 
+made — such other criteria as quality of product, profitability to the 
+computer retailer, and personal preference of the individual respon- 
+dents were not considered. 
+
+Respondents in December represented every geographical area of 
+the continental United States as well as Hawaii. 
+
+Results of the responses were tabulated using a formula that re- 
+sulted in the index number to the left of the program name in the Top 
+Thirty listing. The index number is an arbitrary measure of relative 
+strength of the programs listed. Index numbers are correlative only 
+for the month in which they are printed ; readers cannot assume that 
+an index rating of 50 in one month represents equivalent sales to an in- 
+dex number of 50 in another month. 
+
+Probability of statistical error is plus-or-minus 4.3 percent, which 
+translates roughly into the theoretical possibility of a change of three 
+points, plus or minus, in any index number. 
+
+
+
+
+HOW TO TURN AN APPLE INTO A TANK, 
+
+
+
+With Computer Conflict™and a little imagination, we'll 
+transfomri your staid and respectable Apple computer into the 
+fearsome war machine of the Soviet Red Army. Computer 
+Conflict actually consists of two fast-paced, action-packed war- 
+games played on full-color mapboards of Hi-Res graphics: 
+Rebel Force and Red Attacid 
+
+REBEL FORCE puts you in the role of a Soviet commander 
+whose regiment must face a computer-directed guerrilla up- 
+rising which has overrun a vital town. Armed with your tank, 
+heavy^weapons, and infantry units, your mission is to regain 
+the town through the annihilation of the Rebel Force. 
+
+Your advance will be brutally opposed by minefields, 
+ambushes, militia, and anti-tank guns — all skillfully deployed 
+by your computer. Survival and success of your units will 
+depend on your ability to take advantage of the variable terrains 
+- open, forest, and rough - each of which has different move- 
+ment costs and shelter values. 
+
+In this finely- balanced solitaire wargame, every move is 
+played under real-time conditions: Procrastinate and lose. At 
+
+
+
+the same time, caution cannot be cast aside; severe unit 
+losses will only result in a l^yhrric victory at best 
+
+With its five levels of difficulty ( plus one where you make 
+up your own), the computer can and will stress your tactical 
+skills to their fullest 
+
+RED ATTACK! simulates an invasion by a mixed Soviet 
+tank and infantry force against a defending battalion. As the 
+defender, your task is to deploy your infantry units effectively 
+to protect three crucial towns — towns that must not fall! 
+
+As the Russian aggressor, your objective is to crush the 
+resistance by taking two of these three towns with your tanks 
+and infantry. With control of these strongpoints, the enemy's 
+capitulation is assured. 
+
+Red Attack! is a two-player computer simulation of modem 
+warfare that adds a nice touch: At the start of each game, the 
+computer displays a random setup of terrains and units, pro- 
+viding every game with a new, challenging twist 
+
+Computer Conflict for $39.95, comes with the game pro- 
+gram mini-disc and a rule book. 
+
+
+
+
+OR A SPITFIRE. 
+
+
+
+After you're done playing Computer Conflict you may be 
+in a mood for something other than ground-attack wargames. 
+In that case. Computer Air Combat™ is just what you need. 
+
+With Computer Air Combat your screen lights up with an 
+open sky generated by Hi-Res graphics offering global and 
+tactical plots. Squint your eyes a bit let loose your mind, and 
+you'd swear your keyboard has melted into the throttie, rudder, 
+altimeter, and other cockpit instrumentation of a World War II 
+combat plane. In fact any of 36 famous fighters or bombers, 
+from a Spitfire and B-17 Flying Fortress to the Focke-Wulf 190 
+and A6M5 Zero. Each plane is rated - in strict historical 
+accuracy and detail - for firepower, speed, maneuverability, 
+damagetolerance, and climbing and diving ability. 
+
+tactically every factor involved in flying these magnificent 
+airplanes has been taken into account, even down (or up?) to 
+the blinding sun. Climb, dive, twist and turn. Anything a real 
+plane can do, you can do. However, the computer prevents all 
+"illegal" moves - such as making an outside loop (which in 
+real life, would disastrously stall a plane). 
+
+
+
+PLAY THE COMPUTER. Aside from being the game's 
+perfect administrator and referee, the computer will serve as a 
+fierce opponent in the solitaire scenarios provided: Dogfight 
+Bomber Formation, radar-controlled Nightfighter, and V-1 Inter- 
+cept There's even an Introductory Familiarization Flight (with 
+Air Race option) to help you get off the ground. 
+
+With the number and type of planes and pilot ability 
+variable, you can make the computer as challenging as you 
+want to give you the ultimate flying experience. 
+
+PLAY A HUMAN. Two can play this game as well, in 
+dogfights and bomber attacks. Given a handicap of more or 
+better planes or an ace pilot (or all of the above), even a 
+novice at Computer Air Combat stands a chance to defeat a 
+battlehardened veteran. 
+
+For $59.95, Computer Air Combat gives you the game 
+disc, a rule book, two mapboard charts (for plotting strategies 
+between moves), and three player-aid charts. 
+
+
+
+Credit card holders, if you own an Apple®ll 48K (Apple 
+soft ROM) and a mini-floppy disc drive, call 800-227-1617 
+exL 335 (toll free) and charge your order to your VISA or 
+MASTERCHARGE. In Califomia, call 800-772-3545, ext 335. 
+
+To order by mail, send your check to: " 
+Strategic Simulations Inc, Dept S, 465 Fairchild Drive, 
+No. 108, Mountain View, CA 94043. All our games carry a 
+14-day money back guarantee to assure your satisfaction. 
+
+While you're at it, you can also get our other games: 
+
+
+
+□ Computer Bismarck for your Apple: $59.95 
+Computer Bismarck, TRS-80® 48K Disc: $59.95 
+Computer Bismarck, TRS-80 32K Cassette: $49.95 
+Computer Ambush (a tactical simulation of man-to- 
+man combat in WWII) for your apple: $59.95 
+Computer Napoleonics, tiie Battie of Waterloo for your 
+Apple: $59.95 
+
+□ Computer Quarterback (a real-time strategy football 
+game): $39.95 
+
+
+
+□ 
+
+
+
+□ 
+
+
+
+Apple is a registered trademark of Apple Computer Inc. 
+
+
+
+TRS-80 is a registered trademark of Tandy Corfxjration. 
+
+
+

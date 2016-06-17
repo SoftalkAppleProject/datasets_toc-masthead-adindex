@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="DjVuXML">
+    <xs:annotation>
+      <xs:documentation>Unofficial djvuXML schema, generated from an Internet Archive ITEMID_djvu.xml file by Jim Salmons 
+        for FactMiners/PRImA #TextSoup2SmartData project
+      </xs:documentation>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="BODY"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="BODY">
+    <xs:complexType>
+      <xs:choice maxOccurs="unbounded">
+        <xs:element ref="MAP"/>
+        <xs:element ref="OBJECT"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="MAP">
+    <xs:complexType>
+      <xs:attribute name="name" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="OBJECT">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="PARAM"/>
+        <xs:element ref="HIDDENTEXT"/>
+      </xs:sequence>
+      <xs:attribute name="data" use="required" type="xs:anyURI"/>
+      <xs:attribute name="height" use="required" type="xs:integer"/>
+      <xs:attribute name="type" use="required"/>
+      <xs:attribute name="usemap" use="required" type="xs:NCName"/>
+      <xs:attribute name="width" use="required" type="xs:integer"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PARAM">
+    <xs:complexType>
+      <xs:attribute name="name" use="required" type="xs:NCName"/>
+      <xs:attribute name="value" use="required" type="xs:NMTOKEN"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="HIDDENTEXT">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="PAGECOLUMN"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PAGECOLUMN">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="REGION"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="REGION">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="PARAGRAPH"/>
+      </xs:sequence>
+      <xs:attribute name="backgroundColor" type="xs:integer"/>
+      <xs:attribute name="inverted" type="xs:boolean"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PARAGRAPH">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="LINE"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="LINE">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="WORD"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="WORD">
+    <xs:complexType mixed="true">
+      <xs:attribute name="coords" use="required"/>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
