@@ -16,6 +16,14 @@ digitization process. The **magpage** directory -- currently containing
 incomplete work-in-process files -- will collect the files in MAGAZINE and PAGE
 format as part of the (upper) **\#GroundTruth** edition of the corpus.
 
+The **scripts** directory includes Python scripts used to generate the text and
+CSV files for the masthead staff and Ad Index structures within this corpus.
+Please note for non-developers, both the staff and ad gathering scripts expect
+to be run via the command-line with the source and output directories (in this
+order) supplied as arguments. Developers extending these scripts will need to
+provide the required command-line parameters as part of their project run/debug
+configuration.
+
 A manifest Excel spreadsheet -- and its equivalent in CSV, JSON, and XML formats
 -- is provided.
 
