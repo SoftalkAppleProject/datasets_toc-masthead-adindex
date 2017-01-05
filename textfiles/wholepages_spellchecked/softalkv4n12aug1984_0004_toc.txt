@@ -1,0 +1,43 @@
+﻿AUGUST 1984
+SOFTALK
+
+Softly Comment
+Softalk takes the stand with opinion and commentary: David Hunter wants less licensing and more originality in software: David Durkee thinks ProDOS isn't hard; Bill Parker exposes the horrors of writing documentation.... ............28
+
+Exec Electronic Arts: Software Construction Company
+Company profile: In 1975, Trip Hawkins figured that 1982 would be the year to start a business in the personal computer industry. He was right on the mark and his company is off to a good start.
+MATT YUEN .....................36
+
+llnd Grade Chats: A Catalog of Values
+Presenting a short machine language program that reads information returned by the normal DOS 3.3 catalog command into known Applesoft variables.
+JOHN A. OAKEY................53
+
+Apples Roar: Hollywood Pros Produce with Micros
+You may not see them in any movies this summer, but Apples are behind the scenes in Hollywood helping with a number of tasks.
+MICHAEL FERRIS............72
+
+DEPARTMENTS
+
+Advertisers' Index ..............Opposite Page
+Beginners’ Corner, by Todd Zilbert
+A first look at ProDOS	61
+Bestsellers................................123
+Contest: Computeytoons
+Outdraw Conrad and win software..............4
+Contest Winners
+Results of May's Gravy-Boat Diplomacy contest.	. 6
+DOStalk, by Tom Weishaar
+The parameters of DOS's text file commands. .. 43 
+Follow the Floating Point, by David Durkee
+Assembling shape tables....................109
+Mac 'n' Lisa, by Kevin Goldstein
+Graphic filing, C, hard disks..............103
+Marketalk News
+Announcing new products and services.........67
+Marketalk Reviews...............................87
+Mind Your Business, by Peter Olivieri
+Investment software, mailing lists, and news ...105 
+Open Discussion
+Letters: no Jacksons rumors here..............13
+Tradetalk
+Industry news: Franklin flops and more .......48

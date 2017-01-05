@@ -1,0 +1,105 @@
+﻿OCTOBER 1982
+SOFTALK
+2
+
+Chairman	John Haller
+Publisher	Al Tommervik
+Editor	Margot Comstock Tommervik
+Art Director	Kurt A. Wahlner
+Managing Editor	Patricia Ryall
+Associate Editors	Jean Varven Andrew Christie
+Newspeak Editor	David Hunter
+Special Assignments	Jonathan Miller
+Open Discussion Editor	Tommy Gear
+News and Trade Editor	Matthew T. Yuen
+Reviews Editor	Roe Adams
+Assistant Editors	Michael Ferris David Durkee
+Proofreader	Harry McNeil
+Contributing Editors	
+Assembly Language	Roger Wagner
+Pascal	Jim Merritt
+Business	Peter Olivieri
+Apple CP/M	Greg Tibbetts
+Apple III	Taylor Pohlman
+Hardware	Jeffrey Mazur
+Applesoft	Doug Carlston
+Investing	Kenneth Landis
+DOS	Bert Kersey
+Graphics Financial Modeling	Mark Pelczarski
+	Joe Shelton
+Beginners	Christopher U. Light
+Basic Solution	Wm. V. R. Smith
+Art Manager	Kevin McKeon
+Art Assistants	Michael G. Pender Roxanne Rogers Jill Schultz
+Associate Publisher	Mary Sue Rennells
+Accounting	Evelyn Burke
+Accounting Assistant	Mary Milam
+Marketing	Jim Salmons
+Marketing Assistant	Dave Fitzgerald
+Purchasing	Steven M. Poncar
+Assistant to	
+the Publisher	Dan Yoder
+Book Sales	Lois Stickelmaier
+Advertising Coordinator	Linda McGuire
+West Coast Sales	David Hunter Softalk Box 60 North Hollywood, CA 91603 (213) 980-5074
+East Coast Sales	Paul McGinnis Paul McGinnis Company 60 East 42nd Street New York, NY 10017 (212) 490-1021
+Midwest and Rocky Mountain Sales	Ted Rickard John Sienkiewicz Market/Media Associates 435 Locust Road Wilmette, IL 60091 (312) 251-2541
+Circulation	
+Trial Subscriptions	Hal Schick Dierdre Booth
+Paid Subscriptions	Pam Kelley
+Dealer Sales	Judy Weinstein
+Back Issues	Ron Rennells
+List Maintenance	Pat Adams Harry Richardson
+Assistants	Keith Landry Cliff Martinez
+Systems	Sam Pawley
+Guest Reviewers: Dave Albert, Neil Britt, Samantha Good, Forrest Johnson, Jock Root, R. Jon Ruppert, and Craig Stinson.
+
+Cover Photo: Fleetwood Mac performing at the Us Festival, Devore, California. Photo by Kurt Wahlner.
+Credits: Composition by Photographics, Hollywood, California. Printing by Volkmuth Printers, Saint Cloud, Minnesota.
+
+Apple and Applesoft are registered trademarks of Apple Computer Inc., Cupertino, California. UCSD Pascal is a trademark of the University of California at San Diego. VisiCalc is a trademark of VisiCorp, San Jose, California. SoftCard is a trademark of Microsoft, Bellevue, Washington. GraForth is a trademark of Insoft Inc., Portland, Oregon.
+
+Softalk. Volume 3, Number 2. Copyright ® 1982 by Softalk Publishing Inc. All rights reserved. ISSN:0274-9629. Softalk is published monthly by Softalk Publishing Inc., 11160 McCormick Street, North Hollywood, California; telephone (213) 980-5074. Second-class postage paid at North Hollywood, California, and additional mailing offices.
+Postmaster: Send address changes to Softalk, Box 60, North Hollywood, CA 91603.
+Free Subscription: Complimentary trial subscriptions to all owners of Apple computers in the USA. If you own an Apple, but you’ve never received Softalk, send your name, address, and Apple serial number with a request for subscription to Softalk Circulation, Box 60, North Hollywood, CA 91603. Softalk is totally independent of Apple Computer Inc.; sending your warranty card to Apple Computer will not inform Softalk of your existence.
+Paid Subscription: $24 per year without sponsor, $18 per year with sponsor. At the end of trial period, each subscriber will be notified; response is required only if you wish to continue receiving Softalk. Lack of response will be taken as your choice to discontinue the magazine. Special rates for schools and libraries, $8; multiple subscriptions for schools and libraries, $5 each.
+Back Issues: $2 through February 1981; $2.50 from April 1981 through July 1981; $3.50 thereafter. October, November, and December 1980 and January, February, March, September, October, and November 1981 are sold out.
+Problems? If you haven’t received your Softalk by the fifteenth of the month, or if you have other problems with your subscription, Hal Schick or Pam Kelley can help out. Call (213) 980-5074.
+Moving? Send new address and old to Softalk Circulation, Box 60, North Hollywood, CA 91603; telephone (213) 980-5074.
+
+Contest:
+The Significant
+Figure
+
+First there was Rocky III. Then came Friday the 13th, Part 3. Star Wars fans already have their eyes set on summer 1983 for Revenge of the Jedi. From the looks of things, sequels to sequels are doing pretty darn well, so the Softalk contest staff is trying their hand at it.
+As deadline approached we found the contest staff still patting themselves on the back for last month’s Shapes contest when they realized it was time to think up another. So we hosed them down; shut them inside their cage with a few pads of paper, some pencils, and an abacus; and they came up with this month’s contest, the third Unknown A.
+(The cage, in fact, was not to keep in the puzzle staff but to keep out the furious art director who actually invented September’s contest.)
+It seems rather appropriate, since the last few contests have been focused toward our more literary-minded readers, that we address ourselves to another group, the mathematically inclined. The Significant Figure will be a delight for some, a nightmare for others. One staffer tried for two hours to solve the puzzle and went into shock. Recovery is slow; he can now recognize his shadow and eat solid foods.
+How to play:
+1.	First, determine the values of the letters by figuring out the clues.
+2.	Next, plug the values into that hideous looking formula to find out what the mysterious A is. (Don’t forget your Apple’s built-in math functions.)
+3.	Those who correctly solve the Unknown A III will be stuffed into the random number generator (yes, it’s back again), which will yank out a winner. That lucky person wins $100 worth of goods made by Softalk advertisers.
+4.	For go-getters, there’s more. Once you get the A, explain its significance. Explanations must be more than two words, but not more than A words. Again, if there are ties, the beloved RNG will work overtime. The winner of this round will also win $100 worth of goods made by Softalk advertisers.
+5.	Getting the significance without knowing the numerical value of A won’t win you a blooming thing.
+6.	Tips. The only real tips we can give you are:
+a)	The answer A is significant in the microcomputer industry in general.
+b)	Were it not for A, you probably wouldn’t be doing this contest.
+If you really get stuck, open your window and give us a call. We probably won’t be able to help that much, but you may recognize your shadow. Or we could crack some jokes, have a good time, and take your mind off the contest for a while. Good luck, and above all, have fun!
+Clues.
+m = keys on a piano; football players needed for four games. x = inches the Two is tall. p = Two slots; Beatles’s days a week.
+G = kittens coming from Saint Ives; $961. z = bathing men; a crowd. v = vertical paddle; Chorus Line sensations. e = defensive housing; Abe’s bill. b = balls for a 300 game; baker’s dozen shy one.
+n = drives per card; Bactrian humps; cents’ worth.
+C = true love’s gifts after b days.
+T = price for InvisiTabs; prize for losing this contest.
+Send in your entry by November 15, 1982, to Softalk Significance, Box 60, North Hollywood, CA 91603.
+The Significant Figure is:_____________________
+The significance of the Significant Figure is:
+I am:------------------------------------------
+I live at______________________________________
+In city and state of:_________________________—
+My phone number is:____________________________
+My dealer is:----------------------------------
+His phone number is:---------------------------
+If I win, it’d be nice to have:________________
+Yours respectfully:-----------------------------------
+There are three other contests in this issue. Find them!

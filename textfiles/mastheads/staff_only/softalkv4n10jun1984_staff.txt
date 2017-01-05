@@ -1,0 +1,64 @@
+﻿POSITION	NAME
+Publisher	Al Tommervik
+Editor	Margot Comstock Tommervik
+Art Director	Kurt A. Wahlner
+Editorial Staff	
+	Senior Editor	David Hunter
+	Managing Editor	Carol Ray
+	Associate Editors	
+		Associate Editor	Andrew Christie
+		Programming	David Durkee
+		Product and Trade News	Michael Ferris, Jean Varven
+		Reviews	Matthew T. Yuen
+	Feature Editors	
+		Hardware	Jock Root
+		Letters	Todd Zilbert
+	Market Research	Lanny Broyles
+	Copy Editor	Cordell Cooper
+	Assistant Copy Editor	Judith Pfeffer
+	Editorial Coordinator	Betsy Barnes
+	Proofreaders	Harry McNeil, Steve Thomsen
+Editorial Correspondents	
+	Contributing Editors	
+		Pascal	Jim Merritt
+		Business	Peter Olivieri
+		Apple CP/M	Greg Tibbetts
+		DOS	Tom Weishaar
+		Graphics	Bill Budge
+		32-Bit Apples	Kevin Goldstein
+	Softalk Sages	Doug Carlston, Bob Clardy, Roy Hicks, John Jeppson, Mark Pelczarski, Joe Shelton, Roger Wagner
+Art	
+	Production Manager	Donald J. Robertson
+	Associate Art Director	Lucas McClure
+	Ad Production	Michael G. Pender
+	Assistant Production Manager	Nancy Baldwin
+	Assistant	Ruth Seid
+Softalk Publishing	
+	Business	
+		Chairman	John Haller
+		Associate Publisher	Mary Sue Rennells
+		Assistant Publisher	Three Tyler
+		Advance Projects	Steve Shendelman
+		Operations	Marjorie Kaufman
+		Director of Finance	Chari Hilario
+		Controller	Duane Runyon
+		Purchasing	Gene O'Day
+		Softalk Books	Gerald Rafferty, Paul Mithra, Laurie O'Connell
+	Siblings	
+		Editor - Softalk for the IBM Personal Computer	Craig Stinson
+		Editor - ST.Mac	Patricia Ryall
+		Editor - St. Game	Andrew Christie
+	Advertising
+		Advertising Coordinator	Linda McGuire Carter
+		Assistant	Cathy Stewart
+		West Coast Sales - Softalk	Randie James
+		West Coast Sales - St. Game	Randie James
+		West Coast Sales - Softalk for the IBM Personal Computer	Mike Antich
+		West Coast Sales - ST. Mac	Mike Antich
+		East Coast Sales	Ian Ross, Paul McGinnis, [Advertising Sales]
+		Midwest and Rocky Mountain Sales	Ted Rickard, Bill Chalifaux, Kevin Sullivan, [Market/Media Associates]
+	Circulation
+		Customer Service	Michelle Vigneault-Kirschenbaum 
+		Subscriptions	Leticia Garcia, Jan Godoy-Aguiar, Barbara Naimoli, Josie Walley, Deirdre Galen, Anna Gusland, Ramona Gordon, Jill Stroud, Nancy Kelly
+		Dealer Sales	Lanny Broyles
+		Systems	John Heitmann

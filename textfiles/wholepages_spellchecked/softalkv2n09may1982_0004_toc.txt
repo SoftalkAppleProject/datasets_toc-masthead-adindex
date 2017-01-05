@@ -1,0 +1,89 @@
+﻿MAY 1982
+SOFTALK
+2
+
+Chairman	John Haller
+Publisher	Al Tommervik
+Editor	Margot Comstock Tommervik
+Art Director	Kurt A. Wahlner
+Associate Editors	Craig Stinson Jean Varven
+Assistant Editor	Andrew Christie
+Special Assignments	David Hunter Melissa Milich Jonathan Miller Tommy Gear
+Copy Editor	Michael Ferris
+Proofreader	Harry McNeil
+Editorial Assistant	Karen Kleiner
+Contributing Editors	
+Assembly Language	Roger Wagner
+Pascal	Jim Merritt
+Business	Peter Olivieri
+Apple CP/M	Greg Tibbetts
+Apple III	Taylor Pohlman
+Hardware	Jeffrey Mazur
+Applesoft	Doug Carlston
+Investing	Kenneth Landis
+DOS	Bert Kersey
+Graphics	Mark Pelczarski
+Financial Modeling	Joe Shelton
+Basic Solution	Wm. V. R. Smith
+Guest Reviewers	Chris Light Allen Munro
+Art Assistants	Rubuel Kissler Mark Wilber
+Associate Publisher	Mary Sue Rennells
+Accounting	Evelyn Burke
+Production Coordinator	Elaine Cohen
+Purchasing	Nancy Oppenheim
+West Coast Sales	Jo Hilliard Softalk 11021 Magnolia Boulevard North Hollywood, CA 91601 (213) 980-5074
+East Coast Sales	Paul McGinnis Paul McGinnis Company 60 East 42nd Street New York, NY 10017 (212) 490-1021
+Midwest and Rocky Mountain Sales	Ted Rickard John Sienkiewicz Market/Media Associates 435 Locust Road Wilmette, IL 60091 (312) 251-2541
+Book and Poster Sales Circulation	Mary Milam
+Back Issues	Ron Rennells
+Dealer Sales	Robert Mann
+Trial Subscriptions	Hal Schick
+Paid Subscriptions	Dan Yoder
+Assistants	Donna Siebert Dierdre Booth Lois Stickelmeier Judy Weinstein
+Systems	Wm. V. R. Smith Ken Williams Sam Pawley
+
+Cover Photo: Jockey Sandy Hawley on Emerald Isle Stable’s Rawbone, trained by Darrell Vienna, in the pad-dock at Santa Anita Racetrack, Arcadia, California. Photo and cover design by Kurt Wahlner.
+Composition by Photographics, Hollywood, California. Printing by Volkmuth Printers, Saint Cloud, Minnesota.
+
+Apple and Applesoft are registered trademarks of Apple Computer Inc., Cupertino, California.
+
+UCSD Pascal is a trademark of the University of California at San Diego.
+
+VisiCalc is a trademark of VisiCorp., Sunnyvale, California.
+
+SoftCard is a trademark of Microsoft, Bellevue, Washington.
+
+Softalk. Volume 2, Number 9. Copyright ® 1982 by Softalk Publishing Inc. All rights reserved. ISSN:0274-9629. Softalk is published monthly by Softalk Publishing Inc., 11021 Magnolia Boulevard, North Hollywood, CA 91601. Telephone: Business and editorial offices, (213) 980-5074; (213) 763-0975; circulation, (213) 980-5099. Second-class postage paid at North Hollywood, CA, and additional mailing offices.
+Postmaster: Send address change to Softalk, 11021 Magnolia Boulevard, North Hollywood, CA 91601.
+Free Subscription: Complimentary trial subscription to all owners of Apple computers in the USA. If you own an Apple, but you’ve never received Softalk, send your name, address, and Apple serial number with a request for subscription to Softalk Circulation, 11021 Magnolia Boulevard, North Hollywood, CA 91601. Softalk is totally independent of Apple Computer Inc.; sending your warranty card to Apple Computer will not inform Softalk of your existence.
+Paid Subscription: $24 per year without sponsor, $18 per year with sponsor. At the end of the free year, each subscriber will be notified; response is required only if you wish to continue receiving Softalk. Lack of response will be taken as your choice to discontinue the magazine. Special rates for schools and libraries, $8; multiple subscriptions for schools and libraries, $5 each.
+Back Issues: $2 through February 1981; $2.50 from April 1981 through July 1981; $3.50 thereafter. October, November, and December 1980 and January, February, March, September, October, and November 1981 are sold out.
+Problems? If you haven’t received your Softalk by the fifteenth of the month, or if you have other problems with your subscription, Dan Yoder or Hal Schick can help out. Call (213) 980-5099.
+Moving? Send new address and old to Softalk Circulation. 11021 Magnolia Boulevard, North Hollywood, CA
+91601; telephone, (213) 980-5099.
+
+CONTEST:
+DIG THE DECADES
+
+The conglomeration of people picnicking on pages 136 and 137 represents some of the outstanding personalities of three decades, 1952 through 1982. Most would be known to anyone at all familiar with those eras; a few require some acquaintance with the Apple world.
+The person who names correctly the greatest number of pictured people will win $100 worth of Softalk's advertisers products. In case of a tie, the random number generator will labor again.
+Fill in each number on the entry list with the name of the person whose caricature on pages 136 and 137 corresponds to the numbered outline on the drawing on this page.
+Be sure that your answers also correspond to the list of anagrammed names that follows. The list is given as an assist but it also acts as a check to be sure you choose the correct name in the event that a person goes by more than one.
+The best way to proceed is to note the people you recognize immediately; then find the anagrams corresponding to their names and cross them off. When you’re stumped on faces, begin solving the remaining anagrams, looking then to fit the names you discover with the faces.
+Deadline for entries is June 15, 1982.
+Good luck.
+Send this entry form or a facsimile with your answers to Softalk Caricatures, 11021 Magnolia Boulevard, North Hollywood, CA 91601, by June 15, 1982.
+Name:
+Address:
+City/state/zip:
+Phone:
+Prizes you’d like:
+Dealer’s name:
+Put your answers here (or on a separate sheet)
+Your autograph:
+1	15	29	42
+2	16	30	43
+3	17	31	44
+4	18	32	45
+5	19	33	46
+6 7 8 9 10 11 12 13 14	20 21 22 23 24 25 26 27 28	34 35 36 37 38 39 40 41	47 48 49 50 51 52 53 54 55

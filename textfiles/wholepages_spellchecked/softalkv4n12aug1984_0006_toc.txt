@@ -1,0 +1,53 @@
+﻿AUGUST 1984
+SOFTALK
+4
+
+SOFTALK(tm)
+
+Publisher: Al Tommervik Editor: Margot Comstock Tommervik Art Director: Kurt A. Wahlner
+
+Editorial Staff
+
+Senior Editor: David Hunter. Managing Editor: Carol Ray. Associate Editors: Andrew Christie; David Durkee, Programming; Michael Ferris, Product and Trade News; Jean Varven; Matthew T.
+Yuen, Reviews. Feature Editors: Jock Root, Hardware; Todd Zilbert, Letters. Market Research: Lanny Broyles. Copy Editor: Cordell Cooper. Assistant Copy Editor: Judith Pfeffer. Editorial Coordinator: Betsy Barnes. Proofreaders: Harry McNeil; Steve Thomsen. Editorial Assistant: Erin Carlston.
+
+Editorial Correspondents
+
+Contributing Editors: Jim Merritt, Pascal, Peter Olivieri, Business; Greg Tibbetts, Apple CP/M, Tom Weishaar, DOS; Bill Budge, Graphics; Kevin Goldstein, 32-Bit Apples. Regional Editors: Roe Adams, East Coast; John MacGibbon, Australasia. Softalk Sages: Doug Carlston, Bob Clardy, Roy Hicks, John Jeppson, Mark Pelczarski, Eden Recor,
+Joe Shelton, Roger Wagner.
+
+Art
+
+Production Manager: Donald J. Robertson.
+Associate Art Director: Lucas McClure. Ad Production: Michael G. Pender. Assistant Production Manager: Nancy Baldwin. Assistant: Ruth Seid.
+
+Softalk Publishing
+Business
+Chairman: John Haller. Associate Publisher: Mary Sue Rennells.
+Assistant Publisher: Three Tyler. Advance Projects: Steve Shendelman. Operations: Marjorie Kaufman. Director of Finance: Chari Hilario. Controller: Duane Runyon. Purchasing: Gene O’Day. Softalk Books: Paul Mithra. Siblings: Craig Stinson, Editor, Kevin McKeon, Art Director, Softalk for the IBM Personal Computer; Patricia Ryall, Editor, Trici Venola, Art Director,
+ST. Mac.
+
+Advertising
+
+Coordinator: Linda McGuire Carter. Assistant: Cathy Stewart. West Coast Sales: Randie James, Softalk; Mike Antich, Softalk for the IBM Personal Computer, ST.Mac. Softalk, 7250 Laurel Canyon Boulevard, North Hollywood, CA 91605; (818) 980-5074.
+East Coast Sales: Ian Ross, Paul McGinnis Advertising Sales, 690 Broadway, Massapequa, NY 11758; (212) 490-1021.Midwest and Rocky Mountain Sales: Ted Rickard. Bill Chalifoux, Kevin Sullivan, Market/Media Associates, 435 Locust Road, Wilmette, IL 60091; (312) 251-2541
+
+Circulation
+
+Customer Service: Michelle Vigneault-Kirschenbaum. Subscriptions: Jan Godoy-Aguiar, Barbara Naimoli, Josie Walley, Deirdre Galen, Anna Gusland, Ramona Gordon, Jill Stroud, Nancy Kelly, Laura Shunk. Dealer Sales: Lanny Broyles, Leticia Garcia. Systems: John Heitmann.
+
+Indicia
+
+Softalktm. Volume 4, Number 12. Copyright © 1984 by Softalk Publishing Inc. All rights reserved. ISSN:0274-9629. Softalk is published monthly by Softalk Publishing Inc., 7250 Laurel Canyon Boulevard, North Hollywood, California; telephone (818) 980-5074. Second-class postage paid at North Hollywood, California, and additional mailing offices.
+Credits: Composition by Photographics, Hollywood, California. Printing by Volkmuth Printers, Saint Cloud, Minnesota. Apple, Applesoft, Macintosh, and Lisa are registered trademarks of Apple Computer Inc., Cupertino, California. Softalk is a trademark of Softalk Publishing Inc., North Hollywood, California. Postmaster: Send address changes to Softalk, Box 7039, North Hollywood, CA 91605.
+Advertising: Send ad material to Linda McGuire Carter, Softalk, 7250 Laurel Canyon Boulevard, North Hollywood, CA 91605. Free Subscriptions: Complimentary six-month subscriptions to all owners of Apple II, II Plus, IIe, IIc, and III computers in the USA and Canada. If you own an Apple but you’ve never received Softalk, send your name, address, and Apple serial number with a request for subscription to Softalk Circulation, Box 7039, North Hollywood, CA 91605. Please allow six to eight weeks for processing. Softalk is totally independent of Apple Computer Inc.; sending your warranty card to Apple Computer will not trigger a subscription to Softalk. Paid Subscriptions: $24 per year. At the end of trial period, each subscriber will be notified; response is required only if you wish to continue receiving Softalk. Lack of response will be taken as your choice to discontinue the magazine.
+Special rates for schools and public libraries, $12; concurrent additional subscriptions for schools and public libraries, $8 each. Please allow six to eight weeks for processing.
+Back Issues: $2 through February 1981; $2.50 through July 1981; $3.50 through September 1982; $4.00 thereafter. November and December 1980, January, February, March, September, October, and November 1981, and December 1982 are sold out. December 1981, February and May 1982, February and December 1983, and July 1984 are in short supply. Moving? Send new address and a label from a recent Softalk to Softalk Circulation, Box 7039, North Hollywood, CA 91605; telephone (818) 980-5074. Please allow six to eight weeks for processing. Problems? If you haven’t received your Softalk by the fifteenth of the month, or if you have other problems with your subscription, Michelle Vigneault-Kirschenbaum can help out. Call (818) 980-5074 or (800) 821-6231.
+
+CONTEST:
+Computeytoons
+
+Computers and the computer industry are exciting, expansive, explosive (figuratively, usually), competitive, and ingenious. Sometimes computers and the computer industry can be funny.
+We like funny. We want your ideas of what’s funny in the computer world. We want you to submit pen-and-ink cartoons, like those in the editorial pages of your newspaper. Like those for which you read the New Yorker. Like those that made Oliphant a household name. If you’re artistic, give us art; if you’re not, give us minimalism. The pictures are the least of it when it comes to cartooning; we’re looking for
+brevity, sophistication, and clarity, a blend of humor and commentary to grace the pages of Contest Winners. The ’toons should be at least obliquely related to computers.
+Send us your three best attempts at computeytoons, drawn in black ink on three separate pieces of plain white paper. Computer-drawn entries are okay if they’re printed in black. You have until September 15, 1984, to submit your work. Specify the dream software (from Softalk's advertisers) that you covet, and send the whole hysterical package to Softalk Computeytoons, Box 7039, North Hollywood, CA 91605.

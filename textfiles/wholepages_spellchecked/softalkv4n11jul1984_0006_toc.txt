@@ -1,0 +1,46 @@
+﻿JULY 1984
+SOFTALK
+4
+
+SOFTALK
+
+Publisher: Al Tommervik Editor: Margot Comstock Tommervik Art Director: Kurt A. Wahlner
+Editorial Staff
+Senior Editor: David Hunter. Managing Editor: Carol Ray. Associate Editors: Andrew Christie; David Durkee, Programming; Michael Ferris, Product and Trade News; Jean Varven; Matthew T. Yuen, Reviews. Feature Editors: Jock Root, Hardware, Todd Zilbert, Letters. Market Research: Lanny Broyles. Copy Editor: Cordell Cooper. Assistant Copy Editor: Judith Pfeffer. Editorial Coordinator: Betsy Barnes. Proofreaders: Harry McNeil; Steve Thomsen.
+Editorial Correspondents
+Contributing Editors: Jim Merritt, Pascal; Peter Olivieri, Business; Greg Tibbetts, Apple CP/M; Tom Weishaar, DOS;
+Bill Budge, Graphics; Kevin Goldstein, 32-Bit Apples. Regional Editors: Roe Adams, East Coast; John MacGibbon, Australasia. Softalk Sages: Doug Carlston, Bob Clardy, Roy Hicks, John Jeppson, Mark Pelczarski, Joe Shelton, Roger Wagner.
+Art
+Production Manager: Donald J. Robertson.
+Associate Art Director: Lucas McClure. Ad Production: Michael G. Pender. Assistant Production Manager: Nancy Baldwin. Assistant: Ruth Seid.
+
+Softalk Publishing
+
+Business
+Chairman: John Haller. Associate Publisher: Mary Sue Rennells.
+Assistant Publisher: Three Tyler. Advance Projects: Steve Shendelman. Operations: Marjorie Kaufman. Director of Finance: Chari Hilario. Controller: Duane Runyon. Purchasing: Gene O’Day. Softalk Books: Paul Mithra. Siblings: Craig Stinson, Editor, Softalk for the IBM Personal Computer, Patricia Ryall, Editor,
+ST. Mac.
+Advertising
+Coordinator: Linda McGuire Carter. Assistant: Cathy Stewart. West Coast Sales: Randie James, Softalk; Mike Antich, Softalk for the IBM Personal Computer, ST.Mac. Softalk,
+7250 Laurel Canyon Boulevard, North Hollywood, CA 91605; (818) 980-5074.
+East Coast Sales: Ian Ross, Paul McGinnis Advertising Sales, 690 Broadway, Massapequa, NY 11758; (212) 490-1021. Midwest and Rocky Mountain Sales: Ted Rickard, Bill Chalifoux, Kevin Sullivan, Market/Media Associates, 435 Locust Road, Wilmette, IL 60091; (312) 251-2541.
+Circulation
+Customer Service: Michelle Vigneault-Kirschenbaum. Subscriptions: Jan Godoy-Aguiar, Barbara Naimoli, Josie Walley, Deirdre Galen, Anna Gusland, Ramona Gordon, Jill Stroud, Nancy Kelly. Dealer Sales: Lanny Broyles, Leticia Garcia. Systems: John Heitmann.
+
+Indicia
+
+Softalk. Volume 4, Number 11. Copyright © 1984 by Softalk Publishing Inc. All rights reserved. ISSN:0274-9629. Softalk is published monthly by Softalk Publishing Inc., 7250 Laurel Canyon Boulevard, North Hollywood, California; telephone (818) 980-5074. Second-class postage paid at North Hollywood, California, and additional mailing offices.
+Credits: Composition by Photographics, Hollywood, California. Printing by Volkmuth Printers, Saint Cloud, Minnesota. Apple, Applesoft, Macintosh, and Lisa are registered trademarks of Apple Computer Inc., Cupertino, California. Softalk is a trademark of Softalk Publishing Inc., North Hollywood, California. Postmaster: Send address changes to Softalk, Box 7039,
+North Hollywood, CA 91605.
+Advertising: Send ad material to Linda McGuire Carter, Softalk, 7250 Laurel Canyon Boulevard, North Hollywood, CA 91605. Free Subscriptions: Complimentary six-month subscriptions to all owners of Apple II, II Plus, IIe, IIc, and III computers in the USA and Canada. If you own an Apple but you’ve never received Softalk, send your name, address, and Apple serial number with a request for subscription to Softalk Circulation, Box 7039, North Hollywood, CA 91605. Please allow six to eight weeks for processing. Softalk is totally independent of Apple Computer Inc; sending your warranty card to Apple Computer will not trigger a subscription to Softalk.
+Paid Subscriptions: $24 per year. At the end of trial period, each subscriber will be notified; response is required only if you wish to continue receiving Softalk. Lack of response will be taken as your choice to discontinue the magazine. Special rates for schools and libraries, $12; concurrent additional subscriptions for schools and libraries, $8 each. Please allow six to eight weeks for processing. Back Issues: $2 through February 1981; $2.50 through July 1981; $3.50 through September 1982; $4.00 thereafter. November and December 1980, January, February, March, September, October, and November 1981, and December 1982 are sold out. December 1981, February and May 1982, and February and December 1983 are in short supply.
+Moving? Send new address and a label from a recent Softalk to Softalk Circulation, Box 7039, North Hollywood, CA 91605; telephone (818) 980-5074. Please allow six to eight weeks for processing.
+Problems? If you haven’t received your Softalk by the fifteenth of the month, or if you have other problems with your subscription, Michelle Vigneault-Kirschenbaum can help out. Call (818) 980-5074 or (800) 821-6231.
+
+Contest: If You
+Believe in
+Clap Your Hands!
+
+It seems to be the trend these days for Apple magazines to have slogans. Apple Orchard's is, “The Premier Magazine for Apple Computer Users." Nibble likes to be known as “The Reference for Apple Computing.” InCider wants to let you know right off the bat (and with a smile of word play) who owns it: “Green’s Apple Magazine.” A+'s angle, oddly, since only Apple Orchard doesn’t share the trait, is its independence: “The Independent Guide to Apple Computing.” Even Softalk's sibling publication, St. Game (the black sheep of the family, as they say), bears a subtitle: “Computer Gaming for the Irreverent.”
+Softalk, on the other hand, has never had a slogan. Not that some haven’t been considered from time to time, but the melees that ensue in such meetings—the hair-pulling, face-scratching, nose-punching knockdown-dragouts—make the project a poor candidate for success.
+All We’ve Got Is the World. We’re beginning to feel left out. It’s such a trendy thing to have, this slogan. It’s not that we really want to use one, at least not to print or mess up our cover with; but we’d feel better if we had one in the wings, so to speak—if we knew what ours was even if we never told anyone else. Since the last one we came up with—“Tommervik’s Original, Independent, and Fun News, People, and Features Magazine and Reference Guide to

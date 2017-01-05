@@ -1,0 +1,79 @@
+﻿OCTOBER 1983
+SOFTALK
+
+Exec Beagle Bros: It’s a Dog’s Life
+Company profile. Okay, Bert “Applesoft Ace" Kersey has a moustache. Yes, Sharon Kersey is one of the Bros. Unproven, their dog Sophie runs the whole show.
+MATT YUEN...................65
+
+Who Will Win the Videotex Game?
+You can't know the players without a program. Videotex has many names and many forms.
+ROE R. ADAMS III ........100
+
+Backtalk
+Updates on Synergistic Software and two friends from past issues.
+TOMMY GEAR.................116
+
+Debut: The Graphics Page
+Beginners, jump in: first installment of a regular graphics column from an acknowledged master.
+BILL BUDGE................123
+
+Hardtalk: Printing Out Has Its Epson Downs
+How much do you really know about your Epson printer? The author of The Other Epson Manual is here to help you learn more.
+BILL PARKER................126
+
+Debut: Keys to the World
+What’s a modem? What’s a telephone? How do the two relate?
+The first installment of an ongoing column on telecommunications.
+MATT YUEN......................135
+
+Observing Astronomical Apples
+For almost fifty years Griffith Observatory has been educating the public about the cosmos. Now Apples are part of the scene and behind the scenes.
+HOWARD A. SHORE...........152
+
+llnd Grade Chats: Help! It’s Another Kit!
+Yikes! The perils of Applesoft programming. Now a program to edit and save a help screen.
+DAVID DURKEE..............208
+
+From Slow Tickers to Fast News: A Visit with Dow Jones
+A hundred and one years ago,
+Dow, Jones, and Bergstresser started a financial information company. Now that company offers general news and services through telecommunications and computers.
+JOANN LEVY...................250
+
+DEPARTMENTS
+
+Advertisers' Index......................Opposite Page
+Basic Solution, by David Durkee
+A base converter program..........................205
+Beginners’ Corner, by Matt Yuen
+How the computer understands you..................217
+Bestsellers..........................................313
+Buttonwood Apples, by Ken Landis Analyzing common stocks; review of Personal Investor , 241 Contest: Trick or Treat
+A Halloween scavenger hunt through Softalk ...........4
+Contest Winners
+Results of July's I'm Bored with Games Contest	.6
+DOStalk, by Tom Weishaar
+The mysterious file manager........................ 93
+Everyone's Guide to Assembly Language, by Jock Root
+Instructions and addresses, address logic...........265
+Fastalk
+A quick guide to what's new, what's
+hot, and what's classic..............................13
+Follow the Floating Point, by David Durkee Applesoft programming: introducing loops and variables.......................................185
+If Then Maybe, by the Softalk Sages
+Experts answer readers' questions, maybe.............56
+Marketalk News
+Announcing products, services, and events ..........141
+Marketalk Reviews.................................161
+Mind Your Business, by Peter Olivieri
+Keypads and small business finance..................257
+Open Discussion
+Readers talking to readers...........................36
+The Pascal Path, by Jim Merritt
+Object code libraries: UNITs .......................227
+Schoolhouse Apple, by Jock Root Computer literacy, computer hipness, or computer fluency? Plus a Logo
+tutorial by Donna Bearden............................77
+SoftCard Symposium, by Greg Tibbetts BIOS disk I/O routines: how to READ and WRITE	107
+Tradetalk
+Industry news.......................................223
+Ventures with VisiCalc, by Joe Shelton Taking Advantage of Advanced
+Version features	 193

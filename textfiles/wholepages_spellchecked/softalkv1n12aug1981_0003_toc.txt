@@ -1,0 +1,153 @@
+﻿AUGUST 1981
+SOFTALK
+
+Chairman	John Haller
+Editor	Margot Comstock Tommervik
+Managing Editor	Al Tommervik
+Associate Editor	Craig Stinson
+Art Director	Kurt A. Wahlner
+Contributing Editors	Roger Wagner Jim Merritt Peter Olivieri Greg Tibbetts Jeff Mazur
+Guest Reviewers	Eric Marks Philip Good Gary Hatfield
+Editorial Assistants	Linda Va Salle Melissa Milich
+Operations Manager Assistant	Mary Sue Rennells David Hunter
+Circulation	Kimberly Curling Ron Rennells
+Systems	William V. R. Smith
+Advertising Sales (213) 980-5074	Al Tommervik Margot Tommervik
+
+Cover painting designed and executed by Robert Zraick.
+
+Composition by Photographics, Hollywood, California. Printing by California Offset Printers, Glendale, California.
+
+Apple is a registered trademark of Apple Computer Inc., Cupertino, California. Rainbow-colored apple illustrated on cover is a registered trademark of Apple Computer Inc. Used with permission.
+
+UCSD Pascal is a trademark of the University of California at San Diego.
+
+VisiCalc is a trademark of Personal Software, Sunnyvale, California.
+
+SoftCard is a trademark of Microsoft, Bellevue, Washington.
+
+Softalk. Volume 1, Number 12, Copyright ® 1981 by Softalk Publishing Inc. All rights reserved. ISSN:0274-9629. Softalk is published monthly by Softalk Publishing Inc., 11021 Magnolia Boulevard, North Hollywood, CA 91601. Telephone (213) 980-5074. Second-class postage paid at North Hollywood, CA, and additional mailing offices.
+
+Postmaster: Send address changes to Softalk, 11021 Magnolia Boulevard, North Hollywood, CA 91601.
+SUBSCRIPTIONS: Complimentary to all owners of Apple computers in the USA. If you own an Apple but you’re not receiving Softalk, send your name, address, and Apple serial number with a request for subscription to Softalk Circulation, 11021 Magnolia Boulevard, North Hollywood, CA 91601. Softalk is totally independent of Apple Computer Inc.; sending your Apple warranty card to Apple Computer will not inform Softalk of your existence. Non-Apple-owner subscriptions for one year: $12. For the convenience of businesses and schools in which several staff members share an Apple and would like individual copies of Softalk, multiple subscriptions to the same address are available at lower rates: two through five, $9 each; more than five, $7 each.
+BACK ISSUES: $2 through February 1981; $2.50 thereafter. November and December 1980 issues are sold out. January and March 1981 issues are in short supply. Softalk will send you a back issue of your choice free (available issues only) for the name, address, and serial number of each Apple owner you can find who isn’t already receiving Softalk.
+PROBLEMS? If you haven’t received your Softalk by the 10th of the month or if you have other problems with your subscription, Ron Rennells or Kimberly Curling can help out. Call (213) 980-5099.
+MOVING? Send new address and old to Softalk Circulation, 11021 Magnolia Boulevard, North Hollywood, CA 91601; telephone, (213) 980-5099.
+
+ADVERTISERS INDEX
+
+Advanced Business Technology..............26
+Apple Computer............................57
+Aurora Systems ...........................12
+Avant-Garde...............................40
+Bite-Soft.................................36
+The Book 1981 ............................85
+Broderbund Software.......................87
+BudgeCo...................................90
+California Pacific...................Cover	2
+Cavalier..................................92
+C-E Software..............................17
+Computer Station.........................27,	29
+Continental Software .....................16
+Data Transforms...........................69
+Edu-Ware ..............................46-47
+FSI....................................... 8
+High Technology...........................91
+Howard Software...........................59
+Human Systems Dynamics ...................86
+IDSI......................................55
+Insoft.................................... 3
+Intelligent Computer Systems .............71
+Interactive Microware....................44,	68
+Interlude ................................70
+LJK Enterprises...........................35
+Math City ................................13
+MicroCom..................................45
+Micro Co-op .............................. 4
+Micro Lab................................49,	84
+Micromate.................................72
+Micromedia ...............................60
+Microsoft.................................43
+Microstand ...............................32
+MUSE Software .....................10, 18, 65
+Mytopia Gameware Institute ............9,	22
+On-Line Systems...............14, 79, Cover 4
+Orange Micro..............................19
+Osborne/McGraw-Hill ......................83
+Pegasys ................................. 73
+Program Store ............................25
+Rainbow Computing.........................53
+RH Electronics............................24
+Riverbank Software .......................41
+Sentient Software......................... 4
+Sierra Software........................... 6
+Sirius Software......................5, 7, 67
+Softalk..................................52,	89
+Softape...................................78
+Softpak...................................82
+Software Publishing Corp..................23
+Software Store............................21
+Southwestern Data Systems ......... 28, 54, 75
+Spectrum Software ........................76
+Stellation Two............................34
+Stoneware...............................  11
+Strategic Simulations...............Cover 3
+Synergistic Software.....................33,	66
+Systems Design Lab........................74
+Terrapin..................................64
+Thunderware...............................61
+Vital Information.........................88
+Yucaipa Software..........................37
+
+CONTENTS
+
+Exec Southwestern Data Systems
+Quiet and unassuming, SDS continues to turn out extremely useful tools for Apple users at extremely fair prices.
+AL TOMMERVIK........................................30
+
+Two Eggs, 1/2 Cup Milk, and a Large Scoop of Computer Science
+Basic programming and microcomputer lab are required courses for home economics students at Louisiana Tech University, and the Apple recruits them.
+RICHARD L. COLEMAN....................................38
+
+An Apple Goes to Prison
+It isn't getting out of prison that's tough, it's staying out; and one remarkable convict at Folsom Prison is out to prove computers hold the key.
+MELISSA MILICH ..........................................50
+
+Robots!
+A little history, a touch of now, and a lot of the future of mankind's mechanical alter egos.
+DAVID HUNTER...........................................62
+
+F E ATURES
+
+The Incredible, Unsolvable, Apple-Created Code.......................................2
+If you can break his code and solve his cryptogram,
+Dann McCrary will give you his entire Apple system.
+ROMPIus+: Where Is It Going? ........................................JEFF MAZUR 48
+
+Debut: SoftCard Symposium..........................................GREG TIBBETTS 77
+
+DEPARTMENTS
+
+Cryptologic: Contest ...................................2
+Contest Winners........................................34
+Open Discussion.........................................6
+Basic Solutions:
+William V. R. Smith ................................13
+Beginners' Corner:
+Craig Stinson.......................................15
+Marketalk: News........................................20
+Mind Your Business:
+Peter Olivieri .....................................26
+Tradetalk...........................................36
+Ventures with VisiCalc..............................42
+Assembly Lines:
+Roger Wagner.....................................56
+Marketalk: Reviews .................................68
+The Pascal Path:
+Jim Merritt......................................80
+Softalk Presents
+the Bestsellers..................................91
+
+PREVIEWS
+
+September Song. . . . Business, business, business. . . . Exec Hayes Microcomputing. . . . Premiering a tutorial with a difference: Business Basic for the Apple III. . . Introduction to Stock Market Programs . . . The Applesoft Compilers: after a long wait, a plethora . . . and more . . .

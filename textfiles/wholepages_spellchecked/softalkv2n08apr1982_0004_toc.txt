@@ -1,0 +1,87 @@
+﻿APRIL 1982
+SOF T A L K
+2
+
+Chairman	John Haller
+Publisher	Al Tommervik
+Editor	Margot Comstock Tommervik
+Art Director	Kurt A. Wahlner
+Associate Editors	Craig Stinson Jean Varven
+Special Assignments	Melissa Milich David Hunter
+Assistant Editor	Andrew Christie
+Proofreader	Harry McNeil
+Editorial Assistant	Karen Kleiner
+Contributing Editors	
+Assembly Language	Roger Wagner
+Pascal	Jim Merritt
+Business	Peter Olivieri
+Apple CP/M	Greg Tibbetts
+Apple III	Taylor Pohlman
+Hardware	Jeffrey Mazur
+Applesoft	Doug Carlston
+Investing	Kenneth Landis
+DOS	Bert Kersey
+Word Processors	Jonathan Miller
+Basic Solution	Wm. V. R. Smith
+Guest Reviewers	Peter Stone Richard Kaapke Allen Munro
+Special Projects	Greg Voss
+Art Assistant	Rubuel Kissler
+Associate Publisher	Mary Sue Rennells
+Promotion	Jo Hilliard
+Accounting	Evelyn Burke
+Office Manager	Nancy Oppenheim
+Advertising Coordinator	David Hunter
+West Coast Sales	Jo Hilliard Softalk 11021 Magnolia Boulevard North Hollywood, CA 91601 (213) 980-5074
+East Coast Sales	Paul McGinnis Company 60 East 42nd Street New York, NY 10017 (212) 490-1021
+Midwest and Rocky Mountain Sales	Ted Rickard John Sienkiewicz Market/Media Associates 435 Locust Road Wilmette, IL 00091 (312) 251-2541
+Circulation Supervisors	Ron Rennells Robert Mann Hal Schick Dan Yoder
+Circulation Assistants	Donna Siebert Dierdre Booth Mary Milam
+Systems	Wm. V. R. Smith Ken Williams Sam Pawley
+
+Cover photo of astronaut Owen Garriott courtesy of the National Aeronautics and Space Administration. Design by Kurt Wahlner.
+Composition by Photographics Hollywood, California. Printing by Volkmuth Printers, Saint Cloud, Minnesota.
+
+Apple and Applesoft are registered trademarks of Apple Computer Inc., Cupertino, California.
+
+UCSD Pascal is a trademark of the University of California at San Diego.
+
+VisiCalc is a trademark of Personal Software, Sunnyvale, California.
+
+SoftCard is a trademark of Microsoft, Bellevue, Washington.
+
+Softalk. Volume 2, Number 8. Copyright ® 1982 by Softalk Publishing Inc. All rights reserved. ISSN:0274-9629. Softalk is published monthly by Softalk Publishing Inc., 11021 Magnolia Boulevard, North Hollywood, CA 91801. Telephone: Business office, (213) 980-5074; editorial office, (213) 763-0975; circulation, (213) 980-5099. Second-class postage aid at North Hollywood, CA, and additional mailing offices.
+Postmaster: Send address changes to Softalk, 11021 Magnolia Boulevard, North Hollywood, CA 91801.
+Free Subscription: Complimentary trial subscription to all owners of Apple computers in the USA. If you own an Apple, but you’ve never received Softalk, send your name,
+address, and Apple serial number with a request for subscription to Softalk Circulation, 11021 Magnolia Boulevard, North Hollywood, CA 91801. Softalk is totally independent of Apple Computer Inc.; sending your warranty card to Apple Computer will not inform Softalk of your existence.
+Paid Subscription: $24 per year without sponsor, $18 per year with sponsor. At the end of the trial subscription, each subscriber will be notified; response is required only if you wish to continue receiving Softalk. Lack of response will be taken as your choice to discontinue the magazine. Special rates for schools and libraries, $8: multiple subscriptions for school and libraries, $5 each.
+Back Issues: $2 through February 1981; $2.50 from April 1981 through July 1981; $3.50 thereafter. November and December 1980 and January, February, March, September, October, and November 1981 are sold out. October 1980 is in short supply.
+Problems? If you haven’t received your Softalk by the fifteenth of the month, or if you have other problems with your subscription, Ron Rennells or Bob Mann can help out. Call (213) 980-5099.
+Moving? Send new address and old to Softalk Circulation, 11021 Magnolia Boulevard, North Hollywood, CA 91601; telephone, (213) 980-5099.
+
+CONTEST: MAN ON THE MOON
+
+You don’t have to complete the crossword puzzle on page 4 to win this contest; the required answer is the phrase at the end and its identification. But you’ll need to solve some of the puzzle to know what goes in the phrase.
+The shaded letters in the puzzle ana-
+gram to produce a famous quote. The quote relates to another extremely significant achievement that has affected the way of the world. To win the contest, you must solve this quote correctly, then identify who said it, the circumstances under which it was said, and the significance of those circumstances.
+Except for the final sentence, every answer in Man on the Moon has to do with outer space or the U.S. space program.
+Man on the Moon is our second puns ’n’ anagrams puzzle; the answers are easy but the questions aren’t. The clues are maliciously designed to be tricky and misleading, even though they often contain more than one definition and they always contain at least two hints each to the answer.
+The hints may be of any sort. For example, the actual answer may be contained in the clue, except that the letters are mixed up, and you’ll need to anagram them: “camp case” hides an anagram of space. Or the answer may be hidden: “Jim’s pa ceded his land.”
+The clue may be a pun: “The vet spays dogs throughout the universe.” or a charade: “room for a well-paid veteran weight lifter”—room = space, well-paid veteran = pro, weight (lifter is just to confuse you) = gram; put them together to get space program.
+Each clue contains a real definition of the answer, which may be either definitive, descriptive, or exemplar but it may be of any meaning of the word, not necessarily of the meaning pertaining to space. A clue for the word space might contain a definition such as room, interstice, area, emptiness; Venus might be defined as planet, goddess, through the veins (venous), like an Italian city (Venice). The last two required translating the pun as well.
+Throughout the puzzle, you’ll find shaded squares with small letters in the lower left comers. The answer letters that go in these squares are the letters that make up the phrase beneath the puzzle. The small letters indicate which word of the phrase the answer letter belongs in. The letters for each word must be anagrammed to find the phrase. The blanks have purposely not been punctuated; you need not punctuate the phrase, but do not assume it shouldn’t have punctuation.
+Again, winning the contest does not require that you finish the puzzle, only that you correctly solve for the phrase and identify it completely. However, if you do complete the puzzle, you’re eligible for additional prizes.
+The winning entry will choose $100 worth of Softalk advertisers’ goods at the local computer store. In case of a tie, the random number generator will choose the winner.
+Five correct entries that also contain correct completed puzzles will receive copies of Crossword Magic, the program from L&S Software with which the puzzle was generated. If there are more than five correct puzzles submitted, the five winners will be chosen by the random generator.
+Fill out the entry blank and send it to Softalk Moon, 11021 Magnolia Boulevard, North Hollywood, CA 91601, by May 15, 1982.
+Send this form or a facsimile to Softalk Moon, 11021 Magnolia Boulevard, North Hollywood, CA 91601, by May 15, 1982. To be eligible to win copies of Crossword Magic, include the completed puzzle.
+The quote is_______________________________
+The speaker was:___________________________
+The situation was:	_______________________
+The significance was:______________________
+□ Count me in for a Crossword Magic; my completed puzzle is enclosed.
+Name:______________________________________
+Address:___________________________________
+City/State/Zip:____________________________
+If I win I’d like:_________________________
+My dealer is: -----------------------------
+Autograph:_________________________________

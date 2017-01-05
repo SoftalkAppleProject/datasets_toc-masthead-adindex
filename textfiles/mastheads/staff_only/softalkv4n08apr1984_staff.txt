@@ -1,0 +1,59 @@
+﻿POSITION	NAME
+Chairman	John Haller
+Publisher	Al Tommervik
+Editor	Margot Comstock Tommervik
+Art Director	Kurt A. Wahlner
+Editorial	
+	Senior Editor	David Hunter
+	Managing Editor	Three Tyler
+	Assistant Managing Editor	Carol Ray
+	Associate Editors	Jean Varven, David Durkee
+	Reviews - Telecom	Matthew T. Yuen
+	Special Assignments	Andrew Christie
+	Features - News - Trade	Michael Ferris
+	If Then Maybe	Tommy Gear
+	Hardware	Jock Root
+	Letters	Todd Zilbert
+	Market Research	Lanny Broyles
+	Copy	Cordell Cooper, Judith Pfeffer
+	Submissions	Betsy Barnes
+	Proofreading	Harry McNeil, Steve Thomsen
+	Word Processing	Brenda Johnson
+Regional Editors
+	East Coast	Roe Adams
+Contributing Editors	
+	Pascal	Jim Merritt
+	Business	Peter Olivieri
+	Apple CP/M	Greg Tibbetts
+	Investing	Kenneth Landis
+	DOS	Tom Weishaar
+	Graphics	Bill Budge
+	Printers	Bill Parker
+	32 Bits	Kevin Goldstein
+Softalk Sages	Doug Carlston, Bob Clardy, Roy Hicks, John Jeppson, Mark Pelczarski, Joe Shelton, Roger Wagner
+Art	
+	Production Manager	Donald J. Robertson
+	Assistant Art Director	Lucas McClure
+	Ad Production	Michael G. Pender
+	Assistant Production Manager	Nancy Baldwin
+	Assistants	Weldon O. Lewin, Ruth Seid, Dan Winkler
+Business	
+	Associate Publisher	Mary Sue Rennells
+	Operations	Marjorie Kaufman
+	Advance Projects	Steve Shendelman
+	Director of Finance	Chari Hilario
+	Controller	Duane Runyon
+	Accounting Assistant	Donna Flushman
+Advertising	
+	Advertising Coordinator	Linda McGuire Carter
+	Assistant	Cathy Stewart
+	West Coast Sales	Randie James
+	East Coast Sales	Ian Ross, Paul McGinnis, [Advertising Sales]
+	Midwest and Rocky Mountain Sales	Ted Rickard, Bill Chalifaux, Kevin Sullivan, [Market/Media Associates]
+Circulation	
+	Customer Service	Marsha Stewart
+	Trial Subscriptions	Deirdre Galen, Cliff Martinez, Anna Gusland, Terez Carroll, Ramona Gordon, Joe Bellinger, Rickie Kaufman
+	Paid Subscriptions	Michelle Vigneault-Kirschenbaum, Leticia Garcia, Jan Godoy-Aguiar, Barbara Naimoli, Josie Walley
+	Back Issues	Robert Williams
+	Dealer Sales	Dan Yoder
+Systems	John Heitmann

@@ -1,0 +1,61 @@
+﻿JUNE 1984
+SOFTALK
+
+Softly Comment
+Opinion and commentary: David Durkee weighs standardization against progress; Al Tommervik discovers the cottage industry still thriving; Mike Ferris visits an arcade game where players really are the characters; plus touch-typing for toddlers and a new gadget for grownup kids .... . .........30
+Exec Sweet Micro: The Sound of Success
+Rod Nakamoto groaned when he heard the sound of his Apple II—so he built a nicely noisy board for all of us to enjoy.
+ROE R. ADAMS III.......40
+
+The Effects of Apples on Real-Time Videos
+When you watch a sports event on television, there's a good chance the special-effects-filled opening owes some of its splash to an Apple.
+ANDREW CHRISTIE . . . . 72
+
+Backtalk
+Remembering Buckminster Fuller, with an update on the World Game he left for us. Then Apple exec Jean Richardson talks about the changing scene at Apple, and the challenges women face In it .88
+
+DEPARTMENTS
+
+Advertisers' Index .....................Opposite Page
+The Basic Solution, by Roger Wagner
+Finding data faster...............................153
+Beginners’ Corner, by Todd Zilbert
+Beginning at the beginning once again.............145
+Bestsellers
+By a process of elimination, what's gathering dust ... 185 
+Buttonwood Apples, by Ken Landis
+Determining your discomfort factor................149
+Contest: Next Year's Model
+Design the ideal computer for fun and prizes.......4
+Contest Winners
+Oracle update: package design winners...............8
+DOStalk, by Tom Weishaar
+Using the ProDOS type command	157
+Everyone's Guide to Assembly Language, by Jock Root
+Examining character input..........................67
+Fastalk
+Quick reference to current and classic software .169
+Follow the Floating Point, by David Durkee
+Getting a shape table into a swimsuit .............58
+The Graphics Page, by Bill Budge
+Cartesian square dancing............................91
+Hardtalk, by Jock Root
+Apple-run your home: the uD-1000 controller.......131
+If Then Maybe, by the Softalk Sages
+Dear Mark, Dear Tom, Dear Roger...................139
+Keys to the World, by Matt Yuen
+Bulletin boards without pushpins....................83
+Mac 'n' Lisa, by Kevin Goldstein
+A bigger Mac's a-comin’.............................71
+Marketalk News
+Everything new under the Apple sun..................98
+Marketalk Reviews
+Sorcerer II, Bank Street Speller, much more.......113
+Mind Your Business, by Peter Olivieri
+Reading faster, computing friendlier, and the big four 51 
+Open Discussion
+Readers talk to each other—and some talk back ....11
+Schoolhouse Apple, by Carol Ray
+Networking students at Carnegie-Mellon.............133
+Tradetalk
+Industry news: Apple's million-dollar IIc party.....54

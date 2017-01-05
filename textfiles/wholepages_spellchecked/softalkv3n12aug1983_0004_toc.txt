@@ -1,0 +1,96 @@
+﻿AUGUST 1983
+SOFTALK
+2
+
+Chairman	John Haller
+Publisher	Al Tommervik
+Editor	Margot Comstock Tommervik
+Art Director	Kurt A. Wahlner
+Managing Editor	Patricia Ryall
+Assistant Managing Editor	Jean Varven
+Associate Editor	David Hunter
+Special Assignments	Andrew Christie
+Open Discussion Editor	Tommy Gear
+News Editor	Matthew T. Yuen
+Programs Editor	David Durkee
+Education Editor	Jock Root
+Reviews Editor	Roe Adams
+Assistant Editor	Catherine Petersen
+Copy Editor	Cordell Cooper
+Editorial Coordinator	Betsy Barnes
+Proofreaders	Harry McNeil Judith Pfeffer
+Contributing Editors	
+Assembly Language	Roger Wagner
+Pascal	Jim Merritt
+Business	Peter Olivieri
+Apple CP/M	Greg Tibbetts
+Apple III	Taylor Pohlman
+Hardware	Jeffrey Mazur
+Applesoft	Doug Carlston
+Investing	Kenneth Landis
+DOS	Tom Weishaar
+Graphics	Mark Pelczarski
+Financial Modeling	Joe Shelton
+Basic Solutions	William V. R. Smith
+Art	
+Production Manager	Don Robertson
+Assistants	Timothy Durr Lucas McClure Michael G. Pender
+Business	
+Associate Publisher	Mary Sue Rennells
+Director of Operations	Three Tyler
+Accounting	Evelyn Burke
+Accounting Assistants	Mary Jo Milam Carla Swanson Lois Mencsik
+Dealer Sales	Judy Weinstein Dan Yoder
+Advertising	
+Coordinator	Linda McGuire
+Assistant	Cathy Stewart
+Advertising Services	Julie Fletcher
+West Coast Sales	Mike Antich Softalk 11160 McCormick Street Box 60 North Hollywood, CA 91603 (213) 980-5074
+East Coast Sales	Ian Ross Paul McGinnis Advertising Sales 898 Broadway Massapequa, NY 11758 (212) 490-1021
+Midwest and Rocky Mountain Sales	Ted Rickard John Sienkiewicz John Bollweg Kevin Sullivan Market/Media Associates 435 Locust Road Wilmette, IL 60091 (312) 251-2541
+Circulation	
+Trial Subscriptions	Hal Schick Deirdre Booth Laurie O'Connell Marsha Stewart Cliff Martinez
+Paid Subscriptions	Tamera Moore
+Back Issues	Michael Jones
+Systems	Pat Adams
+Guest Reviewers	Lucas X. Bozek, William H. Harrington, Sharon Shea
+
+Cover: Future friends. Design and photo by Kurt Wahlner.
+Credits: Composition by Photographics, Hollywood, California. Printing by Volkmuth Printers, Saint Cloud, Minnesota.
+
+Apple and Applesoft are registered trademarks of Apple Computer Inc., Cupertino, California. UCSD Pascal is a trademark of the University of California at San Diego. VisiCalc is a trademark of VisiCorp, San Jose, California. SoftCard is a trademark of Microsoft, Bellevue, Washington. Softalk is a trademark of Softalk Publishing Inc.. North Hollywood, California.
+
+Softalk. Volume 3, Number 12. Copyright ® 1983 by Softalk Publishing Inc. All rights reserved. ISSN:0274-9629. Softalk is published monthly by Softalk Publishing Inc., 11160 McCormick Street, North Hollywood, California; telephone (213) 980-5074. Second-class postage paid at North Hollywood, California, and additional mailing offices.
+Postmaster: Send address changes to Softalk, Box 60, North Hollywood, CA 91603.
+Free Subscriptions: Complimentary trial subscription to all owners of Apple computers in the USA. If you own an Apple but you’ve never received Softalk, send your name, address, and Apple serial number with a request for subscription to Softalk Circulation, Box 60, North Hollywood, CA 91603. Softalk is totally independent of Apple Computer Inc.; sending your warranty card to Apple Computer will not inform Softalk of your existence.
+Paid Subscriptions: $24 per year. At the end of trial period, each subscriber will be notified; response is required only if you wish to continue receiving Softalk. Lack of response will be taken as your choice to discontinue the magazine. Special rates for schools and libraries, $12; additional subscriptions for schools and libraries, $8 each.
+Back Issues: $2 through February 1981; $2.50 through July 1981; $3.50 through September 1982; $4.00 thereafter. November and December 1980, January, February, March, September, October, and November 1981, and December 1982 are sold out. December 1981, February and May 1982, and February 1983 are in short supply.
+Problems? If you haven’t received your Softalk by the fifteenth of the month, or if you have other problems with your subscription, Hal Schick can help out. Call (213) 980-5074
+Moving? Send new address and old to Softalk Circulation, Box 60. North Hollywood, CA 91603; telephone (213) 980-5074.
+
+CONTEST:
+Help Wanted
+
+Did you know that before Ronald Reagan got into politics he was an actor? Of course you did. But did you also know that before that he worked as a counter person at Burger Palace? Probably not, since he didn’t. But you can just imagine his job resume: “President, United States of America, 1981-present; Governor of California, 1967-1975; order taker at Burger Palace in Dixon, Illinois, 1927-1930.” Okay, maybe not.
+It works the same way in the microcomputer industry. Before a lot of people in this biz got where they are today, they held numerous other interesting jobs. What do you think they did back in the early seventies? It probably had little to do with Apples, since the word apple in those days meant pie and sauce, not PIE and SOS. Which brings us to this month’s contest.
+On page 4, you’ll see a whole bunch of pictures of a whole bunch of people who make up the Apple world. On page 6 you’ll see a list of various positions they used to hold. Can you match the occupation with the person? Could you do it for $100 worth of Apple accessories? Good! Roll your tongue back into your mouth and let’s get started.
+There are two ways to win.
+The First Way. The first way is to match the person with the occupation. Just number your paper from one to twenty and write the corresponding person’s name next to each number. Next, find the occupation you think each person used to hold, and write down the letter that precedes it next to that person’s name. If you’d like to do this with a word processor or a typewriter so we can read your entry, the more power to you.
+Whoever matches correctly the most people with their former occupations will become the Softalk Personnel Administrator of the month and will be entitled to a $100 shopping spree in the computer store of his or her choice. On us.
+Most of the answers can be found in those Softalks you put on the top shelf many months ago (we don’t write the Exec series for nuth-in’!). Others can be found by a process of elimination (someone as young as Lord British couldn’t have been a former Vietnam commanding officer, for example). So get out the mags and get to it.
+If you choose this way to win, print the words What they were on the front of your envelope and on your entry form. This way, you
+won’t end up being scored in the wrong category.
+The Second Way. This way is more fun; it’s for people who don’t have the resources for the first way to win. Some people just look like they might have held a certain job. Can’t you just picture Ken Williams as a country bar bouncer? Dave Gordon as a used car salesman? How about Bill Budge as a young Chachi (as in Joan-ie Loves. . .)?
+Just number your paper from one to twenty with each person’s name by the number as before. Then, next to each name, put down a letter corresponding to the occupations you think they look like they might have held. If you don’t know, then guess; if you can’t guess, then make one up.
+Entries in this category will be scored against the answer key made up by a consensus of the contest staff. Answers are purely subjective; no debating will be allowed.
+The winner of this category will win the customary $100 in advertisers’ merchandise that we usually give away in these alternative contests.
+If you choose this way to win, print the words What they should have been on your envelope and on your entry form.
+It ought to be fun, and it will be. So send in your entry with the information below postmarked by September 15, 1983. You must write either What they were or What they should have been on your entry so that we know which category to judge you in.
+Send your entries to Softalk Job Hunt, Box 60, North Hollywood, CA 91603, postmarked by September 15, 1983.
+My name: --------------------------------—
+My occupation:_______________________________
+My address:_________________________________
+My city, state, and zip:____________________
+My phone number:_____________________________
+My choice of prizes if I win:________________
+My dealer:----------------------------------

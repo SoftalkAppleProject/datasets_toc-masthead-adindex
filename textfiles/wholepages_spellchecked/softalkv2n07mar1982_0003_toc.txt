@@ -1,0 +1,174 @@
+﻿MARCH 1982
+SOFTALK
+
+INDEX OF ADVERTISERS
+
+Accent................................9
+Advanced Logic .....................119
+Adventure International..............60
+Alpha Logic ........................152
+Apple Computer......................111
+Applefest......................132,	133
+Applied Software ....................12
+Artsci .............................142
+Atlantic Cabinet.....................43
+Avant-Garde.............. 46, 74, 168, 179
+Axlon...............................169
+Beagle Bros.........................109
+Bite-soft............................40
+The Book 1982 .......................45
+Brillig.............................146
+Broderbund...................13, 65, 110
+BudgeCo.............................126
+Calsoft..............Between 34 and 35
+Cavalier.............................3,	188
+CE Software.........................162
+C & H ...............................77
+Classified Ads.......................19
+Computerized Management Systems . .170
+Computer Solutions...................79
+Computer Station....................76,	125
+Computer Town .......................84
+Continental Software ...............107
+Corona Data Systems...................5
+Crane Software......................163
+DataMost.......................130, 181
+Data Transforms.....................70
+Decision Support Software..........104
+Demo Disk ..........................166
+Denver Software.....................7,	30
+Edu-Ware Services...................11
+FSI.................................63
+Gebelli Software....................81
+Gnosis.............................156
+Happ...............................158
+High Technology Software............8,	27
+Horizon Simulations.................33
+Howard Software....................171
+Human Systems Dynamics..............6,	62
+IDSI........................78, 106, 176
+Individualized Operand..............52
+Insoft.............................114
+Interactive Fantasies...............69
+Interactive Microware..............180
+Intra Computer......................10
+I Protect ..........................140
+Kengore............................144
+Keyboard Company...............175, 177
+Krell Software......................86
+Last Electronics....................90
+Lazer Systems......................127
+Lightning Software.................187
+LJK Enterprises....................145
+L&S Computerware...................17
+Math City .........................88
+Mesa Research......................73
+Micro Co-op .......................80
+Micro Lab.....................48, 49, 59
+Microsoft..........................24
+Mind Systems ......................14
+Modular Media.....................128
+Muse Software.......... 71, 124, 178, 184
+Omega .................... 41, 103
+On-Line................51, 91-98, cover 4
+Orange Micro......................102
+Osborne McGraw Hill ..............148
+Pear Software.......................4
+Penguin Software..............112, 186
+Picture House......................82
+Practical Peripherals..............21
+Professional Medical Software......28
+Prometheus .......................174
+Rainbow Computing.................137
+RH Electronics.....................83
+Riverbank Software ................75
+Santa Clara Systems ..............121
+Saturn............................147
+Sensible Software..................15
+Sentient Software.................100
+Sirius Software.................53-57
+SirTech.......................72, 113
+Softalk..............23, 44, 101, 138, 154
+Softape.............................115
+Softdisk.............................50
+Software Publishing Corporation. cover 2
+Sorrento Valley Associates .........117
+Southeastern Software...............157
+Southern Calif. Research............141
+Southwestern Data Systems.......120, 134
+160-161, 182
+Spectrum Software....................89
+SSM Microcomputer....................16
+Stellation Two......................149
+Stoneware...........................122
+Strategic Simulations...........cover 3
+Strawberry Tree......................31
+SubLogic .......................42, 164
+Synergistic Software........85, 105, 159
+Systems Plus........................183
+TG Products..........................99
+Thunderware.........................172
+TMQ Software.........................37
+Tovatech ............................64
+Trace Systems........................29
+Turnkey Software ...................108
+United Software.....................153
+Village Software....................185
+Vital Information.................  165
+Wheaton...........................  .61
+Yucaipa Software.....................26
+
+CONTENTS
+
+Exec Stoneware: They Try Harder
+A lot of people waited a long time for Barney Stone's baby. Now that it's pulling a frequent second on the Top Thirty, it's clear that the wait was well worthwhile.
+DAVID HUNTER................38
+
+Go On and Interrupt Your Apple
+With only a small modification, your Apple can run your favorite game and print your letter to Sof-talk at the same time.
+DAN FISCHER and MORGAN P. CAFFREY _____________ 47
+
+Apples in the Front Lines at West Point
+This summer, USMA cadets will take Apples along with rifles into simulated battle.
+ROBERT R. COMSTOCK ... 66
+
+Word Processors: Rob Swigart Talks about His Apple Writer III
+Satirist/Novelist Rob Swigart has had an Apple so long that his oldest one—number 78—bears air holes he had to bore himself. Now he writes and plays on his new Apple III.
+JONATHAN MILLER................123
+
+Taming Your Apple III
+Even if you've known and loved the II, getting to know your Apple III can have you yelling SOS! Beginning at the beginning is the best way to make friends.
+JOHN R. JEPPSON ..........135
+
+FEATURES
+
+Special Contest: Appletrivia—
+Your Chance To Compete for
+a New Apple II System.......CHRISTOPHER U. LIGHT and CHRIS LIGHT, JR. 2
+Art Gallery Contest Finalists: Vote for Your Favorites....................4
+The Huge-Memory RAM Cards.................................JEFF MAZUR 143
+It's Time for the West Coast Computer Faire.............................150
+Peter's Inquisition: Softalk's Business Editor Gets Nosy .... PETER OLIVIERI 166
+
+DEPARTMENTS
+
+Open Discussion...................................7
+Ventures with VisiCalc...........................25
+The Pascal Path, by Jim Merritt..................32
+Tradetalk .......................................43
+Third Basic, by Taylor Pohlman ..................58
+Marketalk News ..................................75
+Beginners' Corner, by Craig Stinson..............87
+Marketalk Reviews................................99
+Newspeak ........................................112
+Hardtalk, by Jeffrey Mazur ......................116
+All About Applesoft, by Doug Carlston............129
+Assembly Lines, by Roger Wagner..................155
+Mind Your Business, by Peter Olivieri............167
+SoftCard Symposium, by Greg Tibbetts.............173
+Basic Solution, by William V. R. Smith...........182
+Bestsellers......................................185
+
+IN NEXT MONTH’S SOFTALK
+
+Articulating April ... An Apple II and Sunflowers in Outer Space . . . Exec Howardsoft . . . Debut: A column on file handling and DOS, by Burt Kersey . . . Home Finance Roundup, 1982 . . . Word Processing with Letter Perfect . . . and more.

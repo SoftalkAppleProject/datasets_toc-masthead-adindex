@@ -1,0 +1,94 @@
+﻿AUGUST 1982
+S O F T A L K
+2
+
+Chairman	John Haller
+Publisher	Al Tommervik
+Editor	Margot Comstock Tommervik
+Art Director	Kurt A. Wahlner
+Managing Editor	Pat Ryall
+Associate Editors	Jean Varven Andrew Christie
+Newspeak Editor	David Hunter
+Special Assignments	Jonathan Miller
+Open Discussion	Tommy Gear
+News and Contest Editor	Matthew T. Yuen
+Softrek	Jim Salmons Dave Fitzgerald
+Assistant Editors	Michael Ferris David Durkee
+Proofreader	Harry McNeil
+Contributing Editors	
+Assembly Language	Roger Wagner
+Pascal	Jim Merritt
+Business	Peter Olivieri
+Apple CP/M	Greg Tibbetts
+Apple III	Taylor Pohlman
+Hardware	Jeffrey Mazur
+Applesoft	Doug Carlston
+Investing	Kenneth Landis
+DOS	Bert Kersey
+Graphics	Mark Pelczarski
+Financial Modeling	Joe Shelton
+Beginners	Christopher U. Light
+Basic Solutions	Wm. V. R. Smith
+Associate Publisher	Mary Sue Rennells
+Accounting	Evelyn Burke
+Production Coordinator	Elaine Cohen
+Purchasing	Steven M. Poncar
+Assistant to the Publisher	Dan Yoder
+Advertising	
+West Coast Sales	Jo Hilliard Softalk 10021 Magnolia Boulevard North Hollywood, CA 91601 (213) 980-5074
+East Coast Sales	Paul McGinnis Paul McGinnis Company 60 East 42nd Street New York, NY 10017 (212) 490-1021
+Midwest and Rocky Mountain Sales	Ted Rickard John Sienkiewicz Market/Media Associates 435 Locust Road Wilmette, IL 60091 (312) 251-2541
+Book and Poster Sales	Mary Milam
+Circulation	
+Trial Subscriptions	Hal Schick
+Paid Subscriptions	Pam Kelley
+Dealer Sales	Donna Siebert
+Back Issues	Ron Rennells
+Assistants	Dierdre Booth Lois Stickelmaier Judy Weinstein
+Systems	Sam Pawley
+Guest Reviewers: Roe R. Adams, Dale Archibald, Phillip Good, Karen Kleiner, Jock Root, R. Jon Ruppert, Robert Woodhead and Rob Wray.
+
+Cover Photo: Farming, Iowa-style, with a cultivator. Webster City, Iowa, by Laura Rudkins.
+Composition by Photographics, Hollywood, California. Printing by Volkmuth Printers, Saint Cloud, Minnesota.
+
+Apple and Applesoft are registered trademarks of Apple Computer Inc., Cupertino, California.
+
+UCSD Pascal is a trademark of the University of California at San Diego.
+
+VisiCalc is a trademark of VisiCorp, San Jose, California.
+
+SoftCard is a trademark of Microsoft, Bellevue, Washington.
+
+Softalk. Volume 2, Number 12. Copyright © 1982 by Sof-talk Publishing Inc. All rights reserved. ISSN:0274-9629. Softalk is published monthly by Softalk Publishing Inc., 11021 Magnolia Boulevard, North Hollywood, CA 91601; telephone (213) 980-5074. Second-class postage paid at North Hollywood, CA, and additional mailing offices.
+Postmaster: Send address changes to Softalk, 11021 Magnolia Boulevard, North Hollywood, CA 91601.
+Free Subscription: Complimentary trial subscription to all owners of Apple computers in the USA. If you own an Apple, but you’ve never received Softalk, send your name, address, and Apple serial number with a request for subscription to Softalk Circulation, 11021 Magnolia Boulevard, North Hollywood, CA 91601. Softalk is totally independent of Apple Computer Inc.; sending your warranty card to Apple Computer will not inform Softalk of your existence.
+Paid Subscription: $24 per year without sponsor, $18 per year with sponsor. At the end of trial period, each subscriber will be notified; response is required only if you wish to continue receiving Softalk. Lack of response will be taken as your choice to discontinue the magazine. Special rates for schools and libraries, $8; multiple subscriptions for schools and libraries, $5 each.
+Back Issues: $2 through February 1981; $2.50 from April 1981 through July 1981; $3.50 thereafter. October, November, and December 1980 and January, February, March, September, October, and November 1981 are sold out.
+Problems? If you haven’t received your Softalk by the fifteenth of the month, or if you have other problems with your subscription, Pam Kelley or Hal Schick can help out. Call (213) 980-5074.
+Moving? Send new address and old to Softalk Circulation, 11021 Magnolia Boulevard, North Hollywood, CA 91601; telephone (213) 980-5074.
+
+CONTEST:
+WHY NOT
+KUMQUAT?
+
+Last month we brought you the origins of some of those apparently off-the-wall names that companies give themselves and their products, but one name was suspiciously missing. Apple! What the heck is this magazine all about, anyway?
+How anyone can use an Apple and not wonder where the name came from is beyond us. This month’s contest invites you to provide an answer. Quite simply, tell us your version of how the Apple got its name.
+If you’ve read articles about the Apple or its creators in other newspapers, magazines, or journals, you probably have an idea of how Woz and Jobs decided on such a whimsical name for such a fanciful creation. Forget them. We're not interested in truth for this contest; we want to see how creative you can be.
+For those of you with a creative flair who missed out on last November’s Art Gallery contest because: (a) you weren't a Softalk reader back then, (b) you can’t draw, or (c) you thought HGR meant “handy game routines,” here’s your chance to shine.
+And we do mean shine. Really let yourself go! If you’re good with rhymes, you might write your answer in a poem, a song (include sheet music, if you like), a limerick, or a sonnet done in iambic pentameter. Monologues, dialogues, essays, and dramatic scenarios are equally acceptable. Whatever form you decide on, decide fast, because September 15 is coming up soon, and that’s when all en-
+tries must be in the mail.
+This month the random number generator gets a rest; Softalk's contest staff will judge all entries and come up with one winner. Entries will be judged on imagination and creativity. (In the case of a tie, the contest staff will fight it out.)
+The winner will receive $100 worth of goods from Softalk advertisers, to be collected at the winner’s local computer store.
+Entries must be at least twenty-five words long, but not longer than two double-spaced pages. If you can’t type (via printer or typewriter), then print neatly. Verrry neatly. We can’t be responsible if we can’t read your writing.
+Sound like fun? You bet. So get those creative juices flowing, and send us your fantasy version of why your computer isn’t a Kumquat II Plus.
+All entries must be postmarked by midnight, September 15, 1982.
+Name: --------------------------------
+Address:------------------------------
+City, State, Zip:---------------------
+Phone:________________________________
+Dealer:________.______________________
+If I win, I want:_____________________
+and I want it now!
+Yours truly,--------------------------
+(signature)
+Mail this entry form or a facsimile with your entry to Softalk Kumquats, 11021 Magnolia Boulevard, North Hollywood, CA 91601, by September 15, 1982.

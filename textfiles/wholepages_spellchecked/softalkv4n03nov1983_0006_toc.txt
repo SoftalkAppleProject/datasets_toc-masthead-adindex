@@ -1,0 +1,98 @@
+﻿NOVEMBER 1983
+SOFTALK
+4
+
+Chairman	John Haller
+Publisher	Al Tommervik
+Editor	Margot Comstock Tommervik
+Art Director	Kurt A. Wahlner
+Editorial	
+Managing Editor	Patricia Ryall
+Senior Editor	David Hunter
+Assistant Managing Editor	Carol Ray
+Associate Editor	Jean Varven
+Special Assignments	Andrew Christie
+Letters	Tommy Gear
+News, Telecom	Matthew T. Yuen
+Programs	David Durkee
+Education	Jock Root
+Reviews, Trade	Catherine Petersen
+Copy	Cordell Cooper
+Submissions	Betsy Barnes
+Proofreading	Harry McNeil Judith Pfeffer
+Editorial Assistant	Marlene Lunnon
+Regional Editors	
+East Coast	Roe Adams
+Northern California	Hartley Lesser
+Contributing Editors	
+Assembly Language	Roger Wagner
+Pascal	Jim Merritt
+Business	Peter Olivieri
+Apple CP/M	Greg Tibbetts
+Apple III	Taylor Pohlman
+Hardware	Jeffrey Mazur Bill Parker
+Applesoft	Doug Carlston
+Investing	Kenneth Landis
+DOS	Tom Weishaar
+Graphics	Mark Pelczarski Bill Budge
+Financial Modeling	Joe Shelton
+Basic Solutions	William V.R. Smith
+Art	
+Production Manager	Donald J. Robertson
+Ad Production	Michael G. Pender
+Assistants	Nancy Baldwin Timothy Durr Weldon O. Lewin Lucas McClure Malcolm Rodgers Ruth Seid Glenn Thome Dan Winkler
+Business	
+Associate Publisher	Mary Sue Rennells
+Director of Operations	Three Tyler
+Accounting	Evelyn Burke
+Accounting Assistants	Mary Jo Milam Carla Swanson Lois Mencsik
+Marketing	Gail Ward
+Advertising	
+Coordinator	Linda McGuire Carter
+Assistant	Cathy Stewart
+Advertising Services	Julie Fletcher
+West Coast Sales	Mike Antich Michael Biel Softalk 11160 McCormick Street Box 60 North Hollywood, CA 91603 (213) 980-5074
+East Coast Sales	Ian Ross Paul McGinnis Advertising Sales 690 Broadway Massapequa. NY 11758 (212) 490-1021
+Midwest and Rocky Mountain Sales	Ted Rickard John Bollweg Kevin Sullivan Market/Media Associates 435 Locust Road Wilmette, IL 60091 (312) 251-2541
+Circulation	
+Trial Subscriptions	Hal Schick Deirdre Booth Laurie O’Connell Marsha Stewart Cliff Martinez Pam Kelley Donna Siebert
+Paid Subscriptions	Michelle Vigneault-Kirschenbaum Holly Pierce Leticia Garcia David Kahn Jan Aguiar
+Back Issues	Michael Jones
+Dealer Sales	Pattie Lesser Dan Yoder
+Systems	Pat Adams
+
+Credits: Composition by Photographics, Hollywood. California. Printing by Volkmuth Printers. Saint Cloud. Minnesota.
+
+Apple and Applesoft are registered trademarks of Apple Computer Inc., Cupertino, California UCSD Pascal is a trademark of the University of California at San Diego VisiCalc is a trademark of VisiCorp, San Jose, California. SoftCard is a trademark of Microsoft, Bellevue. Washington. Softalk is a trademark of Softalk Publishing Inc., North Hollywood, California.
+
+Softalk. Volume 4. Number 3 Copyright © 1983 by Softalk Publishing Inc. All rights reserved ISSN:0274-9629. Softalk is published monthly by Softalk Publishing Inc., 11160 McCormick Street, North Hollywood, California; telephone (213) 980-5074. Second-class postage paid at North Hollywood. California, and additional mailing offices.
+Postmaster: Send address changes to Softalk. Box 60, North Hollywood. CA 91603
+Free Subscriptions: Complimentary trial subscriptions to all owners of Apple computers in the USA. If you own an Apple but you've never received Softalk, send your name, address, and Apple serial number with a request for subscription to Softalk Circulation, Box 60, North Hollywood, CA 91603. Please allow six to eight weeks for processing. Softalk is totally independent of Apple Computer Inc.; sending your warranty card to Apple Computer will not inform Softalk of your existence
+Paid Subscriptions: $24 per year At the end of trial period, each subscriber will be notified, response is required only if you wish to continue receiving Softalk Lack of response will be taken as your choice to discontinue the magazine. Special rates for schools and libraries, $12. concurrent additional subscriptions for schools and libraries, $8 each Please allow six to eight weeks for processing
+Back Issues: $2 through February 1981; $2.50 through July 1981, $3.50 through September 1982; $4.00 thereafter November and December 1980, January, February. March, September, October, and November 1981, and December 1982 are sold out. December 1981, February and May 1982, and February 1983 are in short supply.
+Problems? If you haven't received your Softalk by the fifteenth of the month, or if you have other problems with your subscription, Hal Schick can help out. Call (213) 980-5074.
+Moving? Send new address and a label from a recent Softalk to Softalk Circulation, Box 60. North Hollywood, CA 91603, telephone (213) 980-5074. Please allow six to eight weeks for processing.
+
+CONTEST: Guess Who’s Coming To Dinner?
+
+Yep, it’s time for yet another contest with turkeys in it.
+Last November, in what was one of the most popular (albeit silly) contests ever, readers were asked to count the number of turkeys that appeared in the magazine. The correct number was 349. A lot of people came up with that number but figured they had missed one along the way. After all, 350 is such a nice round number, why would we choose 349?
+The truth is that we started out with 350 turkeys, but one of them strayed on the way to the contest page. Well, after a year of searching, we finally found the last turkey, and we’d like very much for her to come and join us for a Thanksgiving feast.
+Unfortunately, she thinks we want to roast and serve her as dinner. The object of this month’s contest is to chase Tammy the Turkey to the dinner table where all the feasting will take place.
+The Chase Begins. Yep, this contest actually has some rules.
+1.	The object is to move through the board so that you and Tammy arrive at the dinner table on square forty at the same time. Not one square shy or one square too far, but exactly on square forty.
+2.	Notice that you begin on square one and Tammy begins on square three. She already has a lead, but as you chase her she might get farther ahead, or she might get behind you. Don’t let that confuse you. The object is to get yourself and her to square forty. Somehow.
+3.	You make the first move. On each turn, you’re allowed to move one, two, or three squares either forward or backward. Depending on how many squares you move on your turn, Tammy moves the same number in the same direction. If you move two forward, she moves two forward.
+4.	Tammy moves in two phases. First, she moves the number of squares you move. Next, she moves the number of squares that appears on the square she lands on. Thus, if you move two squares forward, she moves two squares forward. If the number on the square she lands
+on is +4, for example, Tammy then moves an additional four squares forward and stops. You, however, ignore the numbers printed on the squares. Only when Tammy finishes her second set of moves does it become your turn to move. In short, for each one of your moves, Tammy moves twice.
+5.	You’re allowed to move in only one direction per turn. If you want to move three squares, you must go either forward or backward; no fair going two forward and one backward and having Tammy move three forward.
+6.	It is legal to move backward. If you do so, Tammy must move backward also.
+7.	You must move on a turn; no fair moving zero squares and having Tammy move according to the square she’s already on. You gotta keep moving.
+8.	Tammy must land on square forty at the end of her two-phase move. That means if you move forward three squares to land on square forty, Tammy must move forward three squares and then make her second set of moves (depending on the number printed on that square) to land on square forty.
+Send in your entry with your moves like this:
+I move:	Tammy moves:
++ 3 to square 4	+ 3,	+ 6 to square 12
++1 to square 5	+1,	- 4 to square 9
+- 2 to square 3	- 2,	-1 to square 6
+The second number in each of Tammy’s moves refers to the number printed on the square she lands on at first. In the first move, for example, she moves ahead three ( + 3) and lands on square six, which tells her to go forward another six squares ( + 6) to square 12, where she rests and waits for you to take your turn. (Note: These are not necessarily the correct moves. But they might be. Who knows?)
+The primary goal of this contest is to finish

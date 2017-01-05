@@ -1,0 +1,94 @@
+﻿MARCH 1983
+SOFTALK
+2
+
+Chairman	John Haller
+Publisher	Al Tommervik
+Editor	Margot Comstock Tommervik
+Art Director	Kurt A. Wahlner
+Managing Editor	Patricia Ryall
+Associate Editors	Jean Varven David Hunter Andrew Christie
+Special Assignments	Jonathan Miller
+Open Discussion Editor	Tommy Gear
+News and Trade Editor	Matthew T. Yuen
+Reviews Editor	Roe Adams
+Assistant Editor	David Durkee
+Copy Editor	Cordell Cooper
+Proofreaders	Harry McNeil Betsy Barnes
+Contributing Editors	
+Assembly Language	Roger Wagner
+Pascal	Jim Merritt
+Business	Peter Olivieri
+Apple CP/M	Greg Tibbetts Taylor Pohlman
+Apple III	
+Hardware	Jeffrey Mazur
+Applesoft	Doug Carlston
+Investing	Kenneth Landis
+Graphics	Mark Pelczarski
+Financial Modeling	Joe Shelton
+Beginners	Christopher U. Light
+Basic Solutions	William V. R. Smith
+Art Manager	Kevin McKeon
+Art Production	Don Robertson
+Art Assistants	Michael G. Pender Roxanne Rogers Jill Schultz
+Associate Publisher	Mary Sue Rennells
+Director of Operations	Three Tyler
+Accounting	Evelyn Burke
+Accounting Assistants	Mary Jo Milam Carla Swanson
+Assistant to the Publisher	Dan Yoder
+Dealer Sales	Judy Weinstein
+Book Sales	Lois Mencsik
+Advertising Coordinator	Linda McGuire
+West Coast Sales	Mike Antich Softalk 11160 McCormick Street Box 60 North Hollywood, CA 91603 (213) 980-5074
+East Coast Sales	Ian Ross Paul McGinnis Paul McGinnis Company 60 East 42nd Street New York, NY 10017 (212) 490-1021
+Midwest and Rocky Mountain Sales	Ted Rickard John Sienkiewicz John Bollweg Kevin Sullivan Market/Media Associates 435 Locust Road Wilmette, IL 60091 (312) 251-2541
+Circulation	
+Trial Subscriptions	Hal Schick Deirdre Booth Laurie O’Connell Marsha Stewart
+Paid Subscriptions	Pam Kelley Connie Mastelotto I. K. Frasca
+Back Issues	Ron Rennells
+List Maintenance	Pat Adams Harry Richardson
+Assistant	Cliff Martinez
+Systems	Sam Pawley
+Guest Reviewers	Dave Albert, Dale R. Archibald, Donald A. Dyer, William H. Harrington, Robert Moog, Jock Root, Howard A. Shore, Ethan Weiner
+
+Cover Photo: Saul Bernstein contemplates an Apple screen in his electronic artist’s studio. Photo by Kurt Wahlner.
+Credits: Composition by Photographics, Hollywood, California. Printing by Volkmuth Printers, Saint Cloud, Minnesota.
+
+Apple and Applesoft are registered trademarks of Apple Computer Inc., Cupertino, California. UCSD Pascal is a trademark of the University of California at San Diego. VisiCalc is a trademark of VisiCorp, San Jose, California. SoftCard is a trademark of Microsoft, Bellevue, Washington.
+
+Softalk. Volume 3, Number 7. Copyright (c) 1983 by Softalk Publishing Inc. All rights reserved. ISSN:0274-9629. Softalk is published monthly by Softalk Publishing Inc., 11160 McCormick Street, North Hollywood, California; telephone (213) 980-5074. Second-class postage paid at North Hollywood, California, and additional mailing offices.
+Postmaster: Send address changes to Softalk, Box 60, North Hollywood, CA 91603.
+Free Subscription: Complimentary trial subscription to all owners of Apple computers in the USA. If you own an Apple, but you’ve never received Softalk, send your name, address, and Apple serial number with a request for subscription to Softalk Circulation, Box 60, North Hollywood, CA 91603. Softalk is totally independent of Apple Computer Inc.; sending your warranty card to Apple Computer will not inform Softalk of your existence.
+Paid Subscription: $24 per year without sponsor, $18 per year with sponsor. At the end of trial period, each subscriber will be notified; response is required only if you wish to continue receiving Softalk. Lack of response will be taken as your choice to discontinue the magazine. Special rates for schools and libraries, $8; additional subscriptions for schools and libraries, $5 each.
+Back Issues: $2 through February 1981; $2.50 through July 1981; $3.50 through September 1982; $4.00 thereafter. November and December 1980, January, February, March, September, October, and November 1981, and December 1982 are sold out. December 1981 and February and May 1982 are in short supply.
+Problems? If you haven’t received your Softalk by the fifteenth of the month, or if you have other problems with your subscription, Hal Schick or Pam Kelley can help out. Call (213) 980-5074.
+Moving? Send new address and old to Softalk Circulation, Box 60, North Hollywood, CA 91603; telephone (213) 980-5074.
+
+CONTEST: RHYMES WITHOUT REASON
+
+Saint Patrick’s Day is just around the corner, but before you go pouring yourself a Bailey’s Irish Cream or sucking down a tall Bushmill’s, pull up a stool and have a giggle or two with us.
+In honor of oP Pat the patron saint, we’re going to have some fun with limericks. You know what a limerick is, don’t you? It’s a light five-line verse that serves no other purpose than to be cute or humorous (depending on your sense of humor).
+Limericks first appeared in England more than one hundred fifty years ago as a party game. The idea was to make up a nonsense five-line rhyme, after the recitation of which everyone sang a chorus that ended with the line, “Won’t you come up to Limerick?”
+Well, parties like that tend to have a lot of drinking going on, and the more the spirits flowed, the more the spirits flew. Party animals of the Victorian variety. The drunker they got, the bawdier and sillier the verses became.
+Of course, if we were just to have you all send in your favorite limericks, that would be boring. Besides, the unwritten laws of good taste would prohibit our printing most of them. So here’s the catch: each limerick must contain at least one reference to a product or its manufacturer that is advertised in this issue. Here’s an example from our last limerick contest:
+My wife spent last week in the loft.
+I know she’s alive; she just coughed.
+She has found no new suitor;
+It’s that Apple computer.
+I’m afraid that she’s gone micro soft.
+—Eric Marks (Mount Tabor, NJ)
+My brother, named Ed, had a fight For a woman whose honor was bright. Asked he, “Was I wrong To ring that guy’s gong?”
+“No,” I said, “Ed, you were right.”
+—Mike Leavitt (Reston, VA)
+The first example spells it right out in the last two words (Microsoft). Perfectly legal.
+The second one virtually requires you to read the last line out loud to get the company’s name (Edu-Ware). Also legal, and a bit more subtle.
+The subject of your limerick is up to you. It can be funny, witty, punny, or just plain silly. Clue: a good way to win is by making yours stand out in the crowd. Get crazy!
+Limericks will be judged on cleverness, jazziness, and general toughness in figuring out what product or company you refer to in the limerick.
+The winner of this contest will win $100 in booty made by advertisers in this issue, and finalists will win a month’s supply of Irish Spring.
+Also, be sure to include this coupon or a facsimile of it:
+I call meself:_______________________________
+My house is at:	________________________
+Village, state, zip:_________________________
+Phone:_______________________________________
+If I win, I’d be so excited to have:_________
+Send your entry to Softalk 0’Con(nell)test, Box 60, North Hollywood, CA 91603. All entries must be postmarked by April 15, 1983; those in green envelopes will receive priority consideration.

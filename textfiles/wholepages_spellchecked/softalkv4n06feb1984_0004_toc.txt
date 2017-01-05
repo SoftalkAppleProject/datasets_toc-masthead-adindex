@@ -1,0 +1,73 @@
+﻿FEBRUARY 1984
+SOFTALK
+
+Exec Human Systems Dynamics: A Quieter Revolution
+Virginia Lawrence and her firm are important parts of a great happening. Computers are changing the way we work, play, learn, think, and perform statistical analysis.
+DAVID HUNTER...................56
+
+Hey, Mac! Apple’s New Computer is a Winner
+Introducing Macintosh, Apple's thirty-two bit personal computer for everyone—plus a look at Mac's Lisa technology from Inside Apple.
+AL TOMMERVIK and
+JOE SHELTON ............96
+
+The Amazing, Automated Macfactory
+Apple has built the most sophisticated factory in America to produce its new volkscomputer,
+Macintosh. The factory's technology matches the best anywhere—even Japan.
+DAVID DURKEE and
+KURT WAHLNER ..............130
+
+Is the Software Industry Ripe for Representation?
+More and more people think the software industry is similar to the record industry. Talent agents are showing interest in representing programmers and publishers. But 'growing up‘ is not always easy—on any of us.
+HARVEY HARRISON and MICHAEL FERRIS..............176
+
+Hardtalk: Where Is the Program That Can
+Print Every Which Way But Loose?
+A look at printers and word processing programs and why they can't get together. Also, helpful routines for just about everybody.
+BILL PARKER.................192
+
+Backtalk: Louise Rude’s Second Sight;
+Lotus's Climb to the Top Louise Rude has a new career as an advocate for sensory impaired persons. Lotus's Mitch Kapor went nuts over IBM's pc. Now he's keen on Macintosh.
+TOMMY GEAR and
+DAVID HUNTER............200
+
+DEPARTMENTS
+
+Advertiser's Index ....................Opposite Page
+Beginner’s Corner, by Matt Yuen
+All about programming languages................86
+Bestsellers........................................251
+Buttonwood Apples, by Ken Landis
+Technical analysis and Market Counselor.........100
+Contest: Dialing for the Fun of It
+Unscrambling celeb phone numbers!.................6
+Contest Winners
+November's Turkey Trot; Ronnie and Yuri..........11
+DOStalk, by Tom Weishar
+Compatibility problems; VisiCalc DIF files ......65
+Everyone’s Guide to Assembly Language, by Jock Root
+Anatomy of the Apple's 6502 brain...............187
+Fastalk
+A quick guide to new and classic releases .....15
+Follow the Floating Point, by David Durkee
+String variables—commands, functions.............97
+The Graphics Page, by Bill Budge
+Budge's Graphic's Zone; HLine....................79
+If Then Maybe, by the Softalk Sages
+Readers ask experts for help..................114
+Keys to the World, by Matt Yuen
+Telecommunications terms, protocols...............90
+Marketalk News
+Announcing new products and services..........117
+Marketalk Reviews....................................139
+Mind Your Business, by Peter Olivieri
+Choosing a system, databases, books, Lisa........199
+Open Discussion
+Kudos, complaints, clarifications, questions......35
+The Pascal Path, by Jim Merritt
+RatCal, rational number calculator...............203
+Schoolhouse Apple, by Jock Root The Great Creato, Education Station,
+and a Logo tutorial by Donna Bearden.............155
+SoftCard Symposium, by Greg Tibbetts
+General-purpose BDOS subroutine library..........167
+Tradetalk
+Silicon Valley happenings and industry news...163

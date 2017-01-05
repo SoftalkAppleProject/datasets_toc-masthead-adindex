@@ -1,0 +1,103 @@
+﻿FEBRUARY 1982
+S O F T A L K
+2
+
+Chairman	John Haller
+Publisher	Al Tommervik
+Editor	Margot Comstock Tommervik
+Managing Editor	Craig Stinson
+Art Director	Kurt A. Wahlner
+General Manager	Mary Sue Rennells
+Editorial Associate	Jean Varven
+Special Assignments	Melissa Milich David Hunter
+Copy Editor	Andrew Christie
+Art Assistant	Donna Siebert
+Contributing Editors	
+Assembly Language	Roger Wagner
+Pascal	Jim Merritt
+Business	Peter Olivieri
+Apple CP/M	Greg Tibbetts
+Apple III	Taylor Pohlman
+Hardware	Jeffrey Mazur
+Applesoft	Doug Carlston
+Investing	Kenneth Landis
+Basic Solution	Wm. V. R. Smith
+Guest Reviewers	Dale Archibald Allen Munro
+Special Projects	Greg Voss
+Office Manager	Jo Hilliard
+Circulation	Ron Rennells Robert Mann
+Circulation Assistants	Hal Schick Dierdre Booth Patty Wilson
+Systems	Wm. V. R. Smith Ken Williams
+Advertising Coordination and Sales (213) 980-5074	David Hunter
+
+Cover design and 1982 Rose Parade photo by Kurt Wahlner. Helicopter provided by Metro Traffic Control and piloted by Jaime Namson.
+Composition by Photographics, Hollywood, California. Printing by Volkmuth Printers, Saint Cloud, Minnesota.
+
+Apple and Applesoft are registered trademarks of Apple Computer Inc., Cupertino, California.
+
+UCSD Pascal is a trademark of the University of California at San Diego.
+
+VisiCalc is a trademark of Personal Software, Sunnyvale, California.
+
+SoftCard is a trademark of Microsoft, Bellevue, Washington.
+
+Softalk,. Volume 2, Number 6. Copyright ® 1982 by Softalk Publishing Inc. All rights reserved. ISSN:0274-9829. Softalk is published monthly by Softalk Publishing Inc., 11021 Magnolia Boulevard, North Hollywood, CA 91601. Telephone, (213) 980-5074. Second-class postage paid at North Hollywood, CA, and additional mailing offices.
+Postmaster: Send address changes to Softalk, 11021 Magnolia Boulevard, North Hollywood, CA 91601.
+Free Subscription: Complimentary for one year to all owners of Apple computers in the USA. If you own an Apple, but you've never received Softalk, send your name, address, and Apple serial number with a request for subscription to Softalk Circulation, 11021 Magnolia Boulevard, North Hollywood, CA 91601. Softalk Is totally independent of Apple Computer Inc.; sending your warranty card to Apple Computer will not inform Softalk of your existence.
+Paid Subscription: After one free year, $24 per year without sponsor, $18 per year with sponsor. At the end of the free year, each subscriber will be notified; response is required only if you wish to continue receiving Softalk. Lack of response will be taken as your choice to discontinue the magazine. For multiple subscriptions, deduct $6 per subscription. Special rates for schools and libraries, $8; multiple subscriptions for schools and libraries, $5 each.
+Back Issues: $2 through February 1981; $2.50 from April 1981 through July 1981; $3.50 thereafter. November and December 1980 and January, March September, and October 1981 are sold out. October 1980 and February 1981 are in short supply.
+Problems? If you haven’t received your Softalk by the fifteenth of the month, or if you have other problems with your subscription, Ron Rennells or Robert Mann can help out. Call (213) 980-5099.
+Moving? Send new address and old to Softalk Circulation, 11021 Magnolia Boulevard, North Hollywood, CA 91601; telephone, (213) 980-5099.
+
+Contest: ASCII RR
+
+Alan Nayer was a close runnerup for first prize in the Contest Contest with his contest, ASCII Railroad. It’s a word game and a number game and a computer game all rolled into one. And it’s hard.
+First prize in the contest will be $100 worth of the Softalk advertisers’ products of your choice. Up to five runnersup will win an extra year’s free subscription to Softalk. In case of ties, the Apple random number generator will determine the winner and the runnersup.
+Beginning with this month, all sincere contest entrants who were not already eligible for the $18 subscription rate for Softalk will become so by virtue of their entry in a contest.
+Deadline for the contest is March 15, 1982.
+Here are the rules for ASCII Railroad, as Alan Nayer wrote them.
+Fill each of the 27 ‘‘railroad cars” in the chart with a decimal digit. Each pair of digits forms the decimal representation of an ASCII code. Except for the first and last digit, each pair of digits overlaps with its neighbor; the second digit of a number is also the first digit of the next number.
+Clues may relate to the meaning a character has in one of Apple’s languages or operating systems, the character name (nul, soh, and so on), or the character itself. Sometimes, poetic license was used, or even abused. Remember: the digit pairs are the decimal, not hexadecimal representation, and the code 0 through 9, when used, should contain a leading zero.
+Here is a brief example (with answers):
+A.	Some languages prefer this as the literal delimiter (the apostrophe character ’ which is decimal 39)
+B.	Enticement to a horse (carrot. . . carat or 94)
+C.	Basic subscript delimiter (end parentheses, 41)
+D.	Its name is a holdover from the typewriter (CR, 13)
+A.	Alarm clock for DOS
+B.	Footnote
+C.	Underwater vessel (abbr)
+D.	Prompt character
+E.	Computerized eraser
+F.	Arithmetic operator
+G.	Realistic minimum number of drives for Pascal
+H.	Oops!
+I.	Golfers need this to boot up
+J.	Immediate AND opcode
+K.	New England state (abbr)
+L.	Down, but not back
+M.	Hara-kiri in Pascal
+N.	Hara-kiri in Basic
+O.	Pascal default exec delimiter
+P.	Innocent exclamation
+Q.	Spanish affirmative
+R.	Statement separator
+S.	Second person singular or plural
+T.	Default maxfiles
+U.	There’s more than one way to go home
+V.	Half of our northern neighbor
+W.	Like F
+X.	String suffix
+Y.	It prints in Applesoft
+Z.	It’s NOT in Integer; it’s not in Applesoft
+Send this entry form or a facsimile to Softalk Railroad, 11021 Magnolia Boulevard, North Hollywood, CA 91601, by March 15, 1982.
+Name:_________________________________
+Address:------------------------------
+City/state/zip:_______________________
+Phone:________________________________
+Prize desired:________________________
+Dealer:_______________________________
+Jumbled Jumble Extends Deadline
+Any of you who sailed through most of last month’s Apple Jumble only to be stumped on Hector Plagbits can quit pulling out your hair. Yes, old Plagbits suf-
+fers from a typo. His name should read: Hectar Plagbits
+That’s Hectar with an a instead of an o.
+Because of our error and your torn fingernails, the deadline for Apple Jumble entries is extended to March 1, 1982

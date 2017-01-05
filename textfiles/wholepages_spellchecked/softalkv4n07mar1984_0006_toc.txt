@@ -1,0 +1,92 @@
+﻿MARCH 1984
+SOFTALK
+4
+
+Chairman	John Haller
+Publisher	Al Tommervik
+Editor	Margot Comstock Tommervik
+Art Director	Kurt A. Wahlner
+Editorial	
+Senior Editor	David Hunter
+Managing Editor	Three Tyler
+Assistant Managing Editor	Carol Ray
+Associate Editors	Jean Varven David Durkee
+Telecom	Matthew T. Yuen
+Special Assignments	Andrew Christie
+Features, Trade	Michael Ferris
+If, Then, Maybe	Tommy Gear
+Reviews	Catherine Petersen
+Education	Jock Root
+Letters	Todd Zilbert
+Market News	Lashea Lowe
+Market Research	Lanny Broyles
+Copy	Cordell Cooper
+Submissions	Betsy Barnes
+Proofreading	Harry McNeil Judith Pfeffer Steve Thomsen
+Word Processing	Brenda Johnson
+Regional Editors	
+East Coast	Roe Adams
+Northern California	Hartley G. Lesser
+Contributing Editors	
+Pascal	Jim Merritt
+Business	Peter Olivieri
+Apple CP/M	Greg Tibbetts
+Investing	Kenneth Landis
+DOS	Tom Weishaar
+Graphics	Bill Budge
+Printers	Bill Parker
+Softalk Sages	Doug Carlston Bob Clardy Roy Hicks John Jeppson Mark Pelczarski Joe Shelton Roger Wagner
+Art	
+Production Manager	Donald J. Robertson
+Assistant Art Director	Lucas McClure
+Ad Production	Michael G. Pender
+Assistant Production Manager	Nancy Baldwin
+Assistants	Weldon O. Lewin Malcolm Rodgers Ruth Seid Dan Winkler
+Business	
+Associate Publisher	Mary Sue Rennells
+Operations	Marjorie Kaufman
+Advance Projects	Steve Shendelman
+Accounting Assistants	Mary Jo Milam Lois Mencsik Donna Flushman
+Advertising	
+Coordinator	Linda McGuire Carter
+Assistant	Cathy Stewart
+West Coast Sales	Michael Biel Softalk 3020 Bridgeway, #148 Sausalito, CA 94965 (415) 331-0200
+East Coast Sales	Ian Ross Paul McGinnis Advertising Sales 690 Broadway Massapequa, NY 11758 (212) 490-1021
+Midwest and	
+Rocky Mountain Sales	Ted Rickard John Bollweg Kevin Sullivan Market/Media Associates 435 Locust Road Wilmette, IL 60091 (312) 251-2541
+Circulation	
+Customer Service	Marsha Stewart
+Trial Subscriptions	Deirdre Galen Cliff Martinez Anna Gusland Terez Carroll Ramona Gordon Joe Bellinger Rickie Kaufman
+Paid Subscriptions	Michelle Vigneault-Kirschenbaum Leticia Garcia Jan Godoy-Aguiar Barbara Naimoli Josie Walley
+Back Issues	Robert Williams
+Dealer Sales	Pattie Lesser Dan Yoder
+Systems	John Heitmann
+
+Credits: Composition by Photographics, Hollywood, California. Printing by Volkmuth Printers, Saint Cloud, Minnesota.
+
+Apple and Applesoft are registered trademarks of Apple Computer Inc., Cupertino, California. UCSD Pascal is a trademark of the University of California at San Diego. SoftCard is a trademark of Microsoft, Bellevue, Washington. Softalk is a trademark of Softalk Publishing Inc., North Hollywood, California.
+
+Softalk. Volume 4, Number 7. Copyright © 1984 by Softalk Publishing Inc. All rights reserved. ISSN:0274-9629. Softalk is published monthly by Softalk Publishing Inc., 7250 Laurel Canyon Boulevard, North Hollywood, California; telephone (818) 980-5074. Second-class postage paid at North Hollywood, California, and additional mailing, offices.
+Postmaster: Send address changes to Softalk, Box 7039, North Hollywood, CA 91605
+Advertising: Send ad material to Linda McGuire Carter, Softalk, 7250 Laurel Canyon Boulevard, North Hollywood, CA 91605.
+Free Subscriptions: Complimentary trial subscriptions to all owners of Apple computers in the USA and Canada. If you own an Apple but you've never received Softalk, send your name, address, and Apple serial number with a request for subscription to Softalk Circulation, Box 7039, North Hollywood, CA 91605. Please allow six to eight weeks for processing Softalk is totally independent of Apple Computer Inc.; sending your warranty card to Apple Computer will not inform Softalk of your existence.
+Paid Subscriptions: $24 per year. At the end of trial period, each subscriber will be notified; response is required only if you wish to continue receiving Softalk. Lack of response will be taken as your choice to discontinue the magazine. Special rates for schools and libraries, $12; concurrent additional subscriptions for schools and libraries, $8 each. Please allow six to eight weeks for processing.
+Back Issues: $2 through February 1981; $2.50 through July 1981; $3.50 through September 1982, $4.00 thereafter. November and December 1980, January, February, March, September, October, and November 1981, and December 1982 are sold out. December 1981, February and May 1982, and February and December 1983 are in short supply
+Problems? If you haven't received your Softalk by the fifteenth of the month, or if you have other problems with your subscription, Marsha Stewart can help out. Call (818) 980-5074 or (800) 821-6231.
+Moving? Send new address and a label from a recent Softalk to Softalk Circulation, Box 7039, North Hollywood, CA 91605; telephone (818) 980-5074, Please allow six to eight weeks for processing.
+
+STRAIGHTALK
+
+I WAS JUST THINKING....
+What do you mean when you say, “Just think. . . .?”
+‘‘Paris in May? Just think what fun it'll be. . .
+‘ Just think what it would be like if everyone had a computer. . . . ” “You can't make such an important decision so quickly. Just think a minute. ”
+“Some of the top math students in this country would have trouble passing math in Japan. Just think what that means. "
+Sometimes you mean just about the same as “what if,” except that it’s a what-if about concepts rather than numbers. But not usually. Usually, “just think” means consider, think of all the ramifications, go to the root of the matter, look for causes and possible solutions, or check your premises.
+In Softalk it means all those things: It’s the name of a new feature, Softalk's first step toward a bit wider scope. It’s a from-time-to-time series of articles about almost anything that makes a difference in the quality of our lives, written by people who have good reason to know and just plain good reason—outstanding thinkers, in our industry or out.
+In upcoming issues, you’ll learn what Doug Carlston thinks about the state of education in the United States, how Steve Wozniak feels about piracy and computer crime, what conclusions Jock Root has derived about the common links between computer aficionados and science fiction buffs, and lots more.
+Senior editor David Hunter kicks off Just Think in this issue with the story of the most definitive work done to date in the search for proof of Albert Einstein’s Grand Unification Theory. While it might not make much difference to most of us whether everything is one in terms of physics and mathematics, the implications of such a theory being true call into question our ideas about the very nature of man, about free will, about the values and premises by which we guide our lives.
+The microcomputer world is changing, embracing more and more people with wide-ranging interests, from multifarious occupations and lifestyles. Still, especially in the Apple world, we are a mixture of pioneers and, lately, of the avant garde—settlers of new territory. We’re not a tiny community anymore, and in only a few years we will be a hundredfold, or a thousandfold.
+And because we were here first—every one of us who’s chosen to use a microcomputer up to now and for a handful of months hence—all those folds will look to us as leaders. It’s a magnificent opportunity to affect the quality of life for the better; but we must know where we lead. We must look outward, and deep within as well.
+That’s why Softalk is broadening it’s scope; and that’s what Just Think is all about.
+We hope you enjoy it and that you will just think with us. MCT

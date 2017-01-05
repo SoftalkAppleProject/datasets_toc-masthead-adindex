@@ -1,0 +1,88 @@
+﻿4
+
+Chairman	John Haller
+Publisher	Al Tommervik
+Editor	Margot Comstock Tommervik
+Art Director	Kurt A. Wahlner
+Editorial	
+Senior Editor	David Hunter
+Managing Editor	Three Tyler
+Assistant Managing Editor	Carol Ray
+Associate Editor	Jean Varven
+Special Assignments	Andrew Christie Michael Ferris
+Letters	Tommy Gear Todd Zilbert
+Telecom	Matthew T. Yuen
+Programs	David Durkee
+Education	Jock Root
+Reviews, Trade	Catherine Petersen
+Market News	Lashea Lowe
+Market Research	Lanny Broyles
+Copy	Cordell Cooper
+Submissions	Betsy Barnes
+Proofreading	Harry McNeil Judith Pfeffer
+Regional Editors	
+East Coast	Roe Adams
+Northern California	Hartley G. Lesser
+Contributing Editors	
+Pascal	Jim Merritt
+Business	Peter Olivieri
+Apple CP/M	Greg Tibbetts
+Investing	Kenneth Landis
+DOS	Tom Weishaar
+Graphics	Bill Budge
+Printers	Bill Parker
+Basic Tips	William V R. Smith
+Softalk SAGES	Doug Carlston Bob Clardy Roy Hicks John Jeppson Mark Pelczarski Joe Shelton Roger Wagner
+Art	
+Production Manager	Donald J. Robertson
+Ad Production	Michael G. Pender
+Assistants	Nancy Baldwin Ken Goehner Weldon O. Lewin Lucas McClure Malcolm Rodgers Ruth Seid Glenn Thome Dan Winkler
+Business	
+Associate Publisher	Mary Sue Rennells
+Operations	Marjorie Kaufman
+Accounting	Evelyn Burke
+Accounting Assistants	Mary Jo Milam Carla Swanson Lois Mencsik Donna Flushman
+Advertising	
+Coordinator	Linda McGuire Carter
+Assistant	Cathy Stewart
+Advertising Services	Marcia Shepard
+West Coast Sales	Mike Antich Michael Biel Softalk 7250 Laurel Canyon Boulevard Box 7039 North Hollywood. CA 91605 (213) 980-5074
+East Coast Sales	Ian Ross Paul McGinnis Advertising Sales 690 Broadway Massapequa, NY 11758 (212) 490-1021
+Midwest and Rocky Mountain Sales	Ted Rickard John Bollweg Kevin Sullivan Market/Media Associates 435 Locust Road Wilmette, IL 60091 (312) 251-2541
+Circulation	
+Trial Subscriptions	Marsha Stewart Deirdre Booth Cliff Martinez Anna Gusland Terez Carroll Ramona Gordon Joe Bellinger
+Paid Subscriptions	Michelle Vigneault-Kirschenbaum Leticia Garcia David Kahn Jan Aguiar Barbara Naimoli
+Back Issues	Michael Jones
+Dealer Sales	Pattie Lesser Dan Yoder
+Systems	John Heitmann
+
+Credits: Composition by Photographics, Hollywood. California Printing by Volkmuth Printers, Saint Cloud, Minnesota
+
+Apple and Applesoft are registered trademarks of Apple Computer Inc., Cupertino, California UCSD Pascal is a trademark of the University of California at San Diego. VisiCalc is a trademark of VisiCorp. San Jose, California. SoftCard is a trademark of Microsoft, Bellevue, Washington Softalk is a trademark of Softalk Publishing Inc., North Hollywood. California.
+
+Softalk. Volume 4, Number 5. Copyright © 1983 by Softalk Publishing Inc All rights reserved. ISSN 0274-9629. Softalk is published monthly by Softalk Publishing Inc., 7250 Laurel Canyon Boulevard, North Hollywood, California, telephone (213) 980-5074. Second-class postage paid at North Hollywood, California, and additional mailing offices.
+Postmaster: Send address changes to Softalk. Box 7039, North Hollywood, CA 91605.
+Free Subscriptions: Complimentary trial subscriptions to all owners of Apple computers in the USA. If you own an Apple but you've never received Softalk, send your name, address, and Apple serial number with a request for subscription to Softalk Circulation, Box 7039, North Hollywood, CA 91605. Please allow six to eight weeks for processing. Softalk is totally independent of Apple Computer Inc., sending your warranty card to Apple Computer will not inform Softalk of your existence.
+Paid Subscriptions: $24 per year. At the end of trial period, each subscriber will be notified, response is required only if you wish to continue receiving Softalk. Lack of response will be taken as your choice to discontinue the magazine. Special rates for schools and libraries, $12. concurrent additional subscriptions for schools and libraries, $8 each. Please allow six to eight weeks for processing
+Back Issues: $2 through February 1981, $2.50 through July 1981; $3.50 through September 1982; $4.00 thereafter. November and December 1980, January. February, March, September, October, and November 1981, and December 1982 are sold out. December 1981, February and May 1982, and February 1983 are in short supply.
+Problems? If you haven't received your Softalk by the fifteenth of the month, or if you have other problems with your subscription, Marsha Stewart can help out. Call (213) 980-5074 or (800) 821-6231.
+Moving? Send new address and a label from a recent Softalk to Softalk Circulation. Box 7039, North Hollywood. CA 91605, telephone (213) 980-5074. Please allow six to eight weeks for processing.
+
+CONTEST: The Continuing Adventures of...
+
+This month’s contest is very simple. What follows is an adventure game, just the way it would appear on the screen. To make things easier, we’ve taken the liberty of providing all the right commands to get you through the adventure as quickly as possible.
+“Well, heck,’’ you’re probably thinking, “what’s the challenge?’’
+The challenge is to read through the short adventure and figure out what the player was doing—in other words, what the adventure was about. Once you figure that out, write down what you think the adventurer was doing and send it in. That’s it! All you have to write is something like, “The adventurer was . . .’’ filling in the blank with a sentence or two. If necessary, you can follow that with a brief explanation of why you think that’s what the adventure was doing. Then give the adventure game a name, such as “Danger in Uh-oh Land,’’ or whatever suits your fancy.
+Just a few rules. First, all entries must be on 8 1/2-by-11 -inch paper. No larger, no smaller. You shouldn’t need to use more than one sheet of paper, but if your entry is more than one page, then all pages must be stapled together. Your name, address, and phone number must be printed on each page of your entry. You can use a facsimile of the coupon on this page, but it’s more important that you write all the information on the entry.
+A prize of $200 to be spent on Apple accessories made by Softalk advertisers will be awarded to the person who figures out correctly what the task of the adventure was. In the case of a tie, the snooty random number generator
+(RNG) will send its butler to pick a winner by random drawing. All decisions are final (it figures).
+Bonus! A special bonus prize worth $50 will be awarded to the contestant who turns in the most imaginative entry, right or wrong. So even if you can’t figure out what this adventure was about, you still have a chance to win. Any entry that gives a description of what was going on, as long as it is consistent with the action in the adventure, is eligible to win this bonus prize.
+Entries must be postmarked by February 15, 1984. No exceptions.
+Does this sound like just the kind of January fun that will kick off the new year right? Better believe it. So, get adventuring, figure out what the heck was going on, and send in your entry soon to Softalk Adventure, Box 7039, North Hollywood, CA 91605, postmarked by the day after Valentine’s Day.
+Name: _____________________________________
+Address: __________________________________
+City, State, Zip: _________________________
+Phone: ____________________________________
+My retailer:_______________________________
+I’d love to splurge on: ___________________
+Get contest. Solve contest. Mail entry. Win contest. Go crazy.

@@ -1,0 +1,33 @@
+﻿POSITION	NAME
+Chairman	John Haller
+Publisher	Al Tommervik
+Editor	Margot Comstock Tommervik
+Managing Editor	Craig Stinson
+Art Director	Kurt A. Wahlner
+Editorial Associate	Jean Varven
+Special Assignments	Melissa Milich, David Hunter, Jonathan Miller
+Assistant Editor	Andrew Christie
+Proofreader	Harry McNeil
+Contributing Editors	
+	Assembly Language	Roger Wagner
+	Pascal	Jim Merritt
+	Business	Peter Olivieri
+	Apple CP/M	Greg Tibbetts
+	Apple III	Taylor Pohlman
+	Hardware	Jeffrey Mazur
+	Applesoft	Doug Carlston
+	Investing	Kenneth Landis
+	Basic Solutions	Wm. V. R. Smith
+	Special Projects	Greg Voss
+Associate Publisher	Mary Sue Rennells
+Circulation
+	Circulation	Ron Rennells, Robert Mann, Hal Schick
+	Circulation Assistants	Donna Siebert, Dierdre Booth, Mary Milam
+Systems	Wm. V. R. Smith, Ken Williams, Sam Pawley
+Promotion	Jo Hilliard
+Accounting	Evelyn Burke
+Office Manager	Nancy Oppenheim
+Advertising
+	Advertising Coordinator	David Hunter
+	Advertising Sales	David Hunter, Jo Hilliard
+

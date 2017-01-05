@@ -1,0 +1,44 @@
+﻿POSITION	NAME
+Chairman	John Haller
+Publisher	Al Tommervik
+Editor	Margot Comstock Tommervik
+Art Director	Kurt A. Wahlner
+Managing Editor	Pat Ryall
+Associate Editors	Jean Varven, Andrew Christie
+Newspeak Editor	David Hunter
+Special Assignments	Jonathan Miller
+Open Discussion	Tommy Gear
+Assistant Editors	Michael Ferris, Matthew T. Yuen, Robert Wray
+Proofreader	Harry McNeil
+Contributing Editors	
+	Assembly Language	Roger Wagner
+	Pascal	Jim Merritt
+	Business	Peter Olivieri
+	Apple CP/M	Greg Tibbetts
+	Apple III	Taylor Pohlman
+	Hardware	Jeffrey Mazur
+	Applesoft	Doug Carlston
+	Investing	Kenneth Landis
+	DOS	Bert Kersey
+	Graphics	Mark Pelczarski
+	Financial Modeling	Joe Shelton
+	Beginners	Christopher U. Light
+	Basic Solutions	Wm. V. R. Smith
+Guest Reviewers	Roe Adams, Dave Albert, Dale Archibald, Phillip Good, Jock Root, R. Jon Ruppert
+Art Assistant	Mark S. Wilber
+Associate Publisher	Mary Sue Rennells
+Accounting	Evelyn Burke
+Production Coordinator	Elaine Cohen
+Purchasing	Steven M. Poncar
+Advertising
+	West Coast Sales	Jo Hilliard
+	East Coast Sales	Paul McGinnis, [Paul McGinnis Company]
+	Midwest and Rocky Mountain Sales	Ted Rickard, John Sienkiewicz, [Market/Media Associates]
+Book and Poster Sales	Mary Milam
+Circulation	
+	Back Issues	Ron Rennells
+	Dealer Sales	Donna Siebert
+	Trial Subscriptions	Hal Schick
+	Paid Subscriptions	Dan Yoder, Pam Kelley
+Assistants	Deirdre Booth, Lois Stickelmaier, Judy Weinstein
+Systems	Sam Pawley

@@ -1,0 +1,112 @@
+﻿JULY 1982
+SOFTALK
+2
+
+Chairman	John Haller
+Publisher	Al Tommervik
+Editor	Margot Comstock Tommervik
+Art Director	Kurt A. Wahlner
+Managing Editor	Pat Ryall
+Associate Editors	Jean Varven Andrew Christie
+Newspeak Editor	David Hunter
+Special Assignments	Jonathan Miller
+Open Discussion	Tommy Gear
+Assistant Editors	Michael Ferris Matthew T. Yuen Robert Wray
+Proofreader	Harry McNeil
+Contributing Editors	
+Assembly Language	Roger Wagner
+Pascal	Jim Merritt
+Business	Peter Olivieri
+Apple CP/M	Greg Tibbetts
+Apple III	Taylor Pohlman
+Hardware	Jeffrey Mazur
+Applesoft	Doug Carlston
+Investing	Kenneth Landis
+DOS	Bert Kersey
+Graphics	Mark Pelczarski
+Financial Modeling	Joe Shelton
+Beginners	Christopher U. Light
+Basic Solutions	Wm. V. R. Smith
+Guest Reviewers	Roe Adams Dave Albert Dale Archibald Phillip Good Jock Root R. Jon Ruppert
+Art Assistant	Mark S. Wilber
+Associate Publisher	Mary Sue Rennells
+Accounting	Evelyn Burke
+Production Coordinator	Elaine Cohen
+Purchasing	Steven M. Poncar
+Advertising	
+West Coast Sales	Jo Hilliard Softalk 11021 Magnolia Boulevard North Hollywood, CA 91601 (213) 980-5074
+East Coast Sales	Paul McGinnis Paul McGinnis Company 60 East 42nd Street New York, NY 10017 (212) 490-1021
+Midwest and Rocky Mountain Sales	Ted Rickard John Sienkiewicz Market/Media Associates 435 Locust Road Wilmette, IL 60091 (312) 251-2541
+Book and Poster Sales	Mary Milam
+Circulation	
+Back Issues	Ron Rennells
+Dealer Sales	Donna Siebert
+Trial Subscriptions	Hal Schick
+Paid Subscriptions	Dan Yoder Pam Kelly
+Assistants	Deirdre Booth Lois Stickelmaier Judy Weinstein
+Systems	Sam Pawley
+
+Cover Photo: Philadelphia Phillies first baseman Pete Rose, by Robert T. Salgado; design by Kurt Wahlner.
+Composition by Photographies, Hollywood, California. Printing by Volkmuth Printers, Saint Cloud, Minnesota.
+
+Apple and Applesoft are registered trademarks of Apple Computer Inc., Cupertino, California.
+
+UCSD Pascal is a trademark of the University of California at San Diego.
+
+VisiCalc is a trademark of VisiCorp., San Jose, California.
+
+SoftCard is a trademark of Microsoft, Bellevue, Washington.
+
+Softalk. Volume 2, Number 11. Copyright ® 1982 by Sof-talk Publishing Inc. All rights reserved. ISSN:0274-9629. Softalk is published monthly by Softalk Publishing Inc., 11021 Magnolia Boulevard, North Hollywood, CA 91601; telephone, (213) 980-5074. Second-class postage paid at North Hollywood, CA, and additional mailing offices.
+Postmaster; Send address changes to Softalk, 11021 Magnolia Boulevard, North Hollywood, CA 91601.
+Free Subscription: Complimentary trial subscription to all owners of Apple computers in the USA. If you own an Apple, but you've never received Softalk, send your name, address, and Apple serial number with a request for subscription to Softalk Circulation, 11021 Magnolia Boulevard, North Hollywood, CA 91601. Softalk is totally independent of Apple Computer Inc.; sending your warranty card to Apple Computer will not inform Softalk of your existence.
+Paid Subscription: $24 per year without sponsor, $18 per year with sponsor. At the end of trial period, each subscriber will be notified; response is required only if you wish to continue receiving Softalk. Lack of response will be taken as your choice to discontinue the magazine. Special rates for schools and libraries, $8; multiple subscriptions for schools and libraries, $5 each.
+Back Issues: $2 through February 1981; $2.50 from April 1981 through July 1981; $3.50 thereafter. October, November, and December 1980 and January, February, March, September, October, and November 1981 are sold out.
+Problems? If you haven't received your Softalk by the fifteenth of the month, or if you have other problems with your subscription, Dan Yoder or Hal Schick can help out. Call (213) 980-5074.
+Moving? Send new address and old to Softalk Circulation, 11021 Magnolia Boulevard, North Hollywood, CA 91601; telephone, (213) 980-5074.
+
+CONTEST:
+APPLEETYMOLOGY
+
+Ever wonder how gruds and gleep-noks got their names? Or where Oo-Topos is located? Or what the derivation of Snoggle is? We don’t know, but we do know that there are a lot of words and names in Appledom whose geneses are obscured by our immediate association of them with our microcomputers. Some of their origins lie in history; some are as close as your pocket dictionary.
+For example, more often than not, when someone says “integer,” we think first of a high-level language rather than of the numbers, -1, 0, 1, 2, and so on, just as “novation” conjures images of modem hardware, rather than the legal substitution of contracts or agreements.
+This month’s contest will help you remember (or teach you, if you don’t already know) where some of these Apple-associated names came from. Below are twenty riddles. The object is to figure out the word or words referred to by the clues. Some of the answers are the names of software products, some are the names of companies related to Apples, and others are simply Apple-related proper names.
+Some of the clues are definitions of the answers; others are definitions of words that themselves are clues to the answers. So if you think you have solved the given clue but it just doesn’t make sense, then push on further.
+Each puzzle is worth at least two points; one for the answer to the clue, and one for the name of the product, company, or proper name it refers to. Answers that require two clues being solved are worth three points. Make sure you give complete names in your final answer, and that they’re spelled correctly. Incomplete or misspelled answers won’t count.
+Example:
+a)	Henry Ford’s and assembler.
+Answers: assembly line, Assembly
+Lines: The Book (2 points). “Assembly lines,” or “Assembly Lane,” as a final answer would not be acceptable.
+b)	Spike and Snoopy.
+Answers: beagle brothers, Beagle Bros (2 points). As a final answer, “Beagle Brothers” wouldn’t count, as the correct spelling is “Bros.”
+The winner will receive $100 in goods from Softalk advertisers. In case of a tie, contestants will be churned through Apple’s random number generator. The lone survivor will be the winner.
+A prize worth $50 will be awarded if someone makes an equally good case for an alternate answer or answers to those intended; in the event of more than one such entry, that deemed cleverest and most reasonable by Softalk's contest
+staff will take this consolation prize.
+1)	Imagine flying in your spacecraft through some saw-toothed mountains.
+2)	The Romans worshipped her at cockcrow. Sleepytime girl?
+3)	These sentries are definitely ahead of their time.
+4)	A pattern of horizontal lines that form on a television screen when no signal is received. Especially visible if one tilts slightly.
+5)	This Titan stole fire from the heavens and gave it to mankind. I read it in a chain letter.
+6)	A large keyboard instrument with steam whistles, found in most carnivals and amusement parks.
+7)	Hi! I’m Peggy. Fly me to Coarse-gold.
+8)	Computer gaming, in Brazzaville?
+9)	Lassie was one. So is Benji.
+10)	The air defense in North America neither takes nor adds to its power.
+11)	Having lived alone in the Arabian desert for over five hundred years, this creature burned itself, only to rise again—but in Illinois?
+12)	German sausage? We’re stalking to kill about two thousand pounds’ worth.
+13)	Like 1+1=3, for example.
+14)	In the valley, carries twice the weight as N.
+15)	Five shillings for a hard day’s work.
+16)	A remarkable historic period. Like the era of the confused pharaoh.
+17)	In theory, what protons are made of. Just ask Richard Benjamin or Chris Jochumson.
+18)	Describes an alien creature that is intelligent, feeling, aware. Even if he’s half ’n’ half.
+19)	When translated into Greek, the name of the main character in an adventure game becomes the name of the main character in a Greek literary work—the title of which is the name of another adventure. Whew!
+20)	You can get stoned with this woman of serpentine hair, but don’t get carried away.
+Mail to Softalk Etymology, 11021 Magnolia Boulevard, North Hollywood, CA 91601, by August 15, 1982.
+My point total:______________________
+Name:________________________________
+Address:_____________________________
+City, State, Zip:____________________
+If I win, gimme:_____________________
+My local dealer:_____________________
+My autograph:________________________

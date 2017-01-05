@@ -1,0 +1,179 @@
+﻿AUGUST 1982
+SOFTALK
+
+INDEX OF ADVERTISERS
+
+Accent..............................22
+Accuroi............................196
+Advanced Logic ....................160
+Adventure International............162
+Alien Group .......................167
+Anthro-Digital.....................175
+Apple Computer/Accessory
+Products Division..............91, 93
+Applefest..........................147
+Ashton-Tate .....................70-71
+Avalanche Prods ...................130
+Avant-Garde................183, 185, 187
+Axlon..............................174
+Beagle Bros.........................17
+Bench Collection...................189
+Blue Lakes Software.................56
+The Book Company....................77
+Bourbon Street Press...............144
+BREM Enterprises....................57
+BudgeCo.............................47
+Calsoft............................108
+C & H Video........................177
+Classified Ads ..................54-55
+Com-Pute Services .................142
+Continental Software ..........3, 193
+C-P-U..........................124, 132
+Crane Software.....................140
+Creative Software ..................88
+DataMost.....................69, 75, 165
+Data Security Concepts.............156
+Decision Support Software...........52
+Edu-Ware Services................18-19
+Evasco ............................149
+Financial Software .................51
+FlipTrack .........................173
+Gold Disk Software.................107
+Great Lakes Digital ...............171
+Hayden.........................120-121
+High Order Micro Electronics........21
+Howard Software....................155
+Human Systems Dynamics..............27
+Hutton Industries...................20
+Interactive Microware..............122
+Kensington Microware.............43-45
+Krell Software......................80
+LAMA Software Directory.............79
+Last Electronics...................170
+Laumer Research ...................116
+Legend..............................90
+Lightning Software.................195
+Link Systems........................85
+LJK Enterprises....................113
+L & S Computerware.................123
+Mark Four Imports..................188
+Masterworks Software...............152
+Micro D ........................78, 190
+MicroMotion..........................154
+Microsoft..................12-13, 35, 87
+Muse Software...............10, 133, 194
+Novation.............................151
+Omega ..........................58,	172
+On-Line Systems..........95-102, Cover 4
+Orange Micro.........................157
+Orange Stand.........................104
+Pascal Systems.......................134
+Peelings II ..........................25
+Penguin Software...................... 5
+Phoenix Software................62,	118
+Practical Peripherals................6-7
+Program Design........................81
+Prometheus ..........................127
+Quality Software.....................161
+Quentin Research.................29, 49
+Rainbow Computing...........36, 164, 192
+RH Electronics........................37
+Saber Software........................31
+Saturn Systems.......................169
+Sensible Software..............111,	 119
+Sir-tech...................63, 65, 180
+Smith Micro Software..................26
+Sof/Sys...............................92
+Softalk..........................15, 86
+Softdisk.............................125
+SofTech
+Microsystems . .135, 137, 139, 141, 143, 145
+Software City......................23
+Software Publishing Company ... Cover 2
+Sorrento Valley ..................115
+Southern California Research Grp ... .109 
+Southwestern Data Systems ... .83, 89, 94
+Southwest Microcomputer...........117
+Spectrum Software..................61
+SRA...........................129, 131
+SSM Microcomputer..................40
+Stoneware..........................53
+Strategic Simulations.........Cover 3
+Strawberry Tree...................106
+Strictly Soft Ware ...............166
+SubLogic .........................181
+Syncom.............................11
+Systems Design Lab................126
+Telesoft...........................24
+TG Products.......................179
+Thunderware........................59
+Universal Systems for
+Education .......................82
+Venture Software...................28
+VisiCorp...........................41
+Votrax............................105
+Word-Power.........................34
+XComp.............................178
+Yucaipa Software...................50
+
+CONTENTS
+
+Exec Sir-tech: Wizzing to the Top
+Two families, a friend, and a group called WARG are sending thousands to the dungeons—with glee.
+JIM SALMONS..................32
+
+Peeking and Poking the Apple III
+Apple said it couldn't—and needn't—be done; but Dr.
+Jeppson found a way to do it—with surprising rewards.
+JOHN JEPPSON...................38
+
+Down on the OI' Apple(run) Farm
+A century ago, it took nearly half of our population to feed us all; today that task is the responsibility of a relative few—more and more of whom are using Apples to help.
+DAVID HUNTER...................72
+
+Word Processing: An Active Guy on an Easy Writer
+Freelance writing is fun and awful: your time is your own but your workday never ends. For one such loner, Easy Writer provides an answer.
+JONATHAN MILLER.............128
+
+Exploring the Exploratorium:
+Museum of the Future
+Forget the roped-off and glassed-in exhibits, the hushed tones and musty atmosphere. Get set for the hands-on, try-it-out, it-all-moves museum—run by Apples.
+MATTHEW T. YUEN............158
+
+FEATURES
+
+Twenty-Six Miles Across the Sea.......................................MIKE FERRIS 66
+Santa Catalina is waiting for me—and you, with an Apple to show us around.
+Summer Festival of Software ........................................................103
+Reviews, reviews, reviews! Especially for sultry August computing, accompanied by crickets.
+VisiCalc's Newest, Biggest, Baby Brother..........................JOE SHELTON 186
+Single keystrokes, lower case, eighty-column display—but the newest VisiCalc is only for the III.
+
+DEPARTMENTS
+
+Contest: Why Not Kumquat? ....................... 2
+Contest Winners.................................. 4
+Fastalk.......................................... 8
+Open Discussion..................................20
+Basic Solution, by David Durkee..................30
+Ventures with VisiCalc, by Joe Shelton............50
+The Third Basic, by Taylor Pohlman...............56
+Graphically Speaking, by Mark Pelczarski..........60
+Schoolhouse Apple, by Jean Varven................79
+Marketalk News ..................................84
+Assembly Lines, by Roger Wagner.................122
+The Pascal Path, by Jim Merritt..................135
+Tradetalk........................................142
+SoftCard Symposium, by Greg Tibbetts.............146
+Mind Your Business, by Peter Olivieri............153
+Beginners' Corner,
+by Christopher U. Light.......................163
+Hardtalk, by Jeffrey Mazur ......................168
+Newspeak ........................................176
+All About Applesoft, by Doug Carlston............179
+DOStalk, by Bert Kersey..........................182
+Bestsellers......................................191
+
+IN NEXT MONTH'S SOFTALK
+
+September Singing ... A World's Fair—Where? ... Exec: Softech ... Apples at Allergan— Worldwide ... tutus on GraForth ... Banking by Apple in Louisville ., . Complete Disassembler for the III ... Word Processing: Executive Secretary ... and more ...

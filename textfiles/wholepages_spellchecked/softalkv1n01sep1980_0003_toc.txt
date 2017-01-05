@@ -1,0 +1,93 @@
+﻿[START PAGE]
+
+SEPTEMBER 1980 [LOGO HERE]
+SOFTALK [LOGO HERE]
+
+Margot Comstock Tommervik	Editor
+Bill Depew	Technical Editor
+William V. R. Smith	Advertising Manager
+Al Tommervik	Marketing and Production
+Kurt A. Wahlner	Art Director
+John Mitchell	Assistant Production Manager
+Robert Koehler	Circulation Manager
+Matthew Yuen	Editorial Assistant
+Kirin Tommervik	Editorial Assistant
+Paul Essick	Circulation
+
+Copyright (c) 1980, Softalk Publishing Inc. All rights reserved. Editorial offices at 10432 Burbank Boulevard, North Hollywood, CA 91601; (213) 980-5074.
+September fulfillment courtesy of Apple Computer Inc., Cupertino, California.
+Apple is a trademark of Apple Computer Inc., Cupertino, California.
+Composition by Photographics, Hollywood, California.
+Printing by California Offset Printers, Glendale, California.
+SOFTALK is published monthly for $12.00 per year by Softalk Publishing Inc., 10432 Burbank Boulevard, North Hollywood, CA 91601. Controlled circulation pending at Burbank, CA.
+Postmaster: Send address changes to Softalk, 10432 Burbank Boulevard, North Hollywood, CA 91601.
+
+ADVERTISER'S INDEX
+
+Advanced Business Technology .... 25
+Artsci..........................  26
+Axiom ......................  Cover 2
+Book Publishing Company............2
+Cavri Systems, Inc.................5
+Computer Comer of New Jersey ... 18
+Continental Software .............11
+Edu-ware ..........................9
+FSI...........................    27
+Futureworld.......................25
+Information Unlimited..........Cover 3
+Muse .............................12
+On-Line Systems ...........17, 19, 21
+Personal Software, Inc.........Cover 4
+Programmers Software Exchange.. 22
+Rainbow Computing, Inc............24
+Realty Software Company...........27
+RTR Software, Inc.................13
+Small Business Computer Systems .. 3
+Software Publishing Corp. .......  8
+Southwestern Data Systems.........23
+Strategic Simulations............4
+
+TABLE OF CONTENTS
+
+Exec Apple: John Couch
+Apple's software v.p. talks about new concepts in computer usage and how Apple software will deal with them.
+ALLAN TOMMERVIK ..............................6
+[PHOTO HERE]
+
+Dealing with DOS
+Assembly Lines: Disk snafus in assembly language programs don't have to occur, if you just leave a forwarding address.
+BILL DEPEW.......................................10
+[PHOTO HERE]
+
+Apple Helps the Empire Strike Back
+The Celebrated Apple: Making it in the movies is a matter of hard work, intelligence, and endurance—even for Apple.
+RICHARD KNUDSEN ................................14
+[PHOTO HERE]
+Copyright (c) Lucasfilm Ltd., 1980
+
+
+Meet the Man Who Conquered a Contract
+Ideas at Work: Alan Gornick loves taking pictures, but spending three days figuring one payroll wasn't worth it. So he bought an Apple.
+ALLAN TOMMERVIK .............................16
+[PHOTO HERE]
+
+The Basic Con Job
+The Logical Way: sometimes supersedes the "legal" way, at least when the rules are set by Integer Basic.
+LEE REYNOLDS ....................................20
+[PHOTO HERE]
+
+FEATURES
+
+A Prize for Your	Apple....................2
+Straightalk ..............................  3
+Tradetalk.................................  5
+Marketalk: Reviews ...................13
+Marketalk: News.......................19
+Newspeak ...........................  28
+
+PREVIEWS
+
+Whispering about October . . . can we stay afloat in the wake of the software pirate? . . . Apples offer independence to New Jersey handicapped . . . bestsellers . . . part one of assembly language for the novice . . . Exec Personal . . . the man who refused to buy a disk drive . . . Halloween contest: bobbing for apples . . . and more.
+[BACKGROUND PHOTO HERE]
+
+[END PAGE]

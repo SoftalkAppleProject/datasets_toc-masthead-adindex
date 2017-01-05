@@ -1,0 +1,135 @@
+﻿APRIL 1981
+SOFTALK
+
+Chairman	John Haller
+Editor	Margot Comstock Tommervik
+Managing Editor	Al Tommervik
+Associate Editor	Craig Stinson
+Art Director	Kurt A. Wahlner
+Contributing Editors	Roger Wagner Jim Merritt Frank Malone Robert Koehler William Depew
+Guest Reviewer	Joe Villareal
+Assistant Editor	Robert Koehler
+Circulation	David Hunter Ron Rennells
+Systems	William V.R. Smith
+Advertising Sales 213-980-5074	Al Tommervik Margot Tommervik
+
+Cover photo of the power yacht Westward by Jack West.
+
+Composition by Photographics, Hollywood, California. Printing by California Offset Printers, Glendale, California.
+
+Apple is a registered trademark of Apple Computer Inc., Cupertino, California.
+
+UCSD Pascal is a trademark of the University of California at San Diego.
+
+VisiCalc is a trademark of Personal Software, Sunnyvale, California.
+
+Subscriptions: Complimentary to all owners of Apple computers in the USA. Apple owners in Canada and Mexico: $8 per year; other Apple owners outside the USA: $15 per year, first-class airmail.
+Back Issues: $2 through February 1981; $2.50 thereafter. November and December, 1980, issues are sold out. January and March, 1981, are in short supply.
+Moving? Send new address and old to Softalk Circulation, 10761 Burbank Boulevard #6, North Hollywood, California 91601.
+
+SOFTALK. Volume 1, Number 8. Copyright (c) 1981 by Softalk Publishing Inc., 10432 Burbank Boulevard, North Hollywood, CA 91601. Tel (213) 980-5074. Controlled circulation postage paid at Los Angeles, CA. Postmaster: Send address changes to Softalk, 10761 Burbank Boulevard #6, North Hollywood, CA 91601.
+
+ADVERTISERS INDEX
+
+Advanced Business Technology..............69
+Artsci ...................................27
+Avant-Garde...............................44
+Beagle Bros.............................. 60
+Bell & Howell.............................29
+Bite-Soft.................................54
+The Book 1981 ............................22
+Boston Computer Society...................35
+Broderbund Software.......................70
+Business & Professional Software...........7
+California Pacific.....................Cover	2
+Cavri Systems.............................11
+Color Software............................16
+Computer Station.........................57,	59
+Continental Software .....................74
+Dakin5....................................66
+Data Transforms...........................51
+Edu-Ware .............................50,	64
+FSI........................................8
+Highland Software..........................3
+High Technology...........................62
+Howard Industries.........................24
+Information Unlimited......................9
+Interactive Microware.................... 47
+Mastertype.................................5
+Math City ................................48
+Microlab..........................18,	32,	53
+Micromate.................................46
+Microsoft.................................23
+MUSE Software ....................33,	49,	58
+On-Line Systems........ 43, 56, 68, 75, Cover 4
+Peelings II ..............................14
+Programma ................................10
+Progressive Software......................61
+Prosoft ..................................72
+Rainbow Computing.........................37
+Sirius Software...................15,	17,	19
+Softsel....................................6
+Software Alternatives.....................63
+Software Publishing Corp..................71
+Software Technology for Computers.........36
+Sonora Software...........................20
+Southeastern Software.....................28
+Southwestern Data Systems ................45
+Spectrum Software ........................41
+Stellation Two............................73
+Sterling Swift............................42
+Stoneware.........................26,	55,	67
+Strategic Simulations..................Cover	3
+Street Electronics .......................65
+Synergistic Software......................12
+Systems Design Lab........................52
+21st Century Tek .........................40
+
+CONTENTS
+
+Profile of a Programmer: Nasir
+Interview with most prolific of the ruling triumvirate in arcades for Apple.
+ROBERT KOEHLER ..................................4
+
+The Most Popular Program Ever—Results
+Softalk's readers voted, and the winner is............13
+
+Where Does the Money Go?
+Learn which home finance package best suits the needs of your family and Apple.
+CRAIG STINSON............................ .14
+
+Exec Microsoft:
+Adventure with an Expanding Apple
+A year old, Microsoft Consumer Products boasts bestsellers in hardware and software. Also, whatever happens to those teenage wonders?
+AL TOMMERVIK.....................................30
+
+A Seafaring Apple: The Mazatlan Regatta
+An Apple finds a niche on a grand old yacht and learns to live the easy life.
+CRAIG STINSON..................................38
+
+A Self-Taught Programmer Insures His Future
+Dick Clinchy has found unique ways for his Apple to help plan and sell insurance.
+RICHARD KNUDSEN ..................................46
+
+The Newest Face at Summer Camp Is Apple's
+A pictorial reminiscence of last summer at Computer Camp, annotated by a camper who was there.
+KURT WAHLNER and KIRIN TOMMERVIK ________________72
+
+DEPARTMENTS
+
+Contest: Rainy Day Chain.................... 2
+Earn a Scholarship to Computer Camp........................ 2
+Open Discussion............................. 8
+Ventures with VisiCalc: Frank Malone ...........................21
+Assembly Lines: Roger Wagner............................25
+Marketalk: Reviews .........................37
+Marketalk: Impressions .........................43
+Marketalk: News.................................52
+Tradetalk.......................................59
+The Pascal Path: Jim Merritt.................................63
+The Basic Solution: Wm. V. R. Smith ............................69
+Softalk Presents The Bestsellers ............................75
+
+PREVIEWS
+
+Murmurs of May ... The Schoothouse Apple ... Apple's educational foundation, held over for this theme issue ... Educational software for school and home ... Exec Edu-Ware ... Home Finance Wrapup . . . Bulletin Boards in Modemland ... and more.

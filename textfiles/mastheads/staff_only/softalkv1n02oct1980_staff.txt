@@ -1,0 +1,18 @@
+﻿POSITION	NAME
+Chairman	John Haller
+President	Margot Comstock Tommervik
+Vice-President	Allan Tommervik
+Vice-President	William Depew
+Treasurer	William V. R. Smith
+Secretary	John Mitchell
+Editor	Margot Comstock Tommervik
+Technical Editor	Bill Depew
+Contributing Editor	Roger Wagner
+Art Director	Kurt A. Wahlner
+Business Manager	William V. R. Smith
+Operations Manager	John Mitchell
+Circulation Manager	Robert Koehler
+Marketing and Production	Al Tommervik
+Editorial Assistant	Matthew Yuen
+Circulation	Carmen Cowper
+Advertising Sales	Bill Smith, Al Tommervik, Margot Tommervik

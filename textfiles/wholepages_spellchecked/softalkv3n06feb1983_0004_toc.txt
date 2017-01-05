@@ -1,0 +1,87 @@
+﻿FEBRUARY 1983
+SOFTALK
+2
+
+Chairman	John Haller
+Publisher	Al Tommervik
+Editor	Margot Comstock Tommervik
+Art Director	Kurt A. Wahlner
+Managing Editor	Patricia Ryall
+Associate Editors	Jean Varven David Hunter Andrew Christie
+Special Assignments	Jonathan Miller
+Open Discussion Editor	Tommy Gear
+News and Trade Editor	Matthew T. Yuen
+Reviews Editor	Roe Adams
+Assistant Editor	David Durkee
+Proofreaders	Harry McNeil Betsy Barnes
+Contributing Editors	
+Assembly Language	Roger Wagner
+Pascal	Jim Merritt
+Business	Peter Olivieri
+Apple CP/M	Greg Tibbetts Taylor Pohlman
+Apple III	
+Hardware	Jeffrey Mazur
+Applesoft	Doug Carlston
+Investing	Kenneth Landis
+DOS	Bert Kersey
+Graphics	Mark Pelczarski
+Financial Modeling	Joe Shelton
+Beginners	Christopher U. Light
+Basic Solutions	William V. R. Smith
+Art Manager	Kevin McKeon
+Art Production	Don Robertson
+Art Assistants	Michael G. Pender Roxanne Rogers Jill Schultz
+Associate Publisher	Mary Sue Rennells
+Director of Operations	Three Tyler
+Accounting	Evelyn Burke
+Accounting Assistants	Mary Jo Milam Carla Swenson
+Assistant to the Publisher	Dan Yoder
+Dealer Sales	Judy Weinstein
+Book Sales	Lois Mencsik
+Advertising Coordinator	Linda McGuire
+West Coast Sales	Mike Antich Softalk 11160 McCormick Street Box 60 North Hollywood, CA 91603 (213) 980-5074
+East Coast Sales	Ian Ross Paul McGinnis Paul McGinnis Company 60 East 42nd Street New York, NY 10017 (212) 490-1021
+Midwest and Rocky Mountain Sales	Ted Rickard John Sienkiewicz John Bollweg Kevin Sullivan Market/Media Associates 435 Locust Road Wilmette, IL 60091 (312) 251-2541
+Circulation	
+Trial Subscriptions	Hal Schick Deirdre Booth Laurie O’Connell Marsha Stewart
+Paid Subscriptions	Pam Kelley Connie Mastelotto I. K. Frasca
+Back Issues	Ron Rennells
+List Maintenance	Pat Adams Harry Richardson
+Assistant	Cliff Martinez
+Systems	Sam Pawley
+Guest Reviewers	Dave Albert, Bill De Ville, Donald A. Dyer, Jock Root, Howard A. Shore, Richard S. Willing
+
+Cover Photo: The Apple IIe rolls off the assembly line at Dallas Apple plant. Photo by Kurt Wahlner.
+Credits: Composition by Photographics, Hollywood, California. Printing by Volkmuth Printers, Saint Cloud, Minnesota.
+
+Apple and Applesoft are registered trademarks of Apple Computer Inc., Cupertino, California. UCSD Pascal is a trademark of the University of California at San Diego. VisiCalc is a trademark of VisiCorp, San Jose, California. SoftCard is a trademark of Microsoft, Bellevue, Washington. GraForth is a trademark of Insoft Inc., Portland, Oregon.
+
+Softalk. Volume 3, Number 6. Copyright ® 1983 by Softalk Publishing Inc. All rights reserved. ISSN:0274-9629. Softalk is published monthly by Softalk Publishing Inc., 11160 McCormick Street, North Hollywood, California; telephone (213) 980-5074. Second-class postage paid at North Hollywood, California, and additional mailing offices.
+Postmaster: Send address changes to Softalk, Box 60, North Hollywood, CA 91603.
+Free Subscription: Complimentary trial subscription to all owners of Apple computers in the USA. If you own an Apple, but you’ve never received Softalk, send your name, address, and Apple serial number with a request for subscription to Softalk Circulation, Box 60, North Hollywood, CA 91603. Softalk is totally independent of Apple Computer Inc.; sending your warranty card to Apple Computer will not inform Softalk of your existence.
+Paid Subscription: $24 per year without sponsor, $18 per year with sponsor At the end or trial period, each subscriber will be notified; response is required only if you wish to continue receiving Softalk. Lack of response will be taken as your choice to discontinue the magazine. Special rates for schools and libraries, $8; multiple subscriptions for schools and libraries, $5 each.
+Back Issues: $2 through February 1981; $2.50 through July 1981; $3.50 through September 1982; $4.00 thereafter. November and December 1980, January, February, March, September, October, and November 1981, and December 1982 are sold out. December 1981 and February and May 1982 are in short supply.
+Problems? If you haven’t received your Softalk by the fifteenth of the month, or if you have other problems with your subscription, Hal Schick or Pam Kelley can help out. Call (213) 980-5074.
+Moving? Send new address and old to Softalk Circulation, Box 60, North Hollywood, CA 91603; telephone (213) 980-5074.
+
+Contest:
+Funky February Facts
+
+So, you think you’re smart, eh? Just because you can count turkeys or write short stories, you think you’re pretty darn fancy stuff with these contests, don’t you? Welcome to 1983, pal.
+When February rolls around, everyone thinks of such mundane stuff as Valentine’s Day, Lincoln’s Birthday, Washington’s Birthday, and so on. Looks like a real yawner of a month, no? Exchange valentines, take a day or two off from work, and get ready for March. Zzzzzzz.
+No longer. The Puns ’n’ Anagrams contest on page 4 is designed to help you learn about what a great month February has been in the past. Did you know that on February 4, 1913, the demountable automobile tire was patented? Or that the first sardine was canned on February 17, 1876? Or that on February 22, 1630, the Indians treated the American colonists to their first batch of popcorn? Of course not! If you did, then you’d be working for Softalk digging up junk like this.
+Whether or not you knew those tidbits of trivia isn’t important. What is important is that once you complete this month’s contest you’ll have a whole bunch of facts, just like those previously mentioned, at your fingertips to impress people with at parties. (Probably the last party you’ll ever get invited to, but you’ll be a better person for it.)
+The first part of the contest involves figuring out what the heck each clue refers to. It may be a person, a thing, or an event. All you have to do, then, is to write the answer in its appropriate spot in the crossword puzzle. The person with the most complete puzzle will be crowned Softalk Crossword Solver Supreme and will re-
+ceive $100 in booty made by our advertisers.
+The second part involves more than just being clever, smart, or generally intelligent. It requires good research skills.
+Once you have the answers to the crossword puzzle, find out what each one has to do with this exciting month of February, and when it happened. In other words, if the answer was “French prayer,” then you would immediately remember that the French people were granted the freedom of worship on February 21, 1795. You remember? Good. Then you write a brief description of it and the date it took place. That shouldn’t be too hard; after all, so much happened during this month in history that you’ll have a hard time deciding where to start.
+Whoever compiles the most complete list of explanations and dates will win a bonus prize of $100 in Apple accessories. Sound simple? You bet it is; we wanted to give you extra time to send us Valentine’s Day cards.
+And, because this contest is so simple, we’re only going to accept the first fifty thousand entries we receive with postmarks on or before March 15, 1983. So get to work, and have (heh, heh) fun.
+Mail in your entry with this coupon or a facsimile to: Softalk Dates, Box 60, North Hollywood, CA 91603, postmarked no later than March 15, 1983.
+Hello, my name is:___________________________
+And I live at:-------------------------------
+My city and state:---------------------------
+Phone me at:_________________________________
+Gee, I’d like to win:------------------------
+Here’s my autograph:-------------------------
+The answer to the trivia question on page 132 is John F. Kennedy—and even that depends on the definition of "naval hero."

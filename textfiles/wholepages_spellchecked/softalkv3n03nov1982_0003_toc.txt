@@ -1,0 +1,260 @@
+﻿SOFTALK
+
+INDEX OF ADVERTISERS
+
+Accent Software ...............175
+Advanced Operating Systems ... .115 
+Adventure International .... 67, 206
+Alien Group ....................25
+Alpha Logic Business Systems .. .56
+Alpine Software................182
+Amdek..........................283
+Animation Graphics.............254
+Anthro-Digital.................251
+Apogee Software................116
+Apple Computer......59, 73, 156-157
+Applefest......................297
+Applied Software Technology .. .128
+Artsci ........................205
+Ashton-Tate..................76-77
+Avalon Hill.....................31
+Avant-Garde.............130, 212
+Axlon .........................248
+BASF ...........................78
+Beagle Bros.............28-29, 125
+B&H Systems....................166
+Bible Research.................266
+Blue Lakes Software............195
+The Book Company ..........244-245
+Brem Enterprises................40
+Broderbund Software .......220-221
+BudgeCo........................192
+Business Solutions..............97
+Calsoft .......................150
+Cannella Sales.................270
+Circadian Software..............30
+Classified Ads...............44-46
+Comark..........................41
+Com-Pute Services .............265
+Computechniques................284
+Computer Stations..............226
+Computer Tax Services .........255
+Continental Software .....3, 301
+Control Data...............112-113
+Corona Data .....................9
+C-P-U Software............ 238, 256
+Crane Software.................132
+Creative Computers Innovative ..188
+Creative Computer Products......50
+Creative Games.................179
+DataMost......... 51, 144, 260, 278
+Data Terminals.................273
+Decision Economics..............95
+Decision Support Software.......84
+Desktop Solutions..............117
+Dickens Data Systems............27
+DietWare.......................193
+Diskazine.......................33
+Diversified Software Research ...133
+Doss Industries ...............224
+Double Gold.....................98
+Dow Jones.......................94
+D/Punch.........................17
+Eden II.........................58
+Edu-Ware Services..............209
+Excalibur .....................172
+Exemplary Software.............102
+Financial Software .............96
+FlipTrack Training Tapes.......263
+FMJ ............................64
+Frobco..........................20
+Futra Company...................86
+Gebelli Software ..............137
+Gold Disk......................138
+Gourmet Software...............257
+H.A.L. Labs....................169
+Hayden...........60-61, 146, 292-293
+Hayes Microcomputer Products .187
+Hewlett-Packard................159
+Highlands Computer.............185
+High Order Micro Electronics .. .38
+Howard Software ................225
+Human Systems Dynamics...........66
+Hutton Industries................32
+Innovative Measurements..........65
+Insoft...........................62
+Intelligent Statements..........154
+Interactive Fantasies......54, 126
+Interactive Microware...........299
+Interactive Structures..........119
+International Software	......19
+Intra Computer...................43
+J R Software....................101
+Kensington Microware	.... 217, 219
+Kern Publications ..............286
+Kraft Systems....................42
+Krell Software..................131
+Last Electronics.................71
+Learning Co.....................129
+Lightning Software..............303
+Link Systems....................135
+Little Brown....................173
+Lotus Development................92
+L&S Computerware................304
+Masterworks Software.............49
+Microcom.........................23
+Microcomputer Applications ... .202 
+Micro-Computer Business
+Industries.................100
+Microcomputer Games	(EAV) .. .183
+Micro D.........................298
+Micro Lab.................. 75, 240
+Microsoft...................228-229
+Microtek........................247
+Mimco...........................168
+Mind Systems....................288
+Morningstar.....................236
+Muse Software....................57
+National Integrated Software ...110
+Nonagon Software..................79
+Northeast Expositions............264
+Novation.........................227
+Odesta Publishing................170
+Omega Microware..................287
+Orange Micro.....................196
+Passport Designs.................277
+Pathway Software..................93
+Penguin Software ..........  5,	 302
+Percom Data.......................11
+Personal Computer................176
+Piccadilly Software..............269
+Picture House ...................123
+Practical Peripherals............6-7
+Practical Software...............213
+Prometheus Products .............203
+Pro/Pac .........................223
+Quadram..........................259
+Rainbow Computing.................90
+104, 114, 280
+RH Electronics............. 39,	285
+Satori Software...................22
+Saturn Systems...................180
+Savvv.............................99
+Sierra On-Line..............85,	122
+215, 291, Cover 4
+Silicon Valley Systems..... 235,	237
+239, 241,	243
+Sirius Software .......141, Cover 3
+Sir-tech.................87, 89, 91
+Smith Micro Software.............200
+Softalk ..........47, 118, 177, 271
+Softdisk.........................139
+Soft Images................149,	151
+SoftSpoken.......................289
+Software By H ...................189
+Software City.............. 35,	267
+Software Dimensions...............162
+Software Farm......................15
+Software Horizons.................174
+Software Publishing
+Corp ................Cover 2, 18
+Sorrento Valley...................143
+Southern California Research
+Group ........................55
+Southwestern Data Systems.........184
+Southwest Microcomputer...........290
+Spectrum Software.................281
+Spinnaker Software..............12-13
+S P Software.......................24
+SSM Microcomputer Products .. .37
+199,	201
+SSR Corporation...................296
+Stoneware Incorporated............155
+Strategic Simulations.............300
+Strictly Soft Ware ...............233
+SubLogic Communications............34
+167,	198
+Synergistic Software......103, 105
+107,109,	 111
+Syntauri ..........................63
+Taurus Computer....................21
+Tech-Data Corp....................158
+TG Products........................16
+3G Company .......................258
+Thunderware........................81
+Trace Systems......................70
+Ultrasoft.........................181
+Videx.............................222
+Virtual Combinatics....... 204, 268
+VisiCorp......................120-121
+Wadsworth Electronic
+Publishing...................250
+Wesper Microsystems...............if)
+Williams & Foltz ..................36
+
+Exec Software Publishing Corporation: In the Front File, Personally
+Rarely have three people believed so strongly in one product; eventually the market saw it their way.
+JONATHAN MILLER .. . 52
+
+It’s III O’Clock and All’s Well
+The Apple III and a clock were made for each other; John Jeppson delivers a driver that makes the relationship work.
+JOHN JEPPSON ............ 68
+
+A Dream of Walking
+When communication lines are broken between mind and body, computers can bridge the gap. And people who couldn’t will walk again.
+LAN BARNES............. 82
+
+These Turkeys Are Raised on Apples
+A somewhat whimsical look at the serious business of raising turkeys, whose every moment of life is governed by Apples.
+ANDREW CHRISTIE ... 152
+
+Apples on the Campaign Trail
+A look at how one gubernatorial candidate turned the campaign nitty-gritty over to an Apple.
+LINDA A. MERRILL and DAVID HUNTER.............164
+
+The Magical Metamorphosis:
+DOS PIE to Apple CP/M
+The great CP/M word processors aren't great for editing programs; DOS-based Apple PIE is. Don Worth shares the transformation.
+DON WORTH...............230
+
+FEATURES
+
+Sponsored Contest: Anything But Smokey............................... 10
+] Run Thanksgiving 0.1982	..............ANDREW CHRISTIE 160
+So You Think You Know Applesoft...................DAVID WISEMAN 207
+Word Processing: Super-Text Energy ............JONATHAN MILLER 210
+Olivieri’s Outline of Word Processors..............PETER OLIVIERI 216
+The Animated Apple ...........PAUL LUTUS and PHIL THOMPSON 252
+Minneapolis Computer Show and Applefest............................. 274
+Storytalk: “The Big Boot”.........................MICHAEL FERRIS 294
+
+DEPARTMENTS
+
+All About Applesoft, by Doug Carlston ... 101
+Assembly Lines, by Roger	Wagner ..........114
+Basic Solution, by William	V.	R. Smith . . 48
+Beginners' Corner,
+by Christopher U. Light ................261
+Bestsellers ................................299
+Contest: Poultry Panic....................... 2
+Contest Winners.............................. 4
+DOStalk, by Bert Kersey.....................279
+Fastalk .................................... 14
+Graphically Speaking,
+by Mark Pelczarski ..................... 106
+Hardtalk, by Jeffrey Mazur.................282
+Marketalk News ............................134
+Marketalk Reviews..........................171
+Mind Your Business, by Peter Olivieri .	93
+Newspeak ................................. 63
+Open Discussion .......................... 32
+The Pascal Path, by Jim Merritt ...........197
+Schoolhouse Apple, by Jean Varven .... 127 
+SoftCard Symposium, by Greg Tibbetts . . 145
+The Third Basic, by Taylor Pohlman.......265
+Tradetalk .................................194
+Ventures with VisiCalc, by Joe Shelton . 223
+
+IN NEXT MONTH'S SOFTALK
+
+Digging December ... Softalk’s Third Annual Holiday Gift Guide ... The Muppets and their friends at Henson Associates... Exec: TG Products... The Life of a Programmer for Hire... The Cat (purring kind)House Apple.Word Processing: Word Juggler. . .Seven Flags ... and more ...

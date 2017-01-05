@@ -1,0 +1,82 @@
+﻿Chairman	John Haller
+Publisher	Al Tommervik
+Editor	Margot Comstock Tommervik
+Art Director	Kurt A. Wahlner
+Editorial	
+Senior Editor	David Hunter
+Managing Editor	Three Tyler
+Assistant Managing Editor	Carol Ray
+Associate Editors	Jean Varven David Durkee
+Special Assignments	Andrew Christie Michael Ferris Tommy Gear
+Telecom	Matthew T. Yuen
+Education	Jock Root
+Reviews, Trade	Catherine Petersen
+Letters	Todd Zilbert
+Market News	Lashea Lowe
+Market Research	Lanny Broyles
+Copy	Cordell Cooper
+Submissions	Betsy Barnes
+Proofreading	Harry McNeil Judith Pfeffer Steve Thomsen
+Regional Editors	
+East Coast	Roe Adams
+Northern California	Hartley G. Lesser
+Contributing Editors	
+Pascal	Jim Merritt
+Business	Peter Olivieri
+Apple CP/M	Greg Tibbetts
+Investing	Kenneth Landis
+DOS	Tom Weishaar
+Graphics	Bill Budge
+Printers	Bill Parker
+Softalk SAGES	Doug Carlston Bob Clardy Roy Hicks John Jeppson Mark Pelczarski Joe Shelton Roger Wagner
+Art	
+Production Manager	Donald J. Robertson
+Ad Production	Michael G. Pender
+Assistants	Nancy Baldwin Ken Goehner Weldon O. Lewin Lucas McClure Malcolm Rodgers Ruth Seid Dan Winkler
+Business	
+Associate Publisher	Mary Sue Rennells
+Operations	Marjorie Kaufman
+Accounting	Evelyn Burke
+Accounting Assistants	Mary Jo Milam Lois Mencsik Donna Flushman
+Advertising	
+Coordinator	Linda McGuire Carter
+Assistant	Cathy Stewart
+West Coast Sales	Mike Antich Michael Biel Softalk 7250 Laurel Canyon Boulevard Box 7039 North Hollywood, CA 91605 (818) 980-5074
+East Coast Sales	Ian Ross Paul McGinnis Advertising Sales 690 Broadway Massapequa, NY 11758 (212) 490-1021
+Midwest and Rocky Mountain Sales	Ted Rickard John Bollweg Kevin Sullivan Market/Media Associates 435 Locust Road Wilmette, IL 60091 (312) 251-2541
+Circulation	
+Customer Service	Marsha Stewart
+Trial Subscriptions	Deirdre Galen Cliff Martinez Anna Gusland Terez Carroll Ramona Gordon Joe Bellinger Rickie Kaufman
+Paid Subscriptions	Michelle Vigneault-Kirschenbaum Leticia Garcia Jan Godoy-Aguiar Barbara Naimoli Josie Walley
+Back Issues	Michael Jones
+Dealer Sales	Pattie Lesser Dan Yoder
+Systems	John Heitmann
+
+Credits: Composition by Photographics, Hollywood, California. Printing by Volkmuth Printers, Saint Cloud, Minnesota.
+
+Apple and Applesoft are registered trademarks of Apple Computer Inc., Cupertino, California. UCSD Pascal is a trademark of the University of California at San Diego. SoftCard is a trademark of Microsoft, Bellevue, Washington. Softalk is a trademark of Softalk Publishing Inc., North Hollywood. California.
+
+Softalk. Volume 4, Number 6. Copyright © 1984 by Softalk Publishing Inc. All rights reserved. ISSN:0274-9629. Softalk is published monthly by Softalk Publishing Inc., 7250 Laurel Canyon Boulevard. North Hollywood, California; telephone (818) 980-5074. Second-class postage paid at North Hollywood, California, and additional mailing offices.
+Postmaster: Send address changes to Softalk, Box 7039, North Hollywood, CA 91605.
+Free Subscriptions: Complimentary trial subscriptions to all owners of Apple computers in the USA and Canada. If you own an Apple but you’ve never received Softalk, send your name, address, and Apple serial number with a request for subscription to Softalk Circulation, Box 7039, North Hollywood, CA 91605. Please allow six to eight weeks for processing. Softalk is totally independent of Apple Computer Inc., sending your warranty card to Apple Computer will not inform Softalk of your existence.
+Paid Subscriptions: $24 per year. At the end of trial period, each subscriber will be notified; response is required only if you wish to continue receiving Softalk. Lack of response will be taken as your choice to discontinue the magazine Special rates for schools and libraries, $12; concurrent additional subscriptions for schools and libraries, $8 each. Please allow six to eight weeks for processing.
+Back Issues: $2 through February 1981, $2.50 through July 1981; $3.50 through September 1982; $4 00 thereafter November and December 1980, January, February, March, September. October, and November 1981, and December 1982 are sold out December 1981, February and May 1982, and February and December 1983 are in short supply.
+Problems? If you haven’t received your Softalk by the fifteenth of the month, or if you have other problems with your subscription, Marsha Stewart can help out. Call (818) 980-5074 or (800) 821-6231.
+Moving? Send new address and a label from a recent Softalk to Softalk Circulation, Box 7039, North Hollywood, CA 91605; telephone (818) 980-5074. Please allow six to eight weeks for processing.
+
+STRAIGHTALK
+
+At the Winter Consumer Electronics Show in Las Vegas in January, several companies introduced new computers—and they were all old computers. Coleco’s Adam, Commodore’s 264, even the portable goodies from Casio are merely new names and clothing on old architecture.
+It’s not a new trick. IBM used it to no one’s surprise with the PC Jr just as it did two years ago with the PC itself.
+Only Apple dares to look ahead and act on what it sees. Only Apple dares to stake its future on our future—toward the best possible future the most creative thinkers at Apple can envision.
+While IBM purchases great fanfare to introduce a computer whose microprocessor is obsolete before it’s manufactured, while Commodore and Col-eco and Tandy make big to-dos over rehashed graybeards, Apple blazes the trail to a better world, tentatively with Lisa and now boldly, confidently, with Macintosh.
+There are plenty of us, Apple II and III owners and loving it, who resent the new baby. How come Apple’s bringing out these new machines that don’t pretend to be compatible with our Apples? Is Apple pulling a Commodore and indulging in planned obsolescence with no thought for us, our feelings, our pocketbooks?
+No. Apple’s changes embody progress, not cosmetics; that such changes can leave its older machines eating dust is a major concern for Apple.
+Trains are lovely and romantic and their distant whistles in the night conjure all sorts of wonderful fantasies. But what a disservice to the world it would be if the development of air travel had been curtailed for fear of making trains obsolete. How dreadful really the notion of Peter Pan to deny the adult because the child’s so cute.
+The microcomputer industry is an infant. Apple IIs and TRS-80s and Pets and Ataris and IBM PCs are the fruits of its first crop, and of them Apple II is the blue ribbon winner. But the child is bursting its seams; it’s ready to produce faster, more facile machines that grasp more and remember more and do a whole lot that couldn’t be done before. While others play with the toddler and change its clothes, Apple encourages the adolescent to bloom. Memories of childhood may be wistful, but growing up is exciting, mind-stretching, life-giving.
+To wish that Apple would stick to compatible computers, that it would not be the kind of company who dares to put out the 68000 machines that fly in the face of much more powerful competitors, is to wish that Woz weren’t the kind of person who would have invented the Apple in the first place.
+Apple hasn’t and won’t forget us. No computer yet approaches the Apple II in breadth and depth of software; new capabilities of the II are being discovered constantly; its limits still haven’t been sighted. Nor will Apple stop updating its old machines. After all, it must continue to compete with Big Blue and its ilk. So Apple is expected also to be bringing out a new-old machine—though it won’t be touted as “new”—come May: a compatible, compact, lightweight, high-powered, lower-priced version of the lIe that will, by rights, blow the PC Jr. away.
+But the Macs are the future, and we Apple II and III people, imbued with the pioneer spirit as most of us are to have bought our Apples when we did, mustn’t about-face and deny the frontier.
+Besides, Mac is cute and cuddly and just itching to be taken home, if we can only find a way to justify a second computer.
+Mac is a great computer and a great tool. It’s terrific for the hordes of people who want a computer to do tasks for them. But, without a lot of effort, Mac won’t let us do anything on our own. It boots up with a message welcoming us to its world—not with a cursor opening up a whole new world to our imaginations. It lets us choose from a set of tasks it’s willing to do, and it does them beautifully; but it won’t easily do just whatever we want it to do. We can’t add to it and customize it and expand its capabilities.
+Someday millions of people will have Macs or similar computers in their homes and offices. We’ll be lucky enough to have our old, versatile, commandable, and commendable Apple IIs as well. In our homes, “Welcome to Macintosh” will rise frequently and proudly on-screen. But the computer welcome we choose to hear most often is still likely to be “Beep.”	MCT

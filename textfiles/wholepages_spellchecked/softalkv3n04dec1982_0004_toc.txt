@@ -1,0 +1,98 @@
+﻿DECEMBER 1982
+SOFTALK
+2
+
+Chairman	John Haller
+Publisher	Al Tommervik
+Editor	Margot Comstock Tommervik
+Art Director	Kurt A. Wahlner
+Managing Editor	Patricia Ryall
+Associate Editors	Jean Varven Andrew Christie
+Newspeak Editor	David Hunter
+Special Assignments	Jonathan Miller
+Open Discussion Editor	Tommy Gear
+News and Trade Editor	Matthew T. Yuen
+Reviews Editor	Roe Adams
+Assistant Editors	Michael Ferris David Durkee
+Proofreader	Harry McNeil
+Contributing Editors	
+Assembly Language	Roger Wagner
+Pascal	Jim Merritt
+Business	Peter Olivieri
+Apple CP/M	Greg Tibbetts
+Apple III	Taylor Pohlman
+Hardware	Jeffrey Mazur
+Applesoft	Doug Carlston
+Investing	Kenneth Landis
+DOS	Bert Kersey
+Graphics	Mark Pelczarski
+Financial Modeling	Joe Shelton
+Beginners	Christopher U. Light
+Basic Solution	William V. R. Smith
+Art Manager	Kevin McKeon
+Art Production	Don Robertson
+Art Assistants	Michael G. Pender Roxanne Rogers Jill Schultz
+Associate Publisher	Mary Sue Rennells
+Director of Operations	Three Tyler
+Accounting	Evelyn Burke
+Accounting Assistant	Mary Milam
+Marketing	Jim Salmons
+Marketing Assistant	Dave Fitzgerald
+Assistant to the Publisher	Dan Yoder
+Purchasing	Steven M. Poncar
+Dealer Sales	Judy Weinstein
+Book Sales	Lois Stickelmaier
+Advertising Coordinator	Linda McGuire
+West Coast Sales	Mike Antich Softalk 11160 McCormick Street Box 60 North Hollywood, CA 91603 (213) 980-5074
+East Coast Sales	Ian Ross Paul McGinnis Paul McGinnis Company 60 East 42nd Street New York, NY 10017 (212) 490-1021
+Midwest and Rocky Mountain Sales	Ted Rickard John Sienkiewicz John Bollweg Kevin Sullivan Market/Media Associates 435 Locust Road Wilmette, IL 60091 (312) 251-2541
+Circulation	
+Trial Subscriptions	Hal Schick Dierdre Booth
+Paid Subscriptions	Pam Kelley
+Back Issues	Ron Rennells
+List Maintenance	Pat Adams Harry Richardson
+Assistant	Cliff Martinez
+Systems	Sam Pawley
+Guest Reviewers	Dave Albert, Dale Archibald, Don A. Dyer, Philip B. Ender, Brick Franklin, Mark Marlow, Howard A. Shore
+
+Cover: Kermit the Frog, front and center, with old friend Jim Henson, Muppets creator, and new friends Mokey the Fraggle and Aughra, Keeper of Secrets in Dark Crystal. Photo by John Barrett, especially for Softalk. Copyright © 1982, Henson Associates.
+Credits: Composition by Photographics, Hollywood, California. Printing by Volkmuth Printers, Saint Cloud, Minnesota.
+
+Apple and Applesoft are registered trademarks of Apple Computer Inc., Cupertino, California. UCSD Pascal is a trademark of the University of California at San Diego. VisiCalc is a trademark of VisiCorp, San Jose, California. SoftCard is a trademark of Microsoft. Bellevue, Washington. GraForth is a trademark of Insoft Inc., Portland, Oregon. Logo is a trademark of Massachusetts Institute of Technology, Cambridge, Massachusetts.
+Softalk. Volume 3, Number 4. Copyright © 1982 by Softalk Publishing Inc. All rights reserved. ISSN:0274-9629. Softalk is published monthly by Softalk Publishing Inc., 11160 McCormick Street, North Hollywood, California; telephone (213) 980-5074. Second-class postage paid at North Hollywood, California, and additional mailing offices.
+Postmaster: Send address changes to Softalk, Box 60, North Hollywood, CA 91603.
+Free Subscription: Complimentary trial subscription to all owners of Apple computers in the USA. If you own an Apple, but you’ve never received Softalk, send your name, address, and Apple serial number with a request for subscription to Softalk Circulation, Box 60, North Hollywood, CA 91603. Softalk is totally independent of Apple Computer Inc.; sending your warranty card to Apple Computer will not inform Softalk of your existence.
+Paid Subscription: $24 per year without sponsor, $18 per year with sponsor. At the end of trial period, each subscriber will be notified. Response is required only if you wish to continue receiving Softalk. Lack of response will be taken as your choice to discontinue the magazine. Special rates for schools and libraries, $8; multiple subscriptions for schools and libraries, $5 each.
+Back Issues: $2 through February 1981; $2.50 through July 1981; $3.50 through September 1982; $4.00 thereafter. November and December 1980 and January, February, March, September, October, and November 1981 are sold out. December 1981 and February and May 1982 are in short supply.
+Problems? If you haven’t received your Softalk by the fifteenth of the month, or if you have other problems with your subscription, Hal Schick or Pam Kelley can help out. Call (213) 980-5074.
+Moving? Send new address and old to Softalk Circulation, Box 60, North Hollywood, CA 91603; telephone (213) 980-5074.
+
+CONTEST:
+ORACLE '83
+
+You’ve all been waiting for it, and it’s finally here—the monster contest to end all monster contests (for 1982, anyway). Yep, it’s Oracle ’83, the contest that awards six prizes throughout the year and one biggie at the beginning of 1984. But best of all, the grand prize winner will be named the Softalk Oracle of 1983, a title coveted by 16K and 128K users alike.
+Whether you’re a Basic bungler or a machine language maestro makes no difference— everyone has an equal chance at doing well or bombing.
+For you newcomers in the gallery who don’t know what’s going on, sit back down and read the rules.
+Rules: None.
+There are no rules; they’re too confining. Just look at what we want you to predict and do the best you can. Point values are listed to help you decide how much time to spend working on each one.
+List your predictions on a sheet of paper and send them in to us postmarked before midnight of December 31, 1982. No exceptions! Don’t forget to include your name, address, phone number, the name of your dealer, and your signature.
+Prizes: Should you hit any of the predictions on the nose or come closer than anyone else, a good feeling of success should be enough. But, in case it isn’t, we’re going to award $100 worth of products made by Softalk advertisers to the winner of each part. Keep your eyes glued to these pages for announcements of winners.
+The person who winds up the year with the highest cumulative score will win the “biggie” we mentioned earlier: Apple’s next personal model computer. Not a II, not a III, but Apple’s next personal computer, whatever it is, brand spanking new!
+In addition to the prizes, you’ll have bragging rights in all Appledom as the Softalk Oracle of 1983. So get going and have a blast! The Oracle ’83. Predict the following:
+1.	The day and month Apple will officially announce the release of a new personal model Apple computer, or predict that they won’t. In case they should release more than one new model in 1983, only the first one counts. —1 point for every day off the mark; —365 if they announce one and you said they wouldn’t (watch yourself).
+2.	The teams to make the Final Four in the NCAA Basketball Tournament. +5 points for each team; -5 for each wrong guess. +10 bonus points if you predict the winner of the tournament.
+3.	Who will win the Academy Awards in the categories of best actor, actress, and picture. + 10 points for each; +20 bonus points for getting all three correct.
+4.	The sex, region of origin (East, Midwest, West, South, Foreign), and winning time of the winner of the Kentucky Derby. +1 point for a colt, +20 points if it’s a filly, -10 points if you blow it; +5 points for region; -1 point for every 1/5-second off the time; +25 bonus points for naming the horse; +15 bonus points for naming the jockey (whew!).
+5.	Flags fly high on the Fourth of July. People and temperatures get high then, too. What do you predict the high temperature will be in San Jose, California, on July 4, 1983? -1 point for each degree Fahrenheit off the mark.
+6.	The earliest presidential candidacy declarations for Republican and Democratic parties made by September 30, 1983. +10 points per valid declarer; -5 points for everyone you name who doesn’t declare by then.
+7.	The five companies that will appear most frequently in Softalk"s Top Thirty throughout 1983. +5 points per company; +20 bonus points for guessing the correct number of appearances of the top company.
+List your predictions on a sheet of paper, and send them in with this coupon (filled out).
+Name:__________________________________________
+Address: --------------------------------------
+City, State, Zip:______________________________
+Phone number. (	)_______________________
+My dealer______________________________________
+I predict that I would like:___________________
+as my prize(s) if I should win any part(s) of the contest.
+My signature:__________________________________
+Send in your Oracle ’83 predictions with this coupon to Softalk Oracle ’83, Box 60, North Hollywood, CA 91603, postmarked before December 31, 1982.

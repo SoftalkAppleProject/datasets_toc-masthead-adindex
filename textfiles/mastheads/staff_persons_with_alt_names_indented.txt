@@ -1,0 +1,250 @@
+# This list is an initial accurate list of all the people who worked on 
+# assignment for Softalk magazine. This list of names was generated from 
+# curated scans of the mastheads of all 48 issues of the magazine. 
+# This list includes our best/initial guess at alias/alternative name forms.
+#
+# This initial text mining has produced a list of 237 unique person names 
+# with suspected 24 alias or alternate name forms. This puts the initial 
+# estimate of Softalk staffers for the 48 issues produced at 213 people 
+# who helped to bring this historic publication to life.
+#
+# This data was produced 25 Dec 2016 by Jim Salmons on behalf of The Softalk Apple Project
+# and its affiliated applied research project/community, FactMiners.
+#
+Al Tommervik
+	Allan Tommervik
+Alan Mankovitz
+Alexander E. D. Carlton
+Allen Munro
+Amanda Hixson
+Andrew Christie
+Anna Gusland
+Barbara Naimoli
+Bert Kersey
+Betsy Barnes
+Bill Barrett
+Bill Budge
+Bill Chalifaux
+Bill De Ville
+Bill Depew
+Bill Parker
+Bill Smith
+Bob Clardy
+Bob Koehler
+Brenda Johnson
+Brick Franklin
+Carla Swanson
+Carmen Cowper
+Carol James
+Carol Ray
+Catherine Petersen
+Cathy Stewart
+Chari Hilario
+Christopher U. Light
+	Chris Light
+Cliff Martinez
+Connie Mastelotto
+Cordell Cooper
+Craig Stinson
+Dale R. Archibald
+	Dale Archibald
+Dan Winkler
+Dan Yoder
+Dave Albert
+Dave Fitzgerald
+David Chandler
+David Durkee
+David Hunter
+David Kahn
+Deirdre Booth
+Deirdre Galen
+	Dierdre Booth
+Don Bostrom
+Don Robertson
+Donald A. Dyer
+	Don A. Dyer
+Donald J. Robertson
+Donna Flushman
+Donna Siebert
+Doug Carlston
+Duane Runyon
+Eden Recor
+Elaine Cohen
+Eric Marks
+Erin Carlston
+Ethan Weiner
+	Ethan Winer
+Evelyn Burke
+Forrest Johnson
+Frank Malone
+Gail Lasko
+Gail Ward
+Gary Hatfield
+Gene O'Day
+Genevieve Cerf
+Gerald Rafferty
+Glenn Thorne
+Greg Tibbetts
+Greg Voss
+Hal Schick
+Harry McNeil
+Harry Richardson
+Hartley G. Lesser
+	Hartley Lesser
+Holly Pierce
+Howard A. Shore
+I. K. Frasca
+Ian Ross
+James A. Merritt
+Jan Aguiar
+	Jan Godoy-Aguiar
+Jean Varven
+Jeffrey Mazur
+	Jeff Mazur
+Jerry Goldman
+Jill Schultz
+Jill Stroud
+Jim Merritt
+Jim Salmons
+Jo Hilliard
+Jock Root
+Joe Bellinger
+Joe Shelton
+Joe Villareal
+John Bollweg
+John Haller
+John Heitmann
+John Jeppson
+John MacGibbon
+John Mitchell
+John R. Hall
+John Sienkiewicz
+Jon Durkee
+Jonathan Miller
+Josie Walley
+Judith Pfeffer
+Judy Weinstein
+Julie Fletcher
+Karen Kleiner
+Keith Landry
+Ken Goehner
+Ken Williams
+Kenneth A. Landis
+	Kenneth Landis
+Kevin Goldstein
+Kevin McKeon
+Kevin Sullivan
+Kimberly Curling
+Kirin Tommervik
+Kurt A. Wahlner
+	Kurt A Wahlner
+Lanny Broyles
+Lashea Lowe
+Laura Shunk
+Laurie Berger
+Laurie O'Connell
+Leticia Garcia
+Linda McGuire
+	Linda McGuire Carter
+Linda Va Salle
+Lois Mencsik
+Lois Stickelmaier
+	Lois Stickelmeier
+Lucas McClure
+Lucas X. Bozek
+Malcolm Rodgers
+Marcia Shepard
+Margot Comstock Tommervik
+	Margot Tommervik
+Marjorie Kaufman
+Mark Marlow
+Mark Pelczarski
+Mark S. Wilber
+Mark Wilber
+Marlene Lunnon
+Marsha Stewart
+Mary Jo Milam
+	Mary Milam
+Mary Sue Rennells
+Matthew T. Yuen
+	Matthew Yuen
+Melissa Milich
+Meredith Tabor
+Michael Biel
+Michael Ferris
+Michael G. Pender
+Michael Jones
+Michelle Vigneault-Kirschenbaum
+Mike Antich
+Miriam Gamble
+Nancy Baldwin
+Nancy Kelly
+Nancy Oppenheim
+Neil Britt
+Pam Kelley
+Pat Adams
+Patricia Ryall
+	Pat Ryall
+Patrick J. Ratchford
+Patrie Weston
+Pattie Lesser
+Patty Wilson
+Paul Essick
+Paul McGinnis
+Paul Mithra
+Peter Olivieri
+Peter Stone
+Philip B. Ender
+	Philip Good
+	Phillip Good
+R. Jon Ruppert
+Ramona Gordon
+Randall Roberts
+Randie James
+Richard Kaapke
+Richard S. Willing
+Rickie Kaufman
+Rob Wray
+Robert Koehler
+Robert Mann
+Robert Moog
+Robert Williams
+Robert Woodhead
+Robert Wray
+Roberta Tommervik
+Roe R. Adams III
+	Roe Adams
+	Roe R. Adams
+Roger Wagner
+Ron Rennells
+Ron Williams
+Roxanne Rogers
+Roy Hicks
+Rubuel Kissler
+Ruth Seid
+Sam Pawley
+Samantha Good
+Sharon Shea
+Sharon Stea
+Steve Shendelman
+Steve Thomsen
+Steven M. Poncar
+Tamara Moore
+	Tamera Moore
+Taylor Pohlman
+Ted Rickard
+Terez Carroll
+Three Tyler
+Timothy Durr
+Todd Zilbert
+Tom Repstad
+Tom Weishaar
+Tommy Gear
+Trici Venola
+W. H. Arrington
+Weldon O. Lewin
+William Depew
+William H. Harrington
+William V.R. Smith
+	William V. R. Smith
+	Wm. V. R. Smith

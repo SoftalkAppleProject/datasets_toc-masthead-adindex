@@ -1,0 +1,90 @@
+﻿JANUARY 1981
+SOFTALK
+
+Chairman	John Haller
+President	Margot Comstock Tommervik
+Vice-President	Al Tommervik
+Vice-President	William Depew
+Treasurer	William V. R. Smith
+Secretary	John Mitchell
+Editor	Margot Comstock Tommervik
+Technical Editor	William Depew
+Contributing Editor	Roger Wagner
+Art Director	Kurt A. Wahlner
+Production Manager	Al Tommervik
+Business Manager	William V. R. Smith
+Operations Manager	John Mitchell
+Editorial Assistants	Robert Koehler Patrick J. Ratchford
+Circulation	Carmen Cowper
+Advertising Sales 213-980-5074	Al Tommervik Margot Tommervik William V. R. Smith
+
+Cover by Kurt Wahlner. "Pascal Spoken Here” sign used with permission of Apple Computer Inc., Cupertino, California. New York City taxi courtesy of Michael Strum, driver. In the background is the statue of Atlas in Rockefeller Center in New York, New York.
+Composition by Photographics, Hollywood, California. Printing by California Offset Printers, Glendale, California.	\
+
+Apple is a trademark of Apple Computer Inc., Cupertino, California.
+
+Softalk. Volume 1, Number 5. Copyright 1980 by Softalk Publishing Inc. All rights reserved. ISSN: 0274-9629. Subscriptions to Softalk are complimentary to all owners of Apple computers in the USA; multiple or non-Apple-owner subscriptions for one year: one, $10; two through five, $8 each; more than five, $6 each. Back issues, $2; November and December issues are sold out. Softalk is published monthly by Softalk Publishing Inc., 10432 Burbank Boulevard, North Hollywood, CA 91601. Tel. (213) 980-5074. Controlled circulation postage paid at Los Angeles, CA. Postmaster; Send address changes to Softalk, 10432 Burbank Boulevard, North Hollywood, CA 91601.
+
+ADVERTISERS INDEX
+
+Avant Garde..........................10
+Book Publishing......................17
+Broderbund Software..................29
+California Pacific...............Cover	2
+Cavri Systems.........................31
+Continental Software ................34
+Datasoft ..............................3
+Edu-Ware Services......................8
+FSI...................................28
+Image Systems........................12,	33
+Information Unlimited............Cover	4
+Micro Lab ............................14
+Microsoft .............................7
+MUSE Software.........................24
+On-Line Systems .........19, 21, 23, 25, 27
+Peripherals Plus .....................11
+Rainbow Computing.....................22
+Sirius Software..................13, 15
+Small Business Computer Systems......16
+Software Publishing..................35
+Southwestern Data Systems.............26
+Spectrum Software.....................30
+Stellation Two.........................2
+Strategic Simulations............Cover	3
+Synergistic Software..............9, 20
+
+CONTENTS
+
+Big Apple Gives Little Apple the Business
+Apples are selling like hotcakes in New York City—many to megabusinesses.
+MARGOT COMSTOCK TOMMERVIK..........................4
+
+Robot War: Strategy for Learning
+Revolutionary concept in gaming software teaches logic and programming through fun.
+MARY TAYLOR ROLLO .................................18
+
+Softalk's First Annual Most Popular Software Poll
+Readers have a chance to air their opinions of the all-time top ten in popular software.......... ............................26
+
+Disk Drive Doctor Moves East
+A very special person, Mike Cornblith deals in Apple service and general good will.
+AL TOMMERVIK..................................30
+
+Exec California Pacific:
+Quiet, thoughtful Al Remmers has made his software company a howling success.
+RICHARD KNUDSEN....................................32
+
+DEPARTMENTS
+
+Contest and Contest Winners...................2
+Open Discussion...............................9
+The Logical Way: Bill	Depew.............. 12
+Marketalk Reviews............................ 16
+Tradetalk.................................. 21
+Assembly Lines: Roger Wagner................ 22
+Marketalk News ............................. 28
+Bestsellers................................. 36
+
+PREVIEWS
+
+Whispers of February . . . Apple on Television—via the airwaves . . . Exec On-Line . . . Assembly Lines, Part 5 . . . Portrait of Bill Budge . . . and more.

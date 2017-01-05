@@ -1,0 +1,91 @@
+﻿4
+
+Chairman	John Haller
+Publisher	Al Tommervik
+Editor	Margot Comstock Tommervik
+Art Director	Kurt A. Wahlner
+Editorial	
+Senior Editor	David Hunter
+Managing Editor	Three Tyler
+Assistant Managing Editor	Carol Ray
+Associate Editors	Jean Varven David Durkec
+Reviews, Telecom	Matthew T. Yuen
+Special Assignments	Andrew Christie
+Features, News, Trade	Michael Ferris
+If, Then, Maybe	Tommy Gear
+Hardware	Jock Root
+Letters	Todd Zilbert
+Regional Editor, East Coast	Roe Adams
+Market Research	Lanny Broyles
+Copy	Cordell Cooper Judith Pfeffer
+Submissions	Betsy Barnes
+Proofreading	Harry McNeil Judith Pfeffer Steve Thomsen Ron Williams
+Word Processing	Brenda Johnson
+Contributing Editors	
+Pascal	Jim Merritt
+Business	Peter Olivieri
+Apple CP/M	Greg Tibbetts
+Investing	Kenneth Landis
+DOS	Tom Weishaar
+Graphics	Bill Budge
+Printers	Bill Parker
+32 Bits	Kevin Goldstein
+Softalk Sages	Doug Carlston Bob Clardy Roy Hicks John Jeppson Mark Pelczarski Joe Shelton Roger Wagner
+Art	
+Production Manager	Donald J. Robertson
+Assistant Art Director	Lucas McClure
+Ad Production	Michael G. Pender
+Assistant Production Manager	Nancy Baldwin
+Assistants	Weldon O. Lewin Ruth Seid Dan Winkler
+Business	
+Associate Publisher	Mary Sue Rennells
+Operations	Marjorie Kaufman
+Advance Projects	Steve Shendelman
+Director of Finance	Chan Hilario
+Controller	Duane Runyon
+Accounting Assistant	Donna Flushman
+Advertising	
+Coordinator	Linda McGuire Carter
+Assistant	Cathy Stewart
+West Coast Sales	Randie James Softalk 7250 Laurel Canyon Blvd. North Hollywood. CA 91605 (818) 980-5074
+East Coast Sales	Ian Ross Paul McGinnis Advertising Sales 690 Broadway Massapequa, NY 11758 (212) 490-1021
+Midwest and Rocky Mountain Sales	Ted Rickard Bill Chalifaux Kevin Sullivan Market/Media Associates 435 Locust Road Wilmette, IL 60091 (312) 251-2541
+Circulation	
+Customer Service	Marsha Stewart
+Trial Subscriptions	Deirdre Galen Cliff Martinez Anna Gusland Tcrez Carroll Ramona Gordon Joe Bellinger
+Paid Subscriptions	Michelle Vigneault-Kirschenbaum Leticia Garcia Jan Godoy-Aguiar Barbara Naimoli Josie Walley
+Dealer Sales	Lashea Lowe Dan Yoder
+Systems	John Heitmann
+
+Credits: Composition by Photographies, Hollywood, California Printing by Volkmuth Printers, Saint Cloud. Minnesota.
+
+Apple. Applesoft. Macintosh, and Lisa are registered trademarks of Apple Computer Inc., Cupertino, California UCSD Pascal is a trademark of the University of California at San Diego. SoftCard is a trademark of Microsoft, Bellevue, Washington. Softalk is a trademark of Softalk Publishing Inc., North Hollywood, California.
+
+Softalk. Volume 4. Number 9. Copyright © 1984 by Softalk Publishing Inc. All rights reserved ISSN:0274-9629. Softalk is published monthly by Softalk Publishing Inc., 7250 Laurel Canyon Boulevard, North Hollywood, California; telephone (818) 980-5074 Second-class postage paid at North Hollywood, California, and additional mailing offices.
+Postmaster: Send address changes to Softalk. Box 7039, North Hollywood. CA 91605.
+Advertising: Send ad material to Linda McGuire Carter, Softalk, 7250 Laurel Canyon Boulevard, North Hollywood, CA 91605.
+Free Subscriptions: Complimentary six-month subscriptions to all owners of 6502 Apple computers in the USA and Canada. If you own an Apple but you've never received Softalk, send your name, address, and Apple serial number with a request for subscription to Softalk Circulation. Box 7039. North Hollywood, CA 91605 Please allow six to eight weeks for processing Softalk is totally independent of Apple Computer Inc.; sending your warranty card to Apple Computer will not inform Softalk of your existence
+Paid Subscriptions: $24 per year At the end of trial period, each subscriber will be notified, response is required only if you wish to continue receiving Softalk. Lack of response will be taken as your choice to discontinue the magazine. Special rates for schools and libraries, $12; concurrent additional subscriptions for schools and libraries, $8 each Please allow six to eight weeks for processing.
+Back Issues: $2 through February 1981; $2.50 through July 1981, $3.50 through September 1982; $4.00 thereafter. November and December 1980, January, February, March, September, October, and November 1981, and December 1982 are sold out. December 1981. February and May 1982, and February and December 1983 are in short supply.
+Problems? If you haven't received your Softalk by the fifteenth of the month, or if you have other problems with your subscription, Marsha Stewart can help out. Call (818) 980-5074 or (800) 821-6231
+Moving? Send new address and a label from a recent Softalk to Softalk Circulation. Box 7039, North Hollywood. CA 91605; telephone (818) 980-5074 Please allow six to eight weeks for processing.
+
+CONTEST:
+Gravy- Boat Diplomacy
+
+Illustration by Dan Winkler
+
+Have you been yearning to get out of the house and see the world? Well, here’s the chance of a lifetime—we’re giving you an ambassadorial post! Congratulations, and may you serve your country well. As of today, you are the ambassador to Albania. Your first official duty is hosting a dinner party for the faculty of the International Academy of Computer Arts and Sciences, which convenes in Albania for two weeks each May.
+An hour before the guests arrive, your aide confesses that he has lost the seating arrangements for the evening. Fine, you say, just seat them boy-girl-boy-girl. Your aide pales and tells you that it isn’t that easy—you have to consider protocol. First, many faculty members are bringing their spouses, and protocol says that no one may sit across from his or her spouse. Second, to facilitate conversation, each person must sit across the table from a person who knows a common human spoken language. And third, no man may sit next to another man.
+You must reseat the guests. The table is rectangular, there are sixteen places, and no one sits at the head or the foot. Also, the four persons sitting at the ends can be considered to sit next to only one person. The protocol and the information you have from the dossier on each guest are your only means to make arrangements that will keep each guest happy.
+The Professor from Albania The Professor from Brazil The Professor from Czechoslovakia The Professor from Egypt
+The Professor from Finland The Professor from France The Professor from Germany The Professor from Mexico The Professor from Nepal The Professor from Portugal
+They all will attend. Seven of the professors will be accompanied by their spouses. Including yourself, sixteen people will attend.
+You have a bit more information in the dossiers in your diplomatic pouch. You know that each person knows the language of his or her native country. You also know that each person knows the same language as his or her spouse. Each of the professors is of the same nationality as his or her spouse, except for two.
+For security reasons, you must sit between the professors of Czechoslovakia and Finland.
+The professor of Floating Point Basic will not sit next to or across from the professor of Integer Basic. The professor of Pascal will not sit next to or across from either of them.
+The spouse of the professor from France is jealous and must sit next to the professor—and furthermore will not let the professor sit across from a person of the opposite sex.
+The spouse of the professor from Brazil and the spouse of the professor from Albania are best friends and like to sit across from one another.
+Four professors do not know Albanian.
+Four spouses do not know Albanian.
+The professor from Portugal knows Italian. The professors of Assembly Language,

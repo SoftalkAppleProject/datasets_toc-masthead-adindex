@@ -1,0 +1,217 @@
+﻿[NOVEMBER 1981]
+SOFTALK
+
+Chairman	John Haller
+Publisher	Al Tommervik
+Editor	Margot Comstock Tommervik
+Managing Editor	Craig Stinson
+Art Director	Kurt A. Wahlner
+General Manager	Mary Sue Rennells
+Editorial Associate	Jean Varven
+Assistant Editor	Melissa Milich
+Product News and Copy Editor	Carol James
+Contributing Editors	
+Assembly Language	Roger Wagner
+Pascal	Jim Merritt
+Business	Peter Olivieri
+Apple CP/M	Greg Tibbetts
+Apple III	Taylor Pohlman
+Hardware	Jeffrey Mazur
+Investing	Kenneth Landis
+Basic Solutions	Wm. V. R. Smith
+Special Projects	Donna Siebert Greg Voss
+Ad Coordinator	David Hunter
+Circulation	Kimberly Curling Ron Rennells Robert Mann
+Art Assistant	Miriam Gamble
+Systems	Wm. V. R. Smith Ken Williams
+Advertising Sales 213-980-5074	Al Tommervik
+
+Cover design by Kurt Wahlner; photo courtesy of United States Forest Service, Pasadena, California.
+Composition by Photographics, Hollywood, California. Printing by Volkmuth Printers, Saint Cloud, Minnesota.
+
+Apple is a registered trademark of Apple Computer Inc., Cupertino, California.
+
+UCSD Pascal is a trademark of the University of California at San Diego.
+
+VisiCalc is a trademark of Personal Software, Sunnyvale, California.
+
+SoftCard is a trademark of Microsoft, Bellevue, Washington.
+
+Softalk. Volume 2, Number 3. Copyright (c) 1981 by Softalk Publishing Inc. All rights reserved. ISSN:0274-9629. Softalk is published monthly by Softalk Publishing Inc., 11021 Magnolia Boulevard, North Hollywood, CA 91601. Telephone, (213) 980-5074. Second-class postage paid at North Hollywood, CA, and additional mailing offices.
+Postmaster: Send address changes to Softalk, 11021 Magnolia Boulevard, North Hollywood, CA 91601.
+Subscriptions: Complimentary to all owners of Apple computers in the USA. If you own an Apple, but you’re not receiving Softalk, send your name, address, and Apple serial number with a request for subscription to Softalk Circulation, 11021 Magnolia Boulevard, North Hollywood, CA 91601. Softalk is totally independent of Apple Computer Inc.; sending your warranty card to Apple Computer will not inform Softalk of your existence. Non-Apple owner subscriptions for one year: $12. For the convenience of business and schools in which several staff members share an Apple and would like individual copies of Softalk, multiple subscriptions to the same address are available at lower rates: two through five, $9 each; more than five, $7 each.
+Back Issues: $2 through February 1981; $2.50 thereafter. November and December 1980 and January and March 1981 issues are sold out. Softalk will send you a back issue of your choice free (available issues only) for the name, address, and serial number of each Apple owner you can find who isn’t already receiving Softalk.
+Problems? If you haven’t received your Softalk by the tenth of the month, or if you have other problems with your subscription, Ron Rennells or Kimberly Curling can help out. Call (213) 980-5099.
+Moving? Send new address and old to Softalk Circulation, 11021 Magnolia Boulevard, North Hollywood, California 91601; telephone, (213) 980-5099.
+
+ADVERTISERS INDEX
+
+Accent..............................49
+Advanced Business Technology.......164
+Advanced Logic Systems...........31, 32
+Adventure International/Softsel....175
+Applied Analytics..................122
+Artsci .............................147
+Avant-Garde..................39, 76, 134
+Bite-Soft..........................90,	119
+The Book 1982 .....................124
+Bourbon Street .....................66
+Broderbund..........................5,	181
+BudgeCo............................188
+California Pacific...............Cover	2
+Calsoft............................163
+Cavalier............................3,	190
+CE Software........................130
+C & H ..............................33
+Compusoft...........................23
+Computek ...........................65
+Computer Micro Works................73
+Computer Solutions..................55
+Computer Station........87, 89, 91, 93, 95
+Concepts & Systems.................106
+Context............................120
+Continental Software ..............153
+Cross Educational Software .........182
+Crystal Computer....................86
+Dakin5.............................159
+DataMost...........................135
+Data Security Concepts..............22
+Data Transforms .................38, 82
+Eclectic Systems....................30
+Edu-Ware ......................114, 176
+Energy Games .......................178
+FSI................................184
+Gebelli Software....................75
+Happ Electronics...................179
+Highlands Computer Services........131
+High Technology....................161
+Horizon Simulations................142
+Howard Software....................117
+Human Systems Dynamics.............118
+IDSI...............................183
+Infocom ............................113
+Intelligent Computer Systems .......26
+Interactive Microware..............156
+Intra Computer.....................115
+K & R Data Works ...................157
+Lightning Software.................189
+LJK Enterprises.................... 169
+L & S Computerware..................56
+Masterworks Software..............165
+Math City .........................62
+McGraw-Hill.......................108
+Micro Focus........................42
+Micro Lab.........................25,	127
+Microsoft.......................67, 94
+Millionaire Pastimes .............112
+Muse Software...............48, 92, 121
+NF Systems........................172
+Omega .........................59,	146
+On-Line........7-14, 16, 27, 47, 71, 72, 74,
+129, 149, 158, 170, 185, Cover 4
+Orange Micro...................... 51
+Osborne/McGraw-Hill ..............173
+Output.............................139
+Passport............................20
+Pegasys...........................160
+Penguin (formerly Micro Co-op).....17
+Personal Software..................57
+Powersoft .........................116
+Professional Medical Software.....171
+Prometheus ........................40
+Rainbow Computing...................80
+RH Electronics...................105,	187
+Riverbank Software ...............109
+Saturn Software....................136
+Sentient ...........................154
+Sierra Software.....................186
+Sirius Software..................97-104
+Sirtech .............................21
+Softalk.................. 45, 88, 126, 167
+Soft Ctrl Systems...................152
+Softdisk.............................83
+Softline............................162
+Soft Touch..........................128
+Softpak..............................35
+Software Publishing Corp............123
+Software Technology .............36,	37
+Southeastern Software...............111
+Southern California Research Group .. .96 
+Southwestern Data Systems .. .43, 63, 145
+Spectrum Software....................19
+Stellation Two .....................177
+Stoneware............................28
+Strategic Simulations.............Cover	3
+SubLogic ...........................151
+Symtec..............................168
+Synergistic Software.............29, 143
+Syntauri.............................18
+Thunderware .........................79
+Vital Information...................50,	58
+West Side Electronics ...............78
+Yucaipa Software.....................64
+
+CONTENTS
+
+Exec Broderbund: Saga, Star Craft, and Family = Success
+AL TOMMERVIK..................................52
+
+A Man of the Future—Steve Beck
+CRAIG STINSON..................................60
+Page 60
+
+Apples among the Acorns with U.S. Forest Service
+MELISSA MILICH .....................................68
+Page 68
+
+An Apple in Psychotherapy
+KATE DICKSON and ZEV WANDERER................125
+
+Telecommuting: Is the Central Office Almost Obsolete?
+DAVID HUNTER....................................140
+
+The New Applesoft Compilers: What For?
+ROGER WAGNER ................................155
+
+FEATURES
+
+Time after Time: Apple Clocks, Part 2.........................RICHARD KAAPKE 77
+Running against the Apple: Timing Races ........................DAVID HUNTER 81
+Give Your Apple a Little RAM: RAM Cards........................JEFFREY MAZUR 84
+A Haunted House Run by Apples..................................MELISSA MILICH 132
+Ada: They Named a Language after Her...........................CAROL JAMES 148
+Use Your Apple To Find Your Business's Worth..................STEPHEN PARRISH 166
+Microprocessor Chips for Your Apple............................JEFFREY MAZUR 174
+
+Page 81
+
+DEPARTMENTS
+
+Art Gallery: Contest ............2
+Contest Winners..................4
+Open Discussion..................6
+SoftCard Symposium
+Greg Tibbetts.................24
+The Pascal Path:
+Jim Merritt...................34
+Assembly Lines:
+Roger Wagner.................41
+Tradetalk......................49
+Ventures with VisiCalc.........65
+Marketalk: Reviews ............105
+The Third Basic:
+Taylor Pohlman.............115
+Newspeak......................121
+Buttonwood Apples:
+Kenneth Landis.............137
+Mind Your Business:
+Peter Olivieri...................160
+The Basic Solution:
+Wm. V. R. Smith..................172
+Beginners' Corner
+Craig Stinson ...................180
+Softalk Presents the Bestsellers.................187
+
+PREVIEWS
+
+December Dalliance . . . Softalk's Second Holiday Gift Guide . . . Looking Forward: New Year's Predictions . . . Exec Microlab . . . Christmas Dream: The World's Largest Apple System . . . Spotlight: Jim Sadlier— Retailer, Book Publisher, Software Mogul . . . Apple Fortran Examined . . . and more.

@@ -1,0 +1,2315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2016-08-18T07:03:38</Created>
+	<LastChange>2016-08-18T07:05:18</LastChange>
+	<Comments>Data: file://localhost//t/derive/softalkv1n01sep1980//softalkv1n01sep1980.djvu
+Type: image/x.djvu
+Page: softalkv1n01sep1980_0003.djvu</Comments></Metadata>
+	<Page imageFilename="softalkv1n01sep1980_0003.jpg" imageWidth="2883" imageHeight="3805">
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="389,106 477,106 477,138 361,138 361,140 106,140 106,107 389,107"/>
+	<TextLine id="l1">
+	<Coords points="389,106 477,106 477,138 361,138 361,140 106,140 106,107 389,107"/>
+	<Word id="w2">
+	<Coords points="106,107 361,107 361,140 106,140"/>
+	<TextEquiv>
+	<Unicode>SEPTEMBER</Unicode></TextEquiv></Word>
+	<Word id="w3">
+	<Coords points="389,106 477,106 477,138 389,138"/>
+	<TextEquiv>
+	<Unicode>1980</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>SEPTEMBER 1980</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>SEPTEMBER 1980</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="473,221 625,221 625,316 789,316 789,348 378,348 378,316 421,316 421,269 473,269"/>
+	<TextLine id="l5">
+	<Coords points="473,221 625,221 625,261 473,261"/>
+	<Word id="w6">
+	<Coords points="473,221 625,221 625,261 473,261"/>
+	<TextEquiv>
+	<Unicode>Margot</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Margot</Unicode></TextEquiv></TextLine>
+	<TextLine id="l7">
+	<Coords points="421,269 624,269 624,301 421,301"/>
+	<Word id="w8">
+	<Coords points="421,269 624,269 624,301 421,301"/>
+	<TextEquiv>
+	<Unicode>Comstock</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Comstock</Unicode></TextEquiv></TextLine>
+	<TextLine id="l9">
+	<Coords points="378,316 789,316 789,348 378,348"/>
+	<Word id="w10">
+	<Coords points="378,316 625,316 625,348 378,348"/>
+	<TextEquiv>
+	<Unicode>Tommervik</Unicode></TextEquiv></Word>
+	<Word id="w11">
+	<Coords points="657,316 789,316 789,348 657,348"/>
+	<TextEquiv>
+	<Unicode>Editor</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Tommervik Editor</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Margot
+Comstock
+Tommervik Editor</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="656,387 859,387 859,420 790,420 790,468 657,468 657,428 400,428 400,390 656,390"/>
+	<TextLine id="l13">
+	<Coords points="656,387 859,387 859,420 625,420 625,428 400,428 400,390 656,390"/>
+	<Word id="w14">
+	<Coords points="400,390 625,390 625,428 400,428"/>
+	<TextEquiv>
+	<Unicode>BillDepew</Unicode></TextEquiv></Word>
+	<Word id="w15">
+	<Coords points="656,387 859,387 859,420 656,420"/>
+	<TextEquiv>
+	<Unicode>Technical</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>BillDepew Technical</Unicode></TextEquiv></TextLine>
+	<TextLine id="l16">
+	<Coords points="657,436 790,436 790,468 657,468"/>
+	<Word id="w17">
+	<Coords points="657,436 790,436 790,468 657,468"/>
+	<TextEquiv>
+	<Unicode>Editor</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Editor</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>BillDepew Technical
+Editor</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="461,509 624,509 624,589 388,589 388,558 461,558"/>
+	<TextLine id="l19">
+	<Coords points="461,509 624,509 624,541 461,541"/>
+	<Word id="w20">
+	<Coords points="461,509 624,509 624,541 461,541"/>
+	<TextEquiv>
+	<Unicode>William</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>William</Unicode></TextEquiv></TextLine>
+	<TextLine id="l21">
+	<Coords points="505,556 624,556 624,589 388,589 388,558 505,558"/>
+	<Word id="w22">
+	<Coords points="388,558 431,558 431,589 388,589"/>
+	<TextEquiv>
+	<Unicode>V.</Unicode></TextEquiv></Word>
+	<Word id="w23">
+	<Coords points="445,558 490,558 490,589 445,589"/>
+	<TextEquiv>
+	<Unicode>R.</Unicode></TextEquiv></Word>
+	<Word id="w24">
+	<Coords points="505,556 624,556 624,589 505,589"/>
+	<TextEquiv>
+	<Unicode>Smith</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>V. R. Smith</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>William
+V. R. Smith</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="378,680 624,680 624,714 322,714 322,683 378,683"/>
+	<TextLine id="l26">
+	<Coords points="378,680 624,680 624,714 322,714 322,683 378,683"/>
+	<Word id="w27">
+	<Coords points="322,683 366,683 366,714 322,714"/>
+	<TextEquiv>
+	<Unicode>Al</Unicode></TextEquiv></Word>
+	<Word id="w28">
+	<Coords points="378,680 624,680 624,714 378,714"/>
+	<TextEquiv>
+	<Unicode>Tommervik</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Al Tommervik</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Al Tommervik</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords points="581,801 622,801 622,850 625,850 625,884 448,884 448,850 472,850 472,803 581,803"/>
+	<TextLine id="l30">
+	<Coords points="581,801 622,801 622,833 569,833 569,834 472,834 472,803 581,803"/>
+	<Word id="w31">
+	<Coords points="472,803 569,803 569,834 472,834"/>
+	<TextEquiv>
+	<Unicode>Kurt</Unicode></TextEquiv></Word>
+	<Word id="w32">
+	<Coords points="581,801 622,801 622,833 581,833"/>
+	<TextEquiv>
+	<Unicode>A.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Kurt A.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l33">
+	<Coords points="448,850 625,850 625,884 448,884"/>
+	<Word id="w34">
+	<Coords points="448,850 625,850 625,884 448,884"/>
+	<TextEquiv>
+	<Unicode>Wahlner</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Wahlner</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Kurt A.
+Wahlner</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r35" type="paragraph">
+	<Coords points="456,922 625,922 625,955 445,955 445,957 346,957 346,924 456,924"/>
+	<TextLine id="l36">
+	<Coords points="456,922 625,922 625,955 445,955 445,957 346,957 346,924 456,924"/>
+	<Word id="w37">
+	<Coords points="346,924 445,924 445,957 346,957"/>
+	<TextEquiv>
+	<Unicode>John</Unicode></TextEquiv></Word>
+	<Word id="w38">
+	<Coords points="456,922 625,922 625,955 456,955"/>
+	<TextEquiv>
+	<Unicode>Mitchell</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>John Mitchell</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>John Mitchell</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r39" type="paragraph">
+	<Coords points="462,1090 625,1090 625,1122 451,1122 451,1125 309,1125 309,1092 462,1092"/>
+	<TextLine id="l40">
+	<Coords points="462,1090 625,1090 625,1122 451,1122 451,1125 309,1125 309,1092 462,1092"/>
+	<Word id="w41">
+	<Coords points="309,1092 451,1092 451,1125 309,1125"/>
+	<TextEquiv>
+	<Unicode>Robert</Unicode></TextEquiv></Word>
+	<Word id="w42">
+	<Coords points="462,1090 625,1090 625,1122 462,1122"/>
+	<TextEquiv>
+	<Unicode>Koehler</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Robert Koehler</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Robert Koehler</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords points="316,1210 626,1210 626,1240 499,1240 499,1243 316,1243"/>
+	<TextLine id="l44">
+	<Coords points="316,1210 626,1210 626,1240 499,1240 499,1243 316,1243"/>
+	<Word id="w45">
+	<Coords points="316,1210 499,1210 499,1243 316,1243"/>
+	<TextEquiv>
+	<Unicode>Matthew</Unicode></TextEquiv></Word>
+	<Word id="w46">
+	<Coords points="518,1210 626,1210 626,1240 518,1240"/>
+	<TextEquiv>
+	<Unicode>Yuen</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Matthew Yuen</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Matthew Yuen</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r47" type="paragraph">
+	<Coords points="520,1307 627,1307 627,1388 381,1388 381,1355 520,1355"/>
+	<TextLine id="l48">
+	<Coords points="520,1307 627,1307 627,1338 520,1338"/>
+	<Word id="w49">
+	<Coords points="520,1307 627,1307 627,1338 520,1338"/>
+	<TextEquiv>
+	<Unicode>Kirin</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Kirin</Unicode></TextEquiv></TextLine>
+	<TextLine id="l50">
+	<Coords points="381,1355 627,1355 627,1388 381,1388"/>
+	<Word id="w51">
+	<Coords points="381,1355 627,1355 627,1388 381,1388"/>
+	<TextEquiv>
+	<Unicode>Tommervik</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Tommervik</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Kirin
+Tommervik</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r52" type="paragraph">
+	<Coords points="660,557 902,557 902,596 848,596 848,645 660,645"/>
+	<TextLine id="l53">
+	<Coords points="660,557 902,557 902,596 660,596"/>
+	<Word id="w54">
+	<Coords points="660,557 902,557 902,596 660,596"/>
+	<TextEquiv>
+	<Unicode>Advertising</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Advertising</Unicode></TextEquiv></TextLine>
+	<TextLine id="l55">
+	<Coords points="660,607 848,607 848,645 660,645"/>
+	<Word id="w56">
+	<Coords points="660,607 848,607 848,645 660,645"/>
+	<TextEquiv>
+	<Unicode>Manager</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Manager</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Advertising
+Manager</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r57" type="paragraph">
+	<Coords points="889,676 964,676 964,708 888,708 888,759 660,759 660,726 661,726 661,677 889,677"/>
+	<TextLine id="l58">
+	<Coords points="889,676 964,676 964,708 879,708 879,717 661,717 661,677 889,677"/>
+	<Word id="w59">
+	<Coords points="661,677 879,677 879,717 661,717"/>
+	<TextEquiv>
+	<Unicode>Marketing</Unicode></TextEquiv></Word>
+	<Word id="w60">
+	<Coords points="889,676 964,676 964,708 889,708"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Marketing and</Unicode></TextEquiv></TextLine>
+	<TextLine id="l61">
+	<Coords points="660,726 888,726 888,759 660,759"/>
+	<Word id="w62">
+	<Coords points="660,726 888,726 888,759 660,759"/>
+	<TextEquiv>
+	<Unicode>Production</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Production</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Marketing and
+Production</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r63" type="paragraph">
+	<Coords points="740,847 914,847 914,879 662,879 662,848 740,848"/>
+	<TextLine id="l64">
+	<Coords points="740,847 914,847 914,879 662,879 662,848 740,848"/>
+	<Word id="w65">
+	<Coords points="662,848 728,848 728,879 662,879"/>
+	<TextEquiv>
+	<Unicode>Art</Unicode></TextEquiv></Word>
+	<Word id="w66">
+	<Coords points="740,847 914,847 914,879 740,879"/>
+	<TextEquiv>
+	<Unicode>Director</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Art Director</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Art Director</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r67" type="paragraph">
+	<Coords points="661,920 850,920 850,952 661,952"/>
+	<TextLine id="l68">
+	<Coords points="661,920 850,920 850,952 661,952"/>
+	<Word id="w69">
+	<Coords points="661,920 850,920 850,952 661,952"/>
+	<TextEquiv>
+	<Unicode>Assistant</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Assistant</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Assistant</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r70" type="paragraph">
+	<Coords points="661,968 888,968 888,1000 661,1000"/>
+	<TextLine id="l71">
+	<Coords points="661,968 888,968 888,1000 661,1000"/>
+	<Word id="w72">
+	<Coords points="661,968 888,968 888,1000 661,1000"/>
+	<TextEquiv>
+	<Unicode>Production</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Production</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Production</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r73" type="paragraph">
+	<Coords points="661,1017 848,1017 848,1055 661,1055"/>
+	<TextLine id="l74">
+	<Coords points="661,1017 848,1017 848,1055 661,1055"/>
+	<Word id="w75">
+	<Coords points="661,1017 848,1017 848,1055 661,1055"/>
+	<TextEquiv>
+	<Unicode>Manager</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Manager</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Manager</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r76" type="paragraph">
+	<Coords points="661,1087 890,1087 890,1120 849,1120 849,1176 662,1176 662,1120 661,1120"/>
+	<TextLine id="l77">
+	<Coords points="661,1087 890,1087 890,1120 661,1120"/>
+	<Word id="w78">
+	<Coords points="661,1087 890,1087 890,1120 661,1120"/>
+	<TextEquiv>
+	<Unicode>Circulation</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Circulation</Unicode></TextEquiv></TextLine>
+	<TextLine id="l79">
+	<Coords points="662,1137 849,1137 849,1176 662,1176"/>
+	<Word id="w80">
+	<Coords points="662,1137 849,1137 849,1176 662,1176"/>
+	<TextEquiv>
+	<Unicode>Manager</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Manager</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Circulation
+Manager</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r81" type="paragraph">
+	<Coords points="663,1207 846,1207 846,1256 851,1256 851,1288 662,1288 662,1256 663,1256"/>
+	<TextLine id="l82">
+	<Coords points="663,1207 846,1207 846,1240 663,1240"/>
+	<Word id="w83">
+	<Coords points="663,1207 846,1207 846,1240 663,1240"/>
+	<TextEquiv>
+	<Unicode>Editorial</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Editorial</Unicode></TextEquiv></TextLine>
+	<TextLine id="l84">
+	<Coords points="662,1256 851,1256 851,1288 662,1288"/>
+	<Word id="w85">
+	<Coords points="662,1256 851,1256 851,1288 662,1288"/>
+	<TextEquiv>
+	<Unicode>Assistant</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Assistant</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Editorial
+Assistant</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r86" type="paragraph">
+	<Coords points="665,1355 849,1355 849,1404 854,1404 854,1436 665,1436"/>
+	<TextLine id="l87">
+	<Coords points="665,1355 849,1355 849,1388 665,1388"/>
+	<Word id="w88">
+	<Coords points="665,1355 849,1355 849,1388 665,1388"/>
+	<TextEquiv>
+	<Unicode>Editorial</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Editorial</Unicode></TextEquiv></TextLine>
+	<TextLine id="l89">
+	<Coords points="665,1404 854,1404 854,1436 665,1436"/>
+	<Word id="w90">
+	<Coords points="665,1404 854,1404 854,1436 665,1436"/>
+	<TextEquiv>
+	<Unicode>Assistant</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Assistant</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Editorial
+Assistant</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r91" type="paragraph">
+	<Coords points="492,1477 894,1477 894,1510 479,1510 479,1511 384,1511 384,1479 492,1479"/>
+	<TextLine id="l92">
+	<Coords points="492,1477 894,1477 894,1510 479,1510 479,1511 384,1511 384,1479 492,1479"/>
+	<Word id="w93">
+	<Coords points="384,1479 479,1479 479,1511 384,1511"/>
+	<TextEquiv>
+	<Unicode>Paul</Unicode></TextEquiv></Word>
+	<Word id="w94">
+	<Coords points="492,1477 628,1477 628,1510 492,1510"/>
+	<TextEquiv>
+	<Unicode>Essick</Unicode></TextEquiv></Word>
+	<Word id="w95">
+	<Coords points="665,1477 894,1477 894,1510 665,1510"/>
+	<TextEquiv>
+	<Unicode>Circulation</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Paul Essick Circulation</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Paul Essick Circulation</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r96" type="paragraph">
+	<Coords points="922,1539 972,1539 972,1626 974,1626 974,1655 895,1655 895,1663 692,1663 692,1658 539,1658 539,1662 538,1662 538,1702 367,1702 367,1708 153,1708 153,1589 154,1589 154,1545 369,1545 369,1546 485,1546 485,1542 626,1542 626,1541 837,1541 837,1540 922,1540"/>
+	<TextLine id="l97">
+	<Coords points="922,1539 972,1539 972,1567 905,1567 905,1568 823,1568 823,1576 626,1576 626,1571 467,1571 467,1577 336,1577 336,1581 154,1581 154,1545 369,1545 369,1546 485,1546 485,1542 626,1542 626,1541 837,1541 837,1540 922,1540"/>
+	<Word id="w98">
+	<Coords points="154,1545 336,1545 336,1581 154,1581"/>
+	<TextEquiv>
+	<Unicode>Copyright</Unicode></TextEquiv></Word>
+	<Word id="w99">
+	<Coords points="351,1545 369,1545 369,1564 351,1564"/>
+	<TextEquiv>
+	<Unicode>©</Unicode></TextEquiv></Word>
+	<Word id="w100">
+	<Coords points="383,1546 467,1546 467,1577 383,1577"/>
+	<TextEquiv>
+	<Unicode>1980,</Unicode></TextEquiv></Word>
+	<Word id="w101">
+	<Coords points="485,1542 611,1542 611,1571 485,1571"/>
+	<TextEquiv>
+	<Unicode>Softalk</Unicode></TextEquiv></Word>
+	<Word id="w102">
+	<Coords points="626,1541 823,1541 823,1576 626,1576"/>
+	<TextEquiv>
+	<Unicode>Publishing</Unicode></TextEquiv></Word>
+	<Word id="w103">
+	<Coords points="837,1540 905,1540 905,1568 837,1568"/>
+	<TextEquiv>
+	<Unicode>Inc.</Unicode></TextEquiv></Word>
+	<Word id="w104">
+	<Coords points="922,1539 972,1539 972,1567 922,1567"/>
+	<TextEquiv>
+	<Unicode>All</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Copyright © 1980, Softalk Publishing Inc. All</Unicode></TextEquiv></TextLine>
+	<TextLine id="l105">
+	<Coords points="677,1584 857,1584 857,1585 972,1585 972,1611 857,1611 857,1612 796,1612 796,1613 652,1613 652,1615 459,1615 459,1616 260,1616 260,1625 153,1625 153,1589 287,1589 287,1587 488,1587 488,1585 677,1585"/>
+	<Word id="w106">
+	<Coords points="153,1589 260,1589 260,1625 153,1625"/>
+	<TextEquiv>
+	<Unicode>rights</Unicode></TextEquiv></Word>
+	<Word id="w107">
+	<Coords points="287,1587 459,1587 459,1616 287,1616"/>
+	<TextEquiv>
+	<Unicode>reserved.</Unicode></TextEquiv></Word>
+	<Word id="w108">
+	<Coords points="488,1585 652,1585 652,1615 488,1615"/>
+	<TextEquiv>
+	<Unicode>Editorial</Unicode></TextEquiv></Word>
+	<Word id="w109">
+	<Coords points="677,1584 796,1584 796,1613 677,1613"/>
+	<TextEquiv>
+	<Unicode>offices</Unicode></TextEquiv></Word>
+	<Word id="w110">
+	<Coords points="822,1584 857,1584 857,1612 822,1612"/>
+	<TextEquiv>
+	<Unicode>at</Unicode></TextEquiv></Word>
+	<Word id="w111">
+	<Coords points="882,1585 972,1585 972,1611 882,1611"/>
+	<TextEquiv>
+	<Unicode>10432</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>rights reserved. Editorial offices at 10432</Unicode></TextEquiv></TextLine>
+	<TextLine id="l112">
+	<Coords points="919,1626 974,1626 974,1655 895,1655 895,1663 692,1663 692,1658 539,1658 539,1662 338,1662 338,1661 154,1661 154,1632 338,1632 338,1630 564,1630 564,1629 692,1629 692,1627 919,1627"/>
+	<Word id="w113">
+	<Coords points="154,1632 315,1632 315,1661 154,1661"/>
+	<TextEquiv>
+	<Unicode>Burbank</Unicode></TextEquiv></Word>
+	<Word id="w114">
+	<Coords points="338,1630 539,1630 539,1662 338,1662"/>
+	<TextEquiv>
+	<Unicode>Boulevard,</Unicode></TextEquiv></Word>
+	<Word id="w115">
+	<Coords points="564,1629 670,1629 670,1658 564,1658"/>
+	<TextEquiv>
+	<Unicode>North</Unicode></TextEquiv></Word>
+	<Word id="w116">
+	<Coords points="692,1627 895,1627 895,1663 692,1663"/>
+	<TextEquiv>
+	<Unicode>Hollywood,</Unicode></TextEquiv></Word>
+	<Word id="w117">
+	<Coords points="919,1626 974,1626 974,1655 919,1655"/>
+	<TextEquiv>
+	<Unicode>CA</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Burbank Boulevard, North Hollywood, CA</Unicode></TextEquiv></TextLine>
+	<TextLine id="l118">
+	<Coords points="388,1675 538,1675 538,1702 367,1702 367,1708 153,1708 153,1677 388,1677"/>
+	<Word id="w119">
+	<Coords points="153,1677 259,1677 259,1708 153,1708"/>
+	<TextEquiv>
+	<Unicode>91601;</Unicode></TextEquiv></Word>
+	<Word id="w120">
+	<Coords points="286,1677 367,1677 367,1708 286,1708"/>
+	<TextEquiv>
+	<Unicode>(213)</Unicode></TextEquiv></Word>
+	<Word id="w121">
+	<Coords points="388,1675 538,1675 538,1702 388,1702"/>
+	<TextEquiv>
+	<Unicode>980-5074.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>91601; (213) 980-5074.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Copyright © 1980, Softalk Publishing Inc. All
+rights reserved. Editorial offices at 10432
+Burbank Boulevard, North Hollywood, CA
+91601; (213) 980-5074.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r122" type="paragraph">
+	<Coords points="803,1733 972,1733 972,1768 855,1768 855,1807 644,1807 644,1815 455,1815 455,1813 340,1813 340,1817 155,1817 155,1781 156,1781 156,1738 388,1738 388,1736 803,1736"/>
+	<TextLine id="l123">
+	<Coords points="803,1733 972,1733 972,1768 770,1768 770,1770 614,1770 614,1765 355,1765 355,1774 156,1774 156,1738 388,1738 388,1736 803,1736"/>
+	<Word id="w124">
+	<Coords points="156,1738 355,1738 355,1774 156,1774"/>
+	<TextEquiv>
+	<Unicode>September</Unicode></TextEquiv></Word>
+	<Word id="w125">
+	<Coords points="388,1736 580,1736 580,1765 388,1765"/>
+	<TextEquiv>
+	<Unicode>fulfillment</Unicode></TextEquiv></Word>
+	<Word id="w126">
+	<Coords points="614,1736 770,1736 770,1770 614,1770"/>
+	<TextEquiv>
+	<Unicode>courtesy</Unicode></TextEquiv></Word>
+	<Word id="w127">
+	<Coords points="803,1733 837,1733 837,1762 803,1762"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="w128">
+	<Coords points="868,1733 972,1733 972,1768 868,1768"/>
+	<TextEquiv>
+	<Unicode>Apple</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>September fulfillment courtesy of Apple</Unicode></TextEquiv></TextLine>
+	<TextLine id="l129">
+	<Coords points="663,1778 855,1778 855,1807 644,1807 644,1815 455,1815 455,1813 340,1813 340,1817 155,1817 155,1781 455,1781 455,1779 663,1779"/>
+	<Word id="w130">
+	<Coords points="155,1781 340,1781 340,1817 155,1817"/>
+	<TextEquiv>
+	<Unicode>Computer</Unicode></TextEquiv></Word>
+	<Word id="w131">
+	<Coords points="356,1781 436,1781 436,1813 356,1813"/>
+	<TextEquiv>
+	<Unicode>Inc.,</Unicode></TextEquiv></Word>
+	<Word id="w132">
+	<Coords points="455,1779 644,1779 644,1815 455,1815"/>
+	<TextEquiv>
+	<Unicode>Cupertino,</Unicode></TextEquiv></Word>
+	<Word id="w133">
+	<Coords points="663,1778 855,1778 855,1807 663,1807"/>
+	<TextEquiv>
+	<Unicode>California.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Computer Inc., Cupertino, California.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>September fulfillment courtesy of Apple
+Computer Inc., Cupertino, California.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r134" type="paragraph">
+	<Coords points="792,1840 975,1840 975,1875 767,1875 767,1876 656,1876 656,1914 446,1914 446,1923 256,1923 256,1921 156,1921 156,1845 383,1845 383,1842 607,1842 607,1841 792,1841"/>
+	<TextLine id="l135">
+	<Coords points="792,1840 975,1840 975,1875 767,1875 767,1876 663,1876 663,1871 362,1871 362,1872 262,1872 262,1881 156,1881 156,1845 383,1845 383,1842 607,1842 607,1841 792,1841"/>
+	<Word id="w136">
+	<Coords points="156,1845 262,1845 262,1881 156,1881"/>
+	<TextEquiv>
+	<Unicode>Apple</Unicode></TextEquiv></Word>
+	<Word id="w137">
+	<Coords points="287,1845 315,1845 315,1872 287,1872"/>
+	<TextEquiv>
+	<Unicode>is</Unicode></TextEquiv></Word>
+	<Word id="w138">
+	<Coords points="341,1851 362,1851 362,1872 341,1872"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="w139">
+	<Coords points="383,1842 583,1842 583,1871 383,1871"/>
+	<TextEquiv>
+	<Unicode>trademark</Unicode></TextEquiv></Word>
+	<Word id="w140">
+	<Coords points="607,1841 641,1841 641,1869 607,1869"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="w141">
+	<Coords points="663,1841 767,1841 767,1876 663,1876"/>
+	<TextEquiv>
+	<Unicode>Apple</Unicode></TextEquiv></Word>
+	<Word id="w142">
+	<Coords points="792,1840 975,1840 975,1875 792,1875"/>
+	<TextEquiv>
+	<Unicode>Computer</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Apple is a trademark of Apple Computer</Unicode></TextEquiv></TextLine>
+	<TextLine id="l143">
+	<Coords points="464,1885 656,1885 656,1914 446,1914 446,1923 256,1923 256,1921 156,1921 156,1888 256,1888 256,1887 464,1887"/>
+	<Word id="w144">
+	<Coords points="156,1888 237,1888 237,1921 156,1921"/>
+	<TextEquiv>
+	<Unicode>Inc.,</Unicode></TextEquiv></Word>
+	<Word id="w145">
+	<Coords points="256,1887 446,1887 446,1923 256,1923"/>
+	<TextEquiv>
+	<Unicode>Cupertino,</Unicode></TextEquiv></Word>
+	<Word id="w146">
+	<Coords points="464,1885 656,1885 656,1914 464,1914"/>
+	<TextEquiv>
+	<Unicode>California.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Inc., Cupertino, California.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Apple is a trademark of Apple Computer
+Inc., Cupertino, California.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r147" type="paragraph">
+	<Coords points="771,1945 973,1945 973,1981 747,1981 747,1984 385,1984 385,1986 350,1986 350,2023 156,2023 156,1950 471,1950 471,1947 771,1947"/>
+	<TextLine id="l148">
+	<Coords points="771,1945 973,1945 973,1981 747,1981 747,1984 385,1984 385,1986 156,1986 156,1950 471,1950 471,1947 771,1947"/>
+	<Word id="w149">
+	<Coords points="156,1950 385,1950 385,1986 156,1986"/>
+	<TextEquiv>
+	<Unicode>Composition</Unicode></TextEquiv></Word>
+	<Word id="w150">
+	<Coords points="407,1950 450,1950 450,1984 407,1984"/>
+	<TextEquiv>
+	<Unicode>by</Unicode></TextEquiv></Word>
+	<Word id="w151">
+	<Coords points="471,1947 747,1947 747,1984 471,1984"/>
+	<TextEquiv>
+	<Unicode>Photographies,</Unicode></TextEquiv></Word>
+	<Word id="w152">
+	<Coords points="771,1945 973,1945 973,1981 771,1981"/>
+	<TextEquiv>
+	<Unicode>Hollywood,</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Composition by Photographies, Hollywood,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l153">
+	<Coords points="156,1994 350,1994 350,2023 156,2023"/>
+	<Word id="w154">
+	<Coords points="156,1994 350,1994 350,2023 156,2023"/>
+	<TextEquiv>
+	<Unicode>California.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>California.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Composition by Photographies, Hollywood,
+California.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r155" type="paragraph">
+	<Coords points="879,2051 974,2051 974,2081 863,2081 863,2086 700,2086 700,2083 564,2083 564,2084 454,2084 454,2129 244,2129 244,2133 157,2133 157,2092 156,2092 156,2057 381,2057 381,2055 578,2055 578,2054 879,2054"/>
+	<TextLine id="l156">
+	<Coords points="879,2051 974,2051 974,2081 863,2081 863,2086 700,2086 700,2083 564,2083 564,2084 368,2084 368,2091 311,2091 311,2092 156,2092 156,2057 381,2057 381,2055 578,2055 578,2054 879,2054"/>
+	<Word id="w157">
+	<Coords points="156,2057 311,2057 311,2092 156,2092"/>
+	<TextEquiv>
+	<Unicode>Printing</Unicode></TextEquiv></Word>
+	<Word id="w158">
+	<Coords points="324,2057 368,2057 368,2091 324,2091"/>
+	<TextEquiv>
+	<Unicode>by</Unicode></TextEquiv></Word>
+	<Word id="w159">
+	<Coords points="381,2055 564,2055 564,2084 381,2084"/>
+	<TextEquiv>
+	<Unicode>California</Unicode></TextEquiv></Word>
+	<Word id="w160">
+	<Coords points="578,2054 686,2054 686,2083 578,2083"/>
+	<TextEquiv>
+	<Unicode>Offset</Unicode></TextEquiv></Word>
+	<Word id="w161">
+	<Coords points="700,2054 863,2054 863,2086 700,2086"/>
+	<TextEquiv>
+	<Unicode>Printers,</Unicode></TextEquiv></Word>
+	<Word id="w162">
+	<Coords points="879,2051 974,2051 974,2081 879,2081"/>
+	<TextEquiv>
+	<Unicode>Glen-</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Printing by California Offset Printers, Glen-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l163">
+	<Coords points="262,2100 454,2100 454,2129 244,2129 244,2133 157,2133 157,2101 262,2101"/>
+	<Word id="w164">
+	<Coords points="157,2101 244,2101 244,2133 157,2133"/>
+	<TextEquiv>
+	<Unicode>dale,</Unicode></TextEquiv></Word>
+	<Word id="w165">
+	<Coords points="262,2100 454,2100 454,2129 262,2129"/>
+	<TextEquiv>
+	<Unicode>California.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>dale, California.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Printing by California Offset Printers, Glen-
+dale, California.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r166" type="paragraph">
+	<Coords points="160,2172 350,2172 350,2180 798,2180 798,2179 975,2179 975,2266 977,2266 977,2294 975,2294 975,2337 882,2337 882,2338 835,2338 835,2346 688,2346 688,2340 464,2340 464,2341 341,2341 341,2384 257,2384 257,2388 157,2388 157,2342 156,2342 156,2315 157,2315 157,2234 160,2234"/>
+	<TextLine id="l167">
+	<Coords points="160,2172 350,2172 350,2180 798,2180 798,2179 975,2179 975,2212 774,2212 774,2215 600,2215 600,2217 424,2217 424,2211 160,2211"/>
+	<Word id="w168">
+	<Coords points="160,2172 350,2172 350,2211 160,2211"/>
+	<TextEquiv>
+	<Unicode>SOFTALK</Unicode></TextEquiv></Word>
+	<Word id="w169">
+	<Coords points="371,2182 400,2182 400,2210 371,2210"/>
+	<TextEquiv>
+	<Unicode>is</Unicode></TextEquiv></Word>
+	<Word id="w170">
+	<Coords points="424,2180 600,2180 600,2217 424,2217"/>
+	<TextEquiv>
+	<Unicode>published</Unicode></TextEquiv></Word>
+	<Word id="w171">
+	<Coords points="623,2180 774,2180 774,2215 623,2215"/>
+	<TextEquiv>
+	<Unicode>monthly</Unicode></TextEquiv></Word>
+	<Word id="w172">
+	<Coords points="798,2179 850,2179 850,2207 798,2207"/>
+	<TextEquiv>
+	<Unicode>for</Unicode></TextEquiv></Word>
+	<Word id="w173">
+	<Coords points="872,2179 975,2179 975,2212 872,2212"/>
+	<TextEquiv>
+	<Unicode>$12.00</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>SOFTALK is published monthly for $12.00</Unicode></TextEquiv></TextLine>
+	<TextLine id="l174">
+	<Coords points="781,2223 861,2223 861,2224 974,2224 974,2250 861,2250 861,2255 760,2255 760,2260 562,2260 562,2254 390,2254 390,2261 324,2261 324,2262 218,2262 218,2263 157,2263 157,2234 347,2234 347,2226 414,2226 414,2225 562,2225 562,2224 781,2224"/>
+	<Word id="w175">
+	<Coords points="157,2234 218,2234 218,2263 157,2263"/>
+	<TextEquiv>
+	<Unicode>per</Unicode></TextEquiv></Word>
+	<Word id="w176">
+	<Coords points="241,2234 324,2234 324,2262 241,2262"/>
+	<TextEquiv>
+	<Unicode>year</Unicode></TextEquiv></Word>
+	<Word id="w177">
+	<Coords points="347,2226 390,2226 390,2261 347,2261"/>
+	<TextEquiv>
+	<Unicode>by</Unicode></TextEquiv></Word>
+	<Word id="w178">
+	<Coords points="414,2225 540,2225 540,2254 414,2254"/>
+	<TextEquiv>
+	<Unicode>Softalk</Unicode></TextEquiv></Word>
+	<Word id="w179">
+	<Coords points="562,2224 760,2224 760,2260 562,2260"/>
+	<TextEquiv>
+	<Unicode>Publishing</Unicode></TextEquiv></Word>
+	<Word id="w180">
+	<Coords points="781,2223 861,2223 861,2255 781,2255"/>
+	<TextEquiv>
+	<Unicode>Inc.,</Unicode></TextEquiv></Word>
+	<Word id="w181">
+	<Coords points="884,2224 974,2224 974,2250 884,2250"/>
+	<TextEquiv>
+	<Unicode>10432</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>per year by Softalk Publishing Inc., 10432</Unicode></TextEquiv></TextLine>
+	<TextLine id="l182">
+	<Coords points="694,2266 977,2266 977,2294 898,2294 898,2302 694,2302 694,2296 541,2296 541,2301 341,2301 341,2298 157,2298 157,2269 341,2269 341,2268 566,2268 566,2267 694,2267"/>
+	<Word id="w183">
+	<Coords points="157,2269 317,2269 317,2298 157,2298"/>
+	<TextEquiv>
+	<Unicode>Burbank</Unicode></TextEquiv></Word>
+	<Word id="w184">
+	<Coords points="341,2268 541,2268 541,2301 341,2301"/>
+	<TextEquiv>
+	<Unicode>Boulevard,</Unicode></TextEquiv></Word>
+	<Word id="w185">
+	<Coords points="566,2267 671,2267 671,2296 566,2296"/>
+	<TextEquiv>
+	<Unicode>North</Unicode></TextEquiv></Word>
+	<Word id="w186">
+	<Coords points="694,2266 898,2266 898,2302 694,2302"/>
+	<TextEquiv>
+	<Unicode>Hollywood,</Unicode></TextEquiv></Word>
+	<Word id="w187">
+	<Coords points="921,2266 977,2266 977,2294 921,2294"/>
+	<TextEquiv>
+	<Unicode>CA</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Burbank Boulevard, North Hollywood, CA</Unicode></TextEquiv></TextLine>
+	<TextLine id="l188">
+	<Coords points="688,2310 975,2310 975,2337 882,2337 882,2338 835,2338 835,2346 688,2346 688,2340 464,2340 464,2341 258,2341 258,2342 156,2342 156,2315 275,2315 275,2312 477,2312 477,2311 688,2311"/>
+	<Word id="w189">
+	<Coords points="156,2315 258,2315 258,2342 156,2342"/>
+	<TextEquiv>
+	<Unicode>91601.</Unicode></TextEquiv></Word>
+	<Word id="w190">
+	<Coords points="275,2312 464,2312 464,2341 275,2341"/>
+	<TextEquiv>
+	<Unicode>Controlled</Unicode></TextEquiv></Word>
+	<Word id="w191">
+	<Coords points="477,2311 674,2311 674,2340 477,2340"/>
+	<TextEquiv>
+	<Unicode>circulation</Unicode></TextEquiv></Word>
+	<Word id="w192">
+	<Coords points="688,2310 835,2310 835,2346 688,2346"/>
+	<TextEquiv>
+	<Unicode>pending</Unicode></TextEquiv></Word>
+	<Word id="w193">
+	<Coords points="847,2310 882,2310 882,2338 847,2338"/>
+	<TextEquiv>
+	<Unicode>at</Unicode></TextEquiv></Word>
+	<Word id="w194">
+	<Coords points="896,2310 975,2310 975,2337 896,2337"/>
+	<TextEquiv>
+	<Unicode>Bur-</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>91601. Controlled circulation pending at Bur-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l195">
+	<Coords points="157,2356 341,2356 341,2384 257,2384 257,2388 157,2388"/>
+	<Word id="w196">
+	<Coords points="157,2356 257,2356 257,2388 157,2388"/>
+	<TextEquiv>
+	<Unicode>bank,</Unicode></TextEquiv></Word>
+	<Word id="w197">
+	<Coords points="276,2356 341,2356 341,2384 276,2384"/>
+	<TextEquiv>
+	<Unicode>CA.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>bank, CA.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>SOFTALK is published monthly for $12.00
+per year by Softalk Publishing Inc., 10432
+Burbank Boulevard, North Hollywood, CA
+91601. Controlled circulation pending at Bur-
+bank, CA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r198" type="paragraph">
+	<Coords points="911,2409 976,2409 976,2452 977,2452 977,2487 869,2487 869,2482 734,2482 734,2486 453,2486 453,2527 262,2527 262,2532 157,2532 157,2489 156,2489 156,2457 157,2457 157,2413 413,2413 413,2412 521,2412 521,2411 854,2411 854,2410 911,2410"/>
+	<TextLine id="l199">
+	<Coords points="911,2409 976,2409 976,2438 833,2438 833,2446 685,2446 685,2440 384,2440 384,2441 157,2441 157,2413 413,2413 413,2412 521,2412 521,2411 854,2411 854,2410 911,2410"/>
+	<Word id="w200">
+	<Coords points="157,2413 384,2413 384,2441 157,2441"/>
+	<TextEquiv>
+	<Unicode>Postmaster:</Unicode></TextEquiv></Word>
+	<Word id="w201">
+	<Coords points="413,2412 499,2412 499,2440 413,2440"/>
+	<TextEquiv>
+	<Unicode>Send</Unicode></TextEquiv></Word>
+	<Word id="w202">
+	<Coords points="521,2411 662,2411 662,2440 521,2440"/>
+	<TextEquiv>
+	<Unicode>address</Unicode></TextEquiv></Word>
+	<Word id="w203">
+	<Coords points="685,2411 833,2411 833,2446 685,2446"/>
+	<TextEquiv>
+	<Unicode>changes</Unicode></TextEquiv></Word>
+	<Word id="w204">
+	<Coords points="854,2410 888,2410 888,2438 854,2438"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="w205">
+	<Coords points="911,2409 976,2409 976,2438 911,2438"/>
+	<TextEquiv>
+	<Unicode>Sof-</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Postmaster: Send address changes to Sof-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l206">
+	<Coords points="869,2452 977,2452 977,2487 869,2487 869,2482 734,2482 734,2486 532,2486 532,2484 238,2484 238,2489 156,2489 156,2457 359,2457 359,2455 532,2455 532,2454 749,2454 749,2453 869,2453"/>
+	<Word id="w207">
+	<Coords points="156,2457 238,2457 238,2489 156,2489"/>
+	<TextEquiv>
+	<Unicode>talk,</Unicode></TextEquiv></Word>
+	<Word id="w208">
+	<Coords points="254,2457 344,2457 344,2484 254,2484"/>
+	<TextEquiv>
+	<Unicode>10432</Unicode></TextEquiv></Word>
+	<Word id="w209">
+	<Coords points="359,2455 519,2455 519,2484 359,2484"/>
+	<TextEquiv>
+	<Unicode>Burbank</Unicode></TextEquiv></Word>
+	<Word id="w210">
+	<Coords points="532,2454 734,2454 734,2486 532,2486"/>
+	<TextEquiv>
+	<Unicode>Boulevard,</Unicode></TextEquiv></Word>
+	<Word id="w211">
+	<Coords points="749,2453 855,2453 855,2482 749,2482"/>
+	<TextEquiv>
+	<Unicode>North</Unicode></TextEquiv></Word>
+	<Word id="w212">
+	<Coords points="869,2452 977,2452 977,2487 869,2487"/>
+	<TextEquiv>
+	<Unicode>Holly-</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>talk, 10432 Burbank Boulevard, North Holly-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l213">
+	<Coords points="281,2499 336,2499 336,2500 453,2500 453,2527 262,2527 262,2532 157,2532 157,2500 281,2500"/>
+	<Word id="w214">
+	<Coords points="157,2500 262,2500 262,2532 157,2532"/>
+	<TextEquiv>
+	<Unicode>wood,</Unicode></TextEquiv></Word>
+	<Word id="w215">
+	<Coords points="281,2499 336,2499 336,2527 281,2527"/>
+	<TextEquiv>
+	<Unicode>CA</Unicode></TextEquiv></Word>
+	<Word id="w216">
+	<Coords points="352,2500 453,2500 453,2527 352,2527"/>
+	<TextEquiv>
+	<Unicode>91601.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>wood, CA 91601.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Postmaster: Send address changes to Sof-
+talk, 10432 Burbank Boulevard, North Holly-
+wood, CA 91601.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r217" type="paragraph">
+	<Coords points="2220,196 2352,196 2352,256 2512,256 2512,340 2352,340 2352,344 2220,344 2220,320 1628,320 1628,348 1572,348 1572,320 1404,320 1404,200 2220,200"/>
+	<TextLine id="l218">
+	<Coords points="2220,196 2352,196 2352,256 2512,256 2512,340 2352,340 2352,344 2220,344 2220,320 1628,320 1628,348 1572,348 1572,320 1404,320 1404,200 2220,200"/>
+	<Word id="w219">
+	<Coords points="1404,200 1460,200 1460,320 1404,320"/>
+	<TextEquiv>
+	<Unicode>A</Unicode></TextEquiv></Word>
+	<Word id="w220">
+	<Coords points="1572,200 1628,200 1628,348 1572,348"/>
+	<TextEquiv>
+	<Unicode>B</Unicode></TextEquiv></Word>
+	<Word id="w221">
+	<Coords points="1740,200 1756,200 1756,320 1740,320"/>
+	<TextEquiv>
+	<Unicode>I</Unicode></TextEquiv></Word>
+	<Word id="w222">
+	<Coords points="1896,200 1948,200 1948,320 1896,320"/>
+	<TextEquiv>
+	<Unicode>E</Unicode></TextEquiv></Word>
+	<Word id="w223">
+	<Coords points="2220,196 2352,196 2352,344 2220,344"/>
+	<TextEquiv>
+	<Unicode>D</Unicode></TextEquiv></Word>
+	<Word id="w224">
+	<Coords points="2420,256 2512,256 2512,340 2420,340"/>
+	<TextEquiv>
+	<Unicode>±</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>A B I E D ±</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>A B I E D ±</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r225" type="paragraph">
+	<Coords points="1228,452 2516,452 2516,596 1228,596"/>
+	<TextLine id="l226">
+	<Coords points="1228,452 2516,452 2516,596 1228,596"/>
+	<Word id="w227">
+	<Coords points="1228,452 2516,452 2516,596 1228,596"/>
+	<TextEquiv>
+	<Unicode>CONTENTS</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>CONTENTS</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>CONTENTS</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r228" type="paragraph">
+	<Coords points="1440,761 1579,761 1579,802 1412,802 1412,803 1280,803 1280,816 1134,816 1134,805 1010,805 1010,768 1134,768 1134,763 1440,763"/>
+	<TextLine id="l229">
+	<Coords points="1440,761 1579,761 1579,802 1412,802 1412,803 1280,803 1280,816 1134,816 1134,805 1010,805 1010,768 1134,768 1134,763 1440,763"/>
+	<Word id="w230">
+	<Coords points="1010,768 1107,768 1107,805 1010,805"/>
+	<TextEquiv>
+	<Unicode>Exec</Unicode></TextEquiv></Word>
+	<Word id="w231">
+	<Coords points="1134,763 1280,763 1280,816 1134,816"/>
+	<TextEquiv>
+	<Unicode>Apple:</Unicode></TextEquiv></Word>
+	<Word id="w232">
+	<Coords points="1308,763 1412,763 1412,803 1308,803"/>
+	<TextEquiv>
+	<Unicode>John</Unicode></TextEquiv></Word>
+	<Word id="w233">
+	<Coords points="1440,761 1579,761 1579,802 1440,802"/>
+	<TextEquiv>
+	<Unicode>Couch</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Exec Apple: John Couch</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Exec Apple: John Couch</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r234" type="paragraph">
+	<Coords points="1898,847 1922,847 1922,848 2080,848 2080,878 1967,878 1967,915 1789,915 1789,917 1637,917 1637,918 1489,918 1489,926 1400,926 1400,919 1227,919 1227,926 1140,926 1140,884 1139,884 1139,850 1267,850 1267,849 1486,849 1486,848 1660,848 1660,850 1898,850"/>
+	<TextLine id="l235">
+	<Coords points="1898,847 1922,847 1922,848 2080,848 2080,878 1880,878 1880,880 1753,880 1753,874 1468,874 1468,883 1441,883 1441,876 1249,876 1249,884 1139,884 1139,850 1267,850 1267,849 1486,849 1486,848 1660,848 1660,850 1898,850"/>
+	<Word id="w236">
+	<Coords points="1139,850 1249,850 1249,884 1139,884"/>
+	<TextEquiv>
+	<Unicode>Apple's</Unicode></TextEquiv></Word>
+	<Word id="w237">
+	<Coords points="1267,849 1397,849 1397,876 1267,876"/>
+	<TextEquiv>
+	<Unicode>software</Unicode></TextEquiv></Word>
+	<Word id="w238">
+	<Coords points="1416,859 1437,859 1437,875 1416,875"/>
+	<TextEquiv>
+	<Unicode>v.</Unicode></TextEquiv></Word>
+	<Word id="w239">
+	<Coords points="1441,859 1468,859 1468,883 1441,883"/>
+	<TextEquiv>
+	<Unicode>p.</Unicode></TextEquiv></Word>
+	<Word id="w240">
+	<Coords points="1486,848 1553,848 1553,874 1486,874"/>
+	<TextEquiv>
+	<Unicode>talks</Unicode></TextEquiv></Word>
+	<Word id="w241">
+	<Coords points="1571,848 1660,848 1660,874 1571,874"/>
+	<TextEquiv>
+	<Unicode>about</Unicode></TextEquiv></Word>
+	<Word id="w242">
+	<Coords points="1676,857 1736,857 1736,873 1676,873"/>
+	<TextEquiv>
+	<Unicode>new</Unicode></TextEquiv></Word>
+	<Word id="w243">
+	<Coords points="1753,850 1880,850 1880,880 1753,880"/>
+	<TextEquiv>
+	<Unicode>concepts</Unicode></TextEquiv></Word>
+	<Word id="w244">
+	<Coords points="1898,847 1922,847 1922,871 1898,871"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="w245">
+	<Coords points="1940,848 2080,848 2080,878 1940,878"/>
+	<TextEquiv>
+	<Unicode>computer</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Apple's software v. p. talks about new concepts in computer</Unicode></TextEquiv></TextLine>
+	<TextLine id="l246">
+	<Coords points="1887,888 1967,888 1967,915 1789,915 1789,917 1637,917 1637,918 1489,918 1489,926 1400,926 1400,919 1227,919 1227,926 1140,926 1140,903 1246,903 1246,893 1321,893 1321,892 1507,892 1507,891 1657,891 1657,890 1808,890 1808,889 1887,889"/>
+	<Word id="w247">
+	<Coords points="1140,903 1227,903 1227,926 1140,926"/>
+	<TextEquiv>
+	<Unicode>usage</Unicode></TextEquiv></Word>
+	<Word id="w248">
+	<Coords points="1246,893 1303,893 1303,919 1246,919"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="w249">
+	<Coords points="1321,892 1382,892 1382,919 1321,919"/>
+	<TextEquiv>
+	<Unicode>how</Unicode></TextEquiv></Word>
+	<Word id="w250">
+	<Coords points="1400,892 1489,892 1489,926 1400,926"/>
+	<TextEquiv>
+	<Unicode>Apple</Unicode></TextEquiv></Word>
+	<Word id="w251">
+	<Coords points="1507,891 1637,891 1637,918 1507,918"/>
+	<TextEquiv>
+	<Unicode>software</Unicode></TextEquiv></Word>
+	<Word id="w252">
+	<Coords points="1657,890 1706,890 1706,917 1657,917"/>
+	<TextEquiv>
+	<Unicode>will</Unicode></TextEquiv></Word>
+	<Word id="w253">
+	<Coords points="1724,890 1789,890 1789,917 1724,917"/>
+	<TextEquiv>
+	<Unicode>deal</Unicode></TextEquiv></Word>
+	<Word id="w254">
+	<Coords points="1808,889 1867,889 1867,915 1808,915"/>
+	<TextEquiv>
+	<Unicode>with</Unicode></TextEquiv></Word>
+	<Word id="w255">
+	<Coords points="1887,888 1967,888 1967,915 1887,915"/>
+	<TextEquiv>
+	<Unicode>them.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>usage and how Apple software will deal with them.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Apple's software v. p. talks about new concepts in computer
+usage and how Apple software will deal with them.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r256" type="paragraph">
+	<Coords points="1324,949 1616,949 1616,988 1295,988 1295,989 1143,989 1143,951 1324,951"/>
+	<TextLine id="l257">
+	<Coords points="1324,949 1616,949 1616,988 1295,988 1295,989 1143,989 1143,951 1324,951"/>
+	<Word id="w258">
+	<Coords points="1143,951 1295,951 1295,989 1143,989"/>
+	<TextEquiv>
+	<Unicode>ALLAN</Unicode></TextEquiv></Word>
+	<Word id="w259">
+	<Coords points="1324,949 1616,949 1616,988 1324,988"/>
+	<TextEquiv>
+	<Unicode>TOMMERVIK</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>ALLAN TOMMERVIK</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>ALLAN TOMMERVIK</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r260" type="paragraph">
+	<Coords points="1206,1147 1429,1147 1429,1186 1298,1186 1298,1188 1177,1188 1177,1199 1007,1199 1007,1149 1206,1149"/>
+	<TextLine id="l261">
+	<Coords points="1206,1147 1429,1147 1429,1186 1298,1186 1298,1188 1177,1188 1177,1199 1007,1199 1007,1149 1206,1149"/>
+	<Word id="w262">
+	<Coords points="1007,1149 1177,1149 1177,1199 1007,1199"/>
+	<TextEquiv>
+	<Unicode>Dealing</Unicode></TextEquiv></Word>
+	<Word id="w263">
+	<Coords points="1206,1147 1298,1147 1298,1188 1206,1188"/>
+	<TextEquiv>
+	<Unicode>with</Unicode></TextEquiv></Word>
+	<Word id="w264">
+	<Coords points="1328,1147 1429,1147 1429,1186 1328,1186"/>
+	<TextEquiv>
+	<Unicode>DOS</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Dealing with DOS</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Dealing with DOS</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r265" type="paragraph">
+	<Coords points="1779,1226 1922,1226 1922,1234 2084,1234 2084,1259 2077,1259 2077,1295 1935,1295 1935,1302 1766,1302 1766,1297 1622,1297 1622,1305 1556,1305 1556,1306 1504,1306 1504,1302 1366,1302 1366,1299 1220,1299 1220,1300 1144,1300 1144,1230 1284,1230 1284,1231 1399,1231 1399,1229 1474,1229 1474,1228 1627,1228 1627,1227 1779,1227"/>
+	<TextLine id="l266">
+	<Coords points="1779,1226 1922,1226 1922,1234 2084,1234 2084,1259 1763,1259 1763,1261 1627,1261 1627,1255 1381,1255 1381,1256 1284,1256 1284,1264 1144,1264 1144,1230 1284,1230 1284,1231 1399,1231 1399,1229 1474,1229 1474,1228 1627,1228 1627,1227 1779,1227"/>
+	<Word id="w267">
+	<Coords points="1144,1230 1284,1230 1284,1264 1144,1264"/>
+	<TextEquiv>
+	<Unicode>Assembly</Unicode></TextEquiv></Word>
+	<Word id="w268">
+	<Coords points="1301,1231 1381,1231 1381,1256 1301,1256"/>
+	<TextEquiv>
+	<Unicode>Lines:</Unicode></TextEquiv></Word>
+	<Word id="w269">
+	<Coords points="1399,1229 1457,1229 1457,1255 1399,1255"/>
+	<TextEquiv>
+	<Unicode>Disk</Unicode></TextEquiv></Word>
+	<Word id="w270">
+	<Coords points="1474,1228 1567,1228 1567,1255 1474,1255"/>
+	<TextEquiv>
+	<Unicode>snafus</Unicode></TextEquiv></Word>
+	<Word id="w271">
+	<Coords points="1585,1230 1608,1230 1608,1254 1585,1254"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="w272">
+	<Coords points="1627,1227 1763,1227 1763,1261 1627,1261"/>
+	<TextEquiv>
+	<Unicode>assembly</Unicode></TextEquiv></Word>
+	<Word id="w273">
+	<Coords points="1779,1226 1922,1226 1922,1259 1779,1259"/>
+	<TextEquiv>
+	<Unicode>language</Unicode></TextEquiv></Word>
+	<Word id="w274">
+	<Coords points="1938,1234 2084,1234 2084,1259 1938,1259"/>
+	<TextEquiv>
+	<Unicode>programs</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Assembly Lines: Disk snafus in assembly language programs</Unicode></TextEquiv></TextLine>
+	<TextLine id="l275">
+	<Coords points="1952,1268 2077,1268 2077,1295 1935,1295 1935,1302 1766,1302 1766,1297 1622,1297 1622,1305 1556,1305 1556,1306 1504,1306 1504,1302 1366,1302 1366,1299 1220,1299 1220,1300 1144,1300 1144,1274 1236,1274 1236,1273 1306,1273 1306,1277 1349,1277 1349,1283 1470,1283 1470,1272 1490,1272 1490,1273 1637,1273 1637,1271 1766,1271 1766,1269 1952,1269"/>
+	<Word id="w276">
+	<Coords points="1144,1274 1220,1274 1220,1300 1144,1300"/>
+	<TextEquiv>
+	<Unicode>don't</Unicode></TextEquiv></Word>
+	<Word id="w277">
+	<Coords points="1236,1273 1306,1273 1306,1299 1236,1299"/>
+	<TextEquiv>
+	<Unicode>have</Unicode></TextEquiv></Word>
+	<Word id="w278">
+	<Coords points="1322,1277 1349,1277 1349,1299 1322,1299"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="w279">
+	<Coords points="1366,1283 1455,1283 1455,1302 1366,1302"/>
+	<TextEquiv>
+	<Unicode>occur,</Unicode></TextEquiv></Word>
+	<Word id="w280">
+	<Coords points="1470,1272 1490,1272 1490,1298 1470,1298"/>
+	<TextEquiv>
+	<Unicode>if</Unicode></TextEquiv></Word>
+	<Word id="w281">
+	<Coords points="1504,1282 1556,1282 1556,1306 1504,1306"/>
+	<TextEquiv>
+	<Unicode>you</Unicode></TextEquiv></Word>
+	<Word id="w282">
+	<Coords points="1572,1273 1622,1273 1622,1305 1572,1305"/>
+	<TextEquiv>
+	<Unicode>just</Unicode></TextEquiv></Word>
+	<Word id="w283">
+	<Coords points="1637,1271 1715,1271 1715,1297 1637,1297"/>
+	<TextEquiv>
+	<Unicode>leave</Unicode></TextEquiv></Word>
+	<Word id="w284">
+	<Coords points="1732,1280 1748,1280 1748,1296 1732,1296"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="w285">
+	<Coords points="1766,1269 1935,1269 1935,1302 1766,1302"/>
+	<TextEquiv>
+	<Unicode>forwarding</Unicode></TextEquiv></Word>
+	<Word id="w286">
+	<Coords points="1952,1268 2077,1268 2077,1295 1952,1295"/>
+	<TextEquiv>
+	<Unicode>address.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>don't have to occur, if you just leave a forwarding address.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Assembly Lines: Disk snafus in assembly language programs
+don't have to occur, if you just leave a forwarding address.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r287" type="paragraph">
+	<Coords points="1257,1328 1424,1328 1424,1366 1229,1366 1229,1368 1144,1368 1144,1330 1257,1330"/>
+	<TextLine id="l288">
+	<Coords points="1257,1328 1424,1328 1424,1366 1229,1366 1229,1368 1144,1368 1144,1330 1257,1330"/>
+	<Word id="w289">
+	<Coords points="1144,1330 1229,1330 1229,1368 1144,1368"/>
+	<TextEquiv>
+	<Unicode>BILL</Unicode></TextEquiv></Word>
+	<Word id="w290">
+	<Coords points="1257,1328 1424,1328 1424,1366 1257,1366"/>
+	<TextEquiv>
+	<Unicode>DEPEW</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>BILL DEPEW</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>BILL DEPEW</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r291" type="paragraph">
+	<Coords points="1760,1521 1863,1521 1863,1561 1730,1561 1730,1562 1576,1562 1576,1576 1423,1576 1423,1564 1301,1564 1301,1577 1151,1577 1151,1578 1017,1578 1017,1522 1151,1522 1151,1525 1327,1525 1327,1524 1394,1524 1394,1526 1603,1526 1603,1522 1760,1522"/>
+	<TextLine id="l292">
+	<Coords points="1760,1521 1863,1521 1863,1561 1730,1561 1730,1562 1576,1562 1576,1576 1423,1576 1423,1564 1301,1564 1301,1577 1151,1577 1151,1578 1017,1578 1017,1522 1151,1522 1151,1525 1327,1525 1327,1524 1394,1524 1394,1526 1603,1526 1603,1522 1760,1522"/>
+	<Word id="w293">
+	<Coords points="1017,1522 1151,1522 1151,1578 1017,1578"/>
+	<TextEquiv>
+	<Unicode>Apple</Unicode></TextEquiv></Word>
+	<Word id="w294">
+	<Coords points="1180,1525 1301,1525 1301,1577 1180,1577"/>
+	<TextEquiv>
+	<Unicode>Helps</Unicode></TextEquiv></Word>
+	<Word id="w295">
+	<Coords points="1327,1524 1394,1524 1394,1564 1327,1564"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="w296">
+	<Coords points="1423,1526 1576,1526 1576,1576 1423,1576"/>
+	<TextEquiv>
+	<Unicode>Empire</Unicode></TextEquiv></Word>
+	<Word id="w297">
+	<Coords points="1603,1522 1730,1522 1730,1562 1603,1562"/>
+	<TextEquiv>
+	<Unicode>Strike</Unicode></TextEquiv></Word>
+	<Word id="w298">
+	<Coords points="1760,1521 1863,1521 1863,1561 1760,1561"/>
+	<TextEquiv>
+	<Unicode>Back</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Apple Helps the Empire Strike Back</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Apple Helps the Empire Strike Back</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r299" type="paragraph">
+	<Coords points="2055,1609 2085,1609 2085,1635 2053,1635 2053,1690 1955,1690 1955,1684 1767,1684 1767,1685 1516,1685 1516,1693 1337,1693 1337,1690 1236,1690 1236,1687 1147,1687 1147,1642 1145,1642 1145,1615 1210,1615 1210,1614 1506,1614 1506,1612 1706,1612 1706,1611 1749,1611 1749,1613 1880,1613 1880,1612 1898,1612 1898,1614 2055,1614"/>
+	<TextLine id="l300">
+	<Coords points="2055,1609 2085,1609 2085,1635 2042,1635 2042,1636 1898,1636 1898,1637 1749,1637 1749,1638 1619,1638 1619,1646 1492,1646 1492,1648 1393,1648 1393,1642 1145,1642 1145,1615 1210,1615 1210,1614 1506,1614 1506,1612 1706,1612 1706,1611 1749,1611 1749,1613 1880,1613 1880,1612 1898,1612 1898,1614 2055,1614"/>
+	<Word id="w301">
+	<Coords points="1145,1615 1194,1615 1194,1642 1145,1642"/>
+	<TextEquiv>
+	<Unicode>The</Unicode></TextEquiv></Word>
+	<Word id="w302">
+	<Coords points="1210,1614 1378,1614 1378,1642 1210,1642"/>
+	<TextEquiv>
+	<Unicode>Celebrated</Unicode></TextEquiv></Word>
+	<Word id="w303">
+	<Coords points="1393,1614 1492,1614 1492,1648 1393,1648"/>
+	<TextEquiv>
+	<Unicode>Apple:</Unicode></TextEquiv></Word>
+	<Word id="w304">
+	<Coords points="1506,1612 1619,1612 1619,1646 1506,1646"/>
+	<TextEquiv>
+	<Unicode>Making</Unicode></TextEquiv></Word>
+	<Word id="w305">
+	<Coords points="1635,1614 1652,1614 1652,1638 1635,1638"/>
+	<TextEquiv>
+	<Unicode>it</Unicode></TextEquiv></Word>
+	<Word id="w306">
+	<Coords points="1667,1613 1690,1613 1690,1638 1667,1638"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="w307">
+	<Coords points="1706,1611 1749,1611 1749,1638 1706,1638"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="w308">
+	<Coords points="1765,1613 1864,1613 1864,1637 1765,1637"/>
+	<TextEquiv>
+	<Unicode>movies</Unicode></TextEquiv></Word>
+	<Word id="w309">
+	<Coords points="1880,1612 1898,1612 1898,1637 1880,1637"/>
+	<TextEquiv>
+	<Unicode>is</Unicode></TextEquiv></Word>
+	<Word id="w310">
+	<Coords points="1913,1620 1929,1620 1929,1636 1913,1636"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="w311">
+	<Coords points="1944,1614 2042,1614 2042,1636 1944,1636"/>
+	<TextEquiv>
+	<Unicode>matter</Unicode></TextEquiv></Word>
+	<Word id="w312">
+	<Coords points="2055,1609 2085,1609 2085,1635 2055,1635"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>The Celebrated Apple: Making it in the movies is a matter of</Unicode></TextEquiv></TextLine>
+	<TextLine id="l313">
+	<Coords points="1897,1656 2053,1656 2053,1690 1955,1690 1955,1684 1767,1684 1767,1685 1516,1685 1516,1693 1337,1693 1337,1690 1236,1690 1236,1687 1147,1687 1147,1661 1236,1661 1236,1660 1534,1660 1534,1659 1609,1659 1609,1658 1767,1658 1767,1667 1897,1667"/>
+	<Word id="w314">
+	<Coords points="1147,1661 1218,1661 1218,1687 1147,1687"/>
+	<TextEquiv>
+	<Unicode>hard</Unicode></TextEquiv></Word>
+	<Word id="w315">
+	<Coords points="1236,1660 1319,1660 1319,1690 1236,1690"/>
+	<TextEquiv>
+	<Unicode>work,</Unicode></TextEquiv></Word>
+	<Word id="w316">
+	<Coords points="1337,1660 1516,1660 1516,1693 1337,1693"/>
+	<TextEquiv>
+	<Unicode>intelligence,</Unicode></TextEquiv></Word>
+	<Word id="w317">
+	<Coords points="1534,1659 1592,1659 1592,1685 1534,1685"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="w318">
+	<Coords points="1609,1658 1767,1658 1767,1685 1609,1685"/>
+	<TextEquiv>
+	<Unicode>endurance</Unicode></TextEquiv></Word>
+	<Word id="w319">
+	<Coords points="1770,1674 1807,1674 1807,1676 1770,1676"/>
+	<TextEquiv>
+	<Unicode>—</Unicode></TextEquiv></Word>
+	<Word id="w320">
+	<Coords points="1810,1667 1876,1667 1876,1684 1810,1684"/>
+	<TextEquiv>
+	<Unicode>even</Unicode></TextEquiv></Word>
+	<Word id="w321">
+	<Coords points="1897,1656 1938,1656 1938,1683 1897,1683"/>
+	<TextEquiv>
+	<Unicode>for</Unicode></TextEquiv></Word>
+	<Word id="w322">
+	<Coords points="1955,1656 2053,1656 2053,1690 1955,1690"/>
+	<TextEquiv>
+	<Unicode>Apple.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>hard work, intelligence, and endurance — even for Apple.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>The Celebrated Apple: Making it in the movies is a matter of
+hard work, intelligence, and endurance — even for Apple.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r323" type="paragraph">
+	<Coords points="1389,1713 1623,1713 1623,1752 1359,1752 1359,1754 1147,1754 1147,1715 1389,1715"/>
+	<TextLine id="l324">
+	<Coords points="1389,1713 1623,1713 1623,1752 1359,1752 1359,1754 1147,1754 1147,1715 1389,1715"/>
+	<Word id="w325">
+	<Coords points="1147,1715 1359,1715 1359,1754 1147,1754"/>
+	<TextEquiv>
+	<Unicode>RICHARD</Unicode></TextEquiv></Word>
+	<Word id="w326">
+	<Coords points="1389,1713 1623,1713 1623,1752 1389,1752"/>
+	<TextEquiv>
+	<Unicode>KNUDSEN</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>RICHARD KNUDSEN</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>RICHARD KNUDSEN</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r327" type="paragraph">
+	<Coords points="1508,1864 1758,1864 1758,1865 2038,1865 2038,1903 1812,1903 1812,1904 1758,1904 1758,1917 1508,1917 1508,1906 1347,1906 1347,1908 1221,1908 1221,1909 1128,1909 1128,1910 1015,1910 1015,1871 1154,1871 1154,1869 1221,1869 1221,1870 1374,1870 1374,1867 1508,1867"/>
+	<TextLine id="l328">
+	<Coords points="1508,1864 1758,1864 1758,1865 2038,1865 2038,1903 1812,1903 1812,1904 1758,1904 1758,1917 1508,1917 1508,1906 1347,1906 1347,1908 1221,1908 1221,1909 1128,1909 1128,1910 1015,1910 1015,1871 1154,1871 1154,1869 1221,1869 1221,1870 1374,1870 1374,1867 1508,1867"/>
+	<Word id="w329">
+	<Coords points="1015,1871 1128,1871 1128,1910 1015,1910"/>
+	<TextEquiv>
+	<Unicode>Meet</Unicode></TextEquiv></Word>
+	<Word id="w330">
+	<Coords points="1154,1869 1221,1869 1221,1909 1154,1909"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="w331">
+	<Coords points="1247,1870 1347,1870 1347,1908 1247,1908"/>
+	<TextEquiv>
+	<Unicode>Man</Unicode></TextEquiv></Word>
+	<Word id="w332">
+	<Coords points="1374,1867 1481,1867 1481,1906 1374,1906"/>
+	<TextEquiv>
+	<Unicode>Who</Unicode></TextEquiv></Word>
+	<Word id="w333">
+	<Coords points="1508,1864 1758,1864 1758,1917 1508,1917"/>
+	<TextEquiv>
+	<Unicode>Conquered</Unicode></TextEquiv></Word>
+	<Word id="w334">
+	<Coords points="1787,1879 1812,1879 1812,1904 1787,1904"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="w335">
+	<Coords points="1841,1865 2038,1865 2038,1903 1841,1903"/>
+	<TextEquiv>
+	<Unicode>Contract</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Meet the Man Who Conquered a Contract</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Meet the Man Who Conquered a Contract</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r336" type="paragraph">
+	<Coords points="1987,1945 2085,1945 2085,1990 2086,1990 2086,2016 2033,2016 2033,2018 1828,2018 1828,2019 1714,2019 1714,2028 1422,2028 1422,2074 1144,2074 1144,1999 1145,1999 1145,1952 1282,1952 1282,1950 1468,1950 1468,1949 1683,1949 1683,1948 1777,1948 1777,1949 1928,1949 1928,1946 1987,1946"/>
+	<TextLine id="l337">
+	<Coords points="1987,1945 2085,1945 2085,1980 1915,1980 1915,1982 1789,1982 1789,1981 1683,1981 1683,1977 1267,1977 1267,1978 1145,1978 1145,1952 1282,1952 1282,1950 1468,1950 1468,1949 1683,1949 1683,1948 1777,1948 1777,1949 1928,1949 1928,1946 1987,1946"/>
+	<Word id="w338">
+	<Coords points="1145,1952 1223,1952 1223,1978 1145,1978"/>
+	<TextEquiv>
+	<Unicode>Ideas</Unicode></TextEquiv></Word>
+	<Word id="w339">
+	<Coords points="1238,1956 1267,1956 1267,1978 1238,1978"/>
+	<TextEquiv>
+	<Unicode>at</Unicode></TextEquiv></Word>
+	<Word id="w340">
+	<Coords points="1282,1950 1372,1950 1372,1977 1282,1977"/>
+	<TextEquiv>
+	<Unicode>Work:</Unicode></TextEquiv></Word>
+	<Word id="w341">
+	<Coords points="1384,1951 1452,1951 1452,1977 1384,1977"/>
+	<TextEquiv>
+	<Unicode>Alan</Unicode></TextEquiv></Word>
+	<Word id="w342">
+	<Coords points="1468,1949 1584,1949 1584,1977 1468,1977"/>
+	<TextEquiv>
+	<Unicode>Gornick</Unicode></TextEquiv></Word>
+	<Word id="w343">
+	<Coords points="1598,1949 1669,1949 1669,1975 1598,1975"/>
+	<TextEquiv>
+	<Unicode>loves</Unicode></TextEquiv></Word>
+	<Word id="w344">
+	<Coords points="1683,1948 1777,1948 1777,1981 1683,1981"/>
+	<TextEquiv>
+	<Unicode>taking</Unicode></TextEquiv></Word>
+	<Word id="w345">
+	<Coords points="1789,1949 1915,1949 1915,1982 1789,1982"/>
+	<TextEquiv>
+	<Unicode>pictures,</Unicode></TextEquiv></Word>
+	<Word id="w346">
+	<Coords points="1928,1946 1976,1946 1976,1973 1928,1973"/>
+	<TextEquiv>
+	<Unicode>but</Unicode></TextEquiv></Word>
+	<Word id="w347">
+	<Coords points="1987,1945 2085,1945 2085,1980 1987,1980"/>
+	<TextEquiv>
+	<Unicode>spend-</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Ideas at Work: Alan Gornick loves taking pictures, but spend-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l348">
+	<Coords points="2054,1990 2086,1990 2086,2016 2033,2016 2033,2018 1828,2018 1828,2019 1714,2019 1714,2028 1374,2028 1374,2030 1306,2030 1306,2022 1189,2022 1189,2030 1144,2030 1144,1999 1211,1999 1211,1996 1397,1996 1397,1995 1606,1995 1606,1993 1848,1993 1848,1991 1931,1991 1931,1992 2054,1992"/>
+	<Word id="w349">
+	<Coords points="1144,1999 1189,1999 1189,2030 1144,2030"/>
+	<TextEquiv>
+	<Unicode>ing</Unicode></TextEquiv></Word>
+	<Word id="w350">
+	<Coords points="1211,1996 1285,1996 1285,2022 1211,2022"/>
+	<TextEquiv>
+	<Unicode>three</Unicode></TextEquiv></Word>
+	<Word id="w351">
+	<Coords points="1306,1996 1374,1996 1374,2030 1306,2030"/>
+	<TextEquiv>
+	<Unicode>days</Unicode></TextEquiv></Word>
+	<Word id="w352">
+	<Coords points="1397,1995 1513,1995 1513,2028 1397,2028"/>
+	<TextEquiv>
+	<Unicode>figuring</Unicode></TextEquiv></Word>
+	<Word id="w353">
+	<Coords points="1534,2004 1587,2004 1587,2021 1534,2021"/>
+	<TextEquiv>
+	<Unicode>one</Unicode></TextEquiv></Word>
+	<Word id="w354">
+	<Coords points="1606,1993 1714,1993 1714,2028 1606,2028"/>
+	<TextEquiv>
+	<Unicode>payroll</Unicode></TextEquiv></Word>
+	<Word id="w355">
+	<Coords points="1733,1993 1828,1993 1828,2019 1733,2019"/>
+	<TextEquiv>
+	<Unicode>wasn't</Unicode></TextEquiv></Word>
+	<Word id="w356">
+	<Coords points="1848,1991 1931,1991 1931,2018 1848,2018"/>
+	<TextEquiv>
+	<Unicode>worth</Unicode></TextEquiv></Word>
+	<Word id="w357">
+	<Coords points="1952,1993 1977,1993 1977,2017 1952,2017"/>
+	<TextEquiv>
+	<Unicode>it.</Unicode></TextEquiv></Word>
+	<Word id="w358">
+	<Coords points="1999,1992 2033,1992 2033,2018 1999,2018"/>
+	<TextEquiv>
+	<Unicode>So</Unicode></TextEquiv></Word>
+	<Word id="w359">
+	<Coords points="2054,1990 2086,1990 2086,2016 2054,2016"/>
+	<TextEquiv>
+	<Unicode>he</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>ing three days figuring one payroll wasn't worth it. So he</Unicode></TextEquiv></TextLine>
+	<TextLine id="l360">
+	<Coords points="1324,2040 1422,2040 1422,2074 1144,2074 1144,2041 1324,2041"/>
+	<Word id="w361">
+	<Coords points="1144,2041 1252,2041 1252,2074 1144,2074"/>
+	<TextEquiv>
+	<Unicode>bought</Unicode></TextEquiv></Word>
+	<Word id="w362">
+	<Coords points="1270,2050 1305,2050 1305,2067 1270,2067"/>
+	<TextEquiv>
+	<Unicode>an</Unicode></TextEquiv></Word>
+	<Word id="w363">
+	<Coords points="1324,2040 1422,2040 1422,2074 1324,2074"/>
+	<TextEquiv>
+	<Unicode>Apple.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>bought an Apple.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Ideas at Work: Alan Gornick loves taking pictures, but spend-
+ing three days figuring one payroll wasn't worth it. So he
+bought an Apple.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r364" type="paragraph">
+	<Coords points="1327,2096 1620,2096 1620,2135 1299,2135 1299,2136 1146,2136 1146,2098 1327,2098"/>
+	<TextLine id="l365">
+	<Coords points="1327,2096 1620,2096 1620,2135 1299,2135 1299,2136 1146,2136 1146,2098 1327,2098"/>
+	<Word id="w366">
+	<Coords points="1146,2098 1299,2098 1299,2136 1146,2136"/>
+	<TextEquiv>
+	<Unicode>ALLAN</Unicode></TextEquiv></Word>
+	<Word id="w367">
+	<Coords points="1327,2096 1620,2096 1620,2135 1327,2135"/>
+	<TextEquiv>
+	<Unicode>TOMMERVIK</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>ALLAN TOMMERVIK</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>ALLAN TOMMERVIK</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r368" type="paragraph">
+	<Coords points="1373,2307 1452,2307 1452,2347 1346,2347 1346,2348 1230,2348 1230,2349 1090,2349 1090,2350 1013,2350 1013,2310 1090,2310 1090,2311 1257,2311 1257,2309 1373,2309"/>
+	<TextLine id="l369">
+	<Coords points="1373,2307 1452,2307 1452,2347 1346,2347 1346,2348 1230,2348 1230,2349 1090,2349 1090,2350 1013,2350 1013,2310 1090,2310 1090,2311 1257,2311 1257,2309 1373,2309"/>
+	<Word id="w370">
+	<Coords points="1013,2310 1090,2310 1090,2350 1013,2350"/>
+	<TextEquiv>
+	<Unicode>The</Unicode></TextEquiv></Word>
+	<Word id="w371">
+	<Coords points="1119,2311 1230,2311 1230,2349 1119,2349"/>
+	<TextEquiv>
+	<Unicode>Basic</Unicode></TextEquiv></Word>
+	<Word id="w372">
+	<Coords points="1257,2309 1346,2309 1346,2348 1257,2348"/>
+	<TextEquiv>
+	<Unicode>Con</Unicode></TextEquiv></Word>
+	<Word id="w373">
+	<Coords points="1373,2307 1452,2307 1452,2347 1373,2347"/>
+	<TextEquiv>
+	<Unicode>Job</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>The Basic Con Job</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>The Basic Con Job</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r374" type="paragraph">
+	<Coords points="1789,2382 1959,2382 1959,2392 2064,2392 2064,2385 2094,2385 2094,2407 2047,2407 2047,2416 1867,2416 1867,2453 1765,2453 1765,2461 1641,2461 1641,2462 1606,2462 1606,2454 1463,2454 1463,2455 1314,2455 1314,2456 1219,2456 1219,2457 1150,2457 1150,2429 1151,2429 1151,2385 1325,2385 1325,2386 1608,2386 1608,2383 1789,2383"/>
+	<TextLine id="l375">
+	<Coords points="1789,2382 1959,2382 1959,2392 2064,2392 2064,2385 2094,2385 2094,2407 2047,2407 2047,2416 1770,2416 1770,2417 1608,2417 1608,2411 1422,2411 1422,2419 1218,2419 1218,2412 1151,2412 1151,2385 1325,2385 1325,2386 1608,2386 1608,2383 1789,2383"/>
+	<Word id="w376">
+	<Coords points="1151,2385 1201,2385 1201,2412 1151,2412"/>
+	<TextEquiv>
+	<Unicode>The</Unicode></TextEquiv></Word>
+	<Word id="w377">
+	<Coords points="1218,2385 1325,2385 1325,2419 1218,2419"/>
+	<TextEquiv>
+	<Unicode>Logical</Unicode></TextEquiv></Word>
+	<Word id="w378">
+	<Coords points="1344,2386 1422,2386 1422,2419 1344,2419"/>
+	<TextEquiv>
+	<Unicode>Way:</Unicode></TextEquiv></Word>
+	<Word id="w379">
+	<Coords points="1438,2386 1590,2386 1590,2411 1438,2411"/>
+	<TextEquiv>
+	<Unicode>sometimes</Unicode></TextEquiv></Word>
+	<Word id="w380">
+	<Coords points="1608,2383 1770,2383 1770,2417 1608,2417"/>
+	<TextEquiv>
+	<Unicode>supersedes</Unicode></TextEquiv></Word>
+	<Word id="w381">
+	<Coords points="1789,2382 1832,2382 1832,2409 1789,2409"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="w382">
+	<Coords points="1852,2382 1959,2382 1959,2416 1852,2416"/>
+	<TextEquiv>
+	<Unicode>"legal"</Unicode></TextEquiv></Word>
+	<Word id="w383">
+	<Coords points="1976,2392 2047,2392 2047,2416 1976,2416"/>
+	<TextEquiv>
+	<Unicode>way,</Unicode></TextEquiv></Word>
+	<Word id="w384">
+	<Coords points="2064,2385 2094,2385 2094,2407 2064,2407"/>
+	<TextEquiv>
+	<Unicode>at</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>The Logical Way: sometimes supersedes the "legal" way, at</Unicode></TextEquiv></TextLine>
+	<TextLine id="l385">
+	<Coords points="1606,2427 1641,2427 1641,2429 1784,2429 1784,2428 1867,2428 1867,2453 1765,2453 1765,2461 1641,2461 1641,2462 1606,2462 1606,2454 1463,2454 1463,2455 1314,2455 1314,2456 1219,2456 1219,2457 1150,2457 1150,2429 1333,2429 1333,2428 1463,2428 1463,2432 1606,2432"/>
+	<Word id="w386">
+	<Coords points="1150,2429 1219,2429 1219,2457 1150,2457"/>
+	<TextEquiv>
+	<Unicode>least</Unicode></TextEquiv></Word>
+	<Word id="w387">
+	<Coords points="1238,2429 1314,2429 1314,2456 1238,2456"/>
+	<TextEquiv>
+	<Unicode>when</Unicode></TextEquiv></Word>
+	<Word id="w388">
+	<Coords points="1333,2428 1376,2428 1376,2455 1333,2455"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="w389">
+	<Coords points="1396,2428 1463,2428 1463,2455 1396,2455"/>
+	<TextEquiv>
+	<Unicode>rules</Unicode></TextEquiv></Word>
+	<Word id="w390">
+	<Coords points="1482,2438 1530,2438 1530,2454 1482,2454"/>
+	<TextEquiv>
+	<Unicode>are</Unicode></TextEquiv></Word>
+	<Word id="w391">
+	<Coords points="1548,2432 1588,2432 1588,2454 1548,2454"/>
+	<TextEquiv>
+	<Unicode>set</Unicode></TextEquiv></Word>
+	<Word id="w392">
+	<Coords points="1606,2427 1641,2427 1641,2462 1606,2462"/>
+	<TextEquiv>
+	<Unicode>by</Unicode></TextEquiv></Word>
+	<Word id="w393">
+	<Coords points="1660,2429 1765,2429 1765,2461 1660,2461"/>
+	<TextEquiv>
+	<Unicode>Integer</Unicode></TextEquiv></Word>
+	<Word id="w394">
+	<Coords points="1784,2428 1867,2428 1867,2453 1784,2453"/>
+	<TextEquiv>
+	<Unicode>Basic.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>least when the rules are set by Integer Basic.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>The Logical Way: sometimes supersedes the "legal" way, at
+least when the rules are set by Integer Basic.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r395" type="paragraph">
+	<Coords points="1252,2478 1505,2478 1505,2518 1151,2518 1151,2481 1252,2481"/>
+	<TextLine id="l396">
+	<Coords points="1252,2478 1505,2478 1505,2518 1151,2518 1151,2481 1252,2481"/>
+	<Word id="w397">
+	<Coords points="1151,2481 1221,2481 1221,2518 1151,2518"/>
+	<TextEquiv>
+	<Unicode>LEE</Unicode></TextEquiv></Word>
+	<Word id="w398">
+	<Coords points="1252,2478 1505,2478 1505,2518 1252,2518"/>
+	<TextEquiv>
+	<Unicode>REYNOLDS</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>LEE REYNOLDS</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>LEE REYNOLDS</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r399" type="paragraph">
+	<Coords points="174,2550 632,2550 632,2570 960,2570 960,2658 704,2658 704,2656 174,2656"/>
+	<TextLine id="l400">
+	<Coords points="174,2550 632,2550 632,2570 960,2570 960,2658 704,2658 704,2656 174,2656"/>
+	<Word id="w401">
+	<Coords points="174,2550 632,2550 632,2656 174,2656"/>
+	<TextEquiv>
+	<Unicode>advertiser's</Unicode></TextEquiv></Word>
+	<Word id="w402">
+	<Coords points="704,2570 960,2570 960,2658 704,2658"/>
+	<TextEquiv>
+	<Unicode>index</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>advertiser's index</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>advertiser's index</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r403" type="paragraph">
+	<Coords points="579,2683 974,2683 974,2713 818,2713 818,2723 579,2723 579,2716 362,2716 362,2718 156,2718 156,2685 579,2685"/>
+	<TextLine id="l404">
+	<Coords points="579,2683 974,2683 974,2713 818,2713 818,2723 579,2723 579,2716 362,2716 362,2718 156,2718 156,2685 579,2685"/>
+	<Word id="w405">
+	<Coords points="156,2685 362,2685 362,2718 156,2718"/>
+	<TextEquiv>
+	<Unicode>Advanced</Unicode></TextEquiv></Word>
+	<Word id="w406">
+	<Coords points="380,2685 560,2685 560,2716 380,2716"/>
+	<TextEquiv>
+	<Unicode>Business</Unicode></TextEquiv></Word>
+	<Word id="w407">
+	<Coords points="579,2683 818,2683 818,2723 579,2723"/>
+	<TextEquiv>
+	<Unicode>Technology</Unicode></TextEquiv></Word>
+	<Word id="w408">
+	<Coords points="933,2683 974,2683 974,2713 933,2713"/>
+	<TextEquiv>
+	<Unicode>25</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Advanced Business Technology 25</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Advanced Business Technology 25</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r409" type="paragraph">
+	<Coords points="934,2730 974,2730 974,2760 281,2760 281,2765 157,2765 157,2734 934,2734"/>
+	<TextLine id="l410">
+	<Coords points="934,2730 974,2730 974,2760 281,2760 281,2765 157,2765 157,2734 934,2734"/>
+	<Word id="w411">
+	<Coords points="157,2734 281,2734 281,2765 157,2765"/>
+	<TextEquiv>
+	<Unicode>Artsci</Unicode></TextEquiv></Word>
+	<Word id="w412">
+	<Coords points="934,2730 974,2730 974,2760 934,2760"/>
+	<TextEquiv>
+	<Unicode>26</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Artsci 26</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Artsci 26</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r413" type="paragraph">
+	<Coords points="816,2777 938,2777 938,2779 975,2779 975,2808 938,2808 938,2810 292,2810 292,2813 157,2813 157,2782 816,2782"/>
+	<TextLine id="l414">
+	<Coords points="816,2777 938,2777 938,2779 975,2779 975,2808 938,2808 938,2810 292,2810 292,2813 157,2813 157,2782 816,2782"/>
+	<Word id="w415">
+	<Coords points="157,2782 292,2782 292,2813 157,2813"/>
+	<TextEquiv>
+	<Unicode>Axiom</Unicode></TextEquiv></Word>
+	<Word id="w416">
+	<Coords points="816,2777 938,2777 938,2810 816,2810"/>
+	<TextEquiv>
+	<Unicode>Cover</Unicode></TextEquiv></Word>
+	<Word id="w417">
+	<Coords points="956,2779 975,2779 975,2808 956,2808"/>
+	<TextEquiv>
+	<Unicode>2</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Axiom Cover 2</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Axiom Cover 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r418" type="paragraph">
+	<Coords points="956,2827 974,2827 974,2857 715,2857 715,2867 501,2867 501,2869 279,2869 279,2862 157,2862 157,2830 279,2830 279,2828 956,2828"/>
+	<TextLine id="l419">
+	<Coords points="956,2827 974,2827 974,2857 715,2857 715,2867 501,2867 501,2869 279,2869 279,2862 157,2862 157,2830 279,2830 279,2828 956,2828"/>
+	<Word id="w420">
+	<Coords points="157,2830 260,2830 260,2862 157,2862"/>
+	<TextEquiv>
+	<Unicode>Book</Unicode></TextEquiv></Word>
+	<Word id="w421">
+	<Coords points="279,2828 501,2828 501,2869 279,2869"/>
+	<TextEquiv>
+	<Unicode>Publishing</Unicode></TextEquiv></Word>
+	<Word id="w422">
+	<Coords points="518,2828 715,2828 715,2867 518,2867"/>
+	<TextEquiv>
+	<Unicode>Company</Unicode></TextEquiv></Word>
+	<Word id="w423">
+	<Coords points="956,2827 974,2827 974,2857 956,2857"/>
+	<TextEquiv>
+	<Unicode>2</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Book Publishing Company 2</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Book Publishing Company 2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r424" type="paragraph">
+	<Coords points="957,2875 976,2875 976,2905 559,2905 559,2908 475,2908 475,2917 292,2917 292,2910 157,2910 157,2878 292,2878 292,2877 495,2877 495,2876 957,2876"/>
+	<TextLine id="l425">
+	<Coords points="957,2875 976,2875 976,2905 559,2905 559,2908 475,2908 475,2917 292,2917 292,2910 157,2910 157,2878 292,2878 292,2877 495,2877 495,2876 957,2876"/>
+	<Word id="w426">
+	<Coords points="157,2878 271,2878 271,2910 157,2910"/>
+	<TextEquiv>
+	<Unicode>Cavri</Unicode></TextEquiv></Word>
+	<Word id="w427">
+	<Coords points="292,2877 475,2877 475,2917 292,2917"/>
+	<TextEquiv>
+	<Unicode>Systems,</Unicode></TextEquiv></Word>
+	<Word id="w428">
+	<Coords points="495,2876 559,2876 559,2908 495,2908"/>
+	<TextEquiv>
+	<Unicode>Inc</Unicode></TextEquiv></Word>
+	<Word id="w429">
+	<Coords points="957,2875 976,2875 976,2905 957,2905"/>
+	<TextEquiv>
+	<Unicode>5</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Cavri Systems, Inc 5</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Cavri Systems, Inc 5</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r430" type="paragraph">
+	<Coords points="936,2923 977,2923 977,2954 849,2954 849,2962 711,2962 711,2955 525,2955 525,2957 364,2957 364,2966 158,2966 158,2927 383,2927 383,2925 543,2925 543,2924 936,2924"/>
+	<TextLine id="l431">
+	<Coords points="936,2923 977,2923 977,2954 849,2954 849,2962 711,2962 711,2955 525,2955 525,2957 364,2957 364,2966 158,2966 158,2927 383,2927 383,2925 543,2925 543,2924 936,2924"/>
+	<Word id="w432">
+	<Coords points="158,2927 364,2927 364,2966 158,2966"/>
+	<TextEquiv>
+	<Unicode>Computer</Unicode></TextEquiv></Word>
+	<Word id="w433">
+	<Coords points="383,2925 525,2925 525,2957 383,2957"/>
+	<TextEquiv>
+	<Unicode>Corner</Unicode></TextEquiv></Word>
+	<Word id="w434">
+	<Coords points="543,2924 581,2924 581,2955 543,2955"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="w435">
+	<Coords points="599,2924 692,2924 692,2955 599,2955"/>
+	<TextEquiv>
+	<Unicode>New</Unicode></TextEquiv></Word>
+	<Word id="w436">
+	<Coords points="711,2924 849,2924 849,2962 711,2962"/>
+	<TextEquiv>
+	<Unicode>Jersey</Unicode></TextEquiv></Word>
+	<Word id="w437">
+	<Coords points="873,2946 924,2946 924,2954 873,2954"/>
+	<TextEquiv>
+	<Unicode>...</Unicode></TextEquiv></Word>
+	<Word id="w438">
+	<Coords points="936,2923 977,2923 977,2954 936,2954"/>
+	<TextEquiv>
+	<Unicode>18</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Computer Corner of New Jersey ... 18</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Computer Corner of New Jersey ... 18</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r439" type="paragraph">
+	<Coords points="415,2972 976,2972 976,3001 595,3001 595,3005 395,3005 395,3006 159,3006 159,2973 415,2973"/>
+	<TextLine id="l440">
+	<Coords points="415,2972 976,2972 976,3001 595,3001 595,3005 395,3005 395,3006 159,3006 159,2973 415,2973"/>
+	<Word id="w441">
+	<Coords points="159,2973 395,2973 395,3006 159,3006"/>
+	<TextEquiv>
+	<Unicode>Continental</Unicode></TextEquiv></Word>
+	<Word id="w442">
+	<Coords points="415,2972 595,2972 595,3005 415,3005"/>
+	<TextEquiv>
+	<Unicode>Software</Unicode></TextEquiv></Word>
+	<Word id="w443">
+	<Coords points="937,2972 976,2972 976,3001 937,3001"/>
+	<TextEquiv>
+	<Unicode>11</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Continental Software 11</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Continental Software 11</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r444" type="paragraph">
+	<Coords points="958,3020 977,3020 977,3050 361,3050 361,3055 159,3055 159,3023 958,3023"/>
+	<TextLine id="l445">
+	<Coords points="958,3020 977,3020 977,3050 361,3050 361,3055 159,3055 159,3023 958,3023"/>
+	<Word id="w446">
+	<Coords points="159,3023 361,3023 361,3055 159,3055"/>
+	<TextEquiv>
+	<Unicode>Edu-ware</Unicode></TextEquiv></Word>
+	<Word id="w447">
+	<Coords points="958,3020 977,3020 977,3050 958,3050"/>
+	<TextEquiv>
+	<Unicode>9</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Edu-ware 9</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Edu-ware 9</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r448" type="paragraph">
+	<Coords points="938,3068 978,3068 978,3098 235,3098 235,3103 159,3103 159,3071 938,3071"/>
+	<TextLine id="l449">
+	<Coords points="938,3068 978,3068 978,3098 235,3098 235,3103 159,3103 159,3071 938,3071"/>
+	<Word id="w450">
+	<Coords points="159,3071 235,3071 235,3103 159,3103"/>
+	<TextEquiv>
+	<Unicode>FSI</Unicode></TextEquiv></Word>
+	<Word id="w451">
+	<Coords points="938,3068 978,3068 978,3098 938,3098"/>
+	<TextEquiv>
+	<Unicode>27</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>FSI 27</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>FSI 27</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r452" type="paragraph">
+	<Coords points="938,3116 978,3116 978,3146 421,3146 421,3150 160,3150 160,3117 938,3117"/>
+	<TextLine id="l453">
+	<Coords points="938,3116 978,3116 978,3146 421,3146 421,3150 160,3150 160,3117 938,3117"/>
+	<Word id="w454">
+	<Coords points="160,3117 421,3117 421,3150 160,3150"/>
+	<TextEquiv>
+	<Unicode>Futureworld</Unicode></TextEquiv></Word>
+	<Word id="w455">
+	<Coords points="938,3116 978,3116 978,3146 938,3146"/>
+	<TextEquiv>
+	<Unicode>25</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Futureworld 25</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Futureworld 25</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r456" type="paragraph">
+	<Coords points="820,3162 943,3162 943,3164 979,3164 979,3193 943,3193 943,3194 636,3194 636,3197 410,3197 410,3198 160,3198 160,3165 429,3165 429,3164 820,3164"/>
+	<TextLine id="l457">
+	<Coords points="820,3162 943,3162 943,3164 979,3164 979,3193 943,3193 943,3194 636,3194 636,3197 410,3197 410,3198 160,3198 160,3165 429,3165 429,3164 820,3164"/>
+	<Word id="w458">
+	<Coords points="160,3165 410,3165 410,3198 160,3198"/>
+	<TextEquiv>
+	<Unicode>Information</Unicode></TextEquiv></Word>
+	<Word id="w459">
+	<Coords points="429,3164 636,3164 636,3197 429,3197"/>
+	<TextEquiv>
+	<Unicode>Unlimited</Unicode></TextEquiv></Word>
+	<Word id="w460">
+	<Coords points="820,3162 943,3162 943,3194 820,3194"/>
+	<TextEquiv>
+	<Unicode>Cover</Unicode></TextEquiv></Word>
+	<Word id="w461">
+	<Coords points="961,3164 979,3164 979,3193 961,3193"/>
+	<TextEquiv>
+	<Unicode>3</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Information Unlimited Cover 3</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Information Unlimited Cover 3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r462" type="paragraph">
+	<Coords points="939,3212 979,3212 979,3241 270,3241 270,3247 161,3247 161,3216 939,3216"/>
+	<TextLine id="l463">
+	<Coords points="939,3212 979,3212 979,3241 270,3241 270,3247 161,3247 161,3216 939,3216"/>
+	<Word id="w464">
+	<Coords points="161,3216 270,3216 270,3247 161,3247"/>
+	<TextEquiv>
+	<Unicode>Muse</Unicode></TextEquiv></Word>
+	<Word id="w465">
+	<Coords points="939,3212 979,3212 979,3241 939,3241"/>
+	<TextEquiv>
+	<Unicode>12</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Muse 12</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Muse 12</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r466" type="paragraph">
+	<Coords points="868,3260 980,3260 980,3289 921,3289 921,3295 516,3295 516,3301 346,3301 346,3294 162,3294 162,3262 346,3262 346,3261 868,3261"/>
+	<TextLine id="l467">
+	<Coords points="868,3260 980,3260 980,3289 921,3289 921,3295 516,3295 516,3301 346,3301 346,3294 162,3294 162,3262 346,3262 346,3261 868,3261"/>
+	<Word id="w468">
+	<Coords points="162,3262 324,3262 324,3294 162,3294"/>
+	<TextEquiv>
+	<Unicode>On-Line</Unicode></TextEquiv></Word>
+	<Word id="w469">
+	<Coords points="346,3261 516,3261 516,3301 346,3301"/>
+	<TextEquiv>
+	<Unicode>Systems</Unicode></TextEquiv></Word>
+	<Word id="w470">
+	<Coords points="796,3261 849,3261 849,3295 796,3295"/>
+	<TextEquiv>
+	<Unicode>17,</Unicode></TextEquiv></Word>
+	<Word id="w471">
+	<Coords points="868,3260 921,3260 921,3295 868,3295"/>
+	<TextEquiv>
+	<Unicode>19,</Unicode></TextEquiv></Word>
+	<Word id="w472">
+	<Coords points="941,3260 980,3260 980,3289 941,3289"/>
+	<TextEquiv>
+	<Unicode>21</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>On-Line Systems 17, 19, 21</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>On-Line Systems 17, 19, 21</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r473" type="paragraph">
+	<Coords points="822,3307 945,3307 945,3308 982,3308 982,3337 945,3337 945,3339 646,3339 646,3340 561,3340 561,3346 367,3346 367,3343 162,3343 162,3310 367,3310 367,3309 582,3309 582,3308 822,3308"/>
+	<TextLine id="l474">
+	<Coords points="822,3307 945,3307 945,3308 982,3308 982,3337 945,3337 945,3339 646,3339 646,3340 561,3340 561,3346 367,3346 367,3343 162,3343 162,3310 367,3310 367,3309 582,3309 582,3308 822,3308"/>
+	<Word id="w475">
+	<Coords points="162,3310 346,3310 346,3343 162,3343"/>
+	<TextEquiv>
+	<Unicode>Personal</Unicode></TextEquiv></Word>
+	<Word id="w476">
+	<Coords points="367,3309 561,3309 561,3346 367,3346"/>
+	<TextEquiv>
+	<Unicode>Software,</Unicode></TextEquiv></Word>
+	<Word id="w477">
+	<Coords points="582,3308 646,3308 646,3340 582,3340"/>
+	<TextEquiv>
+	<Unicode>Inc</Unicode></TextEquiv></Word>
+	<Word id="w478">
+	<Coords points="822,3307 945,3307 945,3339 822,3339"/>
+	<TextEquiv>
+	<Unicode>Cover</Unicode></TextEquiv></Word>
+	<Word id="w479">
+	<Coords points="962,3308 982,3308 982,3337 962,3337"/>
+	<TextEquiv>
+	<Unicode>4</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Personal Software, Inc Cover 4</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Personal Software, Inc Cover 4</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r480" type="paragraph">
+	<Coords points="680,3355 886,3355 886,3357 978,3357 978,3386 886,3386 886,3395 680,3395 680,3389 457,3389 457,3399 159,3399 159,3360 478,3360 478,3356 680,3356"/>
+	<TextLine id="l481">
+	<Coords points="680,3355 886,3355 886,3357 978,3357 978,3386 886,3386 886,3395 680,3395 680,3389 457,3389 457,3399 159,3399 159,3360 478,3360 478,3356 680,3356"/>
+	<Word id="w482">
+	<Coords points="159,3360 457,3360 457,3399 159,3399"/>
+	<TextEquiv>
+	<Unicode>Programmers</Unicode></TextEquiv></Word>
+	<Word id="w483">
+	<Coords points="478,3356 659,3356 659,3389 478,3389"/>
+	<TextEquiv>
+	<Unicode>Software</Unicode></TextEquiv></Word>
+	<Word id="w484">
+	<Coords points="680,3355 886,3355 886,3395 680,3395"/>
+	<TextEquiv>
+	<Unicode>Exchange</Unicode></TextEquiv></Word>
+	<Word id="w485">
+	<Coords points="919,3357 978,3357 978,3386 919,3386"/>
+	<TextEquiv>
+	<Unicode>.22</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Programmers Software Exchange .22</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Programmers Software Exchange .22</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r486" type="paragraph">
+	<Coords points="938,3404 980,3404 980,3435 685,3435 685,3436 600,3436 600,3445 363,3445 363,3439 160,3439 160,3407 363,3407 363,3406 621,3406 621,3405 938,3405"/>
+	<TextLine id="l487">
+	<Coords points="938,3404 980,3404 980,3435 685,3435 685,3436 600,3436 600,3445 363,3445 363,3439 160,3439 160,3407 363,3407 363,3406 621,3406 621,3405 938,3405"/>
+	<Word id="w488">
+	<Coords points="160,3407 344,3407 344,3439 160,3439"/>
+	<TextEquiv>
+	<Unicode>Rainbow</Unicode></TextEquiv></Word>
+	<Word id="w489">
+	<Coords points="363,3406 600,3406 600,3445 363,3445"/>
+	<TextEquiv>
+	<Unicode>Computing,</Unicode></TextEquiv></Word>
+	<Word id="w490">
+	<Coords points="621,3405 685,3405 685,3436 621,3436"/>
+	<TextEquiv>
+	<Unicode>Inc</Unicode></TextEquiv></Word>
+	<Word id="w491">
+	<Coords points="938,3404 980,3404 980,3435 938,3435"/>
+	<TextEquiv>
+	<Unicode>24</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Rainbow Computing, Inc 24</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Rainbow Computing, Inc 24</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r492" type="paragraph">
+	<Coords points="319,3454 980,3454 980,3483 718,3483 718,3493 299,3493 299,3495 160,3495 160,3456 319,3456"/>
+	<TextLine id="l493">
+	<Coords points="319,3454 980,3454 980,3483 718,3483 718,3493 299,3493 299,3495 160,3495 160,3456 319,3456"/>
+	<Word id="w494">
+	<Coords points="160,3456 299,3456 299,3495 160,3495"/>
+	<TextEquiv>
+	<Unicode>Realty</Unicode></TextEquiv></Word>
+	<Word id="w495">
+	<Coords points="319,3454 500,3454 500,3486 319,3486"/>
+	<TextEquiv>
+	<Unicode>Software</Unicode></TextEquiv></Word>
+	<Word id="w496">
+	<Coords points="520,3454 718,3454 718,3493 520,3493"/>
+	<TextEquiv>
+	<Unicode>Company</Unicode></TextEquiv></Word>
+	<Word id="w497">
+	<Coords points="939,3454 980,3454 980,3483 939,3483"/>
+	<TextEquiv>
+	<Unicode>27</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Realty Software Company 27</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Realty Software Company 27</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r498" type="paragraph">
+	<Coords points="499,3502 983,3502 983,3532 563,3532 563,3534 478,3534 478,3540 284,3540 284,3537 164,3537 164,3505 284,3505 284,3503 499,3503"/>
+	<TextLine id="l499">
+	<Coords points="499,3502 983,3502 983,3532 563,3532 563,3534 478,3534 478,3540 284,3540 284,3537 164,3537 164,3505 284,3505 284,3503 499,3503"/>
+	<Word id="w500">
+	<Coords points="164,3505 264,3505 264,3537 164,3537"/>
+	<TextEquiv>
+	<Unicode>RTR</Unicode></TextEquiv></Word>
+	<Word id="w501">
+	<Coords points="284,3503 478,3503 478,3540 284,3540"/>
+	<TextEquiv>
+	<Unicode>Software,</Unicode></TextEquiv></Word>
+	<Word id="w502">
+	<Coords points="499,3502 563,3502 563,3534 499,3534"/>
+	<TextEquiv>
+	<Unicode>Inc</Unicode></TextEquiv></Word>
+	<Word id="w503">
+	<Coords points="943,3502 983,3502 983,3532 943,3532"/>
+	<TextEquiv>
+	<Unicode>13</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>RTR Software, Inc 13</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>RTR Software, Inc 13</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r504" type="paragraph">
+	<Coords points="729,3550 983,3550 983,3580 900,3580 900,3590 709,3590 709,3591 503,3591 503,3584 284,3584 284,3585 166,3585 166,3552 503,3552 503,3551 729,3551"/>
+	<TextLine id="l505">
+	<Coords points="729,3550 983,3550 983,3580 900,3580 900,3590 709,3590 709,3591 503,3591 503,3584 284,3584 284,3585 166,3585 166,3552 503,3552 503,3551 729,3551"/>
+	<Word id="w506">
+	<Coords points="166,3552 284,3552 284,3585 166,3585"/>
+	<TextEquiv>
+	<Unicode>Small</Unicode></TextEquiv></Word>
+	<Word id="w507">
+	<Coords points="303,3552 483,3552 483,3584 303,3584"/>
+	<TextEquiv>
+	<Unicode>Business</Unicode></TextEquiv></Word>
+	<Word id="w508">
+	<Coords points="503,3551 709,3551 709,3591 503,3591"/>
+	<TextEquiv>
+	<Unicode>Computer</Unicode></TextEquiv></Word>
+	<Word id="w509">
+	<Coords points="729,3550 900,3550 900,3590 729,3590"/>
+	<TextEquiv>
+	<Unicode>Systems</Unicode></TextEquiv></Word>
+	<Word id="w510">
+	<Coords points="924,3573 931,3573 931,3580 924,3580"/>
+	<TextEquiv>
+	<Unicode>.</Unicode></TextEquiv></Word>
+	<Word id="w511">
+	<Coords points="946,3573 953,3573 953,3580 946,3580"/>
+	<TextEquiv>
+	<Unicode>.</Unicode></TextEquiv></Word>
+	<Word id="w512">
+	<Coords points="964,3550 983,3550 983,3580 964,3580"/>
+	<TextEquiv>
+	<Unicode>3</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Small Business Computer Systems . . 3</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Small Business Computer Systems . . 3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r513" type="paragraph">
+	<Coords points="606,3598 705,3598 705,3599 983,3599 983,3628 705,3628 705,3638 589,3638 589,3639 367,3639 367,3633 165,3633 165,3601 367,3601 367,3599 606,3599"/>
+	<TextLine id="l514">
+	<Coords points="606,3598 705,3598 705,3599 983,3599 983,3628 705,3628 705,3638 589,3638 589,3639 367,3639 367,3633 165,3633 165,3601 367,3601 367,3599 606,3599"/>
+	<Word id="w515">
+	<Coords points="165,3601 347,3601 347,3633 165,3633"/>
+	<TextEquiv>
+	<Unicode>Software</Unicode></TextEquiv></Word>
+	<Word id="w516">
+	<Coords points="367,3599 589,3599 589,3639 367,3639"/>
+	<TextEquiv>
+	<Unicode>Publishing</Unicode></TextEquiv></Word>
+	<Word id="w517">
+	<Coords points="606,3598 705,3598 705,3638 606,3638"/>
+	<TextEquiv>
+	<Unicode>Corp</Unicode></TextEquiv></Word>
+	<Word id="w518">
+	<Coords points="964,3599 983,3599 983,3628 964,3628"/>
+	<TextEquiv>
+	<Unicode>8</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Software Publishing Corp 8</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Software Publishing Corp 8</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r519" type="paragraph">
+	<Coords points="584,3646 983,3646 983,3676 755,3676 755,3686 584,3686 584,3680 166,3680 166,3648 584,3648"/>
+	<TextLine id="l520">
+	<Coords points="584,3646 983,3646 983,3676 755,3676 755,3686 584,3686 584,3680 166,3680 166,3648 584,3648"/>
+	<Word id="w521">
+	<Coords points="166,3648 443,3648 443,3680 166,3680"/>
+	<TextEquiv>
+	<Unicode>Southwestern</Unicode></TextEquiv></Word>
+	<Word id="w522">
+	<Coords points="462,3648 563,3648 563,3679 462,3679"/>
+	<TextEquiv>
+	<Unicode>Data</Unicode></TextEquiv></Word>
+	<Word id="w523">
+	<Coords points="584,3646 755,3646 755,3686 584,3686"/>
+	<TextEquiv>
+	<Unicode>Systems</Unicode></TextEquiv></Word>
+	<Word id="w524">
+	<Coords points="903,3669 909,3669 909,3676 903,3676"/>
+	<TextEquiv>
+	<Unicode>.</Unicode></TextEquiv></Word>
+	<Word id="w525">
+	<Coords points="925,3669 931,3669 931,3676 925,3676"/>
+	<TextEquiv>
+	<Unicode>.</Unicode></TextEquiv></Word>
+	<Word id="w526">
+	<Coords points="943,3646 983,3646 983,3676 943,3676"/>
+	<TextEquiv>
+	<Unicode>23</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Southwestern Data Systems . . 23</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Southwestern Data Systems . . 23</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r527" type="paragraph">
+	<Coords points="947,3693 984,3693 984,3724 615,3724 615,3727 351,3727 351,3736 166,3736 166,3696 372,3696 372,3695 947,3695"/>
+	<TextLine id="l528">
+	<Coords points="947,3693 984,3693 984,3724 615,3724 615,3727 351,3727 351,3736 166,3736 166,3696 372,3696 372,3695 947,3695"/>
+	<Word id="w529">
+	<Coords points="166,3696 351,3696 351,3736 166,3736"/>
+	<TextEquiv>
+	<Unicode>Strategic</Unicode></TextEquiv></Word>
+	<Word id="w530">
+	<Coords points="372,3695 615,3695 615,3727 372,3727"/>
+	<TextEquiv>
+	<Unicode>Simulations</Unicode></TextEquiv></Word>
+	<Word id="w531">
+	<Coords points="947,3693 984,3693 984,3724 947,3724"/>
+	<TextEquiv>
+	<Unicode>.4</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Strategic Simulations .4</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Strategic Simulations .4</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r532" type="paragraph">
+	<Coords points="1496,2562 1766,2562 1766,2630 1496,2630"/>
+	<TextLine id="l533">
+	<Coords points="1496,2562 1766,2562 1766,2630 1496,2630"/>
+	<Word id="w534">
+	<Coords points="1496,2562 1766,2562 1766,2630 1496,2630"/>
+	<TextEquiv>
+	<Unicode>m</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>m</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>m</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r535" type="paragraph">
+	<Coords points="1910,2698 2114,2698 2114,2733 1471,2733 1471,2747 1360,2747 1360,2740 1016,2740 1016,2709 1176,2709 1176,2706 1360,2706 1360,2704 1848,2704 1848,2701 1910,2701"/>
+	<TextLine id="l536">
+	<Coords points="1910,2698 2114,2698 2114,2733 1471,2733 1471,2747 1360,2747 1360,2740 1016,2740 1016,2709 1176,2709 1176,2706 1360,2706 1360,2704 1848,2704 1848,2701 1910,2701"/>
+	<Word id="w537">
+	<Coords points="1016,2709 1042,2709 1042,2740 1016,2740"/>
+	<TextEquiv>
+	<Unicode>A</Unicode></TextEquiv></Word>
+	<Word id="w538">
+	<Coords points="1065,2709 1154,2709 1154,2740 1065,2740"/>
+	<TextEquiv>
+	<Unicode>Prize</Unicode></TextEquiv></Word>
+	<Word id="w539">
+	<Coords points="1176,2706 1229,2706 1229,2739 1176,2739"/>
+	<TextEquiv>
+	<Unicode>for</Unicode></TextEquiv></Word>
+	<Word id="w540">
+	<Coords points="1250,2707 1337,2707 1337,2738 1250,2738"/>
+	<TextEquiv>
+	<Unicode>Your</Unicode></TextEquiv></Word>
+	<Word id="w541">
+	<Coords points="1360,2704 1471,2704 1471,2747 1360,2747"/>
+	<TextEquiv>
+	<Unicode>Apple</Unicode></TextEquiv></Word>
+	<Word id="w542">
+	<Coords points="1848,2701 1868,2701 1868,2733 1848,2733"/>
+	<TextEquiv>
+	<Unicode>2</Unicode></TextEquiv></Word>
+	<Word id="w543">
+	<Coords points="1910,2698 2114,2698 2114,2733 1910,2733"/>
+	<TextEquiv>
+	<Unicode>Marketalk:</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>A Prize for Your Apple 2 Marketalk:</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>A Prize for Your Apple 2 Marketalk:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r544" type="paragraph">
+	<Coords points="1910,2751 2115,2751 2115,2785 1869,2785 1869,2786 1226,2786 1226,2801 1017,2801 1017,2759 1849,2759 1849,2754 1910,2754"/>
+	<TextLine id="l545">
+	<Coords points="1910,2751 2115,2751 2115,2785 1869,2785 1869,2786 1226,2786 1226,2801 1017,2801 1017,2759 1849,2759 1849,2754 1910,2754"/>
+	<Word id="w546">
+	<Coords points="1017,2759 1226,2759 1226,2801 1017,2801"/>
+	<TextEquiv>
+	<Unicode>Straightalk</Unicode></TextEquiv></Word>
+	<Word id="w547">
+	<Coords points="1849,2754 1869,2754 1869,2786 1849,2786"/>
+	<TextEquiv>
+	<Unicode>3</Unicode></TextEquiv></Word>
+	<Word id="w548">
+	<Coords points="1910,2751 2115,2751 2115,2785 1910,2785"/>
+	<TextEquiv>
+	<Unicode>Marketalk:</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Straightalk 3 Marketalk:</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Straightalk 3 Marketalk:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r549" type="paragraph">
+	<Coords points="1913,2804 2109,2804 2109,2847 1913,2847 1913,2840 1198,2840 1198,2847 1017,2847 1017,2813 1849,2813 1849,2809 1913,2809"/>
+	<TextLine id="l550">
+	<Coords points="1913,2804 2109,2804 2109,2847 1913,2847 1913,2840 1198,2840 1198,2847 1017,2847 1017,2813 1849,2813 1849,2809 1913,2809"/>
+	<Word id="w551">
+	<Coords points="1017,2813 1198,2813 1198,2847 1017,2847"/>
+	<TextEquiv>
+	<Unicode>Tradetalk</Unicode></TextEquiv></Word>
+	<Word id="w552">
+	<Coords points="1849,2809 1869,2809 1869,2840 1849,2840"/>
+	<TextEquiv>
+	<Unicode>5</Unicode></TextEquiv></Word>
+	<Word id="w553">
+	<Coords points="1913,2804 2109,2804 2109,2847 1913,2847"/>
+	<TextEquiv>
+	<Unicode>Newspeak</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Tradetalk 5 Newspeak</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Tradetalk 5 Newspeak</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r554" type="paragraph">
+	<Coords points="2140,2699 2285,2699 2285,2777 2300,2777 2300,2782 2275,2782 2275,2783 2242,2783 2242,2784 2141,2784 2141,2731 2140,2731"/>
+	<TextLine id="l555">
+	<Coords points="2140,2699 2285,2699 2285,2731 2140,2731"/>
+	<Word id="w556">
+	<Coords points="2140,2699 2285,2699 2285,2731 2140,2731"/>
+	<TextEquiv>
+	<Unicode>Reviews</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Reviews</Unicode></TextEquiv></TextLine>
+	<TextLine id="l557">
+	<Coords points="2141,2753 2242,2753 2242,2777 2300,2777 2300,2782 2275,2782 2275,2783 2242,2783 2242,2784 2141,2784"/>
+	<Word id="w558">
+	<Coords points="2141,2753 2242,2753 2242,2784 2141,2784"/>
+	<TextEquiv>
+	<Unicode>News</Unicode></TextEquiv></Word>
+	<Word id="w559">
+	<Coords points="2270,2777 2275,2777 2275,2783 2270,2783"/>
+	<TextEquiv>
+	<Unicode>.</Unicode></TextEquiv></Word>
+	<Word id="w560">
+	<Coords points="2295,2777 2300,2777 2300,2782 2295,2782"/>
+	<TextEquiv>
+	<Unicode>.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>News . .</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Reviews
+News . .</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r561" type="paragraph">
+	<Coords points="2722,2697 2763,2697 2763,2750 2764,2750 2764,2781 2763,2781 2763,2835 2719,2835 2719,2803 2722,2803"/>
+	<TextLine id="l562">
+	<Coords points="2722,2697 2763,2697 2763,2729 2722,2729"/>
+	<Word id="w563">
+	<Coords points="2722,2697 2763,2697 2763,2729 2722,2729"/>
+	<TextEquiv>
+	<Unicode>13</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>13</Unicode></TextEquiv></TextLine>
+	<TextLine id="l564">
+	<Coords points="2723,2750 2764,2750 2764,2781 2723,2781"/>
+	<Word id="w565">
+	<Coords points="2723,2750 2764,2750 2764,2781 2723,2781"/>
+	<TextEquiv>
+	<Unicode>19</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>19</Unicode></TextEquiv></TextLine>
+	<TextLine id="l566">
+	<Coords points="2719,2803 2763,2803 2763,2835 2719,2835"/>
+	<Word id="w567">
+	<Coords points="2719,2803 2763,2803 2763,2835 2719,2835"/>
+	<TextEquiv>
+	<Unicode>28</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>28</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>13
+19
+28</Unicode></TextEquiv></TextRegion></Page></PcGts>

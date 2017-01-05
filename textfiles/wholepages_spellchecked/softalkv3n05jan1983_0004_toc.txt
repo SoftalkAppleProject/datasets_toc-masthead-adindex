@@ -1,0 +1,98 @@
+﻿JANUARY 1983
+SOFTALK
+2
+
+Chairman	John Haller
+Publisher	Al Tommervik
+Editor	Margot Comstock Tommervik
+Art Director	Kurt A. Wahlner
+Managing Editor	Patricia Ryall
+Associate Editors	Jean Varven David Hunter Andrew Christie
+Special Assignments	Jonathan Miller
+Open Discussion Editor News and Trade Editor	Tommy Gear
+	Matthew T. Yuen
+Reviews Editor	Roe Adams
+Assistant Editor	David Durkee
+Proofreader	Harry McNeil
+Editorial Assistant	Betsy Barnes
+Contributing Editors	
+Assembly Language	Roger Wagner
+Pascal	Jim Merritt
+Business	Peter Olivieri
+Apple CP/M	Greg Tibbetts
+Apple III	Taylor Pohlman Jeffrey Mazur
+Hardware	
+Applesoft	Doug Carlston
+Investing	Kenneth Landis
+DOS	Bert Kersey
+Graphics	Mark Pelczarski
+Financial Modeling	Joe Shelton
+Beginners	Christopher U. Light
+Basic Solution	William V. R. Smith
+Art Manager	Kevin McKeon
+Art Production	Don Robertson
+Art Assistants	Michael G. Pender Roxanne Rogers Jill Schultz
+Associate Publisher	Mary Sue Rennells
+Director of Operations	Three Tyler
+Accounting	Evelyn Burke
+Accounting Assistant	Mary Milam
+Marketing	Jim Salmons
+Marketing Assistant	Dave Fitzgerald
+Assistant to the Publisher	Dan Yoder
+Purchasing	Steven M. Poncar
+Dealer Sales	Judy Weinstein
+Book Sales	Lois Stickelmaier
+Advertising Coordinator	Linda McGuire
+West Coast Sales	Mike Antich Softalk 11160 McCormick Street Box 60 North Hollywood, CA 91603 (213) 980-5074
+East Coast Sales	Ian Ross Paul McGinnis Paul McGinnis Company 60 East 42nd Street New York, NY 10017 (212) 490-1021
+Midwest and Rocky Mountain Sales	Ted Rickard John Sienkiewicz John Bollweg Kevin Sullivan Market/Media Associates 435 Locust Road Wilmette, IL 60091 (312) 251-2541
+Circulation	
+Trial Subscriptions	Hal Schick Dierdre Booth
+Paid Subscriptions	Pam Kelley
+Back Issues	Ron Rennells
+List Maintenance	Pat Adams Harry Richardson
+Assistant	Cliff Martinez
+Systems	Sam Pawley
+Guest Reviewers	Dave Albert, W. H. Arrington. Jon Durkee, Phillip Good, Amanda Hixson, Alan Mankovitz, and Howard A. Shore
+
+Cover: Modern-day Pterodactyl in flight; photo by Kurt Wahlner.
+Credits: Composition by Photographics, Hollywood, California. Printing by Volkmuth Printers, Saint Cloud, Minnesota.
+
+Apple and Applesoft are registered trademarks of Apple Computer Inc., Cupertino, California. UCSD Pascal is a trademark of the University of California at San Diego. VisiCalc is a trademark of VisiCorp, San Jose, California. SoftCard is a trademark of Microsoft, Bellevue, Washington. GraForth is a trademark of Insoft Inc., Portland, Oregon. Logo is a trademark of Massachusetts Institute of Technology, Cambridge, Massachusetts
+
+Softalk. Volume 3, Number 5. Copyright © 1983 by Softalk Publishing Inc. All rights reserved. ISSN:0274-9629. Softalk is published monthly by Softalk Publishing Inc., 11160 McCormick Street, North Hollywood, California; telephone (213) 980-5074. Second-class postage paid at North Hollywood, California, and additional mailing offices.
+Postmaster: Send address changes to Softalk, Box 60, North Hollywood, CA 91603.
+Free Subscription: Complimentary trial subscription to all owners of Apple computers in the USA. If you own an Apple, but you’ve never received Softalk, send your name, address, and Apple serial number with a request for subscription to Softalk Circulation, Box 60, North Hollywood, CA 91603. Softalk is totally independent of Apple Computer Inc.; sending your warranty card to Apple Computer will not inform Sojtalk of your existence.
+Paid Subscription: $24 per year without sponsor, $18 per year with sponsor. At the end of trial period, each subscriber will be notified; response is required only if you wish to continue receiving Softalk Lack of response will be taken as your choice to discontinue the magazine. Special rates for schools and libraries, $8; multiple subscriptions for schools and libraries, $5 each.
+Back Issues: $2 through February 1981; $2.50 through July 1981; $3.50 through September 1982; $4.00 thereafter. November and December 1980 and January, February, March, September, October, and November 1981 are sold out. December 1981 and February and May 1982 are in short supply.
+Problems? If you haven’t received your Softalk by the fifteenth of the month, or if you have other problems with your subscription, Hal Schick or Pam Kelley can help out. Call (213) 980-5074.
+Moving? Send new address and old to Softalk Circulation, Box 60, North Hollywood, CA 91603; telephone (213) 980-5074.
+
+CONTEST:
+Save the Subheads
+
+Nobody likes to see a good line go to waste. Consider the lowly subhead—those bold little catch phrases placed in a story or column in every issue of Softalk. They’re designed to catch your eye, maybe amuse you, help you grasp an idea, and generally move a story along.
+Here’s One Now. We write about a hundred of them per issue. Some are gems, some are duds, some are just odd. We think the good ones are worth repeating.
+Live and Let Die. But we don’t want just to pick them up and drop them in the next issue; that would be cheating. There’s nothing worse than a pirated subhead. However, if we don’t recycle them, that would be wasteful. Why, those little phrases just can’t win. You see, they’re not really essential to any story. One subhead can easily be replaced by another. Also, after it’s been used once, it’s too old to be used again. The baby seals of Softalk.
+Not Fade Away. Yes, the life of a subhead is short; it’s a life of “shine once, then perish.” For some, that’s good. For others, a shame.
+But it doesn’t have to be that way.
+Oh Boy, a Contest. Here’s your chance to help save the subheads from meeting a premature death. Give them a chance to live a little longer before they go to that great word processor in the sky. All you have to do is write a short story using as many of the subheads in this issue and any other issue of Softalk as well as you can. Any kind of story—as long as it has something to do with our lovable Apples.
+Volume and Variety. The rules are simple: use as many as you can, although entries will also be judged on story value, cleverness of subhead use, and wit. If you get greedy, you can also use the headings to the letters in Open Discussion.
+Read This. Stories can be as long as five typewritten, double-spaced pages. That means a blank line between lines. We’re serious on that rule. Very serious.
+And This, Too. Finally, underline every occurrence of a subhead in your story. Also, to keep everyone straight, you must put the issue date and page number for the source of each
+original subhead above the subhead in question. We realize it’s extra work, and it’s not fair to the honest people. It’s too bad that just a few had to ruin it for the whole class.
+Final Notes. The winner of this competition will win the customary $100 worth of stuff made by Softalk advertisers and will hold the title of Softalk Subhead Savior of 1983. Remember, no copying off your neighbor’s papers, and neatness counts. Here’s an example:
+Sometimes he thought he’d rather be bored (Dec. ’82, p. 46) than sit around solving the riddles of space and time. When that became too much to look at, he knew he’d better start looking to get out (Dec. ’82, p. 60).
+That’s why he was going to call Colette and confess.
+It would be rescue by remote resource (Dec. ’82, p. 308), he quipped to himself as he dialed.
+“Hello?”
+He felt luminously lucky (Dec. ’82, p. 250) she was in. “Hello, Colette? This is Frank. Whatcha doing?”
+“Well, my Apple IX just arrived, and the gang’s all here (Dec. ’82, p. 105).
+Well, we could go on and on, but you get the idea of how this is supposed to work. Of course, yours will be somewhat longer and have a beginning, middle, and ending to it.
+Send in your entry with this coupon to: Softalk Subs, Box 60, North Hollywood, CA 91603. Postmark deadline is February 15, 1983, the day after Valentine’s Day.
+Name:____________________________________________ 
+Address:_________________________________________
+City, State, Zip:________________________________
+My dealer:________________________________________
+If I win, I’d like________________________________
+as my prize

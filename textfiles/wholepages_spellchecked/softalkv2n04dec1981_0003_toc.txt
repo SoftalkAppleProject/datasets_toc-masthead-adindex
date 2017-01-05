@@ -1,0 +1,222 @@
+﻿DECEMBER 1981
+SOFTALK
+
+Chairman	John Haller
+Publisher	Al Tommervik
+Editor	Margot Comstock Tommervik
+Managing Editor	Craig Stinson
+Art Director	Kurt A. Wahlner
+General Manager	Mary Sue Rennells
+Editorial Associate	Jean Varven
+Assistant Editor	Melissa Milich
+Copy Editors	Andrew Christie Jerry Goldman
+Contributing Editors	
+Assembly Language	Roger Wagner
+Pascal	Jim Merritt
+Business	Peter Olivieri
+Apple CP/M	Greg Tibbetts
+Apple III	Taylor Pohlman
+Hardware	Jeffrey Mazur
+Investing	Kenneth Landis
+Basic Solutions	Wm. V. R. Smith
+Guest Reviewers	John Haller Peter Stone
+Special Projects	Donna Siebert Greg Voss
+Ad Coordinator	David Hunter
+Circulation	Ron Rennells Robert Mann
+Art Assistant	Miriam Gamble
+Systems	Wm. V. R. Smith Ken Williams
+Advertising Sales 213-980-5074	Al Tommervik
+
+Cover photographed and designed by Kurt Wahlner.
+Composition by Photographics, Hollywood, California. Printing by Volkmuth Printers, Saint Cloud, Minnesota.
+
+Apple is a registered trademark of Apple Computer Inc., Cupertino, California.
+
+UCSD Pascal is a trademark of the University of California at San Diego.
+
+VisiCalc is a trademark of Personal Software, Sunnyvale, California.
+
+SoftCard is a trademark of Microsoft, Bellevue, Washington.
+
+Softalk. Volume 2, Number 4. Copyright (c) 1981 by Softalk Publishing Inc. All rights reserved. ISSN:0274-9629. Softalk is published monthly by Softalk Publishing Inc., 11021 Magnolia Boulevard, North Hollywood, CA 91601. Telephone, (213) 980-5074. Second-class postage paid at North Hollywood, CA, and additional mailing offices.
+Postmaster: Send address changes to Softalk, 11021 Magnolia Boulevard, North Hollywood, CA 91601.
+Subscriptions: Complimentary to all owners of Apple computers in the USA. If you own an Apple, but you’re not receiving Softalk, send your name, address, and Apple serial number with a request for subscription to Softalk Circulation, 11021 Magnolia Boulevard, North Hollywood, CA 91601. Softalk is totally independent of Apple Computer Inc.; sending your warranty card to Apple Computer will not inform Softalk of your existence. Non-Apple owner subscriptions for one year: $12. For the convenience of business and schools in which several staff members share an Apple and would like individual copies of Softalk, multiple subscriptions to the same address are available at lower rates: two through five, $9 each; more than five, $7 each.
+Back Issues: $2 through February 1981; $2.50 thereafter. November and December 1980 and January and March 1981 issues are sold out. Softalk will send you a back issue of your choice free (available issues only) for the name, address, and serial number of each Apple owner you can find who isn’t already receiving Softalk.
+Problems? If you haven’t received your Softalk by the tenth of the month, or if you have other problems with your subscription, Ron Rennells or Bob Mann can help out. Call (213) 980-5099.
+Moving? Send new address and old to Softalk Circulation, 11021 Magnolia Boulevard, North Hollywood, California 91601; telephone, (213) 980-5099.
+
+ADVERTISERS INDEX
+
+Accent...........................148
+Advanced Business Technology......83
+Advanced Logic Systems............29
+Adventure Internatlonal/Softsel.. 141, 179
+Amdek ...........................139
+Applied Analytics................157
+Artsci ..........................188
+Aurora ..........................122
+Avant-Garde.................60, 131, 142
+Beagle Bros.......................72
+Berlinersoft.....................168
+Bite-soft.........................48
+BK Technologies..................153
+The Book 1982 ....................67
+Bourbon Street ...................20
+Brillig Systems..................152
+Broderbund..................7, 15, 125
+BudgeCo..........................206
+California Pacific..........Cover 2
+Calsoft..........................166
+Cavalier Computer ..........5, 10, 208
+CECO ..............................2
+CE Software.......................77
+C & H ............................61
+Computek ........................127
+Computerized Management Systems .. .89 
+Computer Station.....113, 115, 117, 119
+Context............................31
+Continental Software ..............43
+CPU Software......................123
+Crane Software.....................19
+Crystal Computer...................39
+Dann McCreary Software..............9
+DataMost...................159, 172, 187
+Data Transforms.................16, 46
+Denver Software...................201
+Double-Gold Software..............120
+Earthware..........................38
+Eclectic Systems..................193
+Edu-Ware Services..................14
+Empire Software....................57
+Energy Games.......................69
+FMJ................................28
+FSI...............................177
+Gebelli Software...................53
+Great Lakes........................33
+Hayes Microcomputer Products ......35
+Highland Computer Services........149
+High Technology...................171
+Horizon Simulations................92
+Howard Software....................82
+Human Systems Dynamics.............80
+IDSI............................54, 145
+Infocom ..........................116
+Intelligent Computer Systems ......68
+Interactive Microware.............205
+Intra Computer....................128
+Keyboard Company................45, 47
+K & R Data Works ..................88
+Lightning Software.................207
+LJK Enterprises....................121
+L & S Computerware..................55
+Masterworks Software................52
+Math City .........................178
+Micro Lab....................18, 84, 197
+Microsoft.........................134,	186
+Microstand..........................95
+Micro-Ware Distributing............124
+Millionaire Pastimes ..............175
+Modular Media......................198
+Moneydisk..........................170
+Muse Software......... 11, 25, 34, 65, 73, 130, 137
+Omega ........................154,	176
+On-Line........ 8, 62, 78, 79, 90, 112, 140, 143, 165, 169, 182, 194, 202, Cover 4
+Orange Micro.......................118
+Osborne/McGraw-Hill ................37
+Pear Software........................4
+Pegasys.............................85
+Penguin Software....................70
+Personal Software...................87
+Phoenix Software................50, 66
+Practical Software.................167
+Professional Medical Software......114
+Program Store ...................12-13
+Prometheus .........................51
+Quality Software...................156
+Rainbow Computing ..................75
+RH Electronics................164,	196
+Riverbank Software .................74
+Santa Clara Systems .................59
+Sentient Software....................27
+Sierra Software ....................204
+Sirius Software..................99-110
+SirTech.............................155
+Softalk......................58, 91, 195
+Softdisk.............................21
+Softhouse...........................147
+Soft Touch...........................26
+Softpak..............................17
+Software Publishing Corporation......63
+Software Supply Corporation .........86
+Sorrento Valley Associates ..........93
+Southeastern Software...............129
+Southern California Research Group . .144 
+Southwestern Data Systems .. .24, 44, 192
+Spectrum Software ..................191
+Stellation Two......................163
+Stoneware...........................158
+Strategic Simulations..........Cover 3
+Street Electronics ..................71
+SubLogic ............................96
+Synergistic Software...........49, 126
+Syntauri............................185
+TG Products...........................3
+Thunderware.........................173
+Tovatech ............................36
+USE.................................200
+Utilities Engineering ..............184
+Village Software.....................64
+Vital Information...................190
+Yucaipa Software....................199
+
+CONTENTS
+
+Exec Micro Lab: Software with Care
+AL TOMMERVIK................................. 22
+
+Holiday Gift Guide....................................... 40
+Page 40
+
+Microcomputer Pioneers Look at Tomorrow
+MELISSA MILICH ................................132
+
+Who's Minding the Store?
+RICHARD KNUDSEN ..............................146
+Page 146
+
+Fortran for the Apple
+CYE H. WALDMAN and DOUGLAS B. COATS........160
+
+FEATURES
+
+Love Letters Personalized.........................................ANNE WAYMAN 6
+1981 Reviews Indexed................................................................97
+Happy Birthday, Melody..............................................................111
+World's Largest Apple System .........................................GREG VOSS 150
+Bank Robbing Apple Goes Straight..................................MELISSA MILICH 174
+Overview of RAM Cards, Part 2.........................................JEFF MAZUR 180
+Make Your Apple More Flexible.........................................JEFF MAZUR 184
+Page 150
+
+DEPARTMENTS
+
+Contest: Oracle '82.................................. 2
+Contest Winners...................................... 2
+Open Discussion...................................... 9
+The Pascal Path, by Jim	Merritt..................... 16
+The Third Basic, by Taylor	Pohlman.................. 30
+Newspeak ........................................... 38
+Mind Your Business:
+Peter Olivieri .................................. 81
+Marketalk News ................................... 86
+SoftCard Symposium, by Greg Tibbetts.............. 94
+Marketalk Reviews.................................113
+Beginner's Corner, by Craig Stinson...............127
+Tradetalk.........................................130
+Basic Solution, by William V. R. Smith............157
+Assembly Lines, by Roger Wagner...................189
+Bestsellers.......................................205
+
+PREVIEWS
+
+Joshing January . . . Exclusive interview with Buckminster Fuller . . . Exec Micro Finance Systems, makers of VisiPlot and VisiTrend. . . . Ever board the wrong bus? New column, Hardtalk, begins with multipart series that'll take the mystery out of boards and buses. . . . Exciting news on modem front: Communitree Bursts Forth... and more

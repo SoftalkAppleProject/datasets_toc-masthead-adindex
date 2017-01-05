@@ -1,0 +1,49 @@
+﻿JUNE 1984
+SOFTALK
+4
+
+Softalk
+
+Publisher: Al Tommervik Editor: Margot Comstock Tommervik Art Director: Kurt A. Wahlner
+Editorial Staff
+Senior Editor: David Hunter. Managing Editor: Carol Ray.
+Associate Editors: Andrew Christie; David Durkee, Programming; Michael Ferris, Product and Trade News; Jean Varven; Matthew T. Yuen, Reviews. Feature Editors: Jock Root, Hardware; Todd Zilbert, Letters. Market Research: Lanny Broyles. Copy Editor: Cordell Cooper. Assistant Copy Editor: Judith Pfeffer. Editorial Coordinator: Betsy Barnes. Proofreaders: Harry McNeil; Steve Thomsen.
+Editorial Correspondents
+Contributing Editors: Jim Merritt, Pascal; Peter Olivieri, Business; Greg Tibbetts, Apple CP/M; Tom Weishaar, DOS;
+Bill Budge, Graphics; Kevin Goldstein, 32-Bit Apples. Softalk Sages: Doug Carlston, Bob Clardy, Roy Hicks,
+John Jeppson, Mark Pelczarski, Joe Shelton, Roger Wagner.
+Art
+Production Manager: Donald J. Robertson.
+Associate Art Director: Lucas McClure. Ad Production: Michael G. Pender. Assistant Production Manager: Nancy Baldwin. Assistant: Ruth Seid.
+
+Softalk Publishing
+
+Business
+Chairman: John Haller. Associate Publisher: Mary Sue Rennells.
+Assistant Publisher: Three Tyler. Advance Projects: Steve Shendelman. Operations: Marjorie Kaufman. Director of Finance: Chari Hilario. Controller: Duane Runyon. Purchasing: Gene O’Day. Softalk Books: Gerald Rafferty, Paul Mithra, Laurie O’Connell. Siblings: Craig Stinson, Editor, Softalk for the IBM Personal Computer, Patricia Ryall, Editor, ST.Mac; Andrew Christie, Editor,
+St. Game.
+Advertising
+Coordinator: Linda McGuire Carter. Assistant: Cathy Stewart. West Coast Sales: Randie James, Softalk, St. Game; Mike Antich, Softalk for the IBM Personal Computer, ST. Mac. Softalk,
+7250 Laurel Canyon Boulevard, North Hollywood, CA 91605; (818) 980-5074.
+East Coast Sales: Ian Ross, Paul McGinnis Advertising Sales, 690 Broadway, Massapequa, NY 1 1758; (212) 490-1021. Midwest and Rocky Mountain Sales: Ted Rickard, Bill Chalifaux, Kevin Sullivan, Market/Media Associates, 435 Locust Road, Wilmette, IL 60091; (312) 251-2541.
+Circulation
+Customer Service: Michelle Vigneault-Kirschenbaum. Subscriptions: Leticia Garcia, Jan Godoy-Aguiar, Barbara Naimoli, Josie Walley, Deirdre Galen, Anna Gusland, Ramona Gordon, Jill Stroud, Nancy Kelly. Dealer Sales: Lanny Broyles. Systems: John Heitmann.
+
+Indicia
+
+Softalk. Volume 4, Number 10. Copyright © 1984 by Softalk Publishing Inc. All rights reserved. ISSN:0274-9629. Softalk is published monthly by Softalk Publishing Inc., 7250 Laurel Canyon Boulevard, North Hollywood, California; telephone (818) 980-5074. Second-class postage paid at North Hollywood, California, and additional mailing offices.
+Credits: Composition by Photographics, Hollywood, California. Printing by Volkmuth Printers, Saint Cloud, Minnesota. Apple, Applesoft, Macintosh, and Lisa are registered trademarks of Apple Computer Inc., Cupertino, California. UCSD Pascal is a trademark of the University of California at San Diego. SoftCard is a trademark of Microsoft, Bellevue, Washington. Softalk is a trademark of Softalk Publishing Inc., North Hollywood, California. Postmaster: Send address changes to Softalk, Box 7039,
+North Hollywood, CA 91605.
+Advertising: Send ad material to Linda McGuire Carter, Softalk, 7250 Laurel Canyon Boulevard, North Hollywood, CA 91605. Free Subscriptions: Complimentary six-month subscriptions to all owners of Apple II, II Plus, IIe, IIc, and III computers in the USA and Canada. If you own an Apple but you’ve never received Softalk, send your name, address, and Apple serial number with a request for subscription to Softalk Circulation, Box 7039, North Hollywood, CA 91605. Please allow six to eight weeks for processing. Softalk is totally independent of Apple Computer Inc.; sending your warranty card to Apple Computer will not inform Softalk of your existence. Paid Subscriptions: $24 per year. At the end of trial period, each subscriber will be notified; response is required only if you wish to continue receiving Softalk. Lack of response will be taken as your choice to discontinue the magazine. Special rates for schools and libraries, $12; concurrent additional subscriptions for schools and libraries, $8 each. Please allow six to eight weeks for processing. Back Issues: $2 through February 1981; $2.50 through July 1981; $3.50 through September 1982; $4.00 thereafter. November and December 1980, January. February, March, September, October, and November 1981, and December 1982 are sold out. December 1981, February and May 1982, and February and December 1983 are in short supply.
+Moving: Send new address and a label from a recent Softalk to Softalk Circulation, Box 7039, North Hollywood, CA 91605; telephone (818) 980-5074. Please allow six to eight weeks for processing.
+Problems? If you haven't received your Softalk by the fifteenth of the month, or if you have other problems with your subscription, Michelle Vigneault-Kirschenbaum can help out. Call (818) 980-5074 or (800) 821-6231.
+
+Contest; Next Year's Model
+
+This year, Apple—with its affordable Lisa Technology, Macintosh, and its powerful portable, the IIc—shook up the computer industry by setting a new state of the art in personal computers. We love the Mac. We love the IIc. But we’re not satisfied with them. In this age of instant gratification, complacency is our worst enemy. It’s easy to think we can just relax and let Apple, or Johnny Carson, or who knows what, satisfy our desires and assuage our boredom.
+We’re not having any of it. The IIc is great— we want greater. Macintosh is more. We want still more. We want stupendous. We want a computer that’ll make computerphobes sit up and take notice. We want a computer that’ll make your Aunt Blanche want to learn to program. We want a computer that Aunt Blanche won’t have to program . . . that she can use without picking up a manual . . . that she can use when backpacking in the Sierras!
+And we want you to design it.
+Imagine that you’re on the product development team at Apple. You’ve done some great
+things in the past, but in this business you can t rest on your laurels or someone is bound to come along and kick them out from under you. You’ve got to be on your toes. Write a proposal to the head of your department describing your ideas for next year’s model—for a better computer. Outline your ideas and requirements and defend them. Limit the written portion to one to two double-spaced typed pages, but include whatever you think will help sell the boss on your proposal—sketches, models, you name it.
+It doesn’t have to be feasible using current technology, but it cannot be completely implausible, either. The judges will lean toward ideas that are wildly inventive but still earth-bound. Entries can contain elements of existing computers, but the winning entry will contain at least one aspect that none of the judges know of in an existing computer.
+Sound tough? Good. Send your entries to Contest: Next Year’s Model, Box 7039, North Hollywood, CA 91605. The winner will be selected by the contest staff and will win neat stuff.

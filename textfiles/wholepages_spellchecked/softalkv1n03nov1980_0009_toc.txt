@@ -1,0 +1,68 @@
+﻿[START PAGE]
+
+NOVEMBER 1980
+SOFTALK
+7
+
+shako, but a beret instead,” Silverstein explains.
+As each uniform part is assigned, its number is checked off the original stock file on the disk and entered in the musician’s record. When a full uniform is assigned, a contract showing the person’s name, instrument, uniform part numbers, and costs of each (in case any should be lost or damaged) is printed out on the Silentype, signed by the band member, and then physically filed.
+“The best part about this system,” Silverstein says, "is that teaching the rest of the uniform crew to inventory and check out uniforms with the Apple is much easier and ten times faster than teaching them to do it with a clipboard and hundreds of index cards.”
+Silverstein’s uses for the Apple do not end in the uniform room. Silverstein is the president of his fraternity, Kappa Kappa Psi. He uses the Apple Writer text editor to send out letters and notices concerning meetings and activities to fraternity members.
+Computerist Scores with Apple. Dennis Hescox, a computer science major specializing in microcomputers, who works as a systems programmer during the summer, looks more at the potential musical capabilities of his Apple.
+“Sometimes several instruments will be playing the same melodic line, but each part is written separately with different notes. Since music is entirely mathematical, the Apple could make the appropriate transposition for each instrument, and then print out the part.” This would save hundreds of man-hours, as well as eliminate human mistakes.
+On the games side of his Apple, Hescox is a Scott Adams fanatic, having in his collection every offering from Scott Adams’ Adventure series.
+3-D Apple on DEC with Fortran. One serious computer buff is Calvin Mah, a
+sophomore who has had his Apple for about half a year. Unlike Silverstein or Hescox, Mah uses his Apple strictly for computer science applications. Mah’s system is hooked up to UCLA’s main computer on campus, the DEC 10, through a Novation Cat modem.
+Mah has neither a disk drive nor a language card; but through the modem he is able to program in Fortran, his preferred language. Mah’s current project involves three-dimensional plotting programs; in the future, he and Hescox plan to team up and develop their own compiler and interpreter.
+On the Road with Band and Aliens. In October, when the Bruins clashed with the Golden Bears of the University of California at Berkeley, the band took an Apple; and this time it had nothing to do with music.
+For the marching Bruins, the four-teen-hour bus ride to the Bay Area is usually highlighted by a “Rock, Paper, Scissors” tournament. This year, with the help of the Apple II Plus, a portable television, and an Apple Juice power supply, the tournament was Space Invaders, Asteroids in Space, Tranquillity Base, and the usual line of Pong-type games.
+Perhaps the band members could lend the football team one of their Apples to psych up for the game with a few rounds of Strategic Simulations' Computer Quarterback.	Hi
+The fourth member of UCLA’s band who owns an Apple wrote this article on it: he is the author, Matthew Yuen. Yuen, a senior prelaw major and alto sax player, interned as an editorial assistant at Softalk this past summer.
+
+ADVERTISERS INDEX
+
+Advanced Business Technology ......6
+ALF...............................43
+Automated Simulations.............7
+Axiom .......................Cover	2
+Continental Software ............36
+D.C. Hayes....................Cover	4
+Eaton............................ 40
+Edu-ware ........................21
+FSI...............................32
+Howard Software..................19
+Microlab.........................11,	33
+Muse .............................5
+On-Line Systems ....... 35, 37, 39, 41
+Quality Software .................17
+Rainbow Computing.................20
+Small Business Computer Systems ... 4
+Softape .................3, 4, 13, 42
+Software Publishing Corp....Cover 3
+Strategic Simulations............25
+Southwestern Data Systems........27
+Spectrum Software................28
+Syntauri, Ltd.....................9
+
+After you play the Temple of Apshai, you can play
+Sticks and Stones for free.
+Within the 200 rooms and catacombs of the Temple of Apshai, unfold treasures await you - the hero, All you have to do is elude, outsmart and outwit the beasts, monsters and demons lurking in the dark labyrinth. Spend minutes or hours on this role-playing fantasy - the boldest computer game in our Dunjonquest™ series.
+Now, when you order the "Temple of Apshai," you get the "Sticks & Stones" board game
+for no extra charge. In fact, if you're not satisfied with the "Temple of Apshai," you can return it within 10 days and still keep "Sticks & Stones!"
+But don't wait, this special offer is limited. (We'll also send
+you a catalog outlining our
+Automated Simulations, Department SO P.O. Box 4247,1988 Leghorn Street MountainView, California 94040
+Please send me the "Temple of Apshai" for:
+	Cassette ($24.95)	Disk ($29.95)
+TRS-80	□ 16K, Level II	□ 32K TRSDOS
+APPLE	Not available	□ 48K Applesoft In ROM
+PET	□ 32K	Not available
+(Add $1.00 shipping and handling charge; plus 6% or 61/2% tax for California residents.)		
+Name		
+Address		
+City, State. Zip		
+□ Check enclosed.	Charge to: □ VISA	□ MasterCard
+Amount $	#	Expiration date
+Or charge by phone: (800) 824-7888, operator 861. In California: (800) 852-7777, operator 861. If you prefer, call these numbers for a list of the computer stores near you.
+
+[END PAGE]

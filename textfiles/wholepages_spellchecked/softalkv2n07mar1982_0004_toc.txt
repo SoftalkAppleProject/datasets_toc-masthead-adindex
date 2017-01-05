@@ -1,0 +1,101 @@
+﻿MARCH 1982
+SOFTALK
+2
+
+Chairman	John Haller
+Publisher	Al Tommervik
+Editor	Margot Comstock Tommervik
+Managing Editor	Craig Stinson
+Art Director	Kurt A. Wahlner
+Editorial Associate	Jean Varven
+Special Assignments	Melissa Milich David Hunter Jonathan Miller
+Assistant Editor	Andrew Christie
+Proofreader	Harry McNeil
+Contributing Editors	
+Assembly Language	Roger Wagner
+Pascal	Jim Merritt
+Business	Peter Olivieri
+Apple CP/M	Greg Tibbetts
+Apple III	Taylor Pohlman
+Hardware	Jeffrey Mazur
+Applesoft	Doug Carlston
+Investing	Kenneth Landis
+Basic Solutions	Wm. V. R. Smith
+Special Projects	Greg Voss
+Associate Publisher	Mary Sue Rennells
+Circulation	Ron Rennells Robert Mann Hal Schick
+Circulation Assistants	Donna Siebert Dierdre Booth Mary Milam
+Systems	Wm. V. R. Smith Ken Williams Sam Pauley
+Promotion	Jo Hilliard
+Accounting	Evelyn Burke
+Office Manager	Nancy Oppenheim
+Advertising Coordinator	David Hunter
+Advertising Sales (213) 980-5074	David Hunter Jo Hilliard
+
+Cover photo courtesy of the United States Military Academy, West Point, New York. Design by Kurt Wahlner.
+Composition by Photographics, Hollywood, California. Printing by Volkmuth Printers, Saint Cloud, Minnesota.
+
+Apple and Applesoft are registered trademarks of Apple Computer Inc., Cupertino, California.
+
+UCSD Pascal is a trademark of the University of California at San Diego.
+
+VisiCalc is a trademark of Personal Software, Sunnyvale, California.
+
+SoftCard is a trademark of Microsoft, Bellevue, Washington.
+
+Softalk. Volume 2, Number 7. Copyright ® 1982 by Softalk Publishing Inc. All rights reserved. ISSN:0274-9629. Softalk is published monthly by Softalk Publishing Inc., 11021 Magnolia Boulevard, North Hollywood, CA 91801. Telephone: Business office, (213) 980-8074; editorial office, (213) 763-0978; circulation, (213) 980-8099. Second-class postage paid at North Hollywood, CA, and additional mailing offices.
+Postmaster: Send address changes to Softalk, 11021 Magnolia Boulevard, North Hollywood, CA 91601.
+Free Subscription: Complimentary for one year to all owners of Apple computers in the USA. If you own an Apple, but you've never received Softalk, send your name, address, and Apple serial number with a request for subscription to Softalk Circulation, 11021 Magnolia Boulevard, North Hollywood, CA 91601. Softalk is totally independent of Apple Computer Inc.; sending your warranty card to Apple Computer will not inform Softalk of your existence.
+Paid Subscription: After one free year, $24 per year without sponsor, $18 per year with sponsor. At the end of the free year, each subscriber will be notified; response is required only if you wish to continue receiving Softalk. Lack of response will be taken as your choice to discontinue the magazine. For multiple subscriptions, deduct $6 per subscription. Special rates for schools and libraries, $8; multiple subscriptions for schools and libraries, 38 each.
+Back Issues: $2 through February 1981; $2.50 from April 1981 through July 1981; $3.50 thereafter. November and December 1980 and January, February, March, September, and October 1981 are sold out. October 1980 and November 1981 are in short supply.
+Problems? If you haven’t received your Softalk by the fifteenth of the month, or if you have other problems with your subscription, Ron Rennells or Bob Mann can help out. Call (213) 980-8099.
+Moving? Send new address and old to Softalk Circulation, 11021 Magnolia Boulevard, North Hollywood, CA 91601; telephone, (213) 980-5099.
+
+THE FIRST GREAT APPLE TRIVIA CONTEST
+
+BY CHRISTOPHER U. LIGHT AND CHRIS LIGHT JR.
+
+What better way to celebrate the spring equinox than with a chance to win a second Apple disk drive? The Chris Lights, junior and senior, have collaborated on a very special Apple trivia quiz to make sure you’ll have earned the disk drive if you win it.
+You’ll have until June 15, 1982, to get your answers back to Softalk. Take care and be precise. In case of apparent ties, more precise answers will win over less precise answers before chance steps in.
+If no one gets all the answers to Ap-pletrivia correct, that entry with the most correct answers will win. In the case of a tie, the random number generator will be called into play. Second place winner may choose $50 worth of prizes from goods created by Softalk advertisers. Third, fourth, and fifth places each win an extra year's free subscription to Softalk. And don’t forget that all
+entrants are, by virtue of entering, entitled to subscribe to Softalk at the $18 sponsored rate.
+So fill out the entry form on this page and mail it and your answers—printed, computer printed, or typed, but legible— to Softalk Appletrivia, 11021 Magnolia Boulevard, North Hollywood, CA 91601.
+Name:_________________________________
+Address:______________________________
+City/state/zip:_______________________
+Phone:________________________________
+Dealer: ______________________________
+Now, with a new disk drive for the taking, here is the First Great Apple-trivia Contest.
+Although some of the questions appear to be devilishly hard—as they’re intended to be—all questions are in one way or another related to the Apple computer, peripheral hardware for it, software for it, or material written about it. All sources for the questions have been circulated nationally and have been generally available at one time or another. Just because you own an Apple, you’ll already know some of the answers. Other answers will require considerable effort. Good luck!
+1.	In The Prisoner, “The ...............
+Lives.”
+2.	Name the four creatures that attack you
+in Space Eggs.
+3.	What hue is lo-res color number 13?
+4.	What is the real golden apple in Beneath Apple Manor ?
+5.	What six cities must you defend in ABM?
+6.	The Pascal language is named after a famous matematician. What was his first name?
+7.	Who wrote "Alien Chopper Death: the Sound of Venusian ‘Helicopters’ Destroying New York City May 12, 1983”?
+8.	Who is the author of the book carried by the girl you meet in "Encounter in the Park"?
+9.	What symbol does Apple Writer use to indicate that the next letter entered will be printed in upper case?
+10.	In what direction does Idiot’s Delight rotate?
+11.	On the Apple bus, what voltage does pin number 33 carry?
+12.	What two symbols are introduced by AppleWriter Extended?
+13.	Who are Steve Wozniak and Steve Jobs?
+14.	What vehicles pass you in Autobahn?
+15.	Romanga is one of six cities. What are the names of the other five?
+16.	How many receptor slots are there in The Great American Probability Machine?
+17.	What program will do both differential and integral calculus?
+18.	What tune does the Lemonsville weather report play for hot and dry weather?
+19.	What color is the bull in Cranston Manor?
+20.	Star Trek has Klingons. What does Apple-Trek have?
+21.	What is the title of Lauren Radner’s cover drawing for volume 1, issue 2, of Micro Media Magazine ?
+22.	What does the vending machine in Cyborg sell?
+23.	"A Girl’s Best Friend" is.......?
+24.	Describe the wizard's appearance in
+Hi-Res Adventure #2: The Wizard and the Princess.
+25.	What is the name of Admiral Wormwood's flagship?
+26.	How many harmonics can the Music-System’s instrument definer assign to a single wave form?
+27.	What is semipro offensive play number 13 in Computer Quarterback?
+28.	What is the value of treasure number 20
+in Temple of Apshai?

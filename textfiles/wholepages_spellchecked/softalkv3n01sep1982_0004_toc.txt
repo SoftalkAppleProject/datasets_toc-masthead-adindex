@@ -1,0 +1,90 @@
+﻿SEPTEMBER 1982
+SOFTALK
+2
+
+Chairman	John Haller
+Publisher	Al Tommervik
+Editor	Margot Comstock Tommervik
+Art Director	Kurt A. Wahlner
+Managing Editor	Pat Ryall
+Associate Editors	Jean Varven Andrew Christie
+Newspeak Editor	David Hunter
+Special Assignments	Jonathan Miller Jim Salmons Dave Fitzgerald
+Open Discussion	Tommy Gear
+News and Trade Editor	Matthew T. Yuen
+Assistant Editors	Michael Ferris David Durkee
+Proofreader	Harry McNeil
+Contributing Editors	
+Assembly Language	Roger Wagner
+Pascal	Jim Merritt
+Business	Peter Olivieri
+Apple CP/M	Greg Tibbetts Taylor Pohlman
+Apple III	
+Hardware	Jeffrey Mazur
+Applesoft	Doug Carlston
+Investing	Kenneth Landis
+DOS	Bert Kersey
+Graphics	Mark Pelczarski
+Financial Modeling	Joe Shelton
+Beginners	Christopher U. Light
+Basic Solution	Wm. V. R. Smith
+Associate Publisher	Mary Sue Rennells
+Accounting	Evelyn Burke
+Purchasing	Steven M. Poncar
+Assistant to the Publisher	Dan Yoder
+Advertising	
+West Coast Sales	Softalk 11021 Magnolia Boulevard Box 60 North Hollywood, CA 91603 (213)980-5074
+East Coast Sales	Paul McGinnis Paul McGinnis Company 60 East 42nd Street New York, NY 10017 (212) 490-1021
+Midwest and Rocky Mountain Sales	Ted Rickard John Sienkiewicz Market/Media Associates 435 Locust Road Wilmette, IL 60091 (312)251-2541
+Accounting Assistant	Mary Milam
+Book Sales	Lois Stickelmaier
+Circulation	
+Trial Subscriptions	Hal Schick Dierdre Booth Judy Weinstein
+Paid Subscriptions	Pam Kelley
+Dealer Sales	Donna Siebert
+Back Issues	Ron Rennells
+List Maintenance	Pat Adams Harry Richardson
+Systems	Sam Pawley
+Guest Reviewers: Roe R. Adams III, Dave Albert, Samantha Good, John R. Hall, Jock Root, R. Jon Ruppert.
+
+Cover Photo: The 1982 World’s Fair in Knoxville, Tennessee. Photo by Jim Salmons.
+Composition by Photographics, Hollywood, California. Printing by Volkmuth Printers, Saint Cloud, Minnesota.
+
+Apple and Applesoft are registered trademarks of Apple Computer Inc., Cupertino, California.
+
+UCSD Pascal is a trademark of the University of California at San Diego.
+
+VisiCalc is a trademark of VisiCorp, San Jose, California.
+
+SoftCard is a trademark of Microsoft, Bellevue, Washington.
+
+GraForth is a trademark of Insoft Inc., Portland, Oregon.
+
+Softalk. Volume 3, Number 1. Copyright ® 1982 by Softalk Publishing Inc. All rights reserved. ISSN:0274-9629. Softalk is published monthly by Softalk Publishing Inc., Box 60, North Hollywood, CA 91603; telephone (213) 980-5074. Second-class postage paid at North Hollywood, CA, and additional mailing offices.
+Postmaster: Send address changes to Softalk, Box 60, North Hollywood, CA 91603.
+Free Subscription: Complimentary trial subscription to all owners of Apple computers in the USA. If you own an Apple, but you’ve never received Softalk, send your name, address, and Apple serial number with a request for subscription to Softalk Circulation, Box 60, North Hollywood, CA 91603. Softalk is totally independent of Apple Computer Inc.; sending your warranty card to Apple Computer will not inform Softalk of your existence.
+Paid Subscription: $24 per year without sponsor, $18 per year with sponsor. At the end of trial period, each subscriber will be notified; response is required only if you wish to continue receiving Softalk. Lack of response will be taken as your choice to discontinue the magazine. Special rates for schools and libraries, $8; multiple subscriptions for schools and libraries, $5 each.
+Back Issues: $2 through February 1981; $2.50 from April 1981 through July 1981; $3.50 thereafter October, November, and December 1980 and January, February, March, September, October, and November 1981 are sold out.
+Problems? If you haven’t received your Softalk by the fifteenth of the month, or if you have other problems with your subscription, Pam Kelley or Hal Schick can help out. Call (213) 980-5074.
+Moving? Send new address and old to Softalk Circulation, Box 60, North Hollywood, CA 91603; telephone (213) 980-5074.
+
+CONTEST:
+The Great
+Name-the-Shape
+Table
+Game
+
+Well, summer’s over and it’s time for the kids to get back to school, grown-ups to get back to work, and everyone to get back around the television for weekend football excitement on the gridiron.
+And speaking of grids, look at the one on this page; pretty dull, isn’t it? Now look at pages 144 and 145 in this issue. What you see there are shapes of items you might find around the house, in your Apple, or pretty much anywhere. Some of them are darn obvious, others are not so obvious. Aha! Instant contest.
+Your task this month is to figure out what in the world those shapes are. Study the silhouettes on pages 144 and 145. Each one has a corresponding number on the dull-looking grid on this page. After deciding what the shapes represent, write down your answers on a piece of paper numbered from 1 to 92.
+The person who correctly identifies the most shapes will win absolutely nothing. However, that person will be entitled to select $100 worth of Softalk advertisers’ products for his Apple. In case of a tie, the random number generator is
+also back from vacation to help decide the winner. Have fun!
+Name:_________________________________________
+Address:______________________________________
+City/State/Zip:_______________________________
+Phone:___________________________________
+If I win, may I please have:__________________
+My dealer’s name:_____________________________
+My dealer’s phone number._____________________
+My signature:_________________________________
+Send this entry or a facsimile with your answers to Softalk Shapes, Box 60, North Hollywood, CA 91603, by October 15, 1982.

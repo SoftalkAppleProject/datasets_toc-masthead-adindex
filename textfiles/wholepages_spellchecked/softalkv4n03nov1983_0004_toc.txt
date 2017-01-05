@@ -1,0 +1,84 @@
+﻿NOVEMBER 1983
+SOFTALK
+
+Exec Avant-Garde Creations:
+The Dynamic Zone
+Company profile. These folks up Oregon way began by publishing their ideas. Now they're successful software publishers and enjoying the turn of events.
+HARTLEY LESSER.............66
+
+The Public Domain of CP/M Software
+If you're itching to race your Z-80 (card), there are many roads (CP/M-80 programs) to explore.
+C.J. THOMPSON ...........104
+
+Adventures with WPL
+Kids like to have fun while they're learning. With Apple Writer and its Word Processing Language, it's easy to make interactive adventure stories.
+THOMAS R. MIMLITCH ... 130
+
+The Crime-Fighting Apple
+The New Bedford Police Department was having trouble solving a rash of burglaries. Then it brought an Apple onto the force and the situation improved.
+GREG STONE...................168
+
+The $64K Question—Are You Hip to Computerese?
+A short quiz for all of you who still think you’re computer-illiterates.
+W.R. BOONE...................196
+
+Backtalk
+Updates on Interactive Structures and the HEFLEX Spacelab experiment scheduled for the latest shuttle flight.
+TOMMY GEAR..................200
+
+DOS Files, Part Two:
+Filing Made Easy
+The second half of everything you wanted to know about random access and sequential text files.
+CHRISTOPHER U. LIGHT. . 216
+
+Taking It to the Streets
+The gang's all here. Ida Mae Sydnor and friends, Apples, and a lot of love are transforming the mean streets of Sacramento, California.
+MELISSA MILICH................232
+
+DEPARTMENTS
+
+Advertisers' Index.....................Opposite Page
+Basic Solution, by Wm. V.R. Smith
+Pie chart routine................ 198
+Beginners’ Corner, by Matt Yuen
+Formatting disks and using CopyA ...............111
+Bestsellers.........................................329
+Buttonwood Apples, by Ken Landis
+Dow Jones averages, Market Technician...........147
+Contest: Guess Who’s Coming to Dinner
+Chase the turkey around the board . ....	... 4
+Contest Winners
+Results of August’s Help Wanted contest............6
+DOStalk, by Tom Weishaar
+New DOS manuals, ProDOS, and the file manager. . 259 
+Everyone’s Guide to Assembly Language, by Jock Root
+Ampersand string selector........................119
+Fastalk
+A quick guide to new and classic releases	.15
+Follow the Floating Point, by David Durkee
+Enhancing the random number guessing game	297
+The Graphics Page, by Bill Budge
+De-Wozzing the Apple II...........................97
+If Then Maybe, by the Softalk Sages
+Experts answer readers' questions, maybe...........56
+Keys to the World, by Matt Yuen
+Apple bulletin board systems.......................225
+Marketalk News
+Announcing new products and services.............161
+Marketalk Reviews.....................................178
+Mind Your Business, by Peter Olivieri
+The Apple III, databases, and business news......241
+Open Discussion
+Readers talking to readers talking to readers......43
+The Pascal Path, by Jim Merritt
+INTRINSIC UNITs, CharTools, the Library............205
+Schoolhouse Apple, by Jock Root
+All about tutorial software, education news,
+and a Logo tutorial by Donna Bearden................75
+llnd Grade Chats, by Ray Balbes
+Stringing variables along.......................... 86
+SoftCard Symposium, by Greg Tibbetts
+The last word on BIOS disk I/O routines............273
+Tradetalk
+Industry news......................................127
+Ventures with VisiCalc, by Joe Shelton, will return next month.

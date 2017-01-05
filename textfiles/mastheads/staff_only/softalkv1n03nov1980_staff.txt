@@ -1,0 +1,19 @@
+﻿POSITION	NAME 
+Chairman	John Haller
+President	Margot Comstock Tommervik
+Vice-President	Allan Tommervik
+Vice-President	William Depew
+Treasurer	William V. R. Smith
+Secretary	John Mitchell
+Editor	Margot Comstock Tommervik
+Technical Editor	Bill Depew
+Contributing Editor	Roger Wagner
+Contributing Reviewers	John Haller, Don Bostrom
+Art Director	Kurt A. Wahlner
+Business Manager	William V. R. Smith
+Operations Manager	John Mitchell
+Production and Marketing	Al Tommervik
+Editorial Assistant	Bob Koehler
+Circulation	Carmen Cowper
+Advertising Sales	Bill Smith, Al Tommervik, Margot Tommervik
+

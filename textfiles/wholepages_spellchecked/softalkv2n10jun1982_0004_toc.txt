@@ -1,0 +1,106 @@
+﻿JUNE 1982
+SOFTALK
+2
+
+Chairman	John Haller
+Publisher	Al Tommervik
+Editor	Margot Comstock Tommervik
+Art Director	Kurt A. Wahlner
+Associate Editor	Jean Varven
+Assistant Editors	Andrew Christie Michael Ferris
+Special Assignments	David Hunter Melissa Milich Jonathan Miller
+Open Discussion	Tommy Gear Harry McNeil
+Proofreader	
+Editorial Assistant	Karen Kleiner
+Contributing Editors	
+Assembly Language	Roger Wagner
+Pascal	Jim Merritt
+Business	Peter Olivieri
+Apple CP/M	Greg Tibbetts
+Apple III	Taylor Pohlman
+Hardware	Jeffrey Mazur
+Applesoft	Doug Carlston
+Investing	Kenneth Landis
+DOS	Bert Kersey
+Graphics	Mark Pelczarski
+Financial Modeling	Joe Shelton
+Beginners' Corner	Craig Stinson
+Basic Solutions	Wm. V. R. Smith
+Guest Reviewers	Roe Adams Christopher U. Light Steven M. Poncar Jock Root
+Art Assistant	Mark Wilber Kevin McKeon
+Associate Publisher	Mary Sue Rennells
+Accounting	Evelyn Burke
+Production Coordinator	Elaine Cohen
+Purchasing	Nancy Oppenheim
+Advertising West Coast Sales	Jo Hilliard Softalk 11021 Magnolia Boulevard North Hollywood, CA 91601 (213) 980-5074
+East Coast Sales	Paul McGinnis Paul McGinnis Company 60 East 42nd Street New York, NY 10017 (212) 490-1021
+Midwest and Rocky Mountain Sales	Ted Rickard John Sienkiewicz Market/Media Associates 435 Locust Road Wilmette, IL 60091 (312) 251-2541
+Book and Poster Sales	Mary Milam
+Circulation	
+Back Issues	Ron Rennells
+Dealer Sales	Robert Mann
+Trial Subscriptions	Hal Schick
+Paid Subscriptions	Dan Yoder
+Assistants	Donna Siebert Dierdre Booth Lois Stickelmeier Judy Weinstein Pam Kelley
+Systems	Wm. V. R. Smith Ken Williams Sam Pawley
+
+Cover: Richard Bach on a northern beach. Photo by Maggie McGurk; design by Kurt Wahlner.
+Composition by Photographics, Hollywood, California. Printing by Volkmuth Printers, Saint Cloud, Minnesota.
+
+Apple and Applesoft are registered trademarks of Apple Computer Inc., Cupertino, California.
+
+UCSD Pascal is a trademark of the University of California at San Diego.
+
+VisiCalc is a trademark of VisiCorp, Sunnyvale, California.
+
+SoftCard is a trademark of Microsoft, Bellevue, Washington.
+
+Softalk. Volume 2, Number 10. Copyright © 1982 by Softalk Publishing Inc. All rights reserved. ISSN:0274-9629. Softalk is published monthly by Softalk Publishing Inc., 11021 Magnolia Boulevard, North Hollywood, CA 91601; telephone, (213) 980-5074. Second-class postage paid at North Hollywood, CA, and additional mailing offices.
+Postmaster; Send address changes to Softalk, 11021 Magnolia Boulevard, North Hollywood, CA 91601.
+Free Subscription: Complimentary trial subscription to all owners of Apple computers in the USA. If you own an Apple, but you’ve never received Softalk, send your name, address, and Apple serial number with a request for subscription to Softalk Circulation, 11021 Magnolia Boulevard, North Hollywood, CA 91601. Softalk is totally independent of Apple Computer Inc.; sending your warranty card to Apple Computer will not inform Softalk of your existence.
+Paid Subscription: $24 per year without sponsor, $18 per year with sponsor. At the end of the trial period, each subscriber will be notified; response is required only if you wish to continue receiving Softalk. Lack of response will be taken as your choice to discontinue the magazine. Special rates for schools and libraries, $8; multiple subscriptions for schools and libraries, $5 each.
+Back Issues: $2 through February 1981; $2.50 from April 1981 through July 1981; $3.50 thereafter. October, November, and December 1980 and January, February, March, September, October, and November 1981 are sold out.
+Problems? If you haven’t received your Softalk by the fifteenth of the month, or if you have other problems with your subscription, Dan Yoder or Hal Schick can help out. Call (213) 980-5099.
+Moving? Send new address and old to Softalk Circulation, 11021 Magnolia Boulevard, North Hollywood, CA
+91601; telephone, (213) 980-5099.
+
+Contest
+_______
+Famous Apples in History
+
+Luisa Puig, the computer operator who plays Queen Elizabeth I in the Renaissance Pleasure Faire in California, suggested recently that if Queen Bess had been told about microcomputers, “The first thing she would have asked is how much does it cost and what does it do? She was a very executive woman. If someone could prove that computers would be much more cost effective for the royal scribes and mathematicians, she would have wanted at least three—two for the palace and one for Lord Burley, the treasurer.
+“Elizabeth would have done just fine in a corporate job in this century.”
+Now, if Puig had quoted Liz instead of telling about her, and if she’d thrown in an Elizabethan dialect and maybe put it all in iambic pentameter, she’d have an ideal entry for this month’s Softalk contest.
+Famous Apples in History challenges you to imagine an encounter between some famous person in history and an Apple, where the Apple and its accouterments (software, for example) are the only anachronisms in the situation. Write down what the famous person would have said in your imaginary situation, and try to make the quotation appropriate to the era and circumstance; finally, try to make it possible to guess from the quote who’s speaking.
+Length is up to you, so long as it’s no more than a page, double-spaced. One line is plenty, if it fills all the requirements.
+Here are some examples; who they represent is printed upside down at the bottom of this page.
+1.	“Contrary to what I have proclaimed, I see the Almighty has made a set of men that do all the eating and none of the work, and has made them with mouths only and no hands!”
+2.	COMMAND? IGNITE ROMA
+YOU DON’T HAVE ANY MATCHES COMMAND? ACQUIRETE IGNIUM
+OK
+COMMAND? IGNITE ROMA OH WHY DON’T YOU GO PLAY YOUR VIOLIN?
+3.	"Boot up my campaign again and see what happens if the second army takes the left flank, the third the rear,
+and . . .”
+4.	Heard during a nineteenth-century game of Computer Bismarck: “Damn the torpedos! Full speed ahead!”
+5.	“So this is the Apple that fell on Isaac’s head. No wonder he’s been so down to earth lately.”
+6.	To boot or not to boot: that is the
+question:
+Whether ’tis nobler in the mind to suffer
+The slings and arrows of syntax error, Or to take reset against a break in 512 And by opposing crash them.
+7.	He lit a cigarette.
+The thing would not boot. Its time of booting was over. He remembered the times before. They were happy times. It had booted everything he had. It had been young and strong and its chips were clean and they worked quietly and well, with no smoke. It was old now. Those times were past. "I am sorry, machine,” he said. “Tomorrow I must trade you. It is all that is left.” The machine said nothing. A light rain was falling. It began to rust.
+Entries will be judged by historical ring of truth, probability, wit, and general quality of method of meeting requirements.
+Include the name of the famous person you’re quoting on your entry in case we're dense.
+$100 worth of Softalk advertisers’ products is the first-place prize. Two runners-up will win $25 gift certificates at their local computer stores.
+Fill out the entry form or a facsimile and send it with your entry on a separate but-attached piece of paper to Softalk History, 11021 Magnolia Boulevard, North Hollywood, CA 91601. Deadline is July 16, 1982. Every entry must have the entry form information on it or with it and there may be no more than ten entries per envelope.
+
+Name:
+Address:_______________________________
+City/State/Zip:________________________
+Telephone:_____________________________
+Prize you’d like:----------------------
+Your dealer:---------------------------
+Your autograph:------------------------
+Mail with your entry to Softalk History, 11021 Magnolia Boulevard, North Hollywood, CA 91601, no later than July 16,
+1982.
+Answers to samples: (1) Abraham Lincoln; (2) Nero; (3) Napoleon; (4) Admiral Nelson; (5) Isaac Newton's mother; (6) Shakespeare; (7) Ernest Hemingway.

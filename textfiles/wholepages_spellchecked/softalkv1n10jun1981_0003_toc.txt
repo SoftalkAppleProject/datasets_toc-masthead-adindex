@@ -1,0 +1,124 @@
+﻿JUNE 1981
+SOFTALK
+
+Chairman	John Haller
+Editor	Margot Comstock Tommervik
+Managing Editor	Al Tommervik
+Associate Editor	Craig Stinson
+Art Director	Kurt A. Wahlner
+Contributing Editors	Roger Wagner, Jim Merritt, Peter Olivieri, Frank Malone, William Depew
+Assistant Editor	Robert Koehler
+Operations	Mary Sue Rennells
+Production	Bill Barrett
+Administrative Assistant	Kimberly Curling
+Circulation	David Hunter Ron Rennells
+Systems	William V. R. Smith
+Advertising Sales (213) 980-5074	Al Tommervik Margot Tommervik
+
+Cover photo of Apple president Mike Markkula by Kurt Wahlner.
+
+Composition by Photographics Hollywood, California. Printing by California Offset Printers, Glendale, California.
+
+Apple is a registered trademark of Apple Computer Inc., Cupertino, California. UCSD Pascal is a trademark of the University of California at San Diego. VisiCalc is a trademark of Personal Software, Sunnyvale, California.
+
+Subscriptions: Complimentary to all owners of Apple computers in the USA. Multiple or non-Apple-owner subscriptions for one year: one, $10; two through five, $8 each; more than five, $6 each.
+Back Issues: $2 through February 1981; $2.50 thereafter. November and December 1980 issues are sold out. January and March 1981 are in short supply.
+Moving? Send new address and old to Softalk Circulation, 11021 Magnolia Boulevard, North Hollywood, CA 91601; telephone, (213) 980-5099.
+
+Softalk, Volume 1, Number 10. Copyright (c) 1981 by Softalk Publishing Inc. All rights reserved. ISSN:0274-9629. Softalk is published monthly by Softalk Publishing Inc., 11021 Magnolia Boulevard, North Hollywood, CA 91601, telephone, (213) 980-5074. Controlled circulation postage paid at Los Angeles, CA. Postmaster; Send address changes to Softalk, 11021 Magnolia Boulevard, North Hollywood, CA 91601.
+
+ADVERTISERS INDEX
+
+Advanced Business Technology..............44
+Artsci ...................................78
+Aurora ...................................25
+Avant-Garde...............................27
+Axiom.....................................46
+Beagle Bros...............................11
+Bite-Soft................................52
+The Book 1981 ............................54
+Broderbund Software.......................32
+BudgeCo...................................82
+California Pacific.................Cover 2
+Compdent ..................................8
+Computer Station......................73,	75
+Continental Software ....................36
+Co-op Software ..........................14
+Creative Computing .......................10
+Dakin5....................................15
+Data Transforms..........................26
+Edu-Ware .................................41
+FSI.......................................40
+GS Computer Enterprises .................20
+Highlands Computer Services.............. 9
+High Technology...........................83
+Howard Software...........................29
+Innovative Design Software................55
+Intelligent Computer Systems ............16
+Interactive Microware.................24,	50
+Math City ................................79
+MicroCom..................................67
+Micro Lab.........................17, 19, 21
+Micromate.................................66
+Microsoft................................30
+Micro-Ware Distributing...................74
+Moneydisk.................................48
+MUSE Software ................. 12, 33, 60, 64
+Mytopia Software Institute ................7
+On-Line Systems..............61, 81, Cover 4
+Rainbow Computing.........................18
+RTR Market Charter........................56
+Sirius Software.............45, 47, 49, 51, 53
+Softape...................................68
+Softsel................................... 6
+Software Publishing Corp.................. 3
+Software Technology for Computers.........57
+Sophisticated Microsystems ..............31
+Southwestern Data Systems ................69
+Spectrum Software ........................13
+Stellation Two............................39
+Stoneware.........................28, 65, 77
+Strategic Simulations..............Cover 3
+Street Electronics ......................72
+Synergistic Software..................37,	70
+United Software of America.............42-43
+
+CONTENTS
+
+Exec Apple: New President Mike Markkula
+AL TOMMERVIK.........................4
+
+Fair Days........................................22
+
+At 3.3, VisiCalc Spawns a Family .......................31
+
+An Apple for Leslie
+MELISSA MILICH...........................34
+
+Going Forth
+CRAIG STINSON....................38
+
+FEATURES
+
+SPECIAL: Expanded Summer Computing Marketalk Reviews...................48
+DEBUT: Mind Your Business, Introduction................PETER OLIVIERI 59
+The Miraculous Modem, Part 3.............................JEFF MAZUR 66
+DEBUT: Beginners' Corner............................CRAIG STINSON 71
+The Double Life of Lord British........................................80
+
+DEPARTMENTS
+
+More Unknowns: Contest.........................2
+Straightalk....................................7
+Open Discussion................................8
+Basic Solution: William V. R.	Smith ..........14
+Assembly Lines: Roger Wagner..................16
+Ventures with VisiCalc: Otto K. Wetzel, Jr. . 26
+Marketalk: News..................................44
+Tradetalk........................................60
+The Pascal Path: Jim Merritt.....................74
+Softalk Presents the Bestsellers ................83
+
+PREVIEWS
+
+Sizzling July . . . Exec Strategic Simulations . . . T-Shirt Country, Computer-Style . . . Are you ready for a hard disk drive? . . . And more . . .

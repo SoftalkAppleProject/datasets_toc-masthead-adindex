@@ -1,0 +1,198 @@
+﻿MAY 1982
+SOFTALK
+
+INDEX OF ADVERTISERS
+
+Accent ............................ 17
+Advanced Business Technology ...... 31
+Advanced Logic ................... 216
+Adventure International.....93, 174, 175
+Alpha Logic ...................... 159
+American Software House.............77
+Anthro-Digital Software .......... 155
+Applefest ......................56, 57
+Applied Software ................. 166
+Atlantic Cabinet .................. 12
+Avant-Garde ........... 78, 103, 128, 182
+Axlon ............................ 209
+Beagle Bros ........................59
+Bit 3 ............................ 192
+Bite-soft ........................ 225
+The Book 1982 .................... 125
+Brillig ........................... 32
+Broderbund ........................ 26
+BudgeCo ........................... 73
+Business & Professional Software .... 30
+Calsoft .......................... 164
+Cavalier .......................3, 228
+CE Software .....................  147
+C & H ............................ 213
+Classified Ads .................108, 109
+Comark ............................ 66
+Compufun .......................... 38
+Computer Camp ..................... 79
+Computerized Management Systems .200
+Computer Station ...............121, 130
+Continental Software ............. 185
+Corona Data Systems ............10, 11
+Crane Software ................... 203
+DataMost .......................165, 188
+Data Security Concepts..............24
+Data Transforms .................. 154
+Decision Support ................. 210
+Diversified Software Research....... 4
+Double Gold ...................... 202
+Dow Jones ......................... 13
+Edu-Ware Services ................. 41
+Electrohome Electronics .......... 168
+Expotek ........................... 15
+FMJ .............................. 205
+FSI ............................... 16
+Garbo Software .................... 98
+Gebelli Software ................. 139
+Gnosis ............................ 49
+Gold Disk Software ............... 141
+Great Lakes Digital ............   173
+Great Plains Software ............. 84
+Happ ............................. 156
+Hewlett Packard ................... 47
+Highlands Computers .............. 197
+High Technology Software ......... 157
+Howard Software ................... 28
+Human Systems Dynamics ............ 95
+Individualized Operand ........... 105
+Infocom ........................... 27
+Information Unlimited Software .... 163
+IDSI .................... 64, 134, 190
+Insoft ............................ 74
+Interactive Fantasies...........21, 50
+Interactive Microware ............ 212
+Kensington Microware ..... 218, 219, 221
+Keyboard Company .............127,	129
+Krell Software ..................... 39
+Last Electronics .................. 211
+Lazer Systems ...................... 25
+Lightning Software ................ 227
+Link Systems ....................... 96
+LJK Enterprises .................... 99
+Lobo Drives ........................ 75
+L & S Computerware ................. 19
+Masterworks Software .............. 181
+Microcom ............................ 5
+Micro Co-op ....................... 189
+Micro D ........................... 222
+Micro Lab ................ 135, 142, 143
+Microsoft ......................44,	160
+Microstand ........................ 208
+Mind Systems ....................... 20
+Muse Software ............ 69, 81, 83, 85
+Novation ........................22, 23
+Omega ..........................82,	170
+On-Line .............. 111-118, Cover 4
+Orange Micro ....................... 61
+Pascal Systems.......................53
+Penguin Software .................. 226
+Phoenix Software .................. 178
+Picadilly ......................... 199
+Practical Peripherals ...........6, 7
+Prometheus ........................ 150
+Rainbow Computing ................. 223
+RH Electronics .................... 184
+Riverbank Software ....................88
+Saturn .............................. 191
+Sensible Software ............. 107,	224
+Sentient Software .............89, 91
+Sirius Software ................... 33-35
+SirTech .............................. 14
+Softalk.................... 92, 169, 183
+Softape ............................. 193
+Softdisk ............................ 133
+Softech Microsystems ................ 101
+Softronics .......................... 179
+Software Publishing Corporation . Cover 2
+Software Source ..................... 122
+Sorrento Valley Associates .......... 177
+Southern Calif. Research ...... 120,	201
+Southwestern Data Systems ............ 18
+Southwest Microcomputer ............. 162
+Spectrum Software ..............67,	 126
+SSM Microcomputer .................... 94
+Strategic Simulations ......... Cover 3
+SubLogic ......................123, 204
+Synergistic Software ...... 62, 196, 214
+Syntauri ....................... •	•	124
+TG Products............. 40, 10	106, 119
+Thunderware .........................  71
+USE .................................  37
+Vista Computer......................  206
+Vital Information ................... 131
+Voice Tech Industries ................153
+Window .............................. 104
+Yucaipa Software .................... 161
+
+CONTENTS
+
+Exec Synergistic: An Odyssey to Apventure
+With Wilderness Campaign in 1979, Bob Clardy established himself as a leader in Apple hi-res fantasyland.
+DAVID HUNTER.................. 42
+
+Softrek: How Software Is Born and Raised
+Journey with Broderbunders and Penguins as they create programs and companies; then hear a distributor's advice for getting started.
+DALE ARCHIBALD .............. 54
+
+Word Processors: Zardax Works for Social Services
+Oregon organization uses Australian word processor with ease and great results.
+JONATHAN MILLER............ 80
+
+The Horses' Apple
+When trainer Darrell Vienna brought an Apple to the barn, everything went faster—even the horses.
+ROSS NEWHAN .............. 86
+
+Fritz the Cat Has an Apple III
+Have you ever seen anything like the enthusiasm and esprit de corps of microcomputer enthusiasts?
+Phillip Good thinks he has—in the turbulent sixties.
+PHILLIP GOOD.....................136
+
+Have You Ever Seen a Gideon Apple?
+Drawing on much research from the past and adding painstaking study of their own, a former Intel president and his colleagues have put the entire Bible on disk.
+DAVID HUNTER................186
+
+FEATURS
+
+Debut: Fastalk—Currently active software plus classics
+listed in easy-to-use look-up section ............................... 8
+Debut: The Schoolhouse Apple—Apples in education......... JEAN VARVEN 36
+Horses Don't Take Weekends ...........MARGOT COMSTOCK TOMMERVIK 88
+Take Me to the Fair: West Coast Computer Faire...........TOMMY GEAR 144
+A E I O U Can Have a Talking Apple Too:
+Speech synthesizers.................................. ALLEN MUNRO 148
+When Apple Speaks, Who Listens? ....................... MELISSA MILICH 148
+Debut: Graphically Speaking—Tutorial on Basic graphics . MARK PELCZARSKI 167 Computer Camps: Now there are several to choose from ..JANE CANTILLON 194
+
+DEPARTMENTS
+
+Contest: Dig the Decades ....................... 2
+Contest Winners................................. 4
+Open Discussion................................ 12
+Mind Your Business, by Peter Olivieri...........29
+The Pascal Path, by Jim Merritt ................48
+Third Basic, by Taylor Pohlman .................63
+All About Applesoft, by Doug Carlston.........72
+Tradetalk.......................................76
+Newspeak .......................................95
+Marketalk News .................................97
+Basic Solution, by William V. R. Smith..........110
+Marketalk Reviews...............................119
+DOStalk, by Bert Kersey.........................132
+Ventures with VisiCalc, By Joe Shelton..........158
+Assembly Lines, by Roger Wagner.................176
+Beginners' Corner, by Craig Stinson.............198
+SoftCard Symposium,
+by Greg Tibbetts.............................207
+Hardtalk, by Jeffrey Mazur .....................215
+Bestsellers.....................................223
+Newspeak Bulletin: Apple/Computerland Split.........171
+
+IN NEXT M O N T H'S SOFTALK
+
+June Jumbucks . . . Bestselling Author with Apple: Richard Bach . . . Who Is Rocky Clark? . . . Exec Interactive Structures . . What Does Apple Do with Apples? . . . Visit with Author-Turned-Programmer Michael Berlyn .. . Counting with Colors on Apple III . Word Processing with ScreenWriter II . . . and more.

@@ -1,0 +1,228 @@
+﻿SOFTALK
+
+INDEX OF ADVERTISERS
+
+ABT Microcomputer Software . .232
+Accessory III..................249
+Accessory Products Company.....6
+Advanced Software Technology .. .87
+Adventure International __169,243
+Alpha Byte Computer Products. .168 
+Alpha Logic Business Systems . .134
+Animation Graphics........51, 241
+Anthro-Digital Software.......149
+Apple Computer.....28-29,144-145
+Applied Analytics ............140
+Artra Inc.....................151
+Artsci .......................123
+Avant-Garde Creations..... 132,222
+Aviation Services Limited......70
+BASF .........................109
+Beagle Bros...............212,221
+Bible Research................203
+The Boston Company............240
+Broderbund Software ..........250
+BudgeCo.........................3
+Business Computer Center......195
+Business Solutions............185
+Calsoft ......................214
+Cdex Corporation...............90
+Classified Ads..............44-46
+Commsoft.......................59
+CompuShack ....................37
+Computer Advanced Ideas........17
+Computer Tax Service..........228
+Computer Works ................35
+Consultant Systems............231
+Continental Software .. .107, 182, 218
+Control Data..................96-97
+Corona Data Systems...............8
+Craftsbury Software..............66
+Creative Computer Products______204
+Creative Computers..............139
+Creative Software...............197
+Data Terminals &
+Communications...............156
+DataMost......................20,21
+David Data.......................11
+Decision Support Software.......192
+Design Trends...................233
+Desktop Solutions...............184
+Diversified Software
+Research.....................224
+Doss Industries ................138
+Double-Gold......................69
+Dow Jones Software...............58
+Edu-Ware Services....... 98,206-207
+Einstein Corporation.............53
+Evergreen Data Systems..........213
+Evergreen Micros ................95
+Financial Software ..............61
+FlipTrack Learning Systems......93
+Foxware Products.................60
+Frobco...........................68
+Futra Company...................155
+Gold Disk Software .............178
+Gourmet Software................251
+Happ Electronics................194
+Hayden Software .. .114, 136-137, 216
+Highlands Computers.............104
+High Order Micro Electronics___230
+Howard Software
+Services................Cover 2
+Howard W. Sams Co................27
+Human Systems Dynamics..........115
+Intelligent Statements...........34
+Interactive Microware........62,141
+Interactive Structures.......71,189
+Kensington Microware..........24-25
+Krell Software....................4
+Last Electronics................215
+The Learning Co.................105
+Lightning Software..............100
+Metamorphic Systems Inc.........113
+Micro Co-op ....................227
+Micro D.........................248
+Micro Lab .......................10
+Micro Magic.....................255
+Microsoft.............. 120,162-163
+MicroStand .....................110
+Microtek.........................84
+Mimco...........................256
+Morgan Computing................142
+Morningstar.....................166
+Muse Software...................126
+National Software...............159
+Nonagon.........................180
+Northeast Expositions...........225
+Odesta Publishing...............128
+Omega Microware..................64
+Orange Micro ...............116-117
+Penguin Software ..............5,254
+Personal Computer Products	.... .74
+Practical Peripherals..............7
+Professional Data Systems.........36
+Proforma Software.................43
+Prometheus Products .............161
+Quality Software.................253
+Quark Engineering ...............193
+RH Electronics................55,235
+Rainbow Computing ... 124,147,176
+Satori Software...................39
+Sensible Software ................83
+Sierra On-Line..........57, Cover 4
+Silicon Valley
+Systems...... 175,177,179,181,183
+Sirius Software.............Cover 3
+Sir-tech Software................247
+Smith Micro Software..............67
+Softalk ......................32,219
+Softdisk..........................44
+SofTech Microsystems..............42
+Softronics.......................152
+Softstalker ......................54
+Software by H....................245
+Software Dimensions..............125
+Software Masters .................79
+Software Productions.............234
+Software Publishing Corp.	.. 170-171
+Software Technology
+for Computers.................226
+Sorrento Valley...................22
+Southern California Research.....130
+Southwestern Data
+Systems.......112, 127, 143, 154
+Spectrum Software..............199
+Spinnaker....................12-15
+SRA .......................101,103
+SSM Microcomputer .. 131, 133, 135
+SSR Corporation................211
+Stoneware Incorporated.......38,94
+Strategic Simulations..........252
+Street Electronics .............85
+Strictly Soft Ware ............229
+Sweet Micro Systems............205
+Syntauri ......................230
+Systems Plus....................63
+TG Products.....................26
+Tayco Business Forms ...........33
+Thunderware.....................19
+Touch Technology...............187
+Trace Systems...................75
+Ultrasoft...................23, 31
+U-Microcomputers...............111
+Videx...........................88
+Virtual Combinatics ...........201
+VisiCorp.....................40-41
+Visual Horizons................202
+Voice Machine
+Communications................56
+Wadsworth Electronic
+Publishing..............    .167
+Xerox Education
+Publications.................102
+
+Exec Penguin: A Chilly Visit to Tuxedo Junction
+What do you know of penguins? Did you know that their closest relative is the cuckoo? Or that they're good-hearted, funny, lovable, clever, and creative? Read and learn.
+DAVID HUNTER...........48
+
+The Cat That’s the Apple’s Meow
+What one Connecticut man’s done for his cat with an Apple is almost indescribable. He’s got his whole house Appleized, too.
+JUDYANN
+CHRISTENSEN............72
+
+It’s Here: The New Apple lIe
+Clandestinely, Apple stopped making Pluses last October; the new Apple is a near twin on the surface....... ........... 118
+Dial-Your-Match: The Heart of an Apple
+Valentine’s Day special: A bulletin board turned headline, Dial-Your-Match lets singles in computerdom meet without leaving their screens.
+MATTHEW T. YUEN ... 164
+
+Patching Apple III Pascal
+Dr. Jeppson wanted Pascal on his ProFile—all of it. And the fact that Apple Inc. didn’t provide for that didn't stop him.
+He shows you how.
+JOHN JEPPSON ........... 190
+
+FEATURES
+
+SoftGraph: Do-It-Yourself Business Graphics ........DAVID DURKEE 80
+Lisa’s Debut ........................................................143
+The Animated Apple............PAUL LUTUS and PHIL THOMPSON 208
+Word Processing:
+A New Format for a Newsman..................JONATHAN MILLER 172
+Olivieri’s Outline of Word Processors..............PETER OLIVIERI 176
+Tennis, Anyone?......................................JOE SHELTON 236
+Storytalk: “MAC. Gate: The Manners of Logic” . .. .RALPH MYLIUS 238
+
+DEPARTMENTS
+
+Advertisers’ Index...................This Page
+All About Applesoft, by Doug Carlston ... 186
+Assembly Lines, by Roger Wagner ............217
+Basic Solution, by William V. R. Smith ... 56 
+Beginners' Corner,
+by Christopher U. Light .................153
+Bestsellers ................................249
+Buttonwood Apples, by Ken Landis.......... 59
+Contest: Famous February..................... 2
+Contest Winners.............................. 6
+DOStalk, by Bert Kersey..................... 78
+Fastalk ..................................... 9
+Graphically Speaking,
+by Mark Pelczarski ......................146
+Marketalk News ..........................106
+Marketalk Reviews .......................129
+Mind Your Business, by Peter Olivieri ... 180
+Newspeak ................................227
+Open Discussion ..........................33
+The Pascal Path, by Jim Merritt..........200
+Schoolhouse Apple, by Jean Varven....... 99
+SoftCard Symposium, by Greg Tibbetts .. 157
+The Third Basic, by Taylor Pohlman...... 65
+Tradetalk ...............................223
+Ventures with VisiCalc,
+by Joe Shelton......................... 89
+Hardtalk will return next month.
+
+IN NEXT MONTH'S SOFTALK
+
+Mellow March ... Apple-controlled lasers . . . Modula-ll . .. Exec Adventure International . .. DOS Be Nimble . .. Who’ll teach Apple to play a good game of bridge? . .. and more . ..

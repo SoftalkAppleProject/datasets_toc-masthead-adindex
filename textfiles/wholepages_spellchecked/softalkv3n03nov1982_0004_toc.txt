@@ -1,0 +1,92 @@
+﻿NOVEMBER 1982
+SOFTALK
+2
+
+Chairman	John Haller
+Publisher	Al Tommervik
+Editor	Margot Comstock Tommervik
+Art Director	Kurt A. Wahlner
+Managing Editor	Patricia Ryall
+Associate Editors	Jean Varven Andrew Christie
+Newspeak Editor	David Hunter
+Special Assignments	Jonathan Miller
+Open Discussion Editor	Tommy Gear
+News and Trade Editor	Matthew T. Yuen
+Reviews Editor	Roe Adams
+Assistant Editors	Michael Ferris David Durkee
+Proofreader	Harry McNeil
+Contributing Editors	
+Assembly Language	Roger Wagner
+Pascal	Jim Merritt
+Business	Peter Olivieri
+Apple CP/M	Greg Tibbetts
+Apple III	Taylor Pohlman
+Hardware	Jeffrey Mazur
+Applesoft	Doug Carlston
+Investing	Kenneth Landis
+DOS	Bert Kersey
+Graphics Financial Modeling	Mark Pelczarski
+	Joe Shelton
+Beginners	Christopher U. Light
+Basic Solution	Wm. V. R. Smith
+Art Manager	Kevin McKeon
+Art Production	Don Robertson
+Art Assistants	Michael G. Pender Roxanne Rogers Jill Schultz
+Associate Publisher	Mary Sue Rennells
+Accounting	Evelyn Burke
+Accounting Assistant	Mary Milam
+Marketing	Jim Salmons
+Marketing Assistant	Dave Fitzgerald
+Assistant to the Publisher	Dan Yoder
+Purchasing	Steven M. Poncar
+Dealer Sales	Judy Weinstein
+Book Sales	Lois Stickelmaier
+Advertising Coordinator	Linda McGuire
+West Coast Sales	Mike Antich Softalk 11160 McCormick Street Box 60 North Hollywood, CA 91603 (213) 980-5074
+East Coast Sales	Paul McGinnis Ian Ross Paul McGinnis Company 60 East 42nd Street New York, NY 10017 (212) 490-1021
+Midwest and Rocky Mountain Sales	Ted Rickard John Sienkiewicz John Bollweg Kevin Sullivan Market/Media Associates 435 Locust Road Wilmette, IL 60091 (312) 251-2541
+Circulation	
+Trial Subscriptions	Hal Schick Dierdre Booth
+Paid Subscriptions	Pam Kelley
+Back Issues	Ron Rennells
+List Maintenance	Pat Adams Harry Richardson
+Assistant	Cliff Martinez
+Systems	Sam Pawley
+Guest Reviewers	Dave Albert, Jock Root.
+
+Cover Photo: Tom the Turkey, courtesy of John Johnson. Photo by Kurt Wahlner.
+Credits: Composition by Photographics, Hollywood, California. Printing by Volkmuth Printers, Saint Cloud, Minnesota.
+
+Apple and Applesoft are registered trademarks of Apple Computer Inc., Cupertino, California. UCSD Pascal is a trademark of the University of California at San Diego. VisiCalc is a trademark of VisiCorp, San Jose, California. SoftCard is a trademark of Microsoft, Bellevue, Washington. GraForth is a trademark of Insoft Inc., Portland, Oregon.
+
+Softalk. Volume 3, Number 3. Copyright (c) 1982 by Softalk Publishing Inc. All rights reserved. ISSN: 0274-9629. Softalk is published monthly by Softalk Publishing Inc., 11160 McCormick Street, North Hollywood, California; telephone (213) 980-5074. Second-class postage paid at North Hollywood, California, and additional mailing offices.
+Free Subscription: Complimentary trial subscription to all owners of Apple computers in the USA. If you own an Apple, but you’ve never received Softalk, send your name, address, and Apple serial number with a request for subscription to Softalk Circulation, Box 60, North Hollywood, CA 91603. Softalk is totally independent of Apple Computer Inc.; sending your warranty card to Apple Computer will not inform Softalk of your existence.
+Paid Subscription: $24 per year without sponsor, $18 per year with sponsor At the end of trial period, each subscriber will be notified, response is required only if you wish to continue receiving Softalk Lack of response will be taken as your choice to discontinue the magazine. Special rates for schools and libraries, $8; multiple subscriptions for schools and libraries, $5 each.
+Back Issues: $2 through February 1981; $2.50 through July 1981; $3.50 through September 1982; $4 thereafter. November and December 1980 and January, February, March, September, October, and November 1981 are sold out.
+Problems? If you haven’t received your Softalk by the fifteenth of the month, or if you have other problems with your subscription, Hal Schick or Pam Kelley can help out. Call (213) 980-5074.
+Moving? Send new address and old to Softalk Circulation, Box 60, North Hollywood, CA 91603; telephone (213) 980-5074
+
+Contest: Poultry Panic!
+or A Time To Gather Gobblers (turn, turn,turn)
+
+No, the cover of this issue has absolutely nothing to do with Softalk employees. Well, okay, maybe a little. You see, we were planning to have the First Annual Softalk Thanksgiving Banquet right before the Applefest in San Francisco at the end of this month. The guest list included everyone who works at Softalk, our columnists, and a few derelicts who hang out at the hamburger joint across the street.
+If you know us like we know us, you know that we just love to eat. So, we went out to the local North Hollywood turkey farm and traded them some magazines and BasiCalc disks for a whole bunch of turkeys—enough for everyone to have at least two. An even trade, wouldn’t you say? Then, Softalk's construction department got right to work and built a turkey pen to hold the little gobblers until we were ready to eat.
+For your viewing pleasure, here they are, all one hundred and.. . . Hey, wait a minute. Some of them have escaped! Most of them have escaped! Word has it that our trustworthy, yet hungry, writers saw some of them strutting around and began to hoard them, stashing most of them away in their columns. Boy, as if an invitation to this epicurean extravaganza wasn’t enough!
+If we can’t recover the birds, we’re all going to go hungry.
+So, we’re calling on you to give us some assistance. Help us round up the turkeys that got away, and you’ll be handsomely rewarded. All you have to do is peruse the magazine and capture any stray turkeys you see aimlessly tiptoeing through the typefaces. Once you think you’ve caught them all, count them up and submit your tally to us.
+Whoever catches all the turkeys will be eligible to win $100 in goods made by Softalk advertisers.
+Here are the rules:
+1.	Any photographs of turkeys don’t count. We’re just looking for escaped hi-res roasters like the ones on this page.
+2.	Then, to make sure you have the right total, add the number of turkeys you captured to the number of turkeys on this page. We’re looking for the total number of turkeys before the massive breakout.
+3.	In the case of more than one correct entry, the names of those who tie will go into the Random Sandwich Generator. Whoever is able to make the most turkey sandwiches from leftovers will be the winner. The RSG will oversee this part of the contest in all its awful majesty, cruel and magnificent.
+That’s all there is to it. So, get going and have a ball!
+Name: ——--------------------------------------
+Address:--------------------------------------
+City, State, Zip:_____________________________
+Phone:________________________________________
+My dealer. ___________________________________
+I counted this many turkeys:------------------
+If I counted correctly, or if I make the most
+sandwiches, I want:___________________________
+with all the trimmings.
+Send this entry form or a facsimile to Softalk Gobblers, Box 60, North Hollywood, CA 91603, by December 15, 1982 (the return address was going to be Softalk Turkeys, but then anyone here might have opened it up). 

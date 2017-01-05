@@ -1,0 +1,2402 @@
+Al Tommervik	Advertising Sales	1	02		
+Al Tommervik	Advertising Sales	1	03		
+Al Tommervik	Advertising Sales	1	05		
+Al Tommervik	Advertising Sales	1	06		
+Al Tommervik	Advertising Sales	1	07		
+Al Tommervik	Advertising Sales	1	08		
+Al Tommervik	Advertising Sales	1	09		
+Al Tommervik	Advertising Sales	1	10		
+Al Tommervik	Advertising Sales	1	11		
+Al Tommervik	Advertising Sales	1	12		
+Al Tommervik	Advertising Sales	2	01		
+Al Tommervik	Advertising Sales	2	02		
+Al Tommervik	Advertising Sales	2	03		
+Al Tommervik	Advertising Sales	2	04		
+Al Tommervik	Managing Editor	1	07		
+Al Tommervik	Managing Editor	1	08		
+Al Tommervik	Managing Editor	1	09		
+Al Tommervik	Managing Editor	1	10		
+Al Tommervik	Managing Editor	1	11		
+Al Tommervik	Managing Editor	1	12		
+Al Tommervik	Managing Editor	2	01		
+Al Tommervik	Marketing and Production	1	01		
+Al Tommervik	Marketing and Production	1	02		
+Al Tommervik	Production Manager	1	05		
+Al Tommervik	Production Manager	1	06		
+Al Tommervik	Production and Marketing	1	03		
+Al Tommervik	Publisher	2	02		
+Al Tommervik	Publisher	2	03		
+Al Tommervik	Publisher	2	04		
+Al Tommervik	Publisher	2	05		
+Al Tommervik	Publisher	2	06		
+Al Tommervik	Publisher	2	07		
+Al Tommervik	Publisher	2	08		
+Al Tommervik	Publisher	2	09		
+Al Tommervik	Publisher	2	10		
+Al Tommervik	Publisher	2	11		
+Al Tommervik	Publisher	2	12		
+Al Tommervik	Publisher	3	01		
+Al Tommervik	Publisher	3	02		
+Al Tommervik	Publisher	3	03		
+Al Tommervik	Publisher	3	04		
+Al Tommervik	Publisher	3	05		
+Al Tommervik	Publisher	3	06		
+Al Tommervik	Publisher	3	07		
+Al Tommervik	Publisher	3	08		
+Al Tommervik	Publisher	3	09		
+Al Tommervik	Publisher	3	10		
+Al Tommervik	Publisher	3	11		
+Al Tommervik	Publisher	3	12		
+Al Tommervik	Publisher	4	01		
+Al Tommervik	Publisher	4	02		
+Al Tommervik	Publisher	4	03		
+Al Tommervik	Publisher	4	04		
+Al Tommervik	Publisher	4	05		
+Al Tommervik	Publisher	4	06		
+Al Tommervik	Publisher	4	07		
+Al Tommervik	Publisher	4	08		
+Al Tommervik	Publisher	4	09		
+Al Tommervik	Publisher	4	10		
+Al Tommervik	Publisher	4	11		
+Al Tommervik	Publisher	4	12		
+Al Tommervik	Vice-President	1	04		
+Al Tommervik	Vice-President	1	05		
+Al Tommervik	Vice-President	1	06		
+Alan Mankovitz	Guest Reviewers	3	05		
+Alexander E. D. Carlton	Guest Reviewers	4	01		
+Allan Tommervik	Vice-President	1	02		
+Allan Tommervik	Vice-President	1	03		
+Allen Munro	Guest Reviewers	2	06	Contributing Editors	
+Allen Munro	Guest Reviewers	2	08	Contributing Editors	
+Allen Munro	Guest Reviewers	2	09	Contributing Editors	
+Amanda Hixson	Guest Reviewers	3	05		
+Andrew Christie	Assistant Editor	2	07		
+Andrew Christie	Assistant Editor	2	08		
+Andrew Christie	Assistant Editor	2	09		
+Andrew Christie	Assistant Editors	2	10		
+Andrew Christie	Associate Editor	4	10	Editorial Staff	Associate Editors
+Andrew Christie	Associate Editor	4	11	Editorial Staff	Associate Editors
+Andrew Christie	Associate Editor	4	12	Editorial Staff	Associate Editors
+Andrew Christie	Associate Editors	2	11		
+Andrew Christie	Associate Editors	2	12		
+Andrew Christie	Associate Editors	3	01		
+Andrew Christie	Associate Editors	3	02		
+Andrew Christie	Associate Editors	3	03		
+Andrew Christie	Associate Editors	3	04		
+Andrew Christie	Associate Editors	3	05		
+Andrew Christie	Associate Editors	3	06		
+Andrew Christie	Associate Editors	3	07		
+Andrew Christie	Associate Editors	3	08		
+Andrew Christie	Associate Editors	3	09		
+Andrew Christie	Copy Editor	2	05		
+Andrew Christie	Copy Editor	2	06		
+Andrew Christie	Copy Editors	2	04		
+Andrew Christie	Editor - St. Game	4	10	Softalk Publishing	Siblings
+Andrew Christie	Special Assignments	3	10		
+Andrew Christie	Special Assignments	3	11		
+Andrew Christie	Special Assignments	3	12		
+Andrew Christie	Special Assignments	4	01		
+Andrew Christie	Special Assignments	4	02	Editorial	
+Andrew Christie	Special Assignments	4	03	Editorial	
+Andrew Christie	Special Assignments	4	04	Editorial	
+Andrew Christie	Special Assignments	4	05	Editorial	
+Andrew Christie	Special Assignments	4	06	Editorial	
+Andrew Christie	Special Assignments	4	07	Editorial	
+Andrew Christie	Special Assignments	4	08	Editorial	
+Andrew Christie	Special Assignments	4	09	Editorial	
+Anna Gusland	Subscriptions	4	10	Softalk Publishing	Circulation
+Anna Gusland	Subscriptions	4	11	Softalk Publishing	Circulation
+Anna Gusland	Subscriptions	4	12	Softalk Publishing	Circulation
+Anna Gusland	Trial Subscriptions	4	04	Circulation	
+Anna Gusland	Trial Subscriptions	4	05	Circulation	
+Anna Gusland	Trial Subscriptions	4	06	Circulation	
+Anna Gusland	Trial Subscriptions	4	07	Circulation	
+Anna Gusland	Trial Subscriptions	4	08	Circulation	
+Anna Gusland	Trial Subscriptions	4	09	Circulation	
+Barbara Naimoli	Paid Subscriptions	4	04	Circulation	
+Barbara Naimoli	Paid Subscriptions	4	05	Circulation	
+Barbara Naimoli	Paid Subscriptions	4	06	Circulation	
+Barbara Naimoli	Paid Subscriptions	4	07	Circulation	
+Barbara Naimoli	Paid Subscriptions	4	08	Circulation	
+Barbara Naimoli	Paid Subscriptions	4	09	Circulation	
+Barbara Naimoli	Subscriptions	4	10	Softalk Publishing	Circulation
+Barbara Naimoli	Subscriptions	4	11	Softalk Publishing	Circulation
+Barbara Naimoli	Subscriptions	4	12	Softalk Publishing	Circulation
+Bert Kersey	DOS	2	08	Contributing Editors	
+Bert Kersey	DOS	2	09	Contributing Editors	
+Bert Kersey	DOS	2	10	Contributing Editors	
+Bert Kersey	DOS	2	11	Contributing Editors	
+Bert Kersey	DOS	2	12	Contributing Editors	
+Bert Kersey	DOS	3	01	Contributing Editors	
+Bert Kersey	DOS	3	02	Contributing Editors	
+Bert Kersey	DOS	3	03	Contributing Editors	
+Bert Kersey	DOS	3	04	Contributing Editors	
+Bert Kersey	DOS	3	05	Contributing Editors	
+Bert Kersey	DOS	3	06	Contributing Editors	
+Betsy Barnes	Editorial Assistant	3	05		
+Betsy Barnes	Editorial Coordinator	3	11		
+Betsy Barnes	Editorial Coordinator	3	12		
+Betsy Barnes	Editorial Coordinator	4	01		
+Betsy Barnes	Editorial Coordinator	4	10	Editorial Staff	Feature Editors
+Betsy Barnes	Editorial Coordinator	4	11	Editorial Staff	Feature Editors
+Betsy Barnes	Editorial Coordinator	4	12	Editorial Staff	Feature Editors
+Betsy Barnes	Proofreaders	3	06		
+Betsy Barnes	Proofreaders	3	07		
+Betsy Barnes	Proofreaders	3	08		
+Betsy Barnes	Proofreaders	3	09		
+Betsy Barnes	Proofreaders	3	10		
+Betsy Barnes	Submissions	4	02	Editorial	
+Betsy Barnes	Submissions	4	03	Editorial	
+Betsy Barnes	Submissions	4	04	Editorial	
+Betsy Barnes	Submissions	4	05	Editorial	
+Betsy Barnes	Submissions	4	06	Editorial	
+Betsy Barnes	Submissions	4	07	Editorial	
+Betsy Barnes	Submissions	4	08	Editorial	
+Betsy Barnes	Submissions	4	09	Editorial	
+Bill Barrett	Production	1	10		
+Bill Budge	Graphics	4	02	Contributing Editors	
+Bill Budge	Graphics	4	03	Contributing Editors	
+Bill Budge	Graphics	4	04	Contributing Editors	
+Bill Budge	Graphics	4	05	Contributing Editors	
+Bill Budge	Graphics	4	06	Contributing Editors	
+Bill Budge	Graphics	4	07	Contributing Editors	
+Bill Budge	Graphics	4	08	Contributing Editors	
+Bill Budge	Graphics	4	09	Contributing Editors	
+Bill Budge	Graphics	4	10	Editorial Correspondents	Contributing Editors
+Bill Budge	Graphics	4	11	Editorial Correspondents	Contributing Editors
+Bill Budge	Graphics	4	12	Editorial Correspondents	Contributing Editors
+Bill Chalifaux	Midwest and Rocky Mountain Sales	4	08	Advertising	
+Bill Chalifaux	Midwest and Rocky Mountain Sales	4	09	Advertising	
+Bill Chalifaux	Midwest and Rocky Mountain Sales	4	10	Softalk Publishing	Advertising
+Bill Chalifaux	Midwest and Rocky Mountain Sales	4	11	Softalk Publishing	Advertising
+Bill Chalifaux	Midwest and Rocky Mountain Sales	4	12	Softalk Publishing	Advertising
+Bill De Ville	Guest Reviewers	3	06		
+Bill Depew	Technical Editor	1	01		
+Bill Depew	Technical Editor	1	02		
+Bill Depew	Technical Editor	1	03		
+Bill Parker	Hardware	4	02	Contributing Editors	
+Bill Parker	Hardware	4	03	Contributing Editors	
+Bill Parker	Hardware	4	04	Contributing Editors	
+Bill Parker	Printers	4	05	Contributing Editors	
+Bill Parker	Printers	4	06	Contributing Editors	
+Bill Parker	Printers	4	07	Contributing Editors	
+Bill Parker	Printers	4	08	Contributing Editors	
+Bill Parker	Printers	4	09	Contributing Editors	
+Bill Smith	Advertising Sales	1	02		
+Bill Smith	Advertising Sales	1	03		
+Bill Smith	Advertising Sales	1	06		
+Bob Clardy	Softalk SAGES	4	05	Contributing Editors	
+Bob Clardy	Softalk SAGES	4	06	Contributing Editors	
+Bob Clardy	Softalk Sages	4	07	Contributing Editors	
+Bob Clardy	Softalk Sages	4	08	Contributing Editors	
+Bob Clardy	Softalk Sages	4	09	Contributing Editors	
+Bob Clardy	Softalk Sages	4	10	Editorial Correspondents	Contributing Editors
+Bob Clardy	Softalk Sages	4	11	Editorial Correspondents	Contributing Editors
+Bob Clardy	Softalk Sages	4	12	Editorial Correspondents	Regional Editors
+Bob Koehler	Editorial Assistant	1	03		
+Brenda Johnson	Word Processing	4	07	Editorial	
+Brenda Johnson	Word Processing	4	08	Editorial	
+Brenda Johnson	Word Processing	4	09	Editorial	
+Brick Franklin	Guest Reviewers	3	04		
+Carla Swanson	Accounting Assistants	3	06		
+Carla Swanson	Accounting Assistants	3	07		
+Carla Swanson	Accounting Assistants	3	08		
+Carla Swanson	Accounting Assistants	3	09		
+Carla Swanson	Accounting Assistants	3	10	Business	
+Carla Swanson	Accounting Assistants	3	11	Business	
+Carla Swanson	Accounting Assistants	3	12	Business	
+Carla Swanson	Accounting Assistants	4	01	Business	
+Carla Swanson	Accounting Assistants	4	02	Business	
+Carla Swanson	Accounting Assistants	4	03	Business	
+Carla Swanson	Accounting Assistants	4	04	Business	
+Carla Swanson	Accounting Assistants	4	05	Business	
+Carmen Cowper	Circulation	1	02		
+Carmen Cowper	Circulation	1	03		
+Carmen Cowper	Circulation	1	05		
+Carol James	Product News and Copy Editor	2	02		
+Carol James	Product News and Copy Editor	2	03		
+Carol Ray	Assistant Managing Editor	4	03	Editorial	
+Carol Ray	Assistant Managing Editor	4	04	Editorial	
+Carol Ray	Assistant Managing Editor	4	05	Editorial	
+Carol Ray	Assistant Managing Editor	4	06	Editorial	
+Carol Ray	Assistant Managing Editor	4	07	Editorial	
+Carol Ray	Assistant Managing Editor	4	08	Editorial	
+Carol Ray	Assistant Managing Editor	4	09	Editorial	
+Carol Ray	Managing Editor	4	10	Editorial Staff	
+Carol Ray	Managing Editor	4	11	Editorial Staff	
+Carol Ray	Managing Editor	4	12	Editorial Staff	
+Catherine Petersen	Assistant Editor	3	11		
+Catherine Petersen	Assistant Editor	3	12		
+Catherine Petersen	Assistant Editor	4	01		
+Catherine Petersen	Assistant Editors	3	10		
+Catherine Petersen	Reviews	4	07	Editorial	
+Catherine Petersen	Reviews - Trade	4	02	Editorial	
+Catherine Petersen	Reviews - Trade	4	03	Editorial	
+Catherine Petersen	Reviews - Trade	4	04	Editorial	
+Catherine Petersen	Reviews - Trade	4	05	Editorial	
+Catherine Petersen	Reviews - Trade	4	06	Editorial	
+Cathy Stewart	Assistant	3	11	Advertising	
+Cathy Stewart	Assistant	3	12	Advertising	
+Cathy Stewart	Assistant	4	01	Advertising	
+Cathy Stewart	Assistant	4	02	Advertising	
+Cathy Stewart	Assistant	4	03	Advertising	
+Cathy Stewart	Assistant	4	04	Advertising	
+Cathy Stewart	Assistant	4	05	Advertising	
+Cathy Stewart	Assistant	4	06	Advertising	
+Cathy Stewart	Assistant	4	07	Advertising	
+Cathy Stewart	Assistant	4	08	Advertising	
+Cathy Stewart	Assistant	4	09	Advertising	
+Cathy Stewart	Assistant	4	10	Softalk Publishing	Advertising
+Cathy Stewart	Assistant	4	11	Softalk Publishing	Advertising
+Cathy Stewart	Assistant	4	12	Softalk Publishing	Advertising
+Chari Hilario	Director of Finance	4	08	Business	
+Chari Hilario	Director of Finance	4	09	Business	
+Chari Hilario	Director of Finance	4	10	Softalk Publishing	Business
+Chari Hilario	Director of Finance	4	11	Softalk Publishing	Business
+Chari Hilario	Director of Finance	4	12	Softalk Publishing	Business
+Chris Light	Guest Reviewers	2	09	Contributing Editors	
+Christopher U. Light	Beginners	2	11	Contributing Editors	
+Christopher U. Light	Beginners	2	12	Contributing Editors	
+Christopher U. Light	Beginners	3	01	Contributing Editors	
+Christopher U. Light	Beginners	3	02	Contributing Editors	
+Christopher U. Light	Beginners	3	03	Contributing Editors	
+Christopher U. Light	Beginners	3	04	Contributing Editors	
+Christopher U. Light	Beginners	3	05	Contributing Editors	
+Christopher U. Light	Beginners	3	06	Contributing Editors	
+Christopher U. Light	Beginners	3	07	Contributing Editors	
+Christopher U. Light	Guest Reviewers	2	10	Contributing Editors	
+Christopher U. Light	Guest Reviewers	3	08		
+Cliff Martinez	Assistant	3	03	Circulation	
+Cliff Martinez	Assistant	3	04	Circulation	
+Cliff Martinez	Assistant	3	05	Circulation	
+Cliff Martinez	Assistant	3	06	Circulation	
+Cliff Martinez	Assistant	3	07	Circulation	
+Cliff Martinez	Assistant	3	08	Circulation	
+Cliff Martinez	Assistant	3	09	Circulation	
+Cliff Martinez	Assistant	3	10	Circulation	
+Cliff Martinez	Assistant	3	11	Circulation	
+Cliff Martinez	Assistants	3	02	Circulation	
+Cliff Martinez	Trial Subscriptions	3	12	Circulation	
+Cliff Martinez	Trial Subscriptions	4	01	Circulation	
+Cliff Martinez	Trial Subscriptions	4	02	Circulation	
+Cliff Martinez	Trial Subscriptions	4	03	Circulation	
+Cliff Martinez	Trial Subscriptions	4	04	Circulation	
+Cliff Martinez	Trial Subscriptions	4	05	Circulation	
+Cliff Martinez	Trial Subscriptions	4	06	Circulation	
+Cliff Martinez	Trial Subscriptions	4	07	Circulation	
+Cliff Martinez	Trial Subscriptions	4	08	Circulation	
+Cliff Martinez	Trial Subscriptions	4	09	Circulation	
+Connie Mastelotto	Paid Subscriptions	3	06	Circulation	
+Connie Mastelotto	Paid Subscriptions	3	07	Circulation	
+Connie Mastelotto	Paid Subscriptions	3	08	Circulation	
+Connie Mastelotto	Paid Subscriptions	3	09	Circulation	
+Cordell Cooper	Copy	4	02	Editorial	
+Cordell Cooper	Copy	4	03	Editorial	
+Cordell Cooper	Copy	4	04	Editorial	
+Cordell Cooper	Copy	4	05	Editorial	
+Cordell Cooper	Copy	4	06	Editorial	
+Cordell Cooper	Copy	4	07	Editorial	
+Cordell Cooper	Copy	4	08	Editorial	
+Cordell Cooper	Copy	4	09	Editorial	
+Cordell Cooper	Copy Editor	3	07		
+Cordell Cooper	Copy Editor	3	08		
+Cordell Cooper	Copy Editor	3	09		
+Cordell Cooper	Copy Editor	3	10		
+Cordell Cooper	Copy Editor	3	11		
+Cordell Cooper	Copy Editor	3	12		
+Cordell Cooper	Copy Editor	4	01		
+Cordell Cooper	Copy Editor	4	10	Editorial Staff	Feature Editors
+Cordell Cooper	Copy Editor	4	11	Editorial Staff	Feature Editors
+Cordell Cooper	Copy Editor	4	12	Editorial Staff	Feature Editors
+Craig Stinson	Associate Editor	1	08		
+Craig Stinson	Associate Editor	1	09		
+Craig Stinson	Associate Editor	1	10		
+Craig Stinson	Associate Editor	1	11		
+Craig Stinson	Associate Editor	1	12		
+Craig Stinson	Associate Editor	2	01		
+Craig Stinson	Associate Editors	2	08		
+Craig Stinson	Associate Editors	2	09		
+Craig Stinson	Beginners' Corner	2	10	Contributing Editors	
+Craig Stinson	Contributing Editors	1	07		
+Craig Stinson	Editor - Softalk for the IBM Personal Computer	4	10	Softalk Publishing	Siblings
+Craig Stinson	Editor - Softalk for the IBM Personal Computer	4	11	Softalk Publishing	Siblings
+Craig Stinson	Editor - Softalk for the IBM Personal Computer	4	12	Softalk Publishing	Siblings
+Craig Stinson	Guest Reviewers	3	02		
+Craig Stinson	Managing Editor	2	02		
+Craig Stinson	Managing Editor	2	03		
+Craig Stinson	Managing Editor	2	04		
+Craig Stinson	Managing Editor	2	05		
+Craig Stinson	Managing Editor	2	06		
+Craig Stinson	Managing Editor	2	07		
+Dale Archibald	Guest Reviewers	2	06	Contributing Editors	
+Dale Archibald	Guest Reviewers	2	11	Contributing Editors	
+Dale Archibald	Guest Reviewers	2	12		
+Dale Archibald	Guest Reviewers	3	04		
+Dale R. Archibald	Guest Reviewers	3	07		
+Dan Winkler	Assistants	4	01	Art	
+Dan Winkler	Assistants	4	02	Art	
+Dan Winkler	Assistants	4	03	Art	
+Dan Winkler	Assistants	4	04	Art	
+Dan Winkler	Assistants	4	05	Art	
+Dan Winkler	Assistants	4	06	Art	
+Dan Winkler	Assistants	4	07	Art	
+Dan Winkler	Assistants	4	08	Art	
+Dan Winkler	Assistants	4	09	Art	
+Dan Yoder	Assistant to the Publisher	2	12		
+Dan Yoder	Assistant to the Publisher	3	01		
+Dan Yoder	Assistant to the Publisher	3	02		
+Dan Yoder	Assistant to the Publisher	3	03		
+Dan Yoder	Assistant to the Publisher	3	04		
+Dan Yoder	Assistant to the Publisher	3	05		
+Dan Yoder	Assistant to the Publisher	3	06		
+Dan Yoder	Assistant to the Publisher	3	07		
+Dan Yoder	Assistant to the Publisher	3	08		
+Dan Yoder	Circulation Supervisors	2	08	Circulation	
+Dan Yoder	Dealer Sales	3	09		
+Dan Yoder	Dealer Sales	3	10	Business	
+Dan Yoder	Dealer Sales	3	11	Business	
+Dan Yoder	Dealer Sales	3	12	Business	
+Dan Yoder	Dealer Sales	4	01	Business	
+Dan Yoder	Dealer Sales	4	02	Circulation	
+Dan Yoder	Dealer Sales	4	03	Circulation	
+Dan Yoder	Dealer Sales	4	04	Circulation	
+Dan Yoder	Dealer Sales	4	05	Circulation	
+Dan Yoder	Dealer Sales	4	06	Circulation	
+Dan Yoder	Dealer Sales	4	07	Circulation	
+Dan Yoder	Dealer Sales	4	08	Circulation	
+Dan Yoder	Dealer Sales	4	09	Circulation	
+Dan Yoder	Paid Subscriptions	2	09	Circulation	
+Dan Yoder	Paid Subscriptions	2	10	Circulation	
+Dan Yoder	Paid Subscriptions	2	11	Circulation	
+Dave Albert	Guest Reviewers	2	11	Contributing Editors	
+Dave Albert	Guest Reviewers	3	01		
+Dave Albert	Guest Reviewers	3	02		
+Dave Albert	Guest Reviewers	3	03		
+Dave Albert	Guest Reviewers	3	04		
+Dave Albert	Guest Reviewers	3	05		
+Dave Albert	Guest Reviewers	3	06		
+Dave Albert	Guest Reviewers	3	07		
+Dave Albert	Guest Reviewers	3	08		
+Dave Albert	Guest Reviewers	3	09		
+Dave Albert	Guest Reviewers	3	10	Contributing Editors	
+Dave Albert	Guest Reviewers	4	01		
+Dave Fitzgerald	Marketing Assistant	3	02		
+Dave Fitzgerald	Marketing Assistant	3	03		
+Dave Fitzgerald	Marketing Assistant	3	04		
+Dave Fitzgerald	Marketing Assistant	3	05		
+Dave Fitzgerald	Softrek	2	12		
+Dave Fitzgerald	Special Assignments	3	01		
+David Chandler	Guest Reviewers	4	01		
+David Durkee	Assistant Editor	3	05		
+David Durkee	Assistant Editor	3	06		
+David Durkee	Assistant Editor	3	07		
+David Durkee	Assistant Editor	3	08		
+David Durkee	Assistant Editor	3	09		
+David Durkee	Assistant Editors	2	12		
+David Durkee	Assistant Editors	3	01		
+David Durkee	Assistant Editors	3	02		
+David Durkee	Assistant Editors	3	03		
+David Durkee	Assistant Editors	3	04		
+David Durkee	Assistant Editors	3	10		
+David Durkee	Associate Editors	4	06	Editorial	
+David Durkee	Associate Editors	4	07	Editorial	
+David Durkee	Associate Editors	4	08	Editorial	
+David Durkee	Associate Editors	4	09	Editorial	
+David Durkee	Programming	4	10	Editorial Staff	Associate Editors
+David Durkee	Programming	4	11	Editorial Staff	Associate Editors
+David Durkee	Programming	4	12	Editorial Staff	Associate Editors
+David Durkee	Programs	4	02	Editorial	
+David Durkee	Programs	4	03	Editorial	
+David Durkee	Programs	4	04	Editorial	
+David Durkee	Programs	4	05	Editorial	
+David Durkee	Programs Editor	3	11		
+David Durkee	Programs Editor	3	12		
+David Durkee	Programs Editor	4	01		
+David Hunter	Ad Coordinator	2	02		
+David Hunter	Ad Coordinator	2	03		
+David Hunter	Ad Coordinator	2	04		
+David Hunter	Advertising Coordination and Sales	2	05		
+David Hunter	Advertising Coordination and Sales	2	06		
+David Hunter	Advertising Coordinator	2	07	Advertising	
+David Hunter	Advertising Coordinator	2	08	Advertising	
+David Hunter	Advertising Sales	2	07	Advertising	
+David Hunter	Associate Editor	3	10		
+David Hunter	Associate Editor	3	11		
+David Hunter	Associate Editor	3	12		
+David Hunter	Associate Editor	4	01		
+David Hunter	Associate Editors	3	05		
+David Hunter	Associate Editors	3	06		
+David Hunter	Associate Editors	3	07		
+David Hunter	Associate Editors	3	08		
+David Hunter	Associate Editors	3	09		
+David Hunter	Circulation	1	07		
+David Hunter	Circulation	1	08		
+David Hunter	Circulation	1	09		
+David Hunter	Circulation	1	10		
+David Hunter	Circulation	1	11		
+David Hunter	Newspeak Editor	2	11		
+David Hunter	Newspeak Editor	2	12		
+David Hunter	Newspeak Editor	3	01		
+David Hunter	Newspeak Editor	3	02		
+David Hunter	Newspeak Editor	3	03		
+David Hunter	Newspeak Editor	3	04		
+David Hunter	Operations Manager Assistant	1	12		
+David Hunter	Production	2	01		
+David Hunter	Senior Editor	4	02	Editorial	
+David Hunter	Senior Editor	4	03	Editorial	
+David Hunter	Senior Editor	4	04	Editorial	
+David Hunter	Senior Editor	4	05	Editorial	
+David Hunter	Senior Editor	4	06	Editorial	
+David Hunter	Senior Editor	4	07	Editorial	
+David Hunter	Senior Editor	4	08	Editorial	
+David Hunter	Senior Editor	4	09	Editorial	
+David Hunter	Senior Editor	4	10	Editorial Staff	
+David Hunter	Senior Editor	4	11	Editorial Staff	
+David Hunter	Senior Editor	4	12	Editorial Staff	
+David Hunter	Special Assignments	2	06		
+David Hunter	Special Assignments	2	07		
+David Hunter	Special Assignments	2	08		
+David Hunter	Special Assignments	2	09		
+David Hunter	Special Assignments	2	10		
+David Hunter	West Coast Sales	3	02	Advertising	
+David Kahn	Paid Subscriptions	4	02	Circulation	
+David Kahn	Paid Subscriptions	4	03	Circulation	
+David Kahn	Paid Subscriptions	4	04	Circulation	
+David Kahn	Paid Subscriptions	4	05	Circulation	
+Deirdre Booth	Assistants	2	11	Circulation	
+Deirdre Booth	Trial Subscriptions	3	06	Circulation	
+Deirdre Booth	Trial Subscriptions	3	07	Circulation	
+Deirdre Booth	Trial Subscriptions	3	08	Circulation	
+Deirdre Booth	Trial Subscriptions	3	09	Circulation	
+Deirdre Booth	Trial Subscriptions	3	10	Circulation	
+Deirdre Booth	Trial Subscriptions	3	11	Circulation	
+Deirdre Booth	Trial Subscriptions	3	12	Circulation	
+Deirdre Booth	Trial Subscriptions	4	01	Circulation	
+Deirdre Booth	Trial Subscriptions	4	02	Circulation	
+Deirdre Booth	Trial Subscriptions	4	03	Circulation	
+Deirdre Booth	Trial Subscriptions	4	04	Circulation	
+Deirdre Booth	Trial Subscriptions	4	05	Circulation	
+Deirdre Galen	Subscriptions	4	10	Softalk Publishing	Circulation
+Deirdre Galen	Subscriptions	4	11	Softalk Publishing	Circulation
+Deirdre Galen	Subscriptions	4	12	Softalk Publishing	Circulation
+Deirdre Galen	Trial Subscriptions	4	06	Circulation	
+Deirdre Galen	Trial Subscriptions	4	07	Circulation	
+Deirdre Galen	Trial Subscriptions	4	08	Circulation	
+Deirdre Galen	Trial Subscriptions	4	09	Circulation	
+Dierdre Booth	Assistants	2	09	Circulation	
+Dierdre Booth	Assistants	2	10	Circulation	
+Dierdre Booth	Assistants	2	12	Circulation	
+Dierdre Booth	Circulation Assistants	2	06		
+Dierdre Booth	Circulation Assistants	2	07	Circulation	
+Dierdre Booth	Circulation Assistants	2	08	Circulation	
+Dierdre Booth	Trial Subscriptions	3	01	Circulation	
+Dierdre Booth	Trial Subscriptions	3	02	Circulation	
+Dierdre Booth	Trial Subscriptions	3	03	Circulation	
+Dierdre Booth	Trial Subscriptions	3	04	Circulation	
+Dierdre Booth	Trial Subscriptions	3	05	Circulation	
+Don A. Dyer	Guest Reviewers	3	04		
+Don A. Dyer	Guest Reviewers	3	10	Contributing Editors	
+Don Bostrom	Contributing Reviewers	1	03		
+Don Robertson	Art Production	3	03		
+Don Robertson	Art Production	3	04		
+Don Robertson	Art Production	3	05		
+Don Robertson	Art Production	3	06		
+Don Robertson	Art Production	3	07		
+Don Robertson	Art Production	3	08		
+Don Robertson	Art Production	3	09		
+Don Robertson	Production Manager	3	10	Art	
+Don Robertson	Production Manager	3	11	Art	
+Don Robertson	Production Manager	3	12	Art	
+Don Robertson	Production Manager	4	01	Art	
+Donald A. Dyer	Guest Reviewers	3	06		
+Donald A. Dyer	Guest Reviewers	3	07		
+Donald J. Robertson	Production Manager	4	02	Art	
+Donald J. Robertson	Production Manager	4	03	Art	
+Donald J. Robertson	Production Manager	4	04	Art	
+Donald J. Robertson	Production Manager	4	05	Art	
+Donald J. Robertson	Production Manager	4	06	Art	
+Donald J. Robertson	Production Manager	4	07	Art	
+Donald J. Robertson	Production Manager	4	08	Art	
+Donald J. Robertson	Production Manager	4	09	Art	
+Donald J. Robertson	Production Manager	4	10	Art	Contributing Editors
+Donald J. Robertson	Production Manager	4	11	Art	Contributing Editors
+Donald J. Robertson	Production Manager	4	12	Art	Regional Editors
+Donna Flushman	Accounting Assistant	4	08	Business	
+Donna Flushman	Accounting Assistant	4	09	Business	
+Donna Flushman	Accounting Assistants	4	04	Business	
+Donna Flushman	Accounting Assistants	4	05	Business	
+Donna Flushman	Accounting Assistants	4	06	Business	
+Donna Flushman	Accounting Assistants	4	07	Business	
+Donna Siebert	Art Assistant	2	05		
+Donna Siebert	Art Assistant	2	06		
+Donna Siebert	Assistants	2	09	Circulation	
+Donna Siebert	Assistants	2	10	Circulation	
+Donna Siebert	Circulation Assistants	2	07	Circulation	
+Donna Siebert	Circulation Assistants	2	08	Circulation	
+Donna Siebert	Dealer Sales	2	11	Circulation	
+Donna Siebert	Dealer Sales	2	12	Circulation	
+Donna Siebert	Dealer Sales	3	01	Circulation	
+Donna Siebert	Special Projects	2	02		
+Donna Siebert	Special Projects	2	03	Contributing Editors	
+Donna Siebert	Special Projects	2	04		
+Donna Siebert	Trial Subscriptions	4	01	Circulation	
+Donna Siebert	Trial Subscriptions	4	02	Circulation	
+Donna Siebert	Trial Subscriptions	4	03	Circulation	
+Doug Carlston	Applesoft	2	05	Contributing Editors	
+Doug Carlston	Applesoft	2	06	Contributing Editors	
+Doug Carlston	Applesoft	2	07	Contributing Editors	
+Doug Carlston	Applesoft	2	08	Contributing Editors	
+Doug Carlston	Applesoft	2	09	Contributing Editors	
+Doug Carlston	Applesoft	2	10	Contributing Editors	
+Doug Carlston	Applesoft	2	11	Contributing Editors	
+Doug Carlston	Applesoft	2	12	Contributing Editors	
+Doug Carlston	Applesoft	3	01	Contributing Editors	
+Doug Carlston	Applesoft	3	02	Contributing Editors	
+Doug Carlston	Applesoft	3	03	Contributing Editors	
+Doug Carlston	Applesoft	3	04	Contributing Editors	
+Doug Carlston	Applesoft	3	05	Contributing Editors	
+Doug Carlston	Applesoft	3	06	Contributing Editors	
+Doug Carlston	Applesoft	3	07	Contributing Editors	
+Doug Carlston	Applesoft	3	08	Contributing Editors	
+Doug Carlston	Applesoft	3	09	Contributing Editors	
+Doug Carlston	Applesoft	3	10	Contributing Editors	
+Doug Carlston	Applesoft	3	11	Contributing Editors	
+Doug Carlston	Applesoft	3	12	Contributing Editors	
+Doug Carlston	Applesoft	4	01	Contributing Editors	
+Doug Carlston	Applesoft	4	02	Contributing Editors	
+Doug Carlston	Applesoft	4	03	Contributing Editors	
+Doug Carlston	Applesoft	4	04	Contributing Editors	
+Doug Carlston	Softalk SAGES	4	05	Contributing Editors	
+Doug Carlston	Softalk SAGES	4	06	Contributing Editors	
+Doug Carlston	Softalk Sages	4	07	Contributing Editors	
+Doug Carlston	Softalk Sages	4	08	Contributing Editors	
+Doug Carlston	Softalk Sages	4	09	Contributing Editors	
+Doug Carlston	Softalk Sages	4	10	Editorial Correspondents	Contributing Editors
+Doug Carlston	Softalk Sages	4	11	Editorial Correspondents	Contributing Editors
+Doug Carlston	Softalk Sages	4	12	Editorial Correspondents	Regional Editors
+Duane Runyon	Controller	4	08	Business	
+Duane Runyon	Controller	4	09	Business	
+Duane Runyon	Controller	4	10	Softalk Publishing	Business
+Duane Runyon	Controller	4	11	Softalk Publishing	Business
+Duane Runyon	Controller	4	12	Softalk Publishing	Business
+Eden Recor	Softalk Sages	4	12	Editorial Correspondents	Regional Editors
+Elaine Cohen	Production Coordinator	2	09		
+Elaine Cohen	Production Coordinator	2	10		
+Elaine Cohen	Production Coordinator	2	11		
+Elaine Cohen	Production Coordinator	2	12		
+Eric Marks	Guest Reviewers	1	12		
+Erin Carlston	Editorial Assistant	4	12	Editorial Staff	Feature Editors
+Ethan Weiner	Guest Reviewers	3	07		
+Ethan Winer	Guest Reviewers	3	08		
+Ethan Winer	Guest Reviewers	3	09		
+Ethan Winer	Guest Reviewers	4	01		
+Evelyn Burke	Accounting	2	07		
+Evelyn Burke	Accounting	2	08		
+Evelyn Burke	Accounting	2	09		
+Evelyn Burke	Accounting	2	10		
+Evelyn Burke	Accounting	2	11		
+Evelyn Burke	Accounting	2	12		
+Evelyn Burke	Accounting	3	01		
+Evelyn Burke	Accounting	3	02		
+Evelyn Burke	Accounting	3	03		
+Evelyn Burke	Accounting	3	04		
+Evelyn Burke	Accounting	3	05		
+Evelyn Burke	Accounting	3	06		
+Evelyn Burke	Accounting	3	07		
+Evelyn Burke	Accounting	3	08		
+Evelyn Burke	Accounting	3	09		
+Evelyn Burke	Accounting	3	10	Business	
+Evelyn Burke	Accounting	3	11	Business	
+Evelyn Burke	Accounting	3	12	Business	
+Evelyn Burke	Accounting	4	01	Business	
+Evelyn Burke	Accounting	4	02	Business	
+Evelyn Burke	Accounting	4	03	Business	
+Evelyn Burke	Accounting	4	04	Business	
+Evelyn Burke	Accounting	4	05	Business	
+Evelyn Burke	Accounting	4	06	Business	
+Forrest Johnson	Guest Reviewers	3	02		
+Frank Malone	Contributing Editors	1	07		
+Frank Malone	Contributing Editors	1	08		
+Frank Malone	Contributing Editors	1	09		
+Frank Malone	Contributing Editors	1	10		
+Gail Lasko	Marketing	4	02	Business	
+Gail Ward	Marketing	4	03	Business	
+Gary Hatfield	Guest Reviewers	1	12		
+Gene O'Day	Purchasing	4	10	Softalk Publishing	Business
+Gene O'Day	Purchasing	4	11	Softalk Publishing	Business
+Gene O'Day	Purchasing	4	12	Softalk Publishing	Business
+Genevieve Cerf	Guest Reviewers	3	08		
+Gerald Rafferty	Softalk Books	4	10	Softalk Publishing	Business
+Gerald Rafferty	Softalk Books	4	11	Softalk Publishing	Business
+Gerald Rafferty	Softalk Books	4	12	Softalk Publishing	Business
+Glenn Thorne	Assistants	4	01	Art	
+Glenn Thorne	Assistants	4	02	Art	
+Glenn Thorne	Assistants	4	03	Art	
+Glenn Thorne	Assistants	4	04	Art	
+Glenn Thorne	Assistants	4	05	Art	
+Greg Tibbetts	Apple C P M	4	01	Contributing Editors	
+Greg Tibbetts	Apple CP/M	2	02	Contributing Editors	
+Greg Tibbetts	Apple CP/M	2	03	Contributing Editors	
+Greg Tibbetts	Apple CP/M	2	04	Contributing Editors	
+Greg Tibbetts	Apple CP/M	2	05	Contributing Editors	
+Greg Tibbetts	Apple CP/M	2	06	Contributing Editors	
+Greg Tibbetts	Apple CP/M	2	07	Contributing Editors	
+Greg Tibbetts	Apple CP/M	2	08	Contributing Editors	
+Greg Tibbetts	Apple CP/M	2	09	Contributing Editors	
+Greg Tibbetts	Apple CP/M	2	10	Contributing Editors	
+Greg Tibbetts	Apple CP/M	2	11	Contributing Editors	
+Greg Tibbetts	Apple CP/M	2	12	Contributing Editors	
+Greg Tibbetts	Apple CP/M	3	01	Contributing Editors	
+Greg Tibbetts	Apple CP/M	3	02	Contributing Editors	
+Greg Tibbetts	Apple CP/M	3	03	Contributing Editors	
+Greg Tibbetts	Apple CP/M	3	04	Contributing Editors	
+Greg Tibbetts	Apple CP/M	3	05	Contributing Editors	
+Greg Tibbetts	Apple CP/M	3	06	Contributing Editors	
+Greg Tibbetts	Apple CP/M	3	07	Contributing Editors	
+Greg Tibbetts	Apple CP/M	3	08	Contributing Editors	
+Greg Tibbetts	Apple CP/M	3	09	Contributing Editors	
+Greg Tibbetts	Apple CP/M	3	10	Contributing Editors	
+Greg Tibbetts	Apple CP/M	3	11	Contributing Editors	
+Greg Tibbetts	Apple CP/M	3	12	Contributing Editors	
+Greg Tibbetts	Apple CP/M	4	02	Contributing Editors	
+Greg Tibbetts	Apple CP/M	4	03	Contributing Editors	
+Greg Tibbetts	Apple CP/M	4	04	Contributing Editors	
+Greg Tibbetts	Apple CP/M	4	05	Contributing Editors	
+Greg Tibbetts	Apple CP/M	4	06	Contributing Editors	
+Greg Tibbetts	Apple CP/M	4	07	Contributing Editors	
+Greg Tibbetts	Apple CP/M	4	08	Contributing Editors	
+Greg Tibbetts	Apple CP/M	4	09	Contributing Editors	
+Greg Tibbetts	Apple CP/M	4	10	Editorial Correspondents	Contributing Editors
+Greg Tibbetts	Apple CP/M	4	11	Editorial Correspondents	Contributing Editors
+Greg Tibbetts	Apple CP/M	4	12	Editorial Correspondents	Contributing Editors
+Greg Tibbetts	Contributing Editors	1	12		
+Greg Tibbetts	Contributing Editors	2	01		
+Greg Tibbetts	Guest Reviewers	1	09		
+Greg Voss	Guest Reviewer	2	01		
+Greg Voss	Special Projects	2	02		
+Greg Voss	Special Projects	2	03	Contributing Editors	
+Greg Voss	Special Projects	2	04		
+Greg Voss	Special Projects	2	05	Contributing Editors	
+Greg Voss	Special Projects	2	06		
+Greg Voss	Special Projects	2	07	Contributing Editors	
+Greg Voss	Special Projects	2	08		
+Hal Schick	Circulation	2	07	Circulation	
+Hal Schick	Circulation Assistants	2	06		
+Hal Schick	Circulation Supervisors	2	08	Circulation	
+Hal Schick	Trial Subscriptions	2	09	Circulation	
+Hal Schick	Trial Subscriptions	2	10	Circulation	
+Hal Schick	Trial Subscriptions	2	11	Circulation	
+Hal Schick	Trial Subscriptions	2	12	Circulation	
+Hal Schick	Trial Subscriptions	3	01	Circulation	
+Hal Schick	Trial Subscriptions	3	02	Circulation	
+Hal Schick	Trial Subscriptions	3	03	Circulation	
+Hal Schick	Trial Subscriptions	3	04	Circulation	
+Hal Schick	Trial Subscriptions	3	05	Circulation	
+Hal Schick	Trial Subscriptions	3	06	Circulation	
+Hal Schick	Trial Subscriptions	3	07	Circulation	
+Hal Schick	Trial Subscriptions	3	08	Circulation	
+Hal Schick	Trial Subscriptions	3	09	Circulation	
+Hal Schick	Trial Subscriptions	3	10	Circulation	
+Hal Schick	Trial Subscriptions	3	11	Circulation	
+Hal Schick	Trial Subscriptions	3	12	Circulation	
+Hal Schick	Trial Subscriptions	4	01	Circulation	
+Hal Schick	Trial Subscriptions	4	02	Circulation	
+Hal Schick	Trial Subscriptions	4	03	Circulation	
+Harry McNeil	Proofreader	2	07		
+Harry McNeil	Proofreader	2	08		
+Harry McNeil	Proofreader	2	09		
+Harry McNeil	Proofreader	2	10		
+Harry McNeil	Proofreader	2	11		
+Harry McNeil	Proofreader	2	12		
+Harry McNeil	Proofreader	3	01		
+Harry McNeil	Proofreader	3	02		
+Harry McNeil	Proofreader	3	03		
+Harry McNeil	Proofreader	3	04		
+Harry McNeil	Proofreader	3	05		
+Harry McNeil	Proofreaders	3	06		
+Harry McNeil	Proofreaders	3	07		
+Harry McNeil	Proofreaders	3	08		
+Harry McNeil	Proofreaders	3	09		
+Harry McNeil	Proofreaders	3	10		
+Harry McNeil	Proofreaders	3	11		
+Harry McNeil	Proofreaders	3	12		
+Harry McNeil	Proofreaders	4	01		
+Harry McNeil	Proofreaders	4	10	Editorial Staff	Feature Editors
+Harry McNeil	Proofreaders	4	11	Editorial Staff	Feature Editors
+Harry McNeil	Proofreaders	4	12	Editorial Staff	Feature Editors
+Harry McNeil	Proofreading	4	02	Editorial	
+Harry McNeil	Proofreading	4	03	Editorial	
+Harry McNeil	Proofreading	4	04	Editorial	
+Harry McNeil	Proofreading	4	05	Editorial	
+Harry McNeil	Proofreading	4	06	Editorial	
+Harry McNeil	Proofreading	4	07	Editorial	
+Harry McNeil	Proofreading	4	08	Editorial	
+Harry McNeil	Proofreading	4	09	Editorial	
+Harry Richardson	List Maintenance	3	01	Circulation	
+Harry Richardson	List Maintenance	3	02	Circulation	
+Harry Richardson	List Maintenance	3	03	Circulation	
+Harry Richardson	List Maintenance	3	04	Circulation	
+Harry Richardson	List Maintenance	3	05	Circulation	
+Harry Richardson	List Maintenance	3	06	Circulation	
+Harry Richardson	List Maintenance	3	07	Circulation	
+Harry Richardson	List Maintenance	3	08	Circulation	
+Hartley G. Lesser	Northern California	4	04	Regional Editors	
+Hartley G. Lesser	Northern California	4	05	Regional Editors	
+Hartley G. Lesser	Northern California	4	06	Regional Editors	
+Hartley G. Lesser	Northern California	4	07	Regional Editors	
+Hartley Lesser	Northern California	4	02	Regional Editors	
+Hartley Lesser	Northern California	4	03	Regional Editors	
+Holly Pierce	Paid Subscriptions	4	02	Circulation	
+Holly Pierce	Paid Subscriptions	4	03	Circulation	
+Howard A. Shore	Guest Reviewers	3	04		
+Howard A. Shore	Guest Reviewers	3	05		
+Howard A. Shore	Guest Reviewers	3	06		
+Howard A. Shore	Guest Reviewers	3	07		
+Howard A. Shore	Guest Reviewers	3	08		
+Howard A. Shore	Guest Reviewers	3	11		
+Howard A. Shore	Guest Reviewers	4	01		
+I. K. Frasca	Paid Subscriptions	3	06	Circulation	
+I. K. Frasca	Paid Subscriptions	3	07	Circulation	
+I. K. Frasca	Paid Subscriptions	3	08	Circulation	
+I. K. Frasca	Paid Subscriptions	3	09	Circulation	
+Ian Ross	East Coast Sales	3	03	Advertising	
+Ian Ross	East Coast Sales	3	04	Advertising	
+Ian Ross	East Coast Sales	3	05	Advertising	
+Ian Ross	East Coast Sales	3	06	Advertising	
+Ian Ross	East Coast Sales	3	07	Advertising	
+Ian Ross	East Coast Sales	3	08	Advertising	
+Ian Ross	East Coast Sales	3	09	Advertising	
+Ian Ross	East Coast Sales	3	10	Advertising	
+Ian Ross	East Coast Sales	3	11	Advertising	
+Ian Ross	East Coast Sales	3	12	Advertising	
+Ian Ross	East Coast Sales	4	01	Advertising	
+Ian Ross	East Coast Sales	4	02	Advertising	
+Ian Ross	East Coast Sales	4	03	Advertising	
+Ian Ross	East Coast Sales	4	04	Advertising	
+Ian Ross	East Coast Sales	4	05	Advertising	
+Ian Ross	East Coast Sales	4	06	Advertising	
+Ian Ross	East Coast Sales	4	07	Advertising	
+Ian Ross	East Coast Sales	4	08	Advertising	
+Ian Ross	East Coast Sales	4	09	Advertising	
+Ian Ross	East Coast Sales	4	10	Softalk Publishing	Advertising
+Ian Ross	East Coast Sales	4	11	Softalk Publishing	Advertising
+Ian Ross	East Coast Sales	4	12	Softalk Publishing	Advertising
+James A. Merritt	Contributing Editors	1	06		
+Jan Aguiar	Paid Subscriptions	4	03	Circulation	
+Jan Aguiar	Paid Subscriptions	4	04	Circulation	
+Jan Aguiar	Paid Subscriptions	4	05	Circulation	
+Jan Godoy-Aguiar	Paid Subscriptions	4	06	Circulation	
+Jan Godoy-Aguiar	Paid Subscriptions	4	07	Circulation	
+Jan Godoy-Aguiar	Paid Subscriptions	4	08	Circulation	
+Jan Godoy-Aguiar	Paid Subscriptions	4	09	Circulation	
+Jan Godoy-Aguiar	Subscriptions	4	10	Softalk Publishing	Circulation
+Jan Godoy-Aguiar	Subscriptions	4	11	Softalk Publishing	Circulation
+Jan Godoy-Aguiar	Subscriptions	4	12	Softalk Publishing	Circulation
+Jean Varven	Assistant Managing Editor	3	10		
+Jean Varven	Assistant Managing Editor	3	11		
+Jean Varven	Assistant Managing Editor	3	12		
+Jean Varven	Assistant Managing Editor	4	01		
+Jean Varven	Associate Editor	2	10		
+Jean Varven	Associate Editor	4	02	Editorial	
+Jean Varven	Associate Editor	4	03	Editorial	
+Jean Varven	Associate Editor	4	04	Editorial	
+Jean Varven	Associate Editor	4	05	Editorial	
+Jean Varven	Associate Editors	2	08		
+Jean Varven	Associate Editors	2	09		
+Jean Varven	Associate Editors	2	11		
+Jean Varven	Associate Editors	2	12		
+Jean Varven	Associate Editors	3	01		
+Jean Varven	Associate Editors	3	02		
+Jean Varven	Associate Editors	3	03		
+Jean Varven	Associate Editors	3	04		
+Jean Varven	Associate Editors	3	05		
+Jean Varven	Associate Editors	3	06		
+Jean Varven	Associate Editors	3	07		
+Jean Varven	Associate Editors	3	08		
+Jean Varven	Associate Editors	3	09		
+Jean Varven	Associate Editors	4	06	Editorial	
+Jean Varven	Associate Editors	4	07	Editorial	
+Jean Varven	Associate Editors	4	08	Editorial	
+Jean Varven	Associate Editors	4	09	Editorial	
+Jean Varven	Editorial Associate	2	02		
+Jean Varven	Editorial Associate	2	03		
+Jean Varven	Editorial Associate	2	04		
+Jean Varven	Editorial Associate	2	05		
+Jean Varven	Editorial Associate	2	06		
+Jean Varven	Editorial Associate	2	07		
+Jean Varven	Product and Trade News	4	10	Editorial Staff	Associate Editors
+Jean Varven	Product and Trade News	4	11	Editorial Staff	Associate Editors
+Jean Varven	Product and Trade News	4	12	Editorial Staff	Associate Editors
+Jeff Mazur	Contributing Editors	1	12		
+Jeff Mazur	Contributing Editors	2	01		
+Jeff Mazur	Guest Reviewers	1	09		
+Jeffrey Mazur	Contributing Editors	1	11		
+Jeffrey Mazur	Hardware	2	02	Contributing Editors	
+Jeffrey Mazur	Hardware	2	03	Contributing Editors	
+Jeffrey Mazur	Hardware	2	04	Contributing Editors	
+Jeffrey Mazur	Hardware	2	05	Contributing Editors	
+Jeffrey Mazur	Hardware	2	06	Contributing Editors	
+Jeffrey Mazur	Hardware	2	07	Contributing Editors	
+Jeffrey Mazur	Hardware	2	08	Contributing Editors	
+Jeffrey Mazur	Hardware	2	09	Contributing Editors	
+Jeffrey Mazur	Hardware	2	10	Contributing Editors	
+Jeffrey Mazur	Hardware	2	11	Contributing Editors	
+Jeffrey Mazur	Hardware	2	12	Contributing Editors	
+Jeffrey Mazur	Hardware	3	01	Contributing Editors	
+Jeffrey Mazur	Hardware	3	02	Contributing Editors	
+Jeffrey Mazur	Hardware	3	03	Contributing Editors	
+Jeffrey Mazur	Hardware	3	04	Contributing Editors	
+Jeffrey Mazur	Hardware	3	05	Contributing Editors	
+Jeffrey Mazur	Hardware	3	06	Contributing Editors	
+Jeffrey Mazur	Hardware	3	07	Contributing Editors	
+Jeffrey Mazur	Hardware	3	08	Contributing Editors	
+Jeffrey Mazur	Hardware	3	09	Contributing Editors	
+Jeffrey Mazur	Hardware	3	10	Contributing Editors	
+Jeffrey Mazur	Hardware	3	11	Contributing Editors	
+Jeffrey Mazur	Hardware	3	12	Contributing Editors	
+Jeffrey Mazur	Hardware	4	01	Contributing Editors	
+Jeffrey Mazur	Hardware	4	02	Contributing Editors	
+Jeffrey Mazur	Hardware	4	03	Contributing Editors	
+Jeffrey Mazur	Hardware	4	04	Contributing Editors	
+Jerry Goldman	Copy Editors	2	04		
+Jill Schultz	Art Assistants	3	02		
+Jill Schultz	Art Assistants	3	03		
+Jill Schultz	Art Assistants	3	04		
+Jill Schultz	Art Assistants	3	05		
+Jill Schultz	Art Assistants	3	06		
+Jill Schultz	Art Assistants	3	07		
+Jill Stroud	Subscriptions	4	10	Softalk Publishing	Circulation
+Jill Stroud	Subscriptions	4	11	Softalk Publishing	Circulation
+Jill Stroud	Subscriptions	4	12	Softalk Publishing	Circulation
+Jim Merritt	Contributing Editors	1	07		
+Jim Merritt	Contributing Editors	1	08		
+Jim Merritt	Contributing Editors	1	09		
+Jim Merritt	Contributing Editors	1	10		
+Jim Merritt	Contributing Editors	1	11		
+Jim Merritt	Contributing Editors	1	12		
+Jim Merritt	Contributing Editors	2	01		
+Jim Merritt	Pascal	2	02	Contributing Editors	
+Jim Merritt	Pascal	2	03	Contributing Editors	
+Jim Merritt	Pascal	2	04	Contributing Editors	
+Jim Merritt	Pascal	2	05	Contributing Editors	
+Jim Merritt	Pascal	2	06	Contributing Editors	
+Jim Merritt	Pascal	2	07	Contributing Editors	
+Jim Merritt	Pascal	2	08	Contributing Editors	
+Jim Merritt	Pascal	2	09	Contributing Editors	
+Jim Merritt	Pascal	2	10	Contributing Editors	
+Jim Merritt	Pascal	2	11	Contributing Editors	
+Jim Merritt	Pascal	2	12	Contributing Editors	
+Jim Merritt	Pascal	3	01	Contributing Editors	
+Jim Merritt	Pascal	3	02	Contributing Editors	
+Jim Merritt	Pascal	3	03	Contributing Editors	
+Jim Merritt	Pascal	3	04	Contributing Editors	
+Jim Merritt	Pascal	3	05	Contributing Editors	
+Jim Merritt	Pascal	3	06	Contributing Editors	
+Jim Merritt	Pascal	3	07	Contributing Editors	
+Jim Merritt	Pascal	3	08	Contributing Editors	
+Jim Merritt	Pascal	3	09	Contributing Editors	
+Jim Merritt	Pascal	3	10	Contributing Editors	
+Jim Merritt	Pascal	3	11	Contributing Editors	
+Jim Merritt	Pascal	3	12	Contributing Editors	
+Jim Merritt	Pascal	4	01	Contributing Editors	
+Jim Merritt	Pascal	4	02	Contributing Editors	
+Jim Merritt	Pascal	4	03	Contributing Editors	
+Jim Merritt	Pascal	4	04	Contributing Editors	
+Jim Merritt	Pascal	4	05	Contributing Editors	
+Jim Merritt	Pascal	4	06	Contributing Editors	
+Jim Merritt	Pascal	4	07	Contributing Editors	
+Jim Merritt	Pascal	4	08	Contributing Editors	
+Jim Merritt	Pascal	4	09	Contributing Editors	
+Jim Merritt	Pascal	4	10	Editorial Correspondents	Contributing Editors
+Jim Merritt	Pascal	4	11	Editorial Correspondents	Contributing Editors
+Jim Merritt	Pascal	4	12	Editorial Correspondents	Contributing Editors
+Jim Salmons	Marketing	3	02		
+Jim Salmons	Marketing	3	03		
+Jim Salmons	Marketing	3	04		
+Jim Salmons	Marketing	3	05		
+Jim Salmons	Softrek	2	12		
+Jim Salmons	Special Assignments	3	01		
+Jo Hilliard	Advertising Sales	2	07	Advertising	
+Jo Hilliard	Office Manager	2	06		
+Jo Hilliard	Promotion	2	07		
+Jo Hilliard	Promotion	2	08		
+Jo Hilliard	West Coast Sales	2	08	Advertising	
+Jo Hilliard	West Coast Sales	2	09	Advertising	
+Jo Hilliard	West Coast Sales	2	10	Advertising	
+Jo Hilliard	West Coast Sales	2	11	Advertising	
+Jo Hilliard	West Coast Sales	2	12	Advertising	
+Jock Root	Education	4	02	Editorial	
+Jock Root	Education	4	03	Editorial	
+Jock Root	Education	4	04	Editorial	
+Jock Root	Education	4	05	Editorial	
+Jock Root	Education	4	06	Editorial	
+Jock Root	Education	4	07	Editorial	
+Jock Root	Education Editor	3	11		
+Jock Root	Education Editor	3	12		
+Jock Root	Education Editor	4	01		
+Jock Root	Guest Reviewers	2	10	Contributing Editors	
+Jock Root	Guest Reviewers	2	11	Contributing Editors	
+Jock Root	Guest Reviewers	2	12		
+Jock Root	Guest Reviewers	3	01		
+Jock Root	Guest Reviewers	3	02		
+Jock Root	Guest Reviewers	3	03		
+Jock Root	Guest Reviewers	3	06		
+Jock Root	Guest Reviewers	3	07		
+Jock Root	Guest Reviewers	3	08		
+Jock Root	Hardware	4	08	Editorial	
+Jock Root	Hardware	4	09	Editorial	
+Jock Root	Hardware	4	10	Editorial Staff	Feature Editors
+Jock Root	Hardware	4	11	Editorial Staff	Feature Editors
+Jock Root	Hardware	4	12	Editorial Staff	Feature Editors
+Joe Bellinger	Trial Subscriptions	4	05	Circulation	
+Joe Bellinger	Trial Subscriptions	4	06	Circulation	
+Joe Bellinger	Trial Subscriptions	4	07	Circulation	
+Joe Bellinger	Trial Subscriptions	4	08	Circulation	
+Joe Bellinger	Trial Subscriptions	4	09	Circulation	
+Joe Shelton	Financial Modeling	2	09	Contributing Editors	
+Joe Shelton	Financial Modeling	2	10	Contributing Editors	
+Joe Shelton	Financial Modeling	2	11	Contributing Editors	
+Joe Shelton	Financial Modeling	2	12	Contributing Editors	
+Joe Shelton	Financial Modeling	3	01	Contributing Editors	
+Joe Shelton	Financial Modeling	3	02	Contributing Editors	
+Joe Shelton	Financial Modeling	3	03	Contributing Editors	
+Joe Shelton	Financial Modeling	3	04	Contributing Editors	
+Joe Shelton	Financial Modeling	3	05	Contributing Editors	
+Joe Shelton	Financial Modeling	3	06	Contributing Editors	
+Joe Shelton	Financial Modeling	3	07	Contributing Editors	
+Joe Shelton	Financial Modeling	3	08	Contributing Editors	
+Joe Shelton	Financial Modeling	3	09	Contributing Editors	
+Joe Shelton	Financial Modeling	3	10	Contributing Editors	
+Joe Shelton	Financial Modeling	3	11	Contributing Editors	
+Joe Shelton	Financial Modeling	3	12	Contributing Editors	
+Joe Shelton	Financial Modeling	4	01	Contributing Editors	
+Joe Shelton	Financial Modeling	4	02	Contributing Editors	
+Joe Shelton	Financial Modeling	4	03	Contributing Editors	
+Joe Shelton	Financial Modeling	4	04	Contributing Editors	
+Joe Shelton	Softalk SAGES	4	05	Contributing Editors	
+Joe Shelton	Softalk SAGES	4	06	Contributing Editors	
+Joe Shelton	Softalk Sages	4	07	Contributing Editors	
+Joe Shelton	Softalk Sages	4	08	Contributing Editors	
+Joe Shelton	Softalk Sages	4	09	Contributing Editors	
+Joe Shelton	Softalk Sages	4	10	Editorial Correspondents	Contributing Editors
+Joe Shelton	Softalk Sages	4	11	Editorial Correspondents	Contributing Editors
+Joe Shelton	Softalk Sages	4	12	Editorial Correspondents	Regional Editors
+Joe Villareal	Guest Reviewer	1	08		
+John Bollweg	Midwest and Rocky Mountain Sales	3	03	Advertising	
+John Bollweg	Midwest and Rocky Mountain Sales	3	04	Advertising	
+John Bollweg	Midwest and Rocky Mountain Sales	3	05	Advertising	
+John Bollweg	Midwest and Rocky Mountain Sales	3	06	Advertising	
+John Bollweg	Midwest and Rocky Mountain Sales	3	07	Advertising	
+John Bollweg	Midwest and Rocky Mountain Sales	3	08	Advertising	
+John Bollweg	Midwest and Rocky Mountain Sales	3	09	Advertising	
+John Bollweg	Midwest and Rocky Mountain Sales	3	10	Advertising	
+John Bollweg	Midwest and Rocky Mountain Sales	3	11	Advertising	
+John Bollweg	Midwest and Rocky Mountain Sales	3	12	Advertising	
+John Bollweg	Midwest and Rocky Mountain Sales	4	01	Advertising	
+John Bollweg	Midwest and Rocky Mountain Sales	4	02	Advertising	
+John Bollweg	Midwest and Rocky Mountain Sales	4	03	Advertising	
+John Bollweg	Midwest and Rocky Mountain Sales	4	04	Advertising	
+John Bollweg	Midwest and Rocky Mountain Sales	4	05	Advertising	
+John Bollweg	Midwest and Rocky Mountain Sales	4	06	Advertising	
+John Bollweg	Midwest and Rocky Mountain Sales	4	07	Advertising	
+John Haller	Chairman	1	02		
+John Haller	Chairman	1	03		
+John Haller	Chairman	1	04		
+John Haller	Chairman	1	05		
+John Haller	Chairman	1	06		
+John Haller	Chairman	1	07		
+John Haller	Chairman	1	08		
+John Haller	Chairman	1	09		
+John Haller	Chairman	1	10		
+John Haller	Chairman	1	11		
+John Haller	Chairman	1	12		
+John Haller	Chairman	2	01		
+John Haller	Chairman	2	02		
+John Haller	Chairman	2	03		
+John Haller	Chairman	2	04		
+John Haller	Chairman	2	05		
+John Haller	Chairman	2	06		
+John Haller	Chairman	2	07		
+John Haller	Chairman	2	08		
+John Haller	Chairman	2	09		
+John Haller	Chairman	2	10		
+John Haller	Chairman	2	11		
+John Haller	Chairman	2	12		
+John Haller	Chairman	3	01		
+John Haller	Chairman	3	02		
+John Haller	Chairman	3	03		
+John Haller	Chairman	3	04		
+John Haller	Chairman	3	05		
+John Haller	Chairman	3	06		
+John Haller	Chairman	3	07		
+John Haller	Chairman	3	08		
+John Haller	Chairman	3	09		
+John Haller	Chairman	3	10		
+John Haller	Chairman	3	11		
+John Haller	Chairman	3	12		
+John Haller	Chairman	4	01		
+John Haller	Chairman	4	02		
+John Haller	Chairman	4	03		
+John Haller	Chairman	4	04		
+John Haller	Chairman	4	05		
+John Haller	Chairman	4	06		
+John Haller	Chairman	4	07		
+John Haller	Chairman	4	08		
+John Haller	Chairman	4	09		
+John Haller	Chairman	4	10	Softalk Publishing	Business
+John Haller	Chairman	4	11	Softalk Publishing	Business
+John Haller	Chairman	4	12	Softalk Publishing	Business
+John Haller	Contributing Reviewers	1	03		
+John Haller	Guest Reviewer	2	02	Contributing Editors	
+John Haller	Guest Reviewers	2	04	Contributing Editors	
+John Heitmann	Systems	4	04	Circulation	
+John Heitmann	Systems	4	05	Circulation	
+John Heitmann	Systems	4	06	Circulation	
+John Heitmann	Systems	4	07	Circulation	
+John Heitmann	Systems	4	08	Circulation	
+John Heitmann	Systems	4	09	Circulation	
+John Heitmann	Systems	4	10	Softalk Publishing	Circulation
+John Heitmann	Systems	4	11	Softalk Publishing	Circulation
+John Heitmann	Systems	4	12	Softalk Publishing	Circulation
+John Jeppson	Softalk SAGES	4	05	Contributing Editors	
+John Jeppson	Softalk SAGES	4	06	Contributing Editors	
+John Jeppson	Softalk Sages	4	07	Contributing Editors	
+John Jeppson	Softalk Sages	4	08	Contributing Editors	
+John Jeppson	Softalk Sages	4	09	Contributing Editors	
+John Jeppson	Softalk Sages	4	10	Editorial Correspondents	Contributing Editors
+John Jeppson	Softalk Sages	4	11	Editorial Correspondents	Contributing Editors
+John Jeppson	Softalk Sages	4	12	Editorial Correspondents	Regional Editors
+John MacGibbon	Australasia	4	12	Editorial Correspondents	Regional Editors
+John Mitchell	Assistant Production Manager	1	01		
+John Mitchell	Operations Manager	1	02		
+John Mitchell	Operations Manager	1	03		
+John Mitchell	Operations Manager	1	05		
+John Mitchell	Operations Manager	1	06		
+John Mitchell	Operations Manager	1	07		
+John Mitchell	Secretary	1	02		
+John Mitchell	Secretary	1	03		
+John Mitchell	Secretary	1	04		
+John Mitchell	Secretary	1	05		
+John Mitchell	Secretary	1	06		
+John R. Hall	Guest Reviewers	3	01		
+John Sienkiewicz	Midwest and Rocky Mountain Sales	2	08	Advertising	
+John Sienkiewicz	Midwest and Rocky Mountain Sales	2	09	Advertising	
+John Sienkiewicz	Midwest and Rocky Mountain Sales	2	10	Advertising	
+John Sienkiewicz	Midwest and Rocky Mountain Sales	2	11	Advertising	
+John Sienkiewicz	Midwest and Rocky Mountain Sales	2	12	Advertising	
+John Sienkiewicz	Midwest and Rocky Mountain Sales	3	01	Advertising	
+John Sienkiewicz	Midwest and Rocky Mountain Sales	3	02	Advertising	
+John Sienkiewicz	Midwest and Rocky Mountain Sales	3	03	Advertising	
+John Sienkiewicz	Midwest and Rocky Mountain Sales	3	04	Advertising	
+John Sienkiewicz	Midwest and Rocky Mountain Sales	3	05	Advertising	
+John Sienkiewicz	Midwest and Rocky Mountain Sales	3	06	Advertising	
+John Sienkiewicz	Midwest and Rocky Mountain Sales	3	07	Advertising	
+John Sienkiewicz	Midwest and Rocky Mountain Sales	3	08	Advertising	
+John Sienkiewicz	Midwest and Rocky Mountain Sales	3	09	Advertising	
+John Sienkiewicz	Midwest and Rocky Mountain Sales	3	10	Advertising	
+John Sienkiewicz	Midwest and Rocky Mountain Sales	3	11	Advertising	
+John Sienkiewicz	Midwest and Rocky Mountain Sales	3	12	Advertising	
+John Sienkiewicz	Midwest and Rocky Mountain Sales	4	01	Advertising	
+Jon Durkee	Guest Reviewers	3	05		
+Jonathan Miller	Special Assignments	2	07		
+Jonathan Miller	Special Assignments	2	09		
+Jonathan Miller	Special Assignments	2	10		
+Jonathan Miller	Special Assignments	2	11		
+Jonathan Miller	Special Assignments	2	12		
+Jonathan Miller	Special Assignments	3	01		
+Jonathan Miller	Special Assignments	3	02		
+Jonathan Miller	Special Assignments	3	03		
+Jonathan Miller	Special Assignments	3	04		
+Jonathan Miller	Special Assignments	3	05		
+Jonathan Miller	Special Assignments	3	06		
+Jonathan Miller	Special Assignments	3	07		
+Jonathan Miller	Special Assignments	3	08		
+Jonathan Miller	Special Assignments	3	09		
+Jonathan Miller	Word Processors	2	08	Contributing Editors	
+Josie Walley	Paid Subscriptions	4	06	Circulation	
+Josie Walley	Paid Subscriptions	4	07	Circulation	
+Josie Walley	Paid Subscriptions	4	08	Circulation	
+Josie Walley	Paid Subscriptions	4	09	Circulation	
+Josie Walley	Subscriptions	4	10	Softalk Publishing	Circulation
+Josie Walley	Subscriptions	4	11	Softalk Publishing	Circulation
+Josie Walley	Subscriptions	4	12	Softalk Publishing	Circulation
+Judith Pfeffer	Assistant Copy Editor	4	10	Editorial Staff	Feature Editors
+Judith Pfeffer	Assistant Copy Editor	4	11	Editorial Staff	Feature Editors
+Judith Pfeffer	Assistant Copy Editor	4	12	Editorial Staff	Feature Editors
+Judith Pfeffer	Copy	4	08	Editorial	
+Judith Pfeffer	Copy	4	09	Editorial	
+Judith Pfeffer	Proofreaders	3	11		
+Judith Pfeffer	Proofreaders	3	12		
+Judith Pfeffer	Proofreaders	4	01		
+Judith Pfeffer	Proofreading	4	02	Editorial	
+Judith Pfeffer	Proofreading	4	03	Editorial	
+Judith Pfeffer	Proofreading	4	04	Editorial	
+Judith Pfeffer	Proofreading	4	05	Editorial	
+Judith Pfeffer	Proofreading	4	06	Editorial	
+Judith Pfeffer	Proofreading	4	07	Editorial	
+Judith Pfeffer	Proofreading	4	09	Editorial	
+Judy Weinstein	Assistants	2	09	Circulation	
+Judy Weinstein	Assistants	2	10	Circulation	
+Judy Weinstein	Assistants	2	11	Circulation	
+Judy Weinstein	Assistants	2	12	Circulation	
+Judy Weinstein	Dealer Sales	3	02	Circulation	
+Judy Weinstein	Dealer Sales	3	03		
+Judy Weinstein	Dealer Sales	3	04		
+Judy Weinstein	Dealer Sales	3	05		
+Judy Weinstein	Dealer Sales	3	06		
+Judy Weinstein	Dealer Sales	3	07		
+Judy Weinstein	Dealer Sales	3	08		
+Judy Weinstein	Dealer Sales	3	09		
+Judy Weinstein	Dealer Sales	3	10	Business	
+Judy Weinstein	Dealer Sales	3	11	Business	
+Judy Weinstein	Dealer Sales	3	12	Business	
+Judy Weinstein	Dealer Sales	4	01	Business	
+Judy Weinstein	Trial Subscriptions	3	01	Circulation	
+Judy Weinstein	Trial Subscriptions	4	02	Circulation	
+Julie Fletcher	Advertising Services	3	12	Advertising	
+Julie Fletcher	Advertising Services	4	01	Advertising	
+Julie Fletcher	Advertising Services	4	02	Advertising	
+Julie Fletcher	Advertising Services	4	03	Advertising	
+Karen Kleiner	Editorial Assistant	2	08		
+Karen Kleiner	Editorial Assistant	2	09		
+Karen Kleiner	Editorial Assistant	2	10		
+Karen Kleiner	Guest Reviewers	2	12		
+Keith Landry	Assistants	3	02	Circulation	
+Ken Goehner	Assistants	4	05	Art	
+Ken Goehner	Assistants	4	06	Art	
+Ken Williams	Systems	2	03		
+Ken Williams	Systems	2	04		
+Ken Williams	Systems	2	05		
+Ken Williams	Systems	2	06		
+Ken Williams	Systems	2	07	Circulation	
+Ken Williams	Systems	2	08	Circulation	
+Ken Williams	Systems	2	09		
+Ken Williams	Systems	2	10		
+Kenneth A. Landis	Contributing Editors	2	01		
+Kenneth Landis	Investing	2	02	Contributing Editors	
+Kenneth Landis	Investing	2	03	Contributing Editors	
+Kenneth Landis	Investing	2	04	Contributing Editors	
+Kenneth Landis	Investing	2	05	Contributing Editors	
+Kenneth Landis	Investing	2	06	Contributing Editors	
+Kenneth Landis	Investing	2	07	Contributing Editors	
+Kenneth Landis	Investing	2	08	Contributing Editors	
+Kenneth Landis	Investing	2	09	Contributing Editors	
+Kenneth Landis	Investing	2	10	Contributing Editors	
+Kenneth Landis	Investing	2	11	Contributing Editors	
+Kenneth Landis	Investing	2	12	Contributing Editors	
+Kenneth Landis	Investing	3	01	Contributing Editors	
+Kenneth Landis	Investing	3	02	Contributing Editors	
+Kenneth Landis	Investing	3	03	Contributing Editors	
+Kenneth Landis	Investing	3	04	Contributing Editors	
+Kenneth Landis	Investing	3	05	Contributing Editors	
+Kenneth Landis	Investing	3	06	Contributing Editors	
+Kenneth Landis	Investing	3	07	Contributing Editors	
+Kenneth Landis	Investing	3	08	Contributing Editors	
+Kenneth Landis	Investing	3	09	Contributing Editors	
+Kenneth Landis	Investing	3	10	Contributing Editors	
+Kenneth Landis	Investing	3	11	Contributing Editors	
+Kenneth Landis	Investing	3	12	Contributing Editors	
+Kenneth Landis	Investing	4	01	Contributing Editors	
+Kenneth Landis	Investing	4	02	Contributing Editors	
+Kenneth Landis	Investing	4	03	Contributing Editors	
+Kenneth Landis	Investing	4	04	Contributing Editors	
+Kenneth Landis	Investing	4	05	Contributing Editors	
+Kenneth Landis	Investing	4	06	Contributing Editors	
+Kenneth Landis	Investing	4	07	Contributing Editors	
+Kenneth Landis	Investing	4	08	Contributing Editors	
+Kenneth Landis	Investing	4	09	Contributing Editors	
+Kevin Goldstein	32 Bits	4	08	Contributing Editors	
+Kevin Goldstein	32 Bits	4	09	Contributing Editors	
+Kevin Goldstein	32-Bit Apples	4	10	Editorial Correspondents	Contributing Editors
+Kevin Goldstein	32-Bit Apples	4	11	Editorial Correspondents	Contributing Editors
+Kevin Goldstein	32-Bit Apples	4	12	Editorial Correspondents	Contributing Editors
+Kevin McKeon	Art Assistant	2	10		
+Kevin McKeon	Art Director - Softalk for the IBM Personal Computer	4	12	Softalk Publishing	Siblings
+Kevin McKeon	Art Manager	3	02	Contributing Editors	
+Kevin McKeon	Art Manager	3	03	Contributing Editors	
+Kevin McKeon	Art Manager	3	04	Contributing Editors	
+Kevin McKeon	Art Manager	3	05	Contributing Editors	
+Kevin McKeon	Art Manager	3	06	Contributing Editors	
+Kevin McKeon	Art Manager	3	07	Contributing Editors	
+Kevin McKeon	Art Manager	3	08	Contributing Editors	
+Kevin McKeon	Art Manager	3	09	Contributing Editors	
+Kevin Sullivan	Midwest and Rocky Mountain Sales	3	03	Advertising	
+Kevin Sullivan	Midwest and Rocky Mountain Sales	3	04	Advertising	
+Kevin Sullivan	Midwest and Rocky Mountain Sales	3	05	Advertising	
+Kevin Sullivan	Midwest and Rocky Mountain Sales	3	06	Advertising	
+Kevin Sullivan	Midwest and Rocky Mountain Sales	3	07	Advertising	
+Kevin Sullivan	Midwest and Rocky Mountain Sales	3	08	Advertising	
+Kevin Sullivan	Midwest and Rocky Mountain Sales	3	09	Advertising	
+Kevin Sullivan	Midwest and Rocky Mountain Sales	3	10	Advertising	
+Kevin Sullivan	Midwest and Rocky Mountain Sales	3	11	Advertising	
+Kevin Sullivan	Midwest and Rocky Mountain Sales	3	12	Advertising	
+Kevin Sullivan	Midwest and Rocky Mountain Sales	4	01	Advertising	
+Kevin Sullivan	Midwest and Rocky Mountain Sales	4	02	Advertising	
+Kevin Sullivan	Midwest and Rocky Mountain Sales	4	03	Advertising	
+Kevin Sullivan	Midwest and Rocky Mountain Sales	4	04	Advertising	
+Kevin Sullivan	Midwest and Rocky Mountain Sales	4	05	Advertising	
+Kevin Sullivan	Midwest and Rocky Mountain Sales	4	06	Advertising	
+Kevin Sullivan	Midwest and Rocky Mountain Sales	4	07	Advertising	
+Kevin Sullivan	Midwest and Rocky Mountain Sales	4	08	Advertising	
+Kevin Sullivan	Midwest and Rocky Mountain Sales	4	09	Advertising	
+Kevin Sullivan	Midwest and Rocky Mountain Sales	4	10	Softalk Publishing	Advertising
+Kevin Sullivan	Midwest and Rocky Mountain Sales	4	11	Softalk Publishing	Advertising
+Kevin Sullivan	Midwest and Rocky Mountain Sales	4	12	Softalk Publishing	Advertising
+Kimberly Curling	Administrative Assistant	1	10		
+Kimberly Curling	Administrative Assistant	1	11		
+Kimberly Curling	Circulation	1	12		
+Kimberly Curling	Circulation	2	01		
+Kimberly Curling	Circulation	2	02		
+Kimberly Curling	Circulation	2	03		
+Kirin Tommervik	Editorial Assistant	1	01		
+Kurt A Wahlner	Art Director	4	01		
+Kurt A Wahlner	Art Director	4	02		
+Kurt A. Wahlner	Art Director	1	01		
+Kurt A. Wahlner	Art Director	1	02		
+Kurt A. Wahlner	Art Director	1	03		
+Kurt A. Wahlner	Art Director	1	05		
+Kurt A. Wahlner	Art Director	1	06		
+Kurt A. Wahlner	Art Director	1	07		
+Kurt A. Wahlner	Art Director	1	08		
+Kurt A. Wahlner	Art Director	1	09		
+Kurt A. Wahlner	Art Director	1	10		
+Kurt A. Wahlner	Art Director	1	11		
+Kurt A. Wahlner	Art Director	1	12		
+Kurt A. Wahlner	Art Director	2	01		
+Kurt A. Wahlner	Art Director	2	02		
+Kurt A. Wahlner	Art Director	2	03		
+Kurt A. Wahlner	Art Director	2	04		
+Kurt A. Wahlner	Art Director	2	05		
+Kurt A. Wahlner	Art Director	2	06		
+Kurt A. Wahlner	Art Director	2	07		
+Kurt A. Wahlner	Art Director	2	08		
+Kurt A. Wahlner	Art Director	2	09		
+Kurt A. Wahlner	Art Director	2	10		
+Kurt A. Wahlner	Art Director	2	11		
+Kurt A. Wahlner	Art Director	2	12		
+Kurt A. Wahlner	Art Director	3	01		
+Kurt A. Wahlner	Art Director	3	02		
+Kurt A. Wahlner	Art Director	3	03		
+Kurt A. Wahlner	Art Director	3	04		
+Kurt A. Wahlner	Art Director	3	05		
+Kurt A. Wahlner	Art Director	3	06		
+Kurt A. Wahlner	Art Director	3	07		
+Kurt A. Wahlner	Art Director	3	08		
+Kurt A. Wahlner	Art Director	3	09		
+Kurt A. Wahlner	Art Director	3	10		
+Kurt A. Wahlner	Art Director	3	11		
+Kurt A. Wahlner	Art Director	3	12		
+Kurt A. Wahlner	Art Director	4	03		
+Kurt A. Wahlner	Art Director	4	04		
+Kurt A. Wahlner	Art Director	4	05		
+Kurt A. Wahlner	Art Director	4	06		
+Kurt A. Wahlner	Art Director	4	07		
+Kurt A. Wahlner	Art Director	4	08		
+Kurt A. Wahlner	Art Director	4	09		
+Kurt A. Wahlner	Art Director	4	10		
+Kurt A. Wahlner	Art Director	4	11		
+Kurt A. Wahlner	Art Director	4	12		
+Lanny Broyles	Dealer Sales	4	10	Softalk Publishing	Circulation
+Lanny Broyles	Dealer Sales	4	11	Softalk Publishing	Circulation
+Lanny Broyles	Dealer Sales	4	12	Softalk Publishing	Circulation
+Lanny Broyles	Market Research	4	05	Editorial	
+Lanny Broyles	Market Research	4	06	Editorial	
+Lanny Broyles	Market Research	4	07	Editorial	
+Lanny Broyles	Market Research	4	08	Editorial	
+Lanny Broyles	Market Research	4	09	Editorial	
+Lanny Broyles	Market Research	4	10	Editorial Staff	Feature Editors
+Lanny Broyles	Market Research	4	11	Editorial Staff	Feature Editors
+Lanny Broyles	Market Research	4	12	Editorial Staff	Feature Editors
+Lashea Lowe	Dealer Sales	4	09	Circulation	
+Lashea Lowe	Market News	4	04	Editorial	
+Lashea Lowe	Market News	4	05	Editorial	
+Lashea Lowe	Market News	4	06	Editorial	
+Lashea Lowe	Market News	4	07	Editorial	
+Laura Shunk	Subscriptions	4	12	Softalk Publishing	Circulation
+Laurie Berger	Trial Subscriptions	3	08	Circulation	
+Laurie Berger	Trial Subscriptions	3	09	Circulation	
+Laurie O'Connell	Softalk Books	4	10	Softalk Publishing	Business
+Laurie O'Connell	Softalk Books	4	11	Softalk Publishing	Business
+Laurie O'Connell	Softalk Books	4	12	Softalk Publishing	Business
+Laurie O'Connell	Trial Subscriptions	3	06	Circulation	
+Laurie O'Connell	Trial Subscriptions	3	07	Circulation	
+Laurie O'Connell	Trial Subscriptions	3	08	Circulation	
+Laurie O'Connell	Trial Subscriptions	3	09	Circulation	
+Laurie O'Connell	Trial Subscriptions	3	10	Circulation	
+Laurie O'Connell	Trial Subscriptions	3	11	Circulation	
+Laurie O'Connell	Trial Subscriptions	3	12	Circulation	
+Laurie O'Connell	Trial Subscriptions	4	01	Circulation	
+Laurie O'Connell	Trial Subscriptions	4	02	Circulation	
+Laurie O'Connell	Trial Subscriptions	4	03	Circulation	
+Leticia Garcia	Dealer Sales	4	12	Softalk Publishing	Circulation
+Leticia Garcia	Paid Subscriptions	4	02	Circulation	
+Leticia Garcia	Paid Subscriptions	4	03	Circulation	
+Leticia Garcia	Paid Subscriptions	4	04	Circulation	
+Leticia Garcia	Paid Subscriptions	4	05	Circulation	
+Leticia Garcia	Paid Subscriptions	4	06	Circulation	
+Leticia Garcia	Paid Subscriptions	4	07	Circulation	
+Leticia Garcia	Paid Subscriptions	4	08	Circulation	
+Leticia Garcia	Paid Subscriptions	4	09	Circulation	
+Leticia Garcia	Subscriptions	4	10	Softalk Publishing	Circulation
+Leticia Garcia	Subscriptions	4	11	Softalk Publishing	Circulation
+Linda McGuire	Advertising Coordinator	3	02	Advertising	
+Linda McGuire	Advertising Coordinator	3	03	Advertising	
+Linda McGuire	Advertising Coordinator	3	04	Advertising	
+Linda McGuire	Advertising Coordinator	3	05	Advertising	
+Linda McGuire	Advertising Coordinator	3	06	Advertising	
+Linda McGuire	Advertising Coordinator	3	07	Advertising	
+Linda McGuire	Advertising Coordinator	3	08	Advertising	
+Linda McGuire	Advertising Coordinator	3	09	Advertising	
+Linda McGuire	Advertising Coordinator	3	10	Advertising	
+Linda McGuire	Advertising Coordinator	3	11	Advertising	
+Linda McGuire	Advertising Coordinator	3	12	Advertising	
+Linda McGuire Carter	Advertising Coordinator	4	01	Advertising	
+Linda McGuire Carter	Advertising Coordinator	4	02	Advertising	
+Linda McGuire Carter	Advertising Coordinator	4	03	Advertising	
+Linda McGuire Carter	Advertising Coordinator	4	04	Advertising	
+Linda McGuire Carter	Advertising Coordinator	4	06	Advertising	
+Linda McGuire Carter	Advertising Coordinator	4	08	Advertising	
+Linda McGuire Carter	Advertising Coordinator	4	09	Advertising	
+Linda McGuire Carter	Advertising Coordinator	4	10	Softalk Publishing	Advertising
+Linda McGuire Carter	Advertising Coordinator	4	11	Softalk Publishing	Advertising
+Linda McGuire Carter	Advertising Coordinator	4	12	Softalk Publishing	Advertising
+Linda McGuire Carter	Coordinator	4	05	Advertising	
+Linda McGuire Carter	Coordinator	4	07	Advertising	
+Linda Va Salle	Editorial Assistant	1	11		
+Linda Va Salle	Editorial Assistant	2	01		
+Linda Va Salle	Editorial Assistants	1	12		
+Lois Mencsik	Accounting Assistants	3	11	Business	
+Lois Mencsik	Accounting Assistants	3	12	Business	
+Lois Mencsik	Accounting Assistants	4	01	Business	
+Lois Mencsik	Accounting Assistants	4	02	Business	
+Lois Mencsik	Accounting Assistants	4	03	Business	
+Lois Mencsik	Accounting Assistants	4	04	Business	
+Lois Mencsik	Accounting Assistants	4	05	Business	
+Lois Mencsik	Accounting Assistants	4	06	Business	
+Lois Mencsik	Accounting Assistants	4	07	Business	
+Lois Mencsik	Book Sales	3	06		
+Lois Mencsik	Book Sales	3	07		
+Lois Mencsik	Book Sales	3	08		
+Lois Mencsik	Book Sales	3	09		
+Lois Mencsik	Book Sales	3	10	Business	
+Lois Stickelmaier	Assistants	2	11	Circulation	
+Lois Stickelmaier	Assistants	2	12	Circulation	
+Lois Stickelmaier	Book Sales	3	01		
+Lois Stickelmaier	Book Sales	3	02		
+Lois Stickelmaier	Book Sales	3	03		
+Lois Stickelmaier	Book Sales	3	04		
+Lois Stickelmaier	Book Sales	3	05		
+Lois Stickelmeier	Assistants	2	09	Circulation	
+Lois Stickelmeier	Assistants	2	10	Circulation	
+Lucas McClure	Art Assistants	3	08		
+Lucas McClure	Art Assistants	3	09		
+Lucas McClure	Assistant Art Director	4	07	Art	
+Lucas McClure	Assistant Art Director	4	08	Art	
+Lucas McClure	Assistant Art Director	4	09	Art	
+Lucas McClure	Assistants	3	10	Art	
+Lucas McClure	Assistants	3	11	Art	
+Lucas McClure	Assistants	3	12	Art	
+Lucas McClure	Assistants	4	01	Art	
+Lucas McClure	Assistants	4	02	Art	
+Lucas McClure	Assistants	4	03	Art	
+Lucas McClure	Assistants	4	04	Art	
+Lucas McClure	Assistants	4	05	Art	
+Lucas McClure	Assistants	4	06	Art	
+Lucas McClure	Associate Art Director	4	10	Art	Contributing Editors
+Lucas McClure	Associate Art Director	4	11	Art	Contributing Editors
+Lucas McClure	Associate Art Director	4	12	Art	Regional Editors
+Lucas X. Bozek	Guest Reviewers	3	12		
+Malcolm Rodgers	Assistants	4	02	Art	
+Malcolm Rodgers	Assistants	4	03	Art	
+Malcolm Rodgers	Assistants	4	04	Art	
+Malcolm Rodgers	Assistants	4	05	Art	
+Malcolm Rodgers	Assistants	4	06	Art	
+Malcolm Rodgers	Assistants	4	07	Art	
+Marcia Shepard	Advertising Services	4	04	Advertising	
+Marcia Shepard	Advertising Services	4	05	Advertising	
+Margot Comstock Tommervik	Editor	1	01		
+Margot Comstock Tommervik	Editor	1	02		
+Margot Comstock Tommervik	Editor	1	03		
+Margot Comstock Tommervik	Editor	1	05		
+Margot Comstock Tommervik	Editor	1	06		
+Margot Comstock Tommervik	Editor	1	07		
+Margot Comstock Tommervik	Editor	1	08		
+Margot Comstock Tommervik	Editor	1	09		
+Margot Comstock Tommervik	Editor	1	10		
+Margot Comstock Tommervik	Editor	1	11		
+Margot Comstock Tommervik	Editor	1	12		
+Margot Comstock Tommervik	Editor	2	01		
+Margot Comstock Tommervik	Editor	2	02		
+Margot Comstock Tommervik	Editor	2	03		
+Margot Comstock Tommervik	Editor	2	04		
+Margot Comstock Tommervik	Editor	2	05		
+Margot Comstock Tommervik	Editor	2	06		
+Margot Comstock Tommervik	Editor	2	07		
+Margot Comstock Tommervik	Editor	2	08		
+Margot Comstock Tommervik	Editor	2	09		
+Margot Comstock Tommervik	Editor	2	10		
+Margot Comstock Tommervik	Editor	2	11		
+Margot Comstock Tommervik	Editor	2	12		
+Margot Comstock Tommervik	Editor	3	01		
+Margot Comstock Tommervik	Editor	3	02		
+Margot Comstock Tommervik	Editor	3	03		
+Margot Comstock Tommervik	Editor	3	04		
+Margot Comstock Tommervik	Editor	3	05		
+Margot Comstock Tommervik	Editor	3	06		
+Margot Comstock Tommervik	Editor	3	07		
+Margot Comstock Tommervik	Editor	3	08		
+Margot Comstock Tommervik	Editor	3	09		
+Margot Comstock Tommervik	Editor	3	10		
+Margot Comstock Tommervik	Editor	3	11		
+Margot Comstock Tommervik	Editor	3	12		
+Margot Comstock Tommervik	Editor	4	01		
+Margot Comstock Tommervik	Editor	4	02		
+Margot Comstock Tommervik	Editor	4	03		
+Margot Comstock Tommervik	Editor	4	04		
+Margot Comstock Tommervik	Editor	4	05		
+Margot Comstock Tommervik	Editor	4	06		
+Margot Comstock Tommervik	Editor	4	07		
+Margot Comstock Tommervik	Editor	4	08		
+Margot Comstock Tommervik	Editor	4	09		
+Margot Comstock Tommervik	Editor	4	10		
+Margot Comstock Tommervik	Editor	4	11		
+Margot Comstock Tommervik	Editor	4	12		
+Margot Comstock Tommervik	President	1	02		
+Margot Comstock Tommervik	President	1	03		
+Margot Comstock Tommervik	President	1	04		
+Margot Comstock Tommervik	President	1	05		
+Margot Comstock Tommervik	President	1	06		
+Margot Tommervik	Advertising Sales	1	02		
+Margot Tommervik	Advertising Sales	1	03		
+Margot Tommervik	Advertising Sales	1	05		
+Margot Tommervik	Advertising Sales	1	06		
+Margot Tommervik	Advertising Sales	1	07		
+Margot Tommervik	Advertising Sales	1	08		
+Margot Tommervik	Advertising Sales	1	09		
+Margot Tommervik	Advertising Sales	1	10		
+Margot Tommervik	Advertising Sales	1	11		
+Margot Tommervik	Advertising Sales	1	12		
+Marjorie Kaufman	Operations	4	05	Business	
+Marjorie Kaufman	Operations	4	06	Business	
+Marjorie Kaufman	Operations	4	07	Business	
+Marjorie Kaufman	Operations	4	08	Business	
+Marjorie Kaufman	Operations	4	09	Business	
+Marjorie Kaufman	Operations	4	10	Softalk Publishing	Business
+Marjorie Kaufman	Operations	4	11	Softalk Publishing	Business
+Marjorie Kaufman	Operations	4	12	Softalk Publishing	Business
+Mark Marlow	Guest Reviewers	3	04		
+Mark Marlow	Guest Reviewers	3	08		
+Mark Pelczarski	Graphics	2	09	Contributing Editors	
+Mark Pelczarski	Graphics	2	10	Contributing Editors	
+Mark Pelczarski	Graphics	2	11	Contributing Editors	
+Mark Pelczarski	Graphics	2	12	Contributing Editors	
+Mark Pelczarski	Graphics	3	01	Contributing Editors	
+Mark Pelczarski	Graphics	3	02	Contributing Editors	
+Mark Pelczarski	Graphics	3	03	Contributing Editors	
+Mark Pelczarski	Graphics	3	04	Contributing Editors	
+Mark Pelczarski	Graphics	3	05	Contributing Editors	
+Mark Pelczarski	Graphics	3	06	Contributing Editors	
+Mark Pelczarski	Graphics	3	07	Contributing Editors	
+Mark Pelczarski	Graphics	3	08	Contributing Editors	
+Mark Pelczarski	Graphics	3	09	Contributing Editors	
+Mark Pelczarski	Graphics	3	10	Contributing Editors	
+Mark Pelczarski	Graphics	3	11	Contributing Editors	
+Mark Pelczarski	Graphics	3	12	Contributing Editors	
+Mark Pelczarski	Graphics	4	01	Contributing Editors	
+Mark Pelczarski	Graphics	4	02	Contributing Editors	
+Mark Pelczarski	Graphics	4	03	Contributing Editors	
+Mark Pelczarski	Graphics	4	04	Contributing Editors	
+Mark Pelczarski	Softalk SAGES	4	05	Contributing Editors	
+Mark Pelczarski	Softalk SAGES	4	06	Contributing Editors	
+Mark Pelczarski	Softalk Sages	4	07	Contributing Editors	
+Mark Pelczarski	Softalk Sages	4	08	Contributing Editors	
+Mark Pelczarski	Softalk Sages	4	09	Contributing Editors	
+Mark Pelczarski	Softalk Sages	4	10	Editorial Correspondents	Contributing Editors
+Mark Pelczarski	Softalk Sages	4	11	Editorial Correspondents	Contributing Editors
+Mark Pelczarski	Softalk Sages	4	12	Editorial Correspondents	Regional Editors
+Mark S. Wilber	Art Assistant	2	11		
+Mark Wilber	Art Assistant	2	10		
+Mark Wilber	Art Assistants	2	09		
+Marlene Lunnon	Editorial Assistant	4	02	Editorial	
+Marlene Lunnon	Editorial Assistant	4	03	Editorial	
+Marlene Lunnon	Editorial Assistant	4	04	Editorial	
+Marsha Stewart	Customer Service	4	06	Circulation	
+Marsha Stewart	Customer Service	4	07	Circulation	
+Marsha Stewart	Customer Service	4	08	Circulation	
+Marsha Stewart	Customer Service	4	09	Circulation	
+Marsha Stewart	Trial Subscriptions	3	06	Circulation	
+Marsha Stewart	Trial Subscriptions	3	07	Circulation	
+Marsha Stewart	Trial Subscriptions	3	08	Circulation	
+Marsha Stewart	Trial Subscriptions	3	09	Circulation	
+Marsha Stewart	Trial Subscriptions	3	10	Circulation	
+Marsha Stewart	Trial Subscriptions	3	11	Circulation	
+Marsha Stewart	Trial Subscriptions	3	12	Circulation	
+Marsha Stewart	Trial Subscriptions	4	01	Circulation	
+Marsha Stewart	Trial Subscriptions	4	02	Circulation	
+Marsha Stewart	Trial Subscriptions	4	03	Circulation	
+Marsha Stewart	Trial Subscriptions	4	04	Circulation	
+Marsha Stewart	Trial Subscriptions	4	05	Circulation	
+Mary Jo Milam	Accounting Assistants	3	06		
+Mary Jo Milam	Accounting Assistants	3	07		
+Mary Jo Milam	Accounting Assistants	3	08		
+Mary Jo Milam	Accounting Assistants	3	09		
+Mary Jo Milam	Accounting Assistants	3	10	Business	
+Mary Jo Milam	Accounting Assistants	3	11	Business	
+Mary Jo Milam	Accounting Assistants	3	12	Business	
+Mary Jo Milam	Accounting Assistants	4	01	Business	
+Mary Jo Milam	Accounting Assistants	4	02	Business	
+Mary Jo Milam	Accounting Assistants	4	03	Business	
+Mary Jo Milam	Accounting Assistants	4	04	Business	
+Mary Jo Milam	Accounting Assistants	4	05	Business	
+Mary Jo Milam	Accounting Assistants	4	06	Business	
+Mary Jo Milam	Accounting Assistants	4	07	Business	
+Mary Milam	Accounting Assistant	3	01	Advertising	
+Mary Milam	Accounting Assistant	3	02		
+Mary Milam	Accounting Assistant	3	03		
+Mary Milam	Accounting Assistant	3	04		
+Mary Milam	Accounting Assistant	3	05		
+Mary Milam	Book and Poster Sales	2	09	Circulation	
+Mary Milam	Book and Poster Sales	2	10	Advertising	
+Mary Milam	Book and Poster Sales	2	11	Advertising	
+Mary Milam	Book and Poster Sales	2	12	Advertising	
+Mary Milam	Circulation Assistants	2	07	Circulation	
+Mary Milam	Circulation Assistants	2	08	Circulation	
+Mary Sue Rennells	Associate Publisher	2	07	Contributing Editors	
+Mary Sue Rennells	Associate Publisher	2	08		
+Mary Sue Rennells	Associate Publisher	2	09		
+Mary Sue Rennells	Associate Publisher	2	10		
+Mary Sue Rennells	Associate Publisher	2	11		
+Mary Sue Rennells	Associate Publisher	2	12	Contributing Editors	
+Mary Sue Rennells	Associate Publisher	3	01	Contributing Editors	
+Mary Sue Rennells	Associate Publisher	3	02		
+Mary Sue Rennells	Associate Publisher	3	03		
+Mary Sue Rennells	Associate Publisher	3	04		
+Mary Sue Rennells	Associate Publisher	3	05		
+Mary Sue Rennells	Associate Publisher	3	06		
+Mary Sue Rennells	Associate Publisher	3	07		
+Mary Sue Rennells	Associate Publisher	3	08		
+Mary Sue Rennells	Associate Publisher	3	09		
+Mary Sue Rennells	Associate Publisher	3	10	Business	
+Mary Sue Rennells	Associate Publisher	3	11	Business	
+Mary Sue Rennells	Associate Publisher	3	12	Business	
+Mary Sue Rennells	Associate Publisher	4	01	Business	
+Mary Sue Rennells	Associate Publisher	4	02	Business	
+Mary Sue Rennells	Associate Publisher	4	03	Business	
+Mary Sue Rennells	Associate Publisher	4	04	Business	
+Mary Sue Rennells	Associate Publisher	4	05	Business	
+Mary Sue Rennells	Associate Publisher	4	06	Business	
+Mary Sue Rennells	Associate Publisher	4	07	Business	
+Mary Sue Rennells	Associate Publisher	4	08	Business	
+Mary Sue Rennells	Associate Publisher	4	09	Business	
+Mary Sue Rennells	Associate Publisher	4	10	Softalk Publishing	Business
+Mary Sue Rennells	Associate Publisher	4	11	Softalk Publishing	Business
+Mary Sue Rennells	Associate Publisher	4	12	Softalk Publishing	Business
+Mary Sue Rennells	General Manager	2	02		
+Mary Sue Rennells	General Manager	2	03		
+Mary Sue Rennells	General Manager	2	04		
+Mary Sue Rennells	General Manager	2	05		
+Mary Sue Rennells	General Manager	2	06		
+Mary Sue Rennells	Operations	1	10		
+Mary Sue Rennells	Operations Manager	1	11		
+Mary Sue Rennells	Operations Manager	2	01		
+Mary Sue Rennells	Operations Manager Assistant	1	12		
+Matthew T. Yuen	Assistant Editors	2	11		
+Matthew T. Yuen	News - Telecom	4	03	Editorial	
+Matthew T. Yuen	News - Telecom	4	04	Editorial	
+Matthew T. Yuen	News Editor	3	10		
+Matthew T. Yuen	News Editor	3	11		
+Matthew T. Yuen	News Editor	3	12		
+Matthew T. Yuen	News Editor	4	01		
+Matthew T. Yuen	News Telecom	4	02	Editorial	
+Matthew T. Yuen	News and Contest Editor	2	12		
+Matthew T. Yuen	News and Trade Editor	3	01		
+Matthew T. Yuen	News and Trade Editor	3	02		
+Matthew T. Yuen	News and Trade Editor	3	03		
+Matthew T. Yuen	News and Trade Editor	3	04		
+Matthew T. Yuen	News and Trade Editor	3	05		
+Matthew T. Yuen	News and Trade Editor	3	06		
+Matthew T. Yuen	News and Trade Editor	3	07		
+Matthew T. Yuen	News and Trade Editor	3	08		
+Matthew T. Yuen	News and Trade Editor	3	09		
+Matthew T. Yuen	Reviews	4	10	Editorial Staff	Associate Editors
+Matthew T. Yuen	Reviews	4	11	Editorial Staff	Associate Editors
+Matthew T. Yuen	Reviews	4	12	Editorial Staff	Associate Editors
+Matthew T. Yuen	Reviews - Telecom	4	08	Editorial	
+Matthew T. Yuen	Reviews - Telecom	4	09	Editorial	
+Matthew T. Yuen	Telecom	4	05	Editorial	
+Matthew T. Yuen	Telecom	4	06	Editorial	
+Matthew T. Yuen	Telecom	4	07	Editorial	
+Matthew Yuen	Editorial Assistant	1	01		
+Matthew Yuen	Editorial Assistant	1	02		
+Melissa Milich	Assistant Editor	2	02		
+Melissa Milich	Assistant Editor	2	03		
+Melissa Milich	Assistant Editor	2	04		
+Melissa Milich	Coordinating Editor	2	01		
+Melissa Milich	Editorial Assistants	1	12		
+Melissa Milich	Guest Reviewers	4	01		
+Melissa Milich	Special Assignments	2	05		
+Melissa Milich	Special Assignments	2	06		
+Melissa Milich	Special Assignments	2	07		
+Melissa Milich	Special Assignments	2	08		
+Melissa Milich	Special Assignments	2	09		
+Melissa Milich	Special Assignments	2	10		
+Meredith Tabor	Book Sales	3	11	Business	
+Michael Biel	West Coast Sales	4	02	Advertising	
+Michael Biel	West Coast Sales	4	03	Advertising	
+Michael Biel	West Coast Sales	4	04	Advertising	
+Michael Biel	West Coast Sales	4	05	Advertising	
+Michael Biel	West Coast Sales	4	06	Advertising	
+Michael Biel	West Coast Sales	4	07	Advertising	
+Michael Ferris	Assistant Editors	2	10		
+Michael Ferris	Assistant Editors	2	11		
+Michael Ferris	Assistant Editors	2	12		
+Michael Ferris	Assistant Editors	3	01		
+Michael Ferris	Assistant Editors	3	02		
+Michael Ferris	Assistant Editors	3	03		
+Michael Ferris	Assistant Editors	3	04		
+Michael Ferris	Copy Editor	2	09		
+Michael Ferris	Features - News - Trade	4	08	Editorial	
+Michael Ferris	Features - News - Trade	4	09	Editorial	
+Michael Ferris	Features - Trade	4	07	Editorial	
+Michael Ferris	Product and Trade News	4	10	Editorial Staff	Associate Editors
+Michael Ferris	Product and Trade News	4	11	Editorial Staff	Associate Editors
+Michael Ferris	Product and Trade News	4	12	Editorial Staff	Associate Editors
+Michael Ferris	Special Assignments	4	05	Editorial	
+Michael Ferris	Special Assignments	4	06	Editorial	
+Michael G. Pender	Ad Production	4	03	Art	
+Michael G. Pender	Ad Production	4	04	Art	
+Michael G. Pender	Ad Production	4	05	Art	
+Michael G. Pender	Ad Production	4	06	Art	
+Michael G. Pender	Ad Production	4	07	Art	
+Michael G. Pender	Ad Production	4	08	Art	
+Michael G. Pender	Ad Production	4	09	Art	
+Michael G. Pender	Ad Production	4	10	Art	Contributing Editors
+Michael G. Pender	Ad Production	4	11	Art	Contributing Editors
+Michael G. Pender	Ad Production	4	12	Art	Regional Editors
+Michael G. Pender	Art Assistants	3	02		
+Michael G. Pender	Art Assistants	3	03		
+Michael G. Pender	Art Assistants	3	04		
+Michael G. Pender	Art Assistants	3	05		
+Michael G. Pender	Art Assistants	3	06		
+Michael G. Pender	Art Assistants	3	07		
+Michael G. Pender	Art Assistants	3	08		
+Michael G. Pender	Art Assistants	3	09		
+Michael G. Pender	Assistants	3	10	Art	
+Michael G. Pender	Assistants	3	11	Art	
+Michael G. Pender	Assistants	3	12	Art	
+Michael G. Pender	Assistants	4	01	Art	
+Michael G. Pender	Assistants	4	02	Art	
+Michael Jones	Back Issues	3	11	Circulation	
+Michael Jones	Back Issues	3	12	Circulation	
+Michael Jones	Back Issues	4	01	Circulation	
+Michael Jones	Back Issues	4	02	Circulation	
+Michael Jones	Back Issues	4	03	Circulation	
+Michael Jones	Back Issues	4	04	Circulation	
+Michael Jones	Back Issues	4	05	Circulation	
+Michael Jones	Back Issues	4	06	Circulation	
+Michelle Vigneault-Kirschenbaum	Customer Service	4	10	Softalk Publishing	Circulation
+Michelle Vigneault-Kirschenbaum	Customer Service	4	11	Softalk Publishing	Circulation
+Michelle Vigneault-Kirschenbaum	Customer Service	4	12	Softalk Publishing	Circulation
+Michelle Vigneault-Kirschenbaum	Paid Subscriptions	4	02	Circulation	
+Michelle Vigneault-Kirschenbaum	Paid Subscriptions	4	03	Circulation	
+Michelle Vigneault-Kirschenbaum	Paid Subscriptions	4	04	Circulation	
+Michelle Vigneault-Kirschenbaum	Paid Subscriptions	4	05	Circulation	
+Michelle Vigneault-Kirschenbaum	Paid Subscriptions	4	06	Circulation	
+Michelle Vigneault-Kirschenbaum	Paid Subscriptions	4	07	Circulation	
+Michelle Vigneault-Kirschenbaum	Paid Subscriptions	4	08	Circulation	
+Michelle Vigneault-Kirschenbaum	Paid Subscriptions	4	09	Circulation	
+Mike Antich	West Coast Sales	3	03	Advertising	
+Mike Antich	West Coast Sales	3	04	Advertising	
+Mike Antich	West Coast Sales	3	05	Advertising	
+Mike Antich	West Coast Sales	3	06	Advertising	
+Mike Antich	West Coast Sales	3	07	Advertising	
+Mike Antich	West Coast Sales	3	08	Advertising	
+Mike Antich	West Coast Sales	3	09	Advertising	
+Mike Antich	West Coast Sales	3	10	Advertising	
+Mike Antich	West Coast Sales	3	11	Advertising	
+Mike Antich	West Coast Sales	3	12	Advertising	
+Mike Antich	West Coast Sales	4	01	Advertising	
+Mike Antich	West Coast Sales	4	02	Advertising	
+Mike Antich	West Coast Sales	4	03	Advertising	
+Mike Antich	West Coast Sales	4	04	Advertising	
+Mike Antich	West Coast Sales	4	05	Advertising	
+Mike Antich	West Coast Sales	4	06	Advertising	
+Mike Antich	West Coast Sales - ST. Mac	4	10	Softalk Publishing	Advertising
+Mike Antich	West Coast Sales - ST. Mac	4	11	Softalk Publishing	Advertising
+Mike Antich	West Coast Sales - ST. Mac	4	12	Softalk Publishing	Advertising
+Mike Antich	West Coast Sales - Softalk for the IBM Personal Computer	4	10	Softalk Publishing	Advertising
+Mike Antich	West Coast Sales - Softalk for the IBM Personal Computer	4	11	Softalk Publishing	Advertising
+Mike Antich	West Coast Sales - Softalk for the IBM Personal Computer	4	12	Softalk Publishing	Advertising
+Miriam Gamble	Art Assistant	2	03		
+Miriam Gamble	Art Assistant	2	04		
+Nancy Baldwin	Assistant Production Manager	4	07	Art	
+Nancy Baldwin	Assistant Production Manager	4	08	Art	
+Nancy Baldwin	Assistant Production Manager	4	09	Art	
+Nancy Baldwin	Assistant Production Manager	4	10	Art	Contributing Editors
+Nancy Baldwin	Assistant Production Manager	4	11	Art	Contributing Editors
+Nancy Baldwin	Assistant Production Manager	4	12	Art	Regional Editors
+Nancy Baldwin	Assistants	4	01	Art	
+Nancy Baldwin	Assistants	4	02	Art	
+Nancy Baldwin	Assistants	4	03	Art	
+Nancy Baldwin	Assistants	4	04	Art	
+Nancy Baldwin	Assistants	4	05	Art	
+Nancy Baldwin	Assistants	4	06	Art	
+Nancy Kelly	Subscriptions	4	10	Softalk Publishing	Circulation
+Nancy Kelly	Subscriptions	4	11	Softalk Publishing	Circulation
+Nancy Kelly	Subscriptions	4	12	Softalk Publishing	Circulation
+Nancy Oppenheim	Office Manager	2	07		
+Nancy Oppenheim	Office Manager	2	08		
+Nancy Oppenheim	Purchasing	2	09		
+Nancy Oppenheim	Purchasing	2	10		
+Neil Britt	Guest Reviewers	3	02		
+Pam Kelley	Assistants	2	10	Circulation	
+Pam Kelley	Paid Subscriptions	2	11	Circulation	
+Pam Kelley	Paid Subscriptions	2	12	Circulation	
+Pam Kelley	Paid Subscriptions	3	01	Circulation	
+Pam Kelley	Paid Subscriptions	3	02	Circulation	
+Pam Kelley	Paid Subscriptions	3	03	Circulation	
+Pam Kelley	Paid Subscriptions	3	04	Circulation	
+Pam Kelley	Paid Subscriptions	3	05	Circulation	
+Pam Kelley	Paid Subscriptions	3	06	Circulation	
+Pam Kelley	Paid Subscriptions	3	07	Circulation	
+Pam Kelley	Paid Subscriptions	3	08	Circulation	
+Pam Kelley	Paid Subscriptions	3	09	Circulation	
+Pam Kelley	Paid Subscriptions	3	10	Circulation	
+Pam Kelley	Paid Subscriptions	3	11	Circulation	
+Pam Kelley	Trial Subscriptions	4	01	Circulation	
+Pam Kelley	Trial Subscriptions	4	02	Circulation	
+Pam Kelley	Trial Subscriptions	4	03	Circulation	
+Pat Adams	List Maintenance	3	01	Circulation	
+Pat Adams	List Maintenance	3	02	Circulation	
+Pat Adams	List Maintenance	3	03	Circulation	
+Pat Adams	List Maintenance	3	04	Circulation	
+Pat Adams	List Maintenance	3	05	Circulation	
+Pat Adams	List Maintenance	3	06	Circulation	
+Pat Adams	List Maintenance	3	07	Circulation	
+Pat Adams	List Maintenance	3	08	Circulation	
+Pat Adams	List Maintenance	3	09	Circulation	
+Pat Adams	List Maintenance	3	10	Circulation	
+Pat Adams	List Maintenance	3	11	Circulation	
+Pat Adams	Systems	3	12	Circulation	
+Pat Adams	Systems	4	01	Circulation	
+Pat Adams	Systems	4	02		
+Pat Adams	Systems	4	03	Circulation	
+Pat Ryall	Managing Editor	2	11		
+Pat Ryall	Managing Editor	2	12		
+Pat Ryall	Managing Editor	3	01		
+Patricia Ryall	Editor - ST. Mac	4	11	Softalk Publishing	Siblings
+Patricia Ryall	Editor - ST. Mac	4	12	Softalk Publishing	Siblings
+Patricia Ryall	Editor - ST.Mac	4	10	Softalk Publishing	Siblings
+Patricia Ryall	Managing Editor	3	02		
+Patricia Ryall	Managing Editor	3	03		
+Patricia Ryall	Managing Editor	3	04		
+Patricia Ryall	Managing Editor	3	05		
+Patricia Ryall	Managing Editor	3	06		
+Patricia Ryall	Managing Editor	3	07		
+Patricia Ryall	Managing Editor	3	08		
+Patricia Ryall	Managing Editor	3	09		
+Patricia Ryall	Managing Editor	3	10		
+Patricia Ryall	Managing Editor	3	11		
+Patricia Ryall	Managing Editor	3	12		
+Patricia Ryall	Managing Editor	4	01		
+Patricia Ryall	Managing Editor	4	02	Editorial	
+Patricia Ryall	Managing Editor	4	03	Editorial	
+Patricia Ryall	Managing Editor	4	04	Editorial	
+Patrick J. Ratchford	Editorial Assistants	1	05		
+Patrick J. Ratchford	Editorial Assistants	1	06		
+Patrie Weston	Back Issues	3	10	Circulation	
+Pattie Lesser	Dealer Sales	4	02	Circulation	
+Pattie Lesser	Dealer Sales	4	03	Circulation	
+Pattie Lesser	Dealer Sales	4	04	Circulation	
+Pattie Lesser	Dealer Sales	4	05	Circulation	
+Pattie Lesser	Dealer Sales	4	06	Circulation	
+Pattie Lesser	Dealer Sales	4	07	Circulation	
+Patty Wilson	Circulation Assistants	2	06		
+Paul Essick	Circulation	1	01		
+Paul McGinnis	East Coast Sales	2	09	Advertising	
+Paul McGinnis	East Coast Sales	2	10	Advertising	
+Paul McGinnis	East Coast Sales	2	11	Advertising	
+Paul McGinnis	East Coast Sales	2	12	Advertising	
+Paul McGinnis	East Coast Sales	3	01	Advertising	
+Paul McGinnis	East Coast Sales	3	02	Advertising	
+Paul McGinnis	East Coast Sales	3	03	Advertising	
+Paul McGinnis	East Coast Sales	3	04	Advertising	
+Paul McGinnis	East Coast Sales	3	05	Advertising	
+Paul McGinnis	East Coast Sales	3	06	Advertising	
+Paul McGinnis	East Coast Sales	3	07	Advertising	
+Paul McGinnis	East Coast Sales	3	08	Advertising	
+Paul McGinnis	East Coast Sales	3	09	Advertising	
+Paul McGinnis	East Coast Sales	3	10	Advertising	
+Paul McGinnis	East Coast Sales	3	11	Advertising	
+Paul McGinnis	East Coast Sales	3	12	Advertising	
+Paul McGinnis	East Coast Sales	4	01	Advertising	
+Paul McGinnis	East Coast Sales	4	02	Advertising	
+Paul McGinnis	East Coast Sales	4	03	Advertising	
+Paul McGinnis	East Coast Sales	4	04	Advertising	
+Paul McGinnis	East Coast Sales	4	05	Advertising	
+Paul McGinnis	East Coast Sales	4	06	Advertising	
+Paul McGinnis	East Coast Sales	4	07	Advertising	
+Paul McGinnis	East Coast Sales	4	08	Advertising	
+Paul McGinnis	East Coast Sales	4	09	Advertising	
+Paul McGinnis	East Coast Sales	4	10	Softalk Publishing	Advertising
+Paul McGinnis	East Coast Sales	4	11	Softalk Publishing	Advertising
+Paul McGinnis	East Coast Sales	4	12	Softalk Publishing	Advertising
+Paul Mithra	Softalk Books	4	10	Softalk Publishing	Business
+Paul Mithra	Softalk Books	4	11	Softalk Publishing	Business
+Paul Mithra	Softalk Books	4	12	Softalk Publishing	Business
+Peter Olivieri	Business	2	02	Contributing Editors	
+Peter Olivieri	Business	2	03	Contributing Editors	
+Peter Olivieri	Business	2	04	Contributing Editors	
+Peter Olivieri	Business	2	05	Contributing Editors	
+Peter Olivieri	Business	2	06	Contributing Editors	
+Peter Olivieri	Business	2	07	Contributing Editors	
+Peter Olivieri	Business	2	08	Contributing Editors	
+Peter Olivieri	Business	2	09	Contributing Editors	
+Peter Olivieri	Business	2	10	Contributing Editors	
+Peter Olivieri	Business	2	11	Contributing Editors	
+Peter Olivieri	Business	2	12	Contributing Editors	
+Peter Olivieri	Business	3	01	Contributing Editors	
+Peter Olivieri	Business	3	02	Contributing Editors	
+Peter Olivieri	Business	3	03	Contributing Editors	
+Peter Olivieri	Business	3	04	Contributing Editors	
+Peter Olivieri	Business	3	05	Contributing Editors	
+Peter Olivieri	Business	3	06	Contributing Editors	
+Peter Olivieri	Business	3	07	Contributing Editors	
+Peter Olivieri	Business	3	08	Contributing Editors	
+Peter Olivieri	Business	3	09	Contributing Editors	
+Peter Olivieri	Business	3	10	Contributing Editors	
+Peter Olivieri	Business	3	11	Contributing Editors	
+Peter Olivieri	Business	3	12	Contributing Editors	
+Peter Olivieri	Business	4	01	Contributing Editors	
+Peter Olivieri	Business	4	02	Contributing Editors	
+Peter Olivieri	Business	4	03	Contributing Editors	
+Peter Olivieri	Business	4	04	Contributing Editors	
+Peter Olivieri	Business	4	05	Contributing Editors	
+Peter Olivieri	Business	4	06	Contributing Editors	
+Peter Olivieri	Business	4	07	Contributing Editors	
+Peter Olivieri	Business	4	08	Contributing Editors	
+Peter Olivieri	Business	4	09	Contributing Editors	
+Peter Olivieri	Business	4	10	Editorial Correspondents	Contributing Editors
+Peter Olivieri	Business	4	11	Editorial Correspondents	Contributing Editors
+Peter Olivieri	Business	4	12	Editorial Correspondents	Contributing Editors
+Peter Olivieri	Contributing Editors	1	10		
+Peter Olivieri	Contributing Editors	1	11		
+Peter Olivieri	Contributing Editors	1	12		
+Peter Olivieri	Contributing Editors	2	01		
+Peter Stone	Guest Reviewers	2	04	Contributing Editors	
+Peter Stone	Guest Reviewers	2	08	Contributing Editors	
+Philip B. Ender	Guest Reviewers	3	04		
+Philip Good	Guest Reviewers	1	12		
+Phillip Good	Guest Reviewers	2	11	Contributing Editors	
+Phillip Good	Guest Reviewers	2	12		
+Phillip Good	Guest Reviewers	3	05		
+Phillip Good	Guest Reviewers	3	08		
+R. Jon Ruppert	Guest Reviewers	2	11	Contributing Editors	
+R. Jon Ruppert	Guest Reviewers	2	12		
+R. Jon Ruppert	Guest Reviewers	3	01		
+R. Jon Ruppert	Guest Reviewers	3	02		
+Ramona Gordon	Subscriptions	4	10	Softalk Publishing	Circulation
+Ramona Gordon	Subscriptions	4	11	Softalk Publishing	Circulation
+Ramona Gordon	Subscriptions	4	12	Softalk Publishing	Circulation
+Ramona Gordon	Trial Subscriptions	4	05	Circulation	
+Ramona Gordon	Trial Subscriptions	4	06	Circulation	
+Ramona Gordon	Trial Subscriptions	4	07	Circulation	
+Ramona Gordon	Trial Subscriptions	4	08	Circulation	
+Ramona Gordon	Trial Subscriptions	4	09	Circulation	
+Randall Roberts	Guest Reviewers	3	11		
+Randie James	West Coast Sales	4	08	Advertising	
+Randie James	West Coast Sales	4	09	Advertising	
+Randie James	West Coast Sales - Softalk	4	10	Softalk Publishing	Advertising
+Randie James	West Coast Sales - Softalk	4	11	Softalk Publishing	Advertising
+Randie James	West Coast Sales - Softalk	4	12	Softalk Publishing	Advertising
+Randie James	West Coast Sales - St. Game	4	10	Softalk Publishing	Advertising
+Randie James	West Coast Sales - St. Game	4	11	Softalk Publishing	Advertising
+Randie James	West Coast Sales - St. Game	4	12	Softalk Publishing	Advertising
+Richard Kaapke	Guest Reviewers	2	08	Contributing Editors	
+Richard S. Willing	Guest Reviewers	3	06		
+Rickie Kaufman	Trial Subscriptions	4	06	Circulation	
+Rickie Kaufman	Trial Subscriptions	4	07	Circulation	
+Rickie Kaufman	Trial Subscriptions	4	08	Circulation	
+Rob Wray	Guest Reviewers	2	12		
+Robert Koehler	Assistant Editor	1	08		
+Robert Koehler	Assistant Editor	1	09		
+Robert Koehler	Assistant Editor	1	10		
+Robert Koehler	Circulation Manager	1	01		
+Robert Koehler	Circulation Manager	1	02		
+Robert Koehler	Contributing Editors	1	07		
+Robert Koehler	Contributing Editors	1	08		
+Robert Koehler	Contributing Editors	1	09		
+Robert Koehler	Editorial Assistant	1	07		
+Robert Koehler	Editorial Assistants	1	05		
+Robert Koehler	Editorial Assistants	1	06		
+Robert Mann	Circulation	2	02		
+Robert Mann	Circulation	2	03		
+Robert Mann	Circulation	2	04		
+Robert Mann	Circulation	2	05		
+Robert Mann	Circulation	2	06		
+Robert Mann	Circulation	2	07	Circulation	
+Robert Mann	Circulation Supervisors	2	08	Circulation	
+Robert Mann	Dealer Sales	2	09	Circulation	
+Robert Mann	Dealer Sales	2	10	Circulation	
+Robert Moog	Guest Reviewers	3	07		
+Robert Moog	Guest Reviewers	3	09		
+Robert Williams	Back Issues	4	07	Circulation	
+Robert Williams	Back Issues	4	08	Circulation	
+Robert Woodhead	Guest Reviewers	2	12		
+Robert Woodhead	Guest Reviewers	3	09		
+Robert Wray	Assistant Editors	2	11		
+Roberta Tommervik	Assistant	2	01		
+Roe Adams	East Coast	4	02	Regional Editors	
+Roe Adams	East Coast	4	03	Regional Editors	
+Roe Adams	East Coast	4	04	Regional Editors	
+Roe Adams	East Coast	4	05	Regional Editors	
+Roe Adams	East Coast	4	06	Regional Editors	
+Roe Adams	East Coast	4	07	Regional Editors	
+Roe Adams	East Coast	4	08	Regional Editors	
+Roe Adams	East Coast	4	09	Regional Editors	
+Roe Adams	East Coast	4	12	Editorial Correspondents	Regional Editors
+Roe Adams	Guest Reviewers	2	10	Contributing Editors	
+Roe Adams	Guest Reviewers	2	11	Contributing Editors	
+Roe Adams	Reviews Editor	3	02		
+Roe Adams	Reviews Editor	3	03		
+Roe Adams	Reviews Editor	3	04		
+Roe Adams	Reviews Editor	3	05		
+Roe Adams	Reviews Editor	3	06		
+Roe Adams	Reviews Editor	3	07		
+Roe Adams	Reviews Editor	3	08		
+Roe Adams	Reviews Editor	3	09		
+Roe Adams	Reviews Editor	3	10		
+Roe Adams	Reviews Editor	3	11		
+Roe Adams	Reviews Editor	3	12		
+Roe Adams	Reviews Editor	4	01		
+Roe R. Adams	Guest Reviewers	2	12		
+Roe R. Adams III	Guest Reviewers	3	01		
+Roger Wagner	Assembly Language	2	02	Contributing Editors	
+Roger Wagner	Assembly Language	2	03	Contributing Editors	
+Roger Wagner	Assembly Language	2	04	Contributing Editors	
+Roger Wagner	Assembly Language	2	05	Contributing Editors	
+Roger Wagner	Assembly Language	2	06	Contributing Editors	
+Roger Wagner	Assembly Language	2	07	Contributing Editors	
+Roger Wagner	Assembly Language	2	08	Contributing Editors	
+Roger Wagner	Assembly Language	2	09	Contributing Editors	
+Roger Wagner	Assembly Language	2	10	Contributing Editors	
+Roger Wagner	Assembly Language	2	11	Contributing Editors	
+Roger Wagner	Assembly Language	2	12	Contributing Editors	
+Roger Wagner	Assembly Language	3	01	Contributing Editors	
+Roger Wagner	Assembly Language	3	02	Contributing Editors	
+Roger Wagner	Assembly Language	3	03	Contributing Editors	
+Roger Wagner	Assembly Language	3	04	Contributing Editors	
+Roger Wagner	Assembly Language	3	05	Contributing Editors	
+Roger Wagner	Assembly Language	3	06	Contributing Editors	
+Roger Wagner	Assembly Language	3	07	Contributing Editors	
+Roger Wagner	Assembly Language	3	08	Contributing Editors	
+Roger Wagner	Assembly Language	3	09	Contributing Editors	
+Roger Wagner	Assembly Language	3	10	Contributing Editors	
+Roger Wagner	Assembly Language	3	11	Contributing Editors	
+Roger Wagner	Assembly Language	3	12	Contributing Editors	
+Roger Wagner	Assembly Language	4	01	Contributing Editors	
+Roger Wagner	Assembly Language	4	02	Contributing Editors	
+Roger Wagner	Assembly Language	4	03	Contributing Editors	
+Roger Wagner	Assembly Language	4	04	Contributing Editors	
+Roger Wagner	Contributing Editor	1	02		
+Roger Wagner	Contributing Editor	1	03		
+Roger Wagner	Contributing Editor	1	05		
+Roger Wagner	Contributing Editors	1	06		
+Roger Wagner	Contributing Editors	1	07		
+Roger Wagner	Contributing Editors	1	08		
+Roger Wagner	Contributing Editors	1	09		
+Roger Wagner	Contributing Editors	1	10		
+Roger Wagner	Contributing Editors	1	11		
+Roger Wagner	Contributing Editors	1	12		
+Roger Wagner	Contributing Editors	2	01		
+Roger Wagner	Softalk SAGES	4	05	Contributing Editors	
+Roger Wagner	Softalk SAGES	4	06	Contributing Editors	
+Roger Wagner	Softalk Sages	4	07	Contributing Editors	
+Roger Wagner	Softalk Sages	4	08	Contributing Editors	
+Roger Wagner	Softalk Sages	4	09	Contributing Editors	
+Roger Wagner	Softalk Sages	4	10	Editorial Correspondents	Contributing Editors
+Roger Wagner	Softalk Sages	4	11	Editorial Correspondents	Contributing Editors
+Roger Wagner	Softalk Sages	4	12	Editorial Correspondents	Regional Editors
+Ron Rennells	Back Issues	2	09	Circulation	
+Ron Rennells	Back Issues	2	10	Circulation	
+Ron Rennells	Back Issues	2	11	Circulation	
+Ron Rennells	Back Issues	2	12	Circulation	
+Ron Rennells	Back Issues	3	01	Circulation	
+Ron Rennells	Back Issues	3	02	Circulation	
+Ron Rennells	Back Issues	3	03	Circulation	
+Ron Rennells	Back Issues	3	04	Circulation	
+Ron Rennells	Back Issues	3	05	Circulation	
+Ron Rennells	Back Issues	3	06	Circulation	
+Ron Rennells	Back Issues	3	07	Circulation	
+Ron Rennells	Back Issues	3	08	Circulation	
+Ron Rennells	Back Issues	3	09	Circulation	
+Ron Rennells	Circulation	1	08		
+Ron Rennells	Circulation	1	09		
+Ron Rennells	Circulation	1	10		
+Ron Rennells	Circulation	1	11		
+Ron Rennells	Circulation	1	12		
+Ron Rennells	Circulation	2	01		
+Ron Rennells	Circulation	2	02		
+Ron Rennells	Circulation	2	03		
+Ron Rennells	Circulation	2	04		
+Ron Rennells	Circulation	2	05		
+Ron Rennells	Circulation	2	06		
+Ron Rennells	Circulation	2	07	Circulation	
+Ron Rennells	Circulation Supervisors	2	08	Circulation	
+Ron Williams	Proofreading	4	09	Editorial	
+Roxanne Rogers	Art Assistants	3	02		
+Roxanne Rogers	Art Assistants	3	03		
+Roxanne Rogers	Art Assistants	3	04		
+Roxanne Rogers	Art Assistants	3	05		
+Roxanne Rogers	Art Assistants	3	06		
+Roxanne Rogers	Art Assistants	3	07		
+Roy Hicks	Softalk SAGES	4	05	Contributing Editors	
+Roy Hicks	Softalk SAGES	4	06	Contributing Editors	
+Roy Hicks	Softalk Sages	4	07	Contributing Editors	
+Roy Hicks	Softalk Sages	4	08	Contributing Editors	
+Roy Hicks	Softalk Sages	4	09	Contributing Editors	
+Roy Hicks	Softalk Sages	4	10	Editorial Correspondents	Contributing Editors
+Roy Hicks	Softalk Sages	4	11	Editorial Correspondents	Contributing Editors
+Roy Hicks	Softalk Sages	4	12	Editorial Correspondents	Regional Editors
+Rubuel Kissler	Art Assistant	2	08		
+Rubuel Kissler	Art Assistants	2	09		
+Ruth Seid	Assistant	4	10	Art	Contributing Editors
+Ruth Seid	Assistant	4	11	Art	Contributing Editors
+Ruth Seid	Assistant	4	12	Art	Regional Editors
+Ruth Seid	Assistants	4	03	Art	
+Ruth Seid	Assistants	4	04	Art	
+Ruth Seid	Assistants	4	05	Art	
+Ruth Seid	Assistants	4	06	Art	
+Ruth Seid	Assistants	4	07	Art	
+Ruth Seid	Assistants	4	08	Art	
+Ruth Seid	Assistants	4	09	Art	
+Sam Pawley	Systems	2	07	Circulation	
+Sam Pawley	Systems	2	08	Circulation	
+Sam Pawley	Systems	2	09		
+Sam Pawley	Systems	2	10		
+Sam Pawley	Systems	2	11		
+Sam Pawley	Systems	2	12		
+Sam Pawley	Systems	3	01	Circulation	
+Sam Pawley	Systems	3	02		
+Sam Pawley	Systems	3	03		
+Sam Pawley	Systems	3	04		
+Sam Pawley	Systems	3	05		
+Sam Pawley	Systems	3	06		
+Sam Pawley	Systems	3	07		
+Sam Pawley	Systems	3	08		
+Sam Pawley	Systems	3	09		
+Sam Pawley	Systems	3	11		
+Samantha Good	Guest Reviewers	3	01		
+Samantha Good	Guest Reviewers	3	02		
+Sharon Shea	Guest Reviewers	3	12		
+Sharon Stea	Guest Reviewers	3	09		
+Steve Shendelman	Advance Projects	4	07	Business	
+Steve Shendelman	Advance Projects	4	08	Business	
+Steve Shendelman	Advance Projects	4	09	Business	
+Steve Shendelman	Advance Projects	4	10	Softalk Publishing	Business
+Steve Shendelman	Advance Projects	4	11	Softalk Publishing	Business
+Steve Shendelman	Advance Projects	4	12	Softalk Publishing	Business
+Steve Thomsen	Proofreaders	4	10	Editorial Staff	Feature Editors
+Steve Thomsen	Proofreaders	4	11	Editorial Staff	Feature Editors
+Steve Thomsen	Proofreaders	4	12	Editorial Staff	Feature Editors
+Steve Thomsen	Proofreading	4	06	Editorial	
+Steve Thomsen	Proofreading	4	07	Editorial	
+Steve Thomsen	Proofreading	4	08	Editorial	
+Steve Thomsen	Proofreading	4	09	Editorial	
+Steven M. Poncar	Guest Reviewers	2	10	Contributing Editors	
+Steven M. Poncar	Purchasing	2	11		
+Steven M. Poncar	Purchasing	2	12		
+Steven M. Poncar	Purchasing	3	01		
+Steven M. Poncar	Purchasing	3	02		
+Steven M. Poncar	Purchasing	3	03		
+Steven M. Poncar	Purchasing	3	04		
+Steven M. Poncar	Purchasing	3	05		
+Tamara Moore	Assistant	3	10	Circulation	
+Tamera Moore	List Maintenance	3	11	Circulation	
+Tamera Moore	Paid Subscriptions	3	12	Circulation	
+Tamera Moore	Paid Subscriptions	4	01	Circulation	
+Taylor Pohlman	Apple III	2	02	Contributing Editors	
+Taylor Pohlman	Apple III	2	03	Contributing Editors	
+Taylor Pohlman	Apple III	2	04	Contributing Editors	
+Taylor Pohlman	Apple III	2	05	Contributing Editors	
+Taylor Pohlman	Apple III	2	06	Contributing Editors	
+Taylor Pohlman	Apple III	2	07	Contributing Editors	
+Taylor Pohlman	Apple III	2	08	Contributing Editors	
+Taylor Pohlman	Apple III	2	09	Contributing Editors	
+Taylor Pohlman	Apple III	2	10	Contributing Editors	
+Taylor Pohlman	Apple III	2	11	Contributing Editors	
+Taylor Pohlman	Apple III	2	12	Contributing Editors	
+Taylor Pohlman	Apple III	3	01	Contributing Editors	
+Taylor Pohlman	Apple III	3	02	Contributing Editors	
+Taylor Pohlman	Apple III	3	03	Contributing Editors	
+Taylor Pohlman	Apple III	3	04	Contributing Editors	
+Taylor Pohlman	Apple III	3	05	Contributing Editors	
+Taylor Pohlman	Apple III	3	06	Contributing Editors	
+Taylor Pohlman	Apple III	3	07	Contributing Editors	
+Taylor Pohlman	Apple III	3	08	Contributing Editors	
+Taylor Pohlman	Apple III	3	09	Contributing Editors	
+Taylor Pohlman	Apple III	3	10	Contributing Editors	
+Taylor Pohlman	Apple III	3	11	Contributing Editors	
+Taylor Pohlman	Apple III	3	12	Contributing Editors	
+Taylor Pohlman	Apple III	4	01	Contributing Editors	
+Taylor Pohlman	Apple III	4	02	Contributing Editors	
+Taylor Pohlman	Apple III	4	03	Contributing Editors	
+Taylor Pohlman	Apple III	4	04	Contributing Editors	
+Taylor Pohlman	Contributing Editors	2	01		
+Ted Rickard	Midwest and Rocky Mountain Sales	2	08	Advertising	
+Ted Rickard	Midwest and Rocky Mountain Sales	2	09	Advertising	
+Ted Rickard	Midwest and Rocky Mountain Sales	2	10	Advertising	
+Ted Rickard	Midwest and Rocky Mountain Sales	2	11	Advertising	
+Ted Rickard	Midwest and Rocky Mountain Sales	2	12	Advertising	
+Ted Rickard	Midwest and Rocky Mountain Sales	3	01	Advertising	
+Ted Rickard	Midwest and Rocky Mountain Sales	3	02	Advertising	
+Ted Rickard	Midwest and Rocky Mountain Sales	3	03	Advertising	
+Ted Rickard	Midwest and Rocky Mountain Sales	3	04	Advertising	
+Ted Rickard	Midwest and Rocky Mountain Sales	3	05	Advertising	
+Ted Rickard	Midwest and Rocky Mountain Sales	3	06	Advertising	
+Ted Rickard	Midwest and Rocky Mountain Sales	3	07	Advertising	
+Ted Rickard	Midwest and Rocky Mountain Sales	3	08	Advertising	
+Ted Rickard	Midwest and Rocky Mountain Sales	3	09	Advertising	
+Ted Rickard	Midwest and Rocky Mountain Sales	3	10	Advertising	
+Ted Rickard	Midwest and Rocky Mountain Sales	3	11	Advertising	
+Ted Rickard	Midwest and Rocky Mountain Sales	3	12	Advertising	
+Ted Rickard	Midwest and Rocky Mountain Sales	4	01	Advertising	
+Ted Rickard	Midwest and Rocky Mountain Sales	4	02	Advertising	
+Ted Rickard	Midwest and Rocky Mountain Sales	4	03	Advertising	
+Ted Rickard	Midwest and Rocky Mountain Sales	4	04	Advertising	
+Ted Rickard	Midwest and Rocky Mountain Sales	4	05	Advertising	
+Ted Rickard	Midwest and Rocky Mountain Sales	4	06	Advertising	
+Ted Rickard	Midwest and Rocky Mountain Sales	4	07	Advertising	
+Ted Rickard	Midwest and Rocky Mountain Sales	4	08	Advertising	
+Ted Rickard	Midwest and Rocky Mountain Sales	4	09	Advertising	
+Ted Rickard	Midwest and Rocky Mountain Sales	4	10	Softalk Publishing	Advertising
+Ted Rickard	Midwest and Rocky Mountain Sales	4	11	Softalk Publishing	Advertising
+Ted Rickard	Midwest and Rocky Mountain Sales	4	12	Softalk Publishing	Advertising
+Terez Carroll	Trial Subscriptions	4	05	Circulation	
+Terez Carroll	Trial Subscriptions	4	06	Circulation	
+Terez Carroll	Trial Subscriptions	4	07	Circulation	
+Terez Carroll	Trial Subscriptions	4	08	Circulation	
+Terez Carroll	Trial Subscriptions	4	09	Circulation	
+Three Tyler	Assistant Publisher	4	10	Softalk Publishing	Business
+Three Tyler	Assistant Publisher	4	11	Softalk Publishing	Business
+Three Tyler	Assistant Publisher	4	12	Softalk Publishing	Business
+Three Tyler	Director of Operations	3	04		
+Three Tyler	Director of Operations	3	05		
+Three Tyler	Director of Operations	3	06		
+Three Tyler	Director of Operations	3	07		
+Three Tyler	Director of Operations	3	08		
+Three Tyler	Director of Operations	3	09		
+Three Tyler	Director of Operations	3	10	Business	
+Three Tyler	Director of Operations	3	11	Business	
+Three Tyler	Director of Operations	3	12	Business	
+Three Tyler	Director of Operations	4	01	Business	
+Three Tyler	Director of Operations	4	02	Business	
+Three Tyler	Director of Operations	4	03	Business	
+Three Tyler	Director of Operations	4	04	Business	
+Three Tyler	Managing Editor	4	05	Editorial	
+Three Tyler	Managing Editor	4	06	Editorial	
+Three Tyler	Managing Editor	4	07	Editorial	
+Three Tyler	Managing Editor	4	08	Editorial	
+Three Tyler	Managing Editor	4	09	Editorial	
+Timothy Durr	Art Assistants	3	08		
+Timothy Durr	Art Assistants	3	09		
+Timothy Durr	Assistants	3	10	Art	
+Timothy Durr	Assistants	3	11	Art	
+Timothy Durr	Assistants	3	12	Art	
+Timothy Durr	Assistants	4	01	Art	
+Timothy Durr	Assistants	4	02	Art	
+Timothy Durr	Assistants	4	03	Art	
+Timothy Durr	Assistants	4	04	Art	
+Todd Zilbert	Letters	4	05	Editorial	
+Todd Zilbert	Letters	4	06	Editorial	
+Todd Zilbert	Letters	4	07	Editorial	
+Todd Zilbert	Letters	4	08	Editorial	
+Todd Zilbert	Letters	4	09	Editorial	
+Todd Zilbert	Letters	4	10	Editorial Staff	Feature Editors
+Todd Zilbert	Letters	4	11	Editorial Staff	Feature Editors
+Todd Zilbert	Letters	4	12	Editorial Staff	Feature Editors
+Tom Repstad	Guest Reviewers	3	09		
+Tom Weishaar	DOS	3	08	Contributing Editors	
+Tom Weishaar	DOS	3	09	Contributing Editors	
+Tom Weishaar	DOS	3	10	Contributing Editors	
+Tom Weishaar	DOS	3	11	Contributing Editors	
+Tom Weishaar	DOS	3	12	Contributing Editors	
+Tom Weishaar	DOS	4	01	Contributing Editors	
+Tom Weishaar	DOS	4	02	Contributing Editors	
+Tom Weishaar	DOS	4	03	Contributing Editors	
+Tom Weishaar	DOS	4	04	Contributing Editors	
+Tom Weishaar	DOS	4	05	Contributing Editors	
+Tom Weishaar	DOS	4	06	Contributing Editors	
+Tom Weishaar	DOS	4	07	Contributing Editors	
+Tom Weishaar	DOS	4	08	Contributing Editors	
+Tom Weishaar	DOS	4	09	Contributing Editors	
+Tom Weishaar	DOS	4	10	Editorial Correspondents	Contributing Editors
+Tom Weishaar	DOS	4	11	Editorial Correspondents	Contributing Editors
+Tom Weishaar	DOS	4	12	Editorial Correspondents	Contributing Editors
+Tommy Gear	If Then Maybe	4	07	Editorial	
+Tommy Gear	If Then Maybe	4	08	Editorial	
+Tommy Gear	If Then Maybe	4	09	Editorial	
+Tommy Gear	Letters	4	02	Editorial	
+Tommy Gear	Letters	4	03	Editorial	
+Tommy Gear	Letters	4	04	Editorial	
+Tommy Gear	Letters	4	05	Editorial	
+Tommy Gear	Open Discussion	2	10		
+Tommy Gear	Open Discussion	2	11		
+Tommy Gear	Open Discussion	2	12		
+Tommy Gear	Open Discussion	3	01		
+Tommy Gear	Open Discussion Editor	3	02		
+Tommy Gear	Open Discussion Editor	3	03		
+Tommy Gear	Open Discussion Editor	3	04		
+Tommy Gear	Open Discussion Editor	3	05		
+Tommy Gear	Open Discussion Editor	3	06		
+Tommy Gear	Open Discussion Editor	3	07		
+Tommy Gear	Open Discussion Editor	3	08		
+Tommy Gear	Open Discussion Editor	3	09		
+Tommy Gear	Open Discussion Editor	3	10		
+Tommy Gear	Open Discussion Editor	3	11		
+Tommy Gear	Open Discussion Editor	3	12		
+Tommy Gear	Open Discussion Editor	4	01		
+Tommy Gear	Special Assignments	2	09		
+Tommy Gear	Special Assignments	4	06	Editorial	
+Trici Venola	Art Director - ST. Mac	4	12	Softalk Publishing	Siblings
+W. H. Arrington	Guest Reviewers	3	05		
+Weldon O. Lewin	Assistants	4	01	Art	
+Weldon O. Lewin	Assistants	4	02	Art	
+Weldon O. Lewin	Assistants	4	03	Art	
+Weldon O. Lewin	Assistants	4	04	Art	
+Weldon O. Lewin	Assistants	4	05	Art	
+Weldon O. Lewin	Assistants	4	06	Art	
+Weldon O. Lewin	Assistants	4	07	Art	
+Weldon O. Lewin	Assistants	4	08	Art	
+Weldon O. Lewin	Assistants	4	09	Art	
+William Depew	Contributing Editors	1	07		
+William Depew	Contributing Editors	1	08		
+William Depew	Contributing Editors	1	09		
+William Depew	Contributing Editors	1	10		
+William Depew	Contributing Editors	1	11		
+William Depew	Technical Editor	1	05		
+William Depew	Technical Editor	1	06		
+William Depew	Vice-President	1	02		
+William Depew	Vice-President	1	03		
+William Depew	Vice-President	1	04		
+William Depew	Vice-President	1	05		
+William Depew	Vice-President	1	06		
+William H. Harrington	Guest Reviewers	3	07		
+William H. Harrington	Guest Reviewers	3	08		
+William H. Harrington	Guest Reviewers	3	09		
+William H. Harrington	Guest Reviewers	3	10	Contributing Editors	
+William H. Harrington	Guest Reviewers	3	11		
+William H. Harrington	Guest Reviewers	3	12		
+William H. Harrington	Guest Reviewers	4	01		
+William V. R. Smith	Advertising Manager	1	01		
+William V. R. Smith	Advertising Sales	1	05		
+William V. R. Smith	Basic Solution	3	04	Contributing Editors	
+William V. R. Smith	Basic Solution	3	05	Contributing Editors	
+William V. R. Smith	Basic Solutions	3	06	Contributing Editors	
+William V. R. Smith	Basic Solutions	3	07	Contributing Editors	
+William V. R. Smith	Basic Solutions	3	08	Contributing Editors	
+William V. R. Smith	Basic Solutions	3	09	Contributing Editors	
+William V. R. Smith	Basic Solutions	3	10	Contributing Editors	
+William V. R. Smith	Basic Solutions	3	11	Contributing Editors	
+William V. R. Smith	Basic Solutions	3	12	Contributing Editors	
+William V. R. Smith	Basic Solutions	4	01	Contributing Editors	
+William V. R. Smith	Basic Solutions	4	02	Contributing Editors	
+William V. R. Smith	Basic Solutions	4	04	Contributing Editors	
+William V. R. Smith	Basic Tips	4	05	Contributing Editors	
+William V. R. Smith	Business Manager	1	02		
+William V. R. Smith	Business Manager	1	03		
+William V. R. Smith	Business Manager	1	05		
+William V. R. Smith	Business Manager	1	06		
+William V. R. Smith	Systems	1	09		
+William V. R. Smith	Systems	1	10		
+William V. R. Smith	Systems	1	11		
+William V. R. Smith	Systems	1	12		
+William V. R. Smith	Systems	2	01		
+William V. R. Smith	Systems	2	02		
+William V. R. Smith	Treasurer	1	02		
+William V. R. Smith	Treasurer	1	03		
+William V. R. Smith	Treasurer	1	04		
+William V. R. Smith	Treasurer	1	05		
+William V. R. Smith	Treasurer	1	06		
+William V.R. Smith	Basic Solutions	4	03	Contributing Editors	
+William V.R. Smith	Systems	1	08		
+Wm. V. R. Smith	Basic Solution	2	06	Contributing Editors	
+Wm. V. R. Smith	Basic Solution	2	08	Contributing Editors	
+Wm. V. R. Smith	Basic Solution	2	09	Contributing Editors	
+Wm. V. R. Smith	Basic Solution	3	01	Contributing Editors	
+Wm. V. R. Smith	Basic Solution	3	02	Contributing Editors	
+Wm. V. R. Smith	Basic Solution	3	03	Contributing Editors	
+Wm. V. R. Smith	Basic Solutions	2	03	Contributing Editors	
+Wm. V. R. Smith	Basic Solutions	2	04	Contributing Editors	
+Wm. V. R. Smith	Basic Solutions	2	05	Contributing Editors	
+Wm. V. R. Smith	Basic Solutions	2	07	Contributing Editors	
+Wm. V. R. Smith	Basic Solutions	2	10	Contributing Editors	
+Wm. V. R. Smith	Basic Solutions	2	11	Contributing Editors	
+Wm. V. R. Smith	Basic Solutions	2	12	Contributing Editors	
+Wm. V. R. Smith	Systems	2	03		
+Wm. V. R. Smith	Systems	2	04		
+Wm. V. R. Smith	Systems	2	05		
+Wm. V. R. Smith	Systems	2	06		
+Wm. V. R. Smith	Systems	2	07	Circulation	
+Wm. V. R. Smith	Systems	2	08	Circulation	
+Wm. V. R. Smith	Systems	2	09		
+Wm. V. R. Smith	Systems	2	10		
+[Advertising Sales]	East Coast Sales	3	08	Advertising	
+[Advertising Sales]	East Coast Sales	3	09	Advertising	
+[Advertising Sales]	East Coast Sales	3	10	Advertising	
+[Advertising Sales]	East Coast Sales	3	11	Advertising	
+[Advertising Sales]	East Coast Sales	3	12	Advertising	
+[Advertising Sales]	East Coast Sales	4	01	Advertising	
+[Advertising Sales]	East Coast Sales	4	02	Advertising	
+[Advertising Sales]	East Coast Sales	4	03	Advertising	
+[Advertising Sales]	East Coast Sales	4	04	Advertising	
+[Advertising Sales]	East Coast Sales	4	05	Advertising	
+[Advertising Sales]	East Coast Sales	4	06	Advertising	
+[Advertising Sales]	East Coast Sales	4	07	Advertising	
+[Advertising Sales]	East Coast Sales	4	08	Advertising	
+[Advertising Sales]	East Coast Sales	4	09	Advertising	
+[Advertising Sales]	East Coast Sales	4	10	Softalk Publishing	Advertising
+[Advertising Sales]	East Coast Sales	4	11	Softalk Publishing	Advertising
+[Advertising Sales]	East Coast Sales	4	12	Softalk Publishing	Advertising
+[Market/Media Associates]	Midwest and Rocky Mountain Sales	2	08	Advertising	
+[Market/Media Associates]	Midwest and Rocky Mountain Sales	2	09	Advertising	
+[Market/Media Associates]	Midwest and Rocky Mountain Sales	2	10	Advertising	
+[Market/Media Associates]	Midwest and Rocky Mountain Sales	2	11	Advertising	
+[Market/Media Associates]	Midwest and Rocky Mountain Sales	2	12	Advertising	
+[Market/Media Associates]	Midwest and Rocky Mountain Sales	3	01	Advertising	
+[Market/Media Associates]	Midwest and Rocky Mountain Sales	3	02	Advertising	
+[Market/Media Associates]	Midwest and Rocky Mountain Sales	3	03	Advertising	
+[Market/Media Associates]	Midwest and Rocky Mountain Sales	3	04	Advertising	
+[Market/Media Associates]	Midwest and Rocky Mountain Sales	3	05	Advertising	
+[Market/Media Associates]	Midwest and Rocky Mountain Sales	3	06	Advertising	
+[Market/Media Associates]	Midwest and Rocky Mountain Sales	3	07	Advertising	
+[Market/Media Associates]	Midwest and Rocky Mountain Sales	3	08	Advertising	
+[Market/Media Associates]	Midwest and Rocky Mountain Sales	3	09	Advertising	
+[Market/Media Associates]	Midwest and Rocky Mountain Sales	3	10	Advertising	
+[Market/Media Associates]	Midwest and Rocky Mountain Sales	3	11	Advertising	
+[Market/Media Associates]	Midwest and Rocky Mountain Sales	3	12	Advertising	
+[Market/Media Associates]	Midwest and Rocky Mountain Sales	4	01	Advertising	
+[Market/Media Associates]	Midwest and Rocky Mountain Sales	4	02	Advertising	
+[Market/Media Associates]	Midwest and Rocky Mountain Sales	4	03	Advertising	
+[Market/Media Associates]	Midwest and Rocky Mountain Sales	4	04	Advertising	
+[Market/Media Associates]	Midwest and Rocky Mountain Sales	4	05	Advertising	
+[Market/Media Associates]	Midwest and Rocky Mountain Sales	4	06	Advertising	
+[Market/Media Associates]	Midwest and Rocky Mountain Sales	4	07	Advertising	
+[Market/Media Associates]	Midwest and Rocky Mountain Sales	4	08	Advertising	
+[Market/Media Associates]	Midwest and Rocky Mountain Sales	4	09	Advertising	
+[Market/Media Associates]	Midwest and Rocky Mountain Sales	4	10	Softalk Publishing	Advertising
+[Market/Media Associates]	Midwest and Rocky Mountain Sales	4	11	Softalk Publishing	Advertising
+[Market/Media Associates]	Midwest and Rocky Mountain Sales	4	12	Softalk Publishing	Advertising
+[Paul McGinnis Company]	East Coast Sales	2	08	Advertising	
+[Paul McGinnis Company]	East Coast Sales	2	09	Advertising	
+[Paul McGinnis Company]	East Coast Sales	2	10	Advertising	
+[Paul McGinnis Company]	East Coast Sales	2	11	Advertising	
+[Paul McGinnis Company]	East Coast Sales	2	12	Advertising	
+[Paul McGinnis Company]	East Coast Sales	3	01	Advertising	
+[Paul McGinnis Company]	East Coast Sales	3	02	Advertising	
+[Paul McGinnis Company]	East Coast Sales	3	03	Advertising	
+[Paul McGinnis Company]	East Coast Sales	3	04	Advertising	
+[Paul McGinnis Company]	East Coast Sales	3	05	Advertising	
+[Paul McGinnis Company]	East Coast Sales	3	06	Advertising	
+[Paul McGinnis Company]	East Coast Sales	3	07	Advertising	
+[Softalk]	West Coast Sales	3	01	Advertising	

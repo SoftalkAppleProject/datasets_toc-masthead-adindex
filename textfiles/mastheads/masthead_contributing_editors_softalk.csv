@@ -1,0 +1,471 @@
+PERSON,POSITION,VOL,NUM,CATEGORY
+Roger Wagner,Contributing Editor,1,2,
+Roger Wagner,Contributing Editor,1,3,
+Roger Wagner,Contributing Editor,1,5,
+James A. Merritt,Contributing Editors,1,6,
+Roger Wagner,Contributing Editors,1,6,
+Craig Stinson,Contributing Editors,1,7,
+Frank Malone,Contributing Editors,1,7,
+Jim Merritt,Contributing Editors,1,7,
+Robert Koehler,Contributing Editors,1,7,
+Roger Wagner,Contributing Editors,1,7,
+William Depew,Contributing Editors,1,7,
+Frank Malone,Contributing Editors,1,8,
+Jim Merritt,Contributing Editors,1,8,
+Robert Koehler,Contributing Editors,1,8,
+Roger Wagner,Contributing Editors,1,8,
+William Depew,Contributing Editors,1,8,
+Frank Malone,Contributing Editors,1,9,
+Jim Merritt,Contributing Editors,1,9,
+Robert Koehler,Contributing Editors,1,9,
+Roger Wagner,Contributing Editors,1,9,
+William Depew,Contributing Editors,1,9,
+Frank Malone,Contributing Editors,1,10,
+Jim Merritt,Contributing Editors,1,10,
+Peter Olivieri,Contributing Editors,1,10,
+Roger Wagner,Contributing Editors,1,10,
+William Depew,Contributing Editors,1,10,
+Jeffrey Mazur,Contributing Editors,1,11,
+Jim Merritt,Contributing Editors,1,11,
+Peter Olivieri,Contributing Editors,1,11,
+Roger Wagner,Contributing Editors,1,11,
+William Depew,Contributing Editors,1,11,
+Greg Tibbetts,Contributing Editors,1,12,
+Jeff Mazur,Contributing Editors,1,12,
+Jim Merritt,Contributing Editors,1,12,
+Peter Olivieri,Contributing Editors,1,12,
+Roger Wagner,Contributing Editors,1,12,
+Greg Tibbetts,Contributing Editors,2,1,
+Jeff Mazur,Contributing Editors,2,1,
+Jim Merritt,Contributing Editors,2,1,
+Kenneth A. Landis,Contributing Editors,2,1,
+Peter Olivieri,Contributing Editors,2,1,
+Roger Wagner,Contributing Editors,2,1,
+Taylor Pohlman,Contributing Editors,2,1,
+Greg Tibbetts,Apple CP/M,2,2,Contributing Editors
+Taylor Pohlman,Apple III,2,2,Contributing Editors
+Roger Wagner,Assembly Language,2,2,Contributing Editors
+Peter Olivieri,Business,2,2,Contributing Editors
+John Haller,Guest Reviewer,2,2,Contributing Editors
+Jeffrey Mazur,Hardware,2,2,Contributing Editors
+Kenneth Landis,Investing,2,2,Contributing Editors
+Jim Merritt,Pascal,2,2,Contributing Editors
+Greg Tibbetts,Apple CP/M,2,3,Contributing Editors
+Taylor Pohlman,Apple III,2,3,Contributing Editors
+Roger Wagner,Assembly Language,2,3,Contributing Editors
+Wm. V. R. Smith,Basic Solutions,2,3,Contributing Editors
+Peter Olivieri,Business,2,3,Contributing Editors
+Jeffrey Mazur,Hardware,2,3,Contributing Editors
+Kenneth Landis,Investing,2,3,Contributing Editors
+Jim Merritt,Pascal,2,3,Contributing Editors
+Donna Siebert,Special Projects,2,3,Contributing Editors
+Greg Voss,Special Projects,2,3,Contributing Editors
+Greg Tibbetts,Apple CP/M,2,4,Contributing Editors
+Taylor Pohlman,Apple III,2,4,Contributing Editors
+Roger Wagner,Assembly Language,2,4,Contributing Editors
+Wm. V. R. Smith,Basic Solutions,2,4,Contributing Editors
+Peter Olivieri,Business,2,4,Contributing Editors
+John Haller,Guest Reviewers,2,4,Contributing Editors
+Peter Stone,Guest Reviewers,2,4,Contributing Editors
+Jeffrey Mazur,Hardware,2,4,Contributing Editors
+Kenneth Landis,Investing,2,4,Contributing Editors
+Jim Merritt,Pascal,2,4,Contributing Editors
+Greg Tibbetts,Apple CP/M,2,5,Contributing Editors
+Taylor Pohlman,Apple III,2,5,Contributing Editors
+Doug Carlston,Applesoft,2,5,Contributing Editors
+Roger Wagner,Assembly Language,2,5,Contributing Editors
+Wm. V. R. Smith,Basic Solutions,2,5,Contributing Editors
+Peter Olivieri,Business,2,5,Contributing Editors
+Jeffrey Mazur,Hardware,2,5,Contributing Editors
+Kenneth Landis,Investing,2,5,Contributing Editors
+Jim Merritt,Pascal,2,5,Contributing Editors
+Greg Voss,Special Projects,2,5,Contributing Editors
+Greg Tibbetts,Apple CP/M,2,6,Contributing Editors
+Taylor Pohlman,Apple III,2,6,Contributing Editors
+Doug Carlston,Applesoft,2,6,Contributing Editors
+Roger Wagner,Assembly Language,2,6,Contributing Editors
+Wm. V. R. Smith,Basic Solution,2,6,Contributing Editors
+Peter Olivieri,Business,2,6,Contributing Editors
+Allen Munro,Guest Reviewers,2,6,Contributing Editors
+Dale Archibald,Guest Reviewers,2,6,Contributing Editors
+Jeffrey Mazur,Hardware,2,6,Contributing Editors
+Kenneth Landis,Investing,2,6,Contributing Editors
+Jim Merritt,Pascal,2,6,Contributing Editors
+Greg Tibbetts,Apple CP/M,2,7,Contributing Editors
+Taylor Pohlman,Apple III,2,7,Contributing Editors
+Doug Carlston,Applesoft,2,7,Contributing Editors
+Roger Wagner,Assembly Language,2,7,Contributing Editors
+Mary Sue Rennells,Associate Publisher,2,7,Contributing Editors
+Wm. V. R. Smith,Basic Solutions,2,7,Contributing Editors
+Peter Olivieri,Business,2,7,Contributing Editors
+Jeffrey Mazur,Hardware,2,7,Contributing Editors
+Kenneth Landis,Investing,2,7,Contributing Editors
+Jim Merritt,Pascal,2,7,Contributing Editors
+Greg Voss,Special Projects,2,7,Contributing Editors
+Greg Tibbetts,Apple CP/M,2,8,Contributing Editors
+Taylor Pohlman,Apple III,2,8,Contributing Editors
+Doug Carlston,Applesoft,2,8,Contributing Editors
+Roger Wagner,Assembly Language,2,8,Contributing Editors
+Wm. V. R. Smith,Basic Solution,2,8,Contributing Editors
+Peter Olivieri,Business,2,8,Contributing Editors
+Bert Kersey,DOS,2,8,Contributing Editors
+Allen Munro,Guest Reviewers,2,8,Contributing Editors
+Peter Stone,Guest Reviewers,2,8,Contributing Editors
+Richard Kaapke,Guest Reviewers,2,8,Contributing Editors
+Jeffrey Mazur,Hardware,2,8,Contributing Editors
+Kenneth Landis,Investing,2,8,Contributing Editors
+Jim Merritt,Pascal,2,8,Contributing Editors
+Jonathan Miller,Word Processors,2,8,Contributing Editors
+Greg Tibbetts,Apple CP/M,2,9,Contributing Editors
+Taylor Pohlman,Apple III,2,9,Contributing Editors
+Doug Carlston,Applesoft,2,9,Contributing Editors
+Roger Wagner,Assembly Language,2,9,Contributing Editors
+Wm. V. R. Smith,Basic Solution,2,9,Contributing Editors
+Peter Olivieri,Business,2,9,Contributing Editors
+Bert Kersey,DOS,2,9,Contributing Editors
+Joe Shelton,Financial Modeling,2,9,Contributing Editors
+Mark Pelczarski,Graphics,2,9,Contributing Editors
+Allen Munro,Guest Reviewers,2,9,Contributing Editors
+Chris Light,Guest Reviewers,2,9,Contributing Editors
+Jeffrey Mazur,Hardware,2,9,Contributing Editors
+Kenneth Landis,Investing,2,9,Contributing Editors
+Jim Merritt,Pascal,2,9,Contributing Editors
+Greg Tibbetts,Apple CP/M,2,10,Contributing Editors
+Taylor Pohlman,Apple III,2,10,Contributing Editors
+Doug Carlston,Applesoft,2,10,Contributing Editors
+Roger Wagner,Assembly Language,2,10,Contributing Editors
+Wm. V. R. Smith,Basic Solutions,2,10,Contributing Editors
+Craig Stinson,Beginners' Corner,2,10,Contributing Editors
+Peter Olivieri,Business,2,10,Contributing Editors
+Bert Kersey,DOS,2,10,Contributing Editors
+Joe Shelton,Financial Modeling,2,10,Contributing Editors
+Mark Pelczarski,Graphics,2,10,Contributing Editors
+Christopher U. Light,Guest Reviewers,2,10,Contributing Editors
+Jock Root,Guest Reviewers,2,10,Contributing Editors
+Roe Adams,Guest Reviewers,2,10,Contributing Editors
+Steven M. Poncar,Guest Reviewers,2,10,Contributing Editors
+Jeffrey Mazur,Hardware,2,10,Contributing Editors
+Kenneth Landis,Investing,2,10,Contributing Editors
+Jim Merritt,Pascal,2,10,Contributing Editors
+Greg Tibbetts,Apple CP/M,2,11,Contributing Editors
+Taylor Pohlman,Apple III,2,11,Contributing Editors
+Doug Carlston,Applesoft,2,11,Contributing Editors
+Roger Wagner,Assembly Language,2,11,Contributing Editors
+Wm. V. R. Smith,Basic Solutions,2,11,Contributing Editors
+Christopher U. Light,Beginners,2,11,Contributing Editors
+Peter Olivieri,Business,2,11,Contributing Editors
+Bert Kersey,DOS,2,11,Contributing Editors
+Joe Shelton,Financial Modeling,2,11,Contributing Editors
+Mark Pelczarski,Graphics,2,11,Contributing Editors
+Dale Archibald,Guest Reviewers,2,11,Contributing Editors
+Dave Albert,Guest Reviewers,2,11,Contributing Editors
+Jock Root,Guest Reviewers,2,11,Contributing Editors
+Phillip Good,Guest Reviewers,2,11,Contributing Editors
+R. Jon Ruppert,Guest Reviewers,2,11,Contributing Editors
+Roe Adams,Guest Reviewers,2,11,Contributing Editors
+Jeffrey Mazur,Hardware,2,11,Contributing Editors
+Kenneth Landis,Investing,2,11,Contributing Editors
+Jim Merritt,Pascal,2,11,Contributing Editors
+Greg Tibbetts,Apple CP/M,2,12,Contributing Editors
+Taylor Pohlman,Apple III,2,12,Contributing Editors
+Doug Carlston,Applesoft,2,12,Contributing Editors
+Roger Wagner,Assembly Language,2,12,Contributing Editors
+Mary Sue Rennells,Associate Publisher,2,12,Contributing Editors
+Wm. V. R. Smith,Basic Solutions,2,12,Contributing Editors
+Christopher U. Light,Beginners,2,12,Contributing Editors
+Peter Olivieri,Business,2,12,Contributing Editors
+Bert Kersey,DOS,2,12,Contributing Editors
+Joe Shelton,Financial Modeling,2,12,Contributing Editors
+Mark Pelczarski,Graphics,2,12,Contributing Editors
+Jeffrey Mazur,Hardware,2,12,Contributing Editors
+Kenneth Landis,Investing,2,12,Contributing Editors
+Jim Merritt,Pascal,2,12,Contributing Editors
+Greg Tibbetts,Apple CP/M,3,1,Contributing Editors
+Taylor Pohlman,Apple III,3,1,Contributing Editors
+Doug Carlston,Applesoft,3,1,Contributing Editors
+Roger Wagner,Assembly Language,3,1,Contributing Editors
+Mary Sue Rennells,Associate Publisher,3,1,Contributing Editors
+Wm. V. R. Smith,Basic Solution,3,1,Contributing Editors
+Christopher U. Light,Beginners,3,1,Contributing Editors
+Peter Olivieri,Business,3,1,Contributing Editors
+Bert Kersey,DOS,3,1,Contributing Editors
+Joe Shelton,Financial Modeling,3,1,Contributing Editors
+Mark Pelczarski,Graphics,3,1,Contributing Editors
+Jeffrey Mazur,Hardware,3,1,Contributing Editors
+Kenneth Landis,Investing,3,1,Contributing Editors
+Jim Merritt,Pascal,3,1,Contributing Editors
+Greg Tibbetts,Apple CP/M,3,2,Contributing Editors
+Taylor Pohlman,Apple III,3,2,Contributing Editors
+Doug Carlston,Applesoft,3,2,Contributing Editors
+Kevin McKeon,Art Manager,3,2,Contributing Editors
+Roger Wagner,Assembly Language,3,2,Contributing Editors
+Wm. V. R. Smith,Basic Solution,3,2,Contributing Editors
+Christopher U. Light,Beginners,3,2,Contributing Editors
+Peter Olivieri,Business,3,2,Contributing Editors
+Bert Kersey,DOS,3,2,Contributing Editors
+Joe Shelton,Financial Modeling,3,2,Contributing Editors
+Mark Pelczarski,Graphics,3,2,Contributing Editors
+Jeffrey Mazur,Hardware,3,2,Contributing Editors
+Kenneth Landis,Investing,3,2,Contributing Editors
+Jim Merritt,Pascal,3,2,Contributing Editors
+Greg Tibbetts,Apple CP/M,3,3,Contributing Editors
+Taylor Pohlman,Apple III,3,3,Contributing Editors
+Doug Carlston,Applesoft,3,3,Contributing Editors
+Kevin McKeon,Art Manager,3,3,Contributing Editors
+Roger Wagner,Assembly Language,3,3,Contributing Editors
+Wm. V. R. Smith,Basic Solution,3,3,Contributing Editors
+Christopher U. Light,Beginners,3,3,Contributing Editors
+Peter Olivieri,Business,3,3,Contributing Editors
+Bert Kersey,DOS,3,3,Contributing Editors
+Joe Shelton,Financial Modeling,3,3,Contributing Editors
+Mark Pelczarski,Graphics,3,3,Contributing Editors
+Jeffrey Mazur,Hardware,3,3,Contributing Editors
+Kenneth Landis,Investing,3,3,Contributing Editors
+Jim Merritt,Pascal,3,3,Contributing Editors
+Greg Tibbetts,Apple CP/M,3,4,Contributing Editors
+Taylor Pohlman,Apple III,3,4,Contributing Editors
+Doug Carlston,Applesoft,3,4,Contributing Editors
+Kevin McKeon,Art Manager,3,4,Contributing Editors
+Roger Wagner,Assembly Language,3,4,Contributing Editors
+William V. R. Smith,Basic Solution,3,4,Contributing Editors
+Christopher U. Light,Beginners,3,4,Contributing Editors
+Peter Olivieri,Business,3,4,Contributing Editors
+Bert Kersey,DOS,3,4,Contributing Editors
+Joe Shelton,Financial Modeling,3,4,Contributing Editors
+Mark Pelczarski,Graphics,3,4,Contributing Editors
+Jeffrey Mazur,Hardware,3,4,Contributing Editors
+Kenneth Landis,Investing,3,4,Contributing Editors
+Jim Merritt,Pascal,3,4,Contributing Editors
+Greg Tibbetts,Apple CP/M,3,5,Contributing Editors
+Taylor Pohlman,Apple III,3,5,Contributing Editors
+Doug Carlston,Applesoft,3,5,Contributing Editors
+Kevin McKeon,Art Manager,3,5,Contributing Editors
+Roger Wagner,Assembly Language,3,5,Contributing Editors
+William V. R. Smith,Basic Solution,3,5,Contributing Editors
+Christopher U. Light,Beginners,3,5,Contributing Editors
+Peter Olivieri,Business,3,5,Contributing Editors
+Bert Kersey,DOS,3,5,Contributing Editors
+Joe Shelton,Financial Modeling,3,5,Contributing Editors
+Mark Pelczarski,Graphics,3,5,Contributing Editors
+Jeffrey Mazur,Hardware,3,5,Contributing Editors
+Kenneth Landis,Investing,3,5,Contributing Editors
+Jim Merritt,Pascal,3,5,Contributing Editors
+Greg Tibbetts,Apple CP/M,3,6,Contributing Editors
+Taylor Pohlman,Apple III,3,6,Contributing Editors
+Doug Carlston,Applesoft,3,6,Contributing Editors
+Kevin McKeon,Art Manager,3,6,Contributing Editors
+Roger Wagner,Assembly Language,3,6,Contributing Editors
+William V. R. Smith,Basic Solutions,3,6,Contributing Editors
+Christopher U. Light,Beginners,3,6,Contributing Editors
+Peter Olivieri,Business,3,6,Contributing Editors
+Bert Kersey,DOS,3,6,Contributing Editors
+Joe Shelton,Financial Modeling,3,6,Contributing Editors
+Mark Pelczarski,Graphics,3,6,Contributing Editors
+Jeffrey Mazur,Hardware,3,6,Contributing Editors
+Kenneth Landis,Investing,3,6,Contributing Editors
+Jim Merritt,Pascal,3,6,Contributing Editors
+Greg Tibbetts,Apple CP/M,3,7,Contributing Editors
+Taylor Pohlman,Apple III,3,7,Contributing Editors
+Doug Carlston,Applesoft,3,7,Contributing Editors
+Kevin McKeon,Art Manager,3,7,Contributing Editors
+Roger Wagner,Assembly Language,3,7,Contributing Editors
+William V. R. Smith,Basic Solutions,3,7,Contributing Editors
+Christopher U. Light,Beginners,3,7,Contributing Editors
+Peter Olivieri,Business,3,7,Contributing Editors
+Joe Shelton,Financial Modeling,3,7,Contributing Editors
+Mark Pelczarski,Graphics,3,7,Contributing Editors
+Jeffrey Mazur,Hardware,3,7,Contributing Editors
+Kenneth Landis,Investing,3,7,Contributing Editors
+Jim Merritt,Pascal,3,7,Contributing Editors
+Greg Tibbetts,Apple CP/M,3,8,Contributing Editors
+Taylor Pohlman,Apple III,3,8,Contributing Editors
+Doug Carlston,Applesoft,3,8,Contributing Editors
+Kevin McKeon,Art Manager,3,8,Contributing Editors
+Roger Wagner,Assembly Language,3,8,Contributing Editors
+William V. R. Smith,Basic Solutions,3,8,Contributing Editors
+Peter Olivieri,Business,3,8,Contributing Editors
+Tom Weishaar,DOS,3,8,Contributing Editors
+Joe Shelton,Financial Modeling,3,8,Contributing Editors
+Mark Pelczarski,Graphics,3,8,Contributing Editors
+Jeffrey Mazur,Hardware,3,8,Contributing Editors
+Kenneth Landis,Investing,3,8,Contributing Editors
+Jim Merritt,Pascal,3,8,Contributing Editors
+Greg Tibbetts,Apple CP/M,3,9,Contributing Editors
+Taylor Pohlman,Apple III,3,9,Contributing Editors
+Doug Carlston,Applesoft,3,9,Contributing Editors
+Kevin McKeon,Art Manager,3,9,Contributing Editors
+Roger Wagner,Assembly Language,3,9,Contributing Editors
+William V. R. Smith,Basic Solutions,3,9,Contributing Editors
+Peter Olivieri,Business,3,9,Contributing Editors
+Tom Weishaar,DOS,3,9,Contributing Editors
+Joe Shelton,Financial Modeling,3,9,Contributing Editors
+Mark Pelczarski,Graphics,3,9,Contributing Editors
+Jeffrey Mazur,Hardware,3,9,Contributing Editors
+Kenneth Landis,Investing,3,9,Contributing Editors
+Jim Merritt,Pascal,3,9,Contributing Editors
+Greg Tibbetts,Apple CP/M,3,10,Contributing Editors
+Taylor Pohlman,Apple III,3,10,Contributing Editors
+Doug Carlston,Applesoft,3,10,Contributing Editors
+Roger Wagner,Assembly Language,3,10,Contributing Editors
+William V. R. Smith,Basic Solutions,3,10,Contributing Editors
+Peter Olivieri,Business,3,10,Contributing Editors
+Tom Weishaar,DOS,3,10,Contributing Editors
+Joe Shelton,Financial Modeling,3,10,Contributing Editors
+Mark Pelczarski,Graphics,3,10,Contributing Editors
+Dave Albert,Guest Reviewers,3,10,Contributing Editors
+Don A. Dyer,Guest Reviewers,3,10,Contributing Editors
+William H. Harrington,Guest Reviewers,3,10,Contributing Editors
+Jeffrey Mazur,Hardware,3,10,Contributing Editors
+Kenneth Landis,Investing,3,10,Contributing Editors
+Jim Merritt,Pascal,3,10,Contributing Editors
+Greg Tibbetts,Apple CP/M,3,11,Contributing Editors
+Taylor Pohlman,Apple III,3,11,Contributing Editors
+Doug Carlston,Applesoft,3,11,Contributing Editors
+Roger Wagner,Assembly Language,3,11,Contributing Editors
+William V. R. Smith,Basic Solutions,3,11,Contributing Editors
+Peter Olivieri,Business,3,11,Contributing Editors
+Tom Weishaar,DOS,3,11,Contributing Editors
+Joe Shelton,Financial Modeling,3,11,Contributing Editors
+Mark Pelczarski,Graphics,3,11,Contributing Editors
+Jeffrey Mazur,Hardware,3,11,Contributing Editors
+Kenneth Landis,Investing,3,11,Contributing Editors
+Jim Merritt,Pascal,3,11,Contributing Editors
+Greg Tibbetts,Apple CP/M,3,12,Contributing Editors
+Taylor Pohlman,Apple III,3,12,Contributing Editors
+Doug Carlston,Applesoft,3,12,Contributing Editors
+Roger Wagner,Assembly Language,3,12,Contributing Editors
+William V. R. Smith,Basic Solutions,3,12,Contributing Editors
+Peter Olivieri,Business,3,12,Contributing Editors
+Tom Weishaar,DOS,3,12,Contributing Editors
+Joe Shelton,Financial Modeling,3,12,Contributing Editors
+Mark Pelczarski,Graphics,3,12,Contributing Editors
+Jeffrey Mazur,Hardware,3,12,Contributing Editors
+Kenneth Landis,Investing,3,12,Contributing Editors
+Jim Merritt,Pascal,3,12,Contributing Editors
+Greg Tibbetts,Apple C P M,4,1,Contributing Editors
+Taylor Pohlman,Apple III,4,1,Contributing Editors
+Doug Carlston,Applesoft,4,1,Contributing Editors
+Roger Wagner,Assembly Language,4,1,Contributing Editors
+William V. R. Smith,Basic Solutions,4,1,Contributing Editors
+Peter Olivieri,Business,4,1,Contributing Editors
+Tom Weishaar,DOS,4,1,Contributing Editors
+Joe Shelton,Financial Modeling,4,1,Contributing Editors
+Mark Pelczarski,Graphics,4,1,Contributing Editors
+Jeffrey Mazur,Hardware,4,1,Contributing Editors
+Kenneth Landis,Investing,4,1,Contributing Editors
+Jim Merritt,Pascal,4,1,Contributing Editors
+Greg Tibbetts,Apple CP/M,4,2,Contributing Editors
+Taylor Pohlman,Apple III,4,2,Contributing Editors
+Doug Carlston,Applesoft,4,2,Contributing Editors
+Roger Wagner,Assembly Language,4,2,Contributing Editors
+William V. R. Smith,Basic Solutions,4,2,Contributing Editors
+Peter Olivieri,Business,4,2,Contributing Editors
+Tom Weishaar,DOS,4,2,Contributing Editors
+Joe Shelton,Financial Modeling,4,2,Contributing Editors
+Bill Budge,Graphics,4,2,Contributing Editors
+Mark Pelczarski,Graphics,4,2,Contributing Editors
+Bill Parker,Hardware,4,2,Contributing Editors
+Jeffrey Mazur,Hardware,4,2,Contributing Editors
+Kenneth Landis,Investing,4,2,Contributing Editors
+Jim Merritt,Pascal,4,2,Contributing Editors
+Greg Tibbetts,Apple CP/M,4,3,Contributing Editors
+Taylor Pohlman,Apple III,4,3,Contributing Editors
+Doug Carlston,Applesoft,4,3,Contributing Editors
+Roger Wagner,Assembly Language,4,3,Contributing Editors
+William V.R. Smith,Basic Solutions,4,3,Contributing Editors
+Peter Olivieri,Business,4,3,Contributing Editors
+Tom Weishaar,DOS,4,3,Contributing Editors
+Joe Shelton,Financial Modeling,4,3,Contributing Editors
+Bill Budge,Graphics,4,3,Contributing Editors
+Mark Pelczarski,Graphics,4,3,Contributing Editors
+Bill Parker,Hardware,4,3,Contributing Editors
+Jeffrey Mazur,Hardware,4,3,Contributing Editors
+Kenneth Landis,Investing,4,3,Contributing Editors
+Jim Merritt,Pascal,4,3,Contributing Editors
+Greg Tibbetts,Apple CP/M,4,4,Contributing Editors
+Taylor Pohlman,Apple III,4,4,Contributing Editors
+Doug Carlston,Applesoft,4,4,Contributing Editors
+Roger Wagner,Assembly Language,4,4,Contributing Editors
+William V. R. Smith,Basic Solutions,4,4,Contributing Editors
+Peter Olivieri,Business,4,4,Contributing Editors
+Tom Weishaar,DOS,4,4,Contributing Editors
+Joe Shelton,Financial Modeling,4,4,Contributing Editors
+Bill Budge,Graphics,4,4,Contributing Editors
+Mark Pelczarski,Graphics,4,4,Contributing Editors
+Bill Parker,Hardware,4,4,Contributing Editors
+Jeffrey Mazur,Hardware,4,4,Contributing Editors
+Kenneth Landis,Investing,4,4,Contributing Editors
+Jim Merritt,Pascal,4,4,Contributing Editors
+Greg Tibbetts,Apple CP/M,4,5,Contributing Editors
+William V. R. Smith,Basic Tips,4,5,Contributing Editors
+Peter Olivieri,Business,4,5,Contributing Editors
+Tom Weishaar,DOS,4,5,Contributing Editors
+Bill Budge,Graphics,4,5,Contributing Editors
+Kenneth Landis,Investing,4,5,Contributing Editors
+Jim Merritt,Pascal,4,5,Contributing Editors
+Bill Parker,Printers,4,5,Contributing Editors
+Bob Clardy,Softalk SAGES,4,5,Contributing Editors
+Doug Carlston,Softalk SAGES,4,5,Contributing Editors
+Joe Shelton,Softalk SAGES,4,5,Contributing Editors
+John Jeppson,Softalk SAGES,4,5,Contributing Editors
+Mark Pelczarski,Softalk SAGES,4,5,Contributing Editors
+Roger Wagner,Softalk SAGES,4,5,Contributing Editors
+Roy Hicks,Softalk SAGES,4,5,Contributing Editors
+Greg Tibbetts,Apple CP/M,4,6,Contributing Editors
+Peter Olivieri,Business,4,6,Contributing Editors
+Tom Weishaar,DOS,4,6,Contributing Editors
+Bill Budge,Graphics,4,6,Contributing Editors
+Kenneth Landis,Investing,4,6,Contributing Editors
+Jim Merritt,Pascal,4,6,Contributing Editors
+Bill Parker,Printers,4,6,Contributing Editors
+Bob Clardy,Softalk SAGES,4,6,Contributing Editors
+Doug Carlston,Softalk SAGES,4,6,Contributing Editors
+Joe Shelton,Softalk SAGES,4,6,Contributing Editors
+John Jeppson,Softalk SAGES,4,6,Contributing Editors
+Mark Pelczarski,Softalk SAGES,4,6,Contributing Editors
+Roger Wagner,Softalk SAGES,4,6,Contributing Editors
+Roy Hicks,Softalk SAGES,4,6,Contributing Editors
+Greg Tibbetts,Apple CP/M,4,7,Contributing Editors
+Peter Olivieri,Business,4,7,Contributing Editors
+Tom Weishaar,DOS,4,7,Contributing Editors
+Bill Budge,Graphics,4,7,Contributing Editors
+Kenneth Landis,Investing,4,7,Contributing Editors
+Jim Merritt,Pascal,4,7,Contributing Editors
+Bill Parker,Printers,4,7,Contributing Editors
+Bob Clardy,Softalk Sages,4,7,Contributing Editors
+Doug Carlston,Softalk Sages,4,7,Contributing Editors
+Joe Shelton,Softalk Sages,4,7,Contributing Editors
+John Jeppson,Softalk Sages,4,7,Contributing Editors
+Mark Pelczarski,Softalk Sages,4,7,Contributing Editors
+Roger Wagner,Softalk Sages,4,7,Contributing Editors
+Roy Hicks,Softalk Sages,4,7,Contributing Editors
+Kevin Goldstein,32 Bits,4,8,Contributing Editors
+Greg Tibbetts,Apple CP/M,4,8,Contributing Editors
+Peter Olivieri,Business,4,8,Contributing Editors
+Tom Weishaar,DOS,4,8,Contributing Editors
+Bill Budge,Graphics,4,8,Contributing Editors
+Kenneth Landis,Investing,4,8,Contributing Editors
+Jim Merritt,Pascal,4,8,Contributing Editors
+Bill Parker,Printers,4,8,Contributing Editors
+Bob Clardy,Softalk Sages,4,8,Contributing Editors
+Doug Carlston,Softalk Sages,4,8,Contributing Editors
+Joe Shelton,Softalk Sages,4,8,Contributing Editors
+John Jeppson,Softalk Sages,4,8,Contributing Editors
+Mark Pelczarski,Softalk Sages,4,8,Contributing Editors
+Roger Wagner,Softalk Sages,4,8,Contributing Editors
+Roy Hicks,Softalk Sages,4,8,Contributing Editors
+Kevin Goldstein,32 Bits,4,9,Contributing Editors
+Greg Tibbetts,Apple CP/M,4,9,Contributing Editors
+Peter Olivieri,Business,4,9,Contributing Editors
+Tom Weishaar,DOS,4,9,Contributing Editors
+Bill Budge,Graphics,4,9,Contributing Editors
+Kenneth Landis,Investing,4,9,Contributing Editors
+Jim Merritt,Pascal,4,9,Contributing Editors
+Bill Parker,Printers,4,9,Contributing Editors
+Bob Clardy,Softalk Sages,4,9,Contributing Editors
+Doug Carlston,Softalk Sages,4,9,Contributing Editors
+Joe Shelton,Softalk Sages,4,9,Contributing Editors
+John Jeppson,Softalk Sages,4,9,Contributing Editors
+Mark Pelczarski,Softalk Sages,4,9,Contributing Editors
+Roger Wagner,Softalk Sages,4,9,Contributing Editors
+Roy Hicks,Softalk Sages,4,9,Contributing Editors

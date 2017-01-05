@@ -1,0 +1,77 @@
+﻿APRIL 1983
+SOFTALK
+2
+
+Chairman	John Haller
+Publisher	Al Tommervik
+Editor	Margot Comstock Tommervik
+Art Director	Kurt A. Wahlner
+Managing Editor	Patricia Ryall
+Associate Editors	Jean Varven David Hunter Andrew Christie
+Special Assignments	Jonathan Miller
+Open Discussion Editor	Tommy Gear
+News and Trade Editor	Matthew T. Yuen
+Reviews Editor	Roe Adams
+Assistant Editor	David Durkee
+Copy Editor	Cordell Cooper
+Proofreaders	Harry McNeil Betsy Barnes
+Contributing Editors	
+Assembly Language	Roger Wagner
+Pascal	Jim Merritt
+Business	Peter Olivieri
+Apple CP/M	Greg Tibbetts Taylor Pohlman Jeffrey Mazur
+Apple III	
+Hardware	
+Applesoft	Doug Carlston
+Investing	Kenneth Landis
+DOS	Tom Weishaar
+Graphics	Mark Pelczarski
+Financial Modeling	Joe Shelton
+Basic Solutions	William V. R. Smith
+Art Manager	Kevin McKeon
+Art Production	Don Robertson
+Art Assistants	Timothy Durr Lucas McClure Michael G. Pender
+Associate Publisher	Mary Sue Rennells
+Director of Operations	Three Tyler
+Accounting	Evelyn Burke
+Accounting Assistants	Mary Jo Milam Carla Swanson
+Assistant to the Publisher	Dan Yoder
+Dealer Sales	Judy Weinstein
+Book Sales	Lois Mencsik
+Advertising Coordinator	Linda McGuire
+West Coast Sales	Mike Antich Softalk 11160 McCormick Street Box 60 North Hollywood, CA 91603 (213) 980-5074
+East Coast Sales	Ian Ross Paul McGinnis Advertising Sales 898 Broadway Massapequa, NY 11758 (212) 490-1021
+Midwest and Rocky Mountain Sales	Ted Rickard John Sienkiewicz John Bollweg Kevin Sullivan Market/Media Associates 435 Locust Road Wilmette, IL 60091 (312) 251-2541
+Circulation	
+Trial Subscriptions	Hal Schick Deirdre Booth Laurie O’Connell Marsha Stewart Laurie Berger
+Paid Subscriptions	Pam Kelley Connie Mastelotto I. K. Frasca
+Back Issues	Ron Rennells
+List Maintenance	Pat Adams Harry Richardson
+Assistant	Cliff Martinez
+Systems	Sam Pawley
+Guest Reviewers	Dave Albert, Genevieve Cerf, Phillip Good, William H. Harrington, Christopher U. Light, Mark Marlow, Jock Root, Howard A. Shore, Ethan Winer
+
+Cover: Pat Carroll backstage during the Los Angeles run of Gertrude Stein Gertrude Stein Gertrude Stein. Photo by Kurt Wahlner.
+Credits: Composition by Photographies, Hollywood, California. Printing by Volkmuth Printers, Saint Cloud, Minnesota.
+
+Apple and Applesoft are registered trademarks of Apple Computer Inc., Cupertino, California. UCSD Pascal is a trademark of the University of California at San Diego. VisiCalc is a trademark of VisiCorp, San Jose, California. SoftCard is a trademark of Microsoft, Bellevue, Washington. Softalk is a trademark of Softalk Publishing Inc., North Hollywood, California.
+
+Softalk. Volume 3, Number 8. Copyright ®TVS3 by Softalk Publishing Inc. All rights reserved. ISSN:0274-9629. Softalk is published monthly by Softalk Publishing Inc., 11160 McCormick Street, North Hollywood, California; telephone (213) 980-5074. Second-class postage paid at North Hollywood, California, and additional mailing offices.
+Postmaster: Send address changes to Softalk, Box 60, North Hollywood, CA 91603.
+Free Subscription: Complimentary trial subscription to all owners of Apple computers in the USA. If you own an Apple, but you’ve never received Softalk, send your name, address, and Apple serial number with a request for subscription to Softalk Circulation, Box 60, North Hollywood, CA 91603. Softalk is totally independent of Apple Computer Inc.; sending your warranty card to Apple Computer will not inform Softalk of your existence.
+Paid Subscription: $24 per year without sponsor, $18 per year with sponsor. At the end of trial period, each subscriber will be notified; response is required only if you wish to continue receiving Softalk Lack of response will be taken as your choice to discontinue the magazine. Special rates for schools and libraries, $8; additional subscriptions for schools and libraries, $5 each.
+Back Issues: $2 through February 1981; $2.50 through July 1981; $3.50 through September 1982; $4.00 thereafter. November and December 1980, January, February, March, September, October, and November 1981, and December 1982 are sold out. December 1981 and February and May 1982 are in short supply.
+Problems; If you haven’t received your Softalk by the fifteenth of the month, or if you have other problems with your subscription, Hal Schick or Pam Kelley can help out. Call (213) 980-5074.
+Moving? Send new adadress ana old to Softalk Circulation, Box 60, North Hollywood, CA 91603; telephone (213) 980-5074.
+
+CONTEST: Forty Thousand Words
+
+Line up, troops! All you whiners who complained that our last few contests were just too
+hard, get down here in front and listen up. Limericks too tough for you, eh? Puns and anagrams too tricky? Well, this month we’re getting away from all the stuff that’s supposed to be good for the mind and stimulate the intellect.
+April’s contest is pure fun for fun’s sake. If you haven’t already taken a peek at the pictures on this page and on page 4, do so now and report back when you’re finished. What you see there is a whole mess of cute little drawings created and compiled by a bleary-eyed art department. They’re all a combination of rebuses (riddles in pictures), puns (the worse they are, the better they are), and charades (sounds like . . .).
+Your job, faithful ones, is to take a good square look at the pictures and figure out what the heck they’re trying to say. And whoever is in
+the back moaning, “It’s too hard; I can’t do rebuses; give us an easier one; my brain hurts,” sit down, clam up, and read on.
+The big clue to all this party-time action is that each picture represents an Apple-related company or product. For example, if we had a picture of some unlucky sap being chased by a squad of attacking sandwiches, potato chips, and popcorn, you’d know without a doubt that it’s Snack Attack.
+Or if we had a picture of a pen walking through a door marked “Entrance,” you’d immediately scream out, “Penguin Software!” After everyone told you to shut up and quit acting like a fool, you’d explain, “Pen go in; Penguin!”
+All you have to do is write down what the picture says and what it refers to. For those still confused, all you’d have to write for the first example would be, “It’s a person being attacked by snacks; Snack AttackJust writing
+]

@@ -1,0 +1,8 @@
+﻿POSITION	NAME
+Chairman	John Haller
+President	Margot Comstock Tommervik
+Vice-President	Al Tommervik
+Vice-President	William Depew
+Treasurer	William V. R. Smith
+Secretary	John Mitchell
+

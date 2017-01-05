@@ -1,0 +1,26 @@
+﻿POSITION	NAME
+Chairman	John Haller
+Publisher	Al Tommervik
+Editor	Margot Comstock Tommervik
+Managing Editor	Craig Stinson
+Art Director	Kurt A. Wahlner
+General Manager	Mary Sue Rennells
+Editorial Associate	Jean Varven
+Assistant Editor	Melissa Milich
+Copy Editors	Andrew Christie, Jerry Goldman
+Contributing Editors	
+	Assembly Language	Roger Wagner
+	Pascal	Jim Merritt
+	Business	Peter Olivieri
+	Apple CP/M	Greg Tibbetts
+	Apple III	Taylor Pohlman
+	Hardware	Jeffrey Mazur
+	Investing	Kenneth Landis
+	Basic Solutions	Wm. V. R. Smith
+Guest Reviewers	John Haller, Peter Stone
+Special Projects	Donna Siebert, Greg Voss
+Ad Coordinator	David Hunter
+Circulation	Ron Rennells, Robert Mann
+Art Assistant	Miriam Gamble
+Systems	Wm. V. R. Smith, Ken Williams
+Advertising Sales	Al Tommervik

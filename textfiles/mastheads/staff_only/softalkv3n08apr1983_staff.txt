@@ -1,0 +1,50 @@
+﻿POSITION	NAME
+Chairman	John Haller
+Publisher	Al Tommervik
+Editor	Margot Comstock Tommervik
+Art Director	Kurt A. Wahlner
+Managing Editor	Patricia Ryall
+Associate Editors	Jean Varven, David Hunter, Andrew Christie
+Special Assignments	Jonathan Miller
+Open Discussion Editor	Tommy Gear
+News and Trade Editor	Matthew T. Yuen
+Reviews Editor	Roe Adams
+Assistant Editor	David Durkee
+Copy Editor	Cordell Cooper
+Proofreaders	Harry McNeil, Betsy Barnes
+Contributing Editors	
+	Assembly Language	Roger Wagner
+	Pascal	Jim Merritt
+	Business	Peter Olivieri
+	Apple CP/M	Greg Tibbetts 
+	Apple III	Taylor Pohlman
+	Hardware	Jeffrey Mazur
+	Applesoft	Doug Carlston
+	Investing	Kenneth Landis
+	DOS	Tom Weishaar
+	Graphics	Mark Pelczarski
+	Financial Modeling	Joe Shelton
+	Basic Solutions	William V. R. Smith
+Art Manager	Kevin McKeon
+Art Production	Don Robertson
+Art Assistants	Timothy Durr, Lucas McClure, Michael G. Pender
+Associate Publisher	Mary Sue Rennells
+Director of Operations	Three Tyler
+Accounting	Evelyn Burke
+Accounting Assistants	Mary Jo Milam, Carla Swanson
+Assistant to the Publisher	Dan Yoder
+Dealer Sales	Judy Weinstein
+Book Sales	Lois Mencsik
+Advertising	
+	Advertising Coordinator	Linda McGuire
+	West Coast Sales	Mike Antich
+	East Coast Sales	Ian Ross, Paul McGinnis, [Advertising Sales]
+	Midwest and Rocky Mountain Sales	Ted Rickard, John Sienkiewicz, John Bollweg, Kevin Sullivan, [Market/Media Associates]
+Circulation	
+	Trial Subscriptions	Hal Schick, Deirdre Booth, Laurie O'Connell, Marsha Stewart, Laurie Berger
+	Paid Subscriptions	Pam Kelley, Connie Mastelotto, I. K. Frasca
+	Back Issues	Ron Rennells
+	List Maintenance	Pat Adams, Harry Richardson
+Assistant	Cliff Martinez
+Systems	Sam Pawley
+Guest Reviewers	Dave Albert, Genevieve Cerf, Phillip Good, William H. Harrington, Christopher U. Light, Mark Marlow, Jock Root, Howard A. Shore, Ethan Winer

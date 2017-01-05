@@ -1,0 +1,128 @@
+﻿JULY 1981
+S O F T A L K
+
+Chairman	John Haller
+Editor	Margot Comstock Tommervik
+Managing Editor	Al Tommervik
+Associate Editor	Craig Stinson
+Art Director	Kurt A. Wahlner
+Contributing Editors	Roger Wagner Jim Merritt Peter Olivieri Jeffrey Mazur William Depew
+Editorial Assistant	Linda Va Salle
+Operations Manager	Mary Sue Rennells
+Administrative Assistant	Kimberly Curling
+Circulation	David Hunter Ron Rennells
+Systems	William V. R. Smith
+Advertising Sales (213) 980-5074	Al Tommervik Margot Tommervik
+
+Cover design by Kurt Wahlner; photo of Wade and Mark Harris by Jim Salmons.
+
+Composition by Photographics, Hollywood, California. Printing by California Offset Printers, Glendale, California.
+
+Apple is a registered trademark of Apple Computer Inc., Cupertino, California.
+
+UCSD Pascal is a trademark of the University of California at San Diego.
+
+VisiCalc is a trademark of Personal Software, Sunnyvale, California.
+
+Softalk. Volume 1, Number 11. Copyright (c) 1981 by Softalk Publishing Inc. All rights reserved. ISSN:0274-9629. Softalk is published monthly by Softalk Publishing Inc., 11021 Magnolia Boulevard, North Hollywood, CA 91601. Telephone, (213) 980-5074. Controlled circulation postage paid at Los Angeles, CA. Postmaster: Send address changes to Softalk, 11021 Magnolia Boulevard, North Hollywood, CA 91601.
+
+SUBSCRIPTIONS: Complimentary to all owners of Apple computers in the USA. Multiple or non-Apple-owner subscriptions for one year: one, $10; two through five, $8 each; more than five, $6 each.
+BACK ISSUES: $2 through February 1981; $2.50 thereafter. November and December 1980 Issues are sold out. January and March 1981 issues are in short supply.
+MOVING? Send new address and old to Softalk Circulation, 11021 Magnolia Boulevard, North Hollywood, California 91601; telephone, (213) 980-5099.
+
+ADVERTISERS INDEX
+
+Apple......................................65
+Aurora ................................... 47
+Beagle Bros...............................38
+Bite-Soft..................................21
+The Book 1981 .............................64
+Brillig Systems............................58
+Broderbund Software........................9
+BudgeCo...................................66
+California Pacific.....................Cover	2
+C-E Software...............................43
+Computer Station..........................23,	25
+Continental Software .......................8
+Data Transforms....................        22
+Edu-Ware ..............................36,	37
+FMJ.......................................55
+FSI.......................................31
+High Technology...........................27
+Howard Software...........................59
+Human Systems Dynamics ...................30
+IDSI.......................................19
+Interactive Microware....................18,	61
+LJK Enterprises.............................7
+Math City ................................15
+MicroCom...................................13
+Micro Co-op ...............................49
+Micro Lab..................................45
+Micromate.................................52
+Microsoft.................................34
+Moneydisk................................16,	40
+MUSE Software .....................10, 32, 46
+Mytopia Gameware Institute ............11,	48
+On-Line Systems.........................Cover	4
+Orange Micro..............................41
+Osborne/McGraw-Hill .......................57
+Pegasys ...................................20
+Phase Zero.................................42
+Powersoft .................................2
+Rainbow Computing.........................24
+RH Electronics.............................17
+Sentient Software...........................6
+Sirius Software...........................3,	33
+Softape...................................50
+Softsel...................................67
+Software Publishing Corp..................63
+Software Technology for Computers..........29
+Southwestern Data Systems .............28,	62
+Spectrum Software ........................39
+Stellation Two.............................12
+Stoneware................................54,	68
+Strategic Simulations..................Cover	3
+Synergistic Software.....................14,	53
+Telephone Software Connection..............56
+Thunderware...............................60
+
+CONTENTS
+
+Exec Strategic Simulations
+Apples are natural referees for war gomes, and the people who recognized it profit by it.
+AL TOMMERVIK..................................4
+
+The Mad Shirter's Computer T Party
+An irreverent look at the history of T-shirts and their evolution into computerdom.
+DAVID HUNTER.....................................26
+
+What Are Those People Doing with an Apple on the Roof?
+A Softalk Interview takes off (from—what's that magazine?) with an Apple-loving, chimney-sweeping family in Maryland.
+JIM SALMONS...................................35
+
+DEPARTMENTS
+
+Place the Face: Contest...........................2
+Lotsa Contest Winners.............................2
+Open Discussion...................................9
+Tradetalk.......................................11
+Basic Solutions:
+William V. R. Smith...........................12
+Ventures with VisiCalc:
+VisiFamily Reviews............................14
+Mind Your Business:
+Peter Olivieri ...............................16
+Assembly Lines:
+Roger Wagner...............................22
+Marketalk: News...............................30
+Marketalk: Reviews ...........................44
+The Pascal Path:
+Jim Merritt................................51
+Beginners' Corner:
+Craig Stinson..............................58
+Softalk Presents
+the Bestsellers............................67
+
+PREVIEWS
+
+Announcing August . . . Robots! . . . Home Ec at Louisiana Tech: Apple Required. . . . Exec Southwestern Data Systems . . . Computer Fever at Folsom Prison . . . SoftCard column debuts: Introducing the CP/M Apple and more . . .

@@ -1,0 +1,79 @@
+﻿December 1983
+SOFTALK
+
+Exec Hayden Software: From Sargon to Sixteen Bits
+Company profile. One man's Camelot is another man's software business. Hayden's got a slice of the Apple pie.
+NORMAN MAYERSOHN ... .60
+
+Welcome to Art Linkletter’s Apple Party!
+Kids are starting to type the darndest things on Apple keyboards. Art Linkletter brings his magic to computers.
+DAVID HUNTER .................92
+
+Hardtalk: Boxing the Bugaboos
+Program control printing with the Epson from Applesoft, Pascal, and 6502 assembly language.
+BILL PARKER .................132
+
+Stocking Stuffers
+The Fourth Annual Softalk Holiday Gift Guide. Compiled by Three Tyler and minions.
+Games.......................194
+Business....................216
+Communications..............242
+Education ..................248
+Graphics....................272
+Home/Hobby..................277
+Utilities..................284
+Word Processing.............295
+Apple III...................298
+Books ......................300
+Accessories.................306
+Hardware....................313
+Index of Companies .........322
+BY THE COMPANIES................194
+
+DEPARTMENTS
+
+Advertisers' Index......................Opposite Page
+Basic Solution, by Wm. V.R. Smith
+Two subroutines called BasicGraph	111
+Beginners' Corner, by Matt Yuen
+Sparring with DOS commands ..................... 139
+Bestsellers..........................................409
+Buttonwood Apples, by Ken Landis
+Barron's Market Laboratory, Market Manager ......149
+Calcs and Then Sum, by Joe Shelton Ventures with VisiCalc goes generic:
+Scratching the surface of Multiplan..............389
+Contest: Oracle '84
+Win a new Apple computer and fame..................4
+Contest Winners
+Oracle '83, part six, September's Reincarnation.....6
+DOStalk, by Tom Weishaar
+Uncle DOS and his exec files—DELETE EGGNOG	123
+Everyone's Guide to Assembly Language, by Jock Root
+Game paddles and fast loops.......................185
+Fastalk
+A quick guide to new and classic releases.........13
+Follow the Floating Point, by David Durkee
+For-next loops and their friends,	Renumber.......329
+The Graphics Page, by Bill Budge
+Facts of the Apple's hi-res screen...............107
+If Then Maybe, by the Softalk Sages
+Experts answer readers' questions, maybe.........52
+Keys to the World, by Matt Yuen
+Telecommunications: terminal programs.............99
+Marketalk News
+Woz on-line, new products and services...........170
+Marketalk Reviews....................................338
+Mind Your Business, by Peter Olivieri
+Minding your data—ways to store it...............67
+Open Discussion
+Letters: Scrooges write Tiny Tims.................38
+The Pascal Path, by Jim Merritt
+Flow to handle your WHIZUNIT.	87
+Schoolhouse Apple, by Jock Root Learning, teaching, and video games,
+and a Logo tutorial by Donna Bearden..............75
+llnd Grade Chats, by J.W. Brennan
+Scrolling for fun and profit ....................156
+SoftCard Symposium, by Greg Tibbetts
+All about BDOS system calls......................377
+Tradetalk
+Industry news....................................165

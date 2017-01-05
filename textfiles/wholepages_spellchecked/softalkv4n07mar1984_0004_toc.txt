@@ -1,0 +1,74 @@
+﻿MARCH 1984
+SOFTALK
+
+Exec Sensible Software:
+Uncommonly Good Company
+Company profile: Alan Emery,
+Roger Tuttleman, and Chuck Hartley have built a successful company in the land of T-Birds and Mustangs.
+DAVE ALBERT .................56
+
+Just Think: The Unification of
+Mankind through the Unification of Physics
+Orest Bedrij has used mathematics to prove that “all is one.’’ The implications are astounding. Are we on the brink of an exciting phase in our human adventure?
+DAVID HUNTER..................88
+
+Gotta Dance! Terpsichorean Apple Takes Center Stage
+Dance is an art form that has never had an easy method of notation.
+Some of the greatest choreography has been lost forever. Now, Eddie Dombrower and his Apples are saving it.
+MICHAEL FERRIS...............130
+
+Apple Tree Ancestors
+Kathryn Rinehart Bassett uses an Apple, commercially available programs, and old family records to chart the course of ancestry.
+ANDREW CHRISTIE.............154
+
+Backtalk: Modem Futures Through a Hayes; A Modern Renaissance Man
+Hayes's Micromodem set the standard and the company is still going strong. Are the best artists forsaking their usual media for the computer field? Steve Beck has.
+TOMMY GEAR .............158
+
+The Apple II Mouse That Roars Up Mountains
+Ever hear of the little engine that could? With a mouse and Bill Budge's MousePaint, the II does stuff thought possible only with thirty-two bits and eight times the
+speed
+DAVID DURKEE ..................168
+
+DEPARTMENTS
+
+Advertisers' Index ......................Opposite Page
+Beginner’s Corner, by Matt Yuen
+Peripherals: printers, modems, hard disks........191
+Bestsellers...........................................233
+Buttonwood Apples, by Ken Landis
+Dow Theory explained; Trader's Data Manager......174
+Contest: Create a Software Package
+Make fictional products look professional........6
+Contest Winners
+Oracle 84 progress report: MacContest MacWinner .10 DOStalk, by Tom Weishaar
+DOS's VTOC: determining free disk space...........161
+Everyone's Guide to Assembly Language, by Jock Root
+Introduction to the System Monitor........... ... 112
+Fastalk
+A quick guide to new and classic releases .......15
+Follow the Floating Point, by David Durkee
+Fun with single-character commands and VAL.......185
+The Graphics Page, by Bill Budge
+Pretzel Logic: HLine, swatches, SetPattern.........63
+If Then Maybe, by the Softalk Sages
+Experts help readers cope..........................44
+Keys to the World, by Matt Yuen
+Teletellers and money: banking by modem............83
+Marketalk News
+Announcing new products and services..............121
+Marketalk Reviews....................................139
+Mind Your Business, by Peter Olivieri
+Business graphics, B.U.G.s, new Apple stuff.......117
+Open Discussion
+Words, ideas, advisements, warnings................35
+The Pascal Path, by Jim Merritt
+Pascal compiler's data-packing strategy............69
+Schoolhouse Apple, by Jock Root
+Apple's SchoolBus networking system: a Logo tutorial
+by Donna Bearden .....................................97
+SoftCard Symposium, by Greg Tibbetts
+BDOS and disk file structure......................178
+Straightalk ...........................................4
+Tradetalk
+Industry news: Franklin aced out: comic software .... 110

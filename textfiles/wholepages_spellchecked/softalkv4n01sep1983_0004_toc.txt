@@ -1,0 +1,108 @@
+﻿SEPTEMBER 1983
+SOFTALK
+2
+
+Chairman	John Haller
+Publisher	Al Tommervik
+Editor	Margot Comstock Tommervik
+Art Director	Kurt A Wahlner
+Managing Editor	Patricia Ryall
+Assistant Managing Editor	Jean Varven
+Associate Editor	David Hunter
+Special Assignments	Andrew Christie
+Open Discussion Editor	Tommy Gear
+News Editor	Matthew T Yuen
+Programs Editor	David Durkee
+Education Editor	Jock Root
+Reviews Editor	Roe Adams
+Assistant Editor	Catherine Petersen
+Copy Editor	Cordell Cooper
+Editorial Coordinator	Betsy Barnes
+Proofreaders	Harry McNeil Judith Pfeffer
+Contributing Editors	
+Assembly Language	Roger Wagner
+Pascal	Jim Merritt
+Business	Peter Olivieri
+Apple C P M	Greg Tibbetts
+Apple III	Taylor Pohlman
+Hardware	Jeffrey Mazur
+Applesoft	Doug Carlston
+Investing	Kenneth Landis
+DOS	Tom Weishaar
+Graphics	Mark Pelczarski
+Financial Modeling	Joe Shelton
+Basic Solutions	William V. R Smith
+Art	
+Production Manager	Don Robertson
+Assistants	Nancy Baldwin Timothy Durr Weldon O. Lewin Lucas McClure Michael G Pender Glenn Thorne Dan Winkler
+Business	
+Associate Publisher	Mary Sue Rennells
+Director of Operations	Three Tyler
+Accounting	Evelyn Burke
+Accounting Assistants	Mary Jo Milam Carla Swanson Lois Mencsik
+Dealer Sales	Judy Weinstein Dan Yoder
+Advertising	
+Coordinator	Linda McGuire Carter
+Assistant	Cathy Stewart
+Advertising Services	Julie Fletcher
+West Coast Sales	Mike Antich Softalk 11160 McCormick Street Box 60 North Hollywood, CA 91603 (213) 980-5074
+East Coast Sales	Ian Ross Paul McGinnis Advertising Sales 690 Broadway Massapequa, NY 11758 (212) 490-1021
+Midwest and Rocky Mountain Sales	Ted Rickard John Sienkiewicz John Bollweg Kevin Sullivan Market/Media Associates 435 Locust Road Wilmette, IL 60091 (312) 251-2541
+Circulation	
+Trial Subscriptions	Hal Schick Deirdre Booth Laurie O'Connell Marsha Stewart Cliff Martinez Pam Kelley Donna Siebert
+Paid Subscriptions	Tamera Moore
+Back Issues	Michael Jones
+Systems	Pat Adams
+Guest Reviewers	Dave Albert, Alexander E. D. Carlton, David Chandler, William H. Harrington, Melissa Milich, Howard A. Shore, Ethan Winer
+
+Cover: Lisa whizzes through one of the metropolitan business centers she's taking by storm Design by Kurt Wahlner; photo by Bill Fitzgerald.
+Credits: Composition by Photographics, Hollywood, California, Printing by Volkmuth Printers, Saint Cloud, Minnesota.
+
+Apple and Applesoft are registered trademarks of Apple Computer Inc., Cupertino. California. UCSD Pascal is a trademark of the University of California at San Diego. VisiCalc is a trademark of VisiCorp. San Jose. California. SoftCard is a trademark of Microsoft. Bellevue, Washington. Softalk is a trademark of Softalk Publishing Inc., North Hollywood, California.
+
+Softalk. Volume 4, Number 1. Copyright (c) 1983 by Softalk Publishing Inc. All rights reserved. ISSN:0274-9629 Softalk is published monthly by Softalk Publishing Inc., 11160 McCormick Street, North Hollywood, California; telephone (213) 980-5074. Second-class postage paid at North Hollywood, California, and additional mailing offices.
+Postmaster: Send address changes to Softalk, Box 60, North Hollywood, CA 91603.
+Free Subscriptions: Complimentary trial subscription to all owners of Apple computers in the USA. If you own an Apple but you’ve never received Softalk, send your name, address, and Apple serial number with a request for subscription to Softalk Circulation, Box 60, North Hollywood, CA 91603. Please allow six to eight weeks for processing. Softalk is totally independent of Apple Computer Inc.; sending your warranty card to Apple Computer will not inform Softalk of your existence.
+Paid Subscriptions: S24 per year At the end of trial period, each subscriber will be notified; response is required only if you wish to continue receiving Softalk. Lack of response will be taken as your choice to discontinue the magazine. Special rates for schools and libraries, $I2; concurrent additional subscriptions for schools and libraries, S8 each Please allow six to eight weeks for processing.
+Back Issues: $2 through February 1981; $2.50 through July 1981; $3.50 through September 1982; $4.00 thereafter. November and December 1980, January, February, March, September, October, and November 1981, and December 1982 are sold out. December 1981, February and May 1982, and February 1983 are in short supply.
+Problems? If you haven't received your Softalk by the fifteenth of the month, or if you have other problems with your subscription, Hal Schick can help out. Call (213) 980-5074
+Moving? Send new address and a label from a recent Softalk to Softalk Circulation, Box 60, North Hollywood, CA 91603; telephone (213) 980-5074. Please allow six to eight weeks for processing.
+
+CONTEST:
+“I WAS A TEENAGE APPLE”
+
+There once was a computer company in Cupertino, California, that had lots of Apples lying around in its offices. There were all kinds— IIs, IIIs, Lisas, yet-unnamed computers, and an old Apple I used as a dart board with Peter McWilliams’s picture on it.
+One day, when Steve Jobs was shaving his pet gerbil ("If you shave a gerbil, will it get a tan?” was Jobs’s Zen question of the month), Jobs’s electric razor caused a power overload, which resulted in some of the fuse boxes catching fire and burning up several offices. (Sure, it’s improbable, but this is just a contest.)
+Well, one of the rooms that burned down was the Apple Computer Relics room where lived an Apple II, a II Plus, a IIe, a III, and a Lisa. All five computers were totally destroyed: crispy critters.
+During their lives, each computer wrote programs in either assembly language, Cobol, Basic, Fortran, or Pascal. No computer could write in more than one language, but they all could run programs written in any language.
+Each was used for only one function: database management, adventure games, arcade games, fantasy games, or word processing. None of the Apples was used for more than one application. In other words, the Apple that played adventure games did nothing else but play Zork, Wizard and the Princess, Mask of the Sun, and so on.
+Through some strange turn of events, each one of the computers was reincarnated and became either a doctor, disc jockey, samurai warrior, lawyer, or stand-up comic, and was either single, engaged, happily married, happily divorced, or twice divorced.
+One spring weekend, they all happened to meet by chance at the Legal Aspects of One-Liner Radio Personalities Impersonating Ear-Nose-and-Throat Japanese Soldiers Convention at the Motel Six in Cheeseburg, Ohio.
+They really hadn’t changed that much, even though they were now human and no longer computers. Naturally, they immediately recognized each other and hit it off great. Unfortunately, they couldn’t remember completely which computers they were, or what their lives were like. But they did know the following:
+1.	The Lisa played a lot of Wizardry, Ultima //, and dungeon games.
+2.	The one that used to program in Cobol was divorced.
+3.	The one that had been a II Plus would have to leave the convention early because he had a hot date with his financee back home.
+4.	One of them bored the rest of the group about how he spent weeks trying to get SOS commands to execute from assembly language.
+5.	The IIe spoke Cobol.
+6.	The former II's second wife divorced him because he wallpapered the bedroom with disks full of saved games in progress, all of which he
+was in the process of solving.
+7.	The single man didn’t speak a high-level language.
+8.	The one who used to write in Pascal did a lot of word processing.
+9.	The samurai warrior was a more sophisticated model Apple, and the lawyer an earlier model, than the stand-up comic.
+10.	In his previous life, the disc jockey tried to combine his interests by writing Ultima XII with all goto and print statements, and a whole bunch of for-next loops.
+11.	The doctor fell asleep listening to another guest reminiscing about taking inventory, collecting axes, and parsing f-words.
+12.	The stand-up comic’s jokes mostly ended with punch lines such as “How many fields to sort?” and “By last name?”
+These poor bozos couldn’t figure out who was who, but we bet you can. In fact, we’ll give away $100 worth of Softalk advertisers’ products to the one who can correctly match all five humans with the computers they used to be, the language each spoke, the applications each was used for, and their current marital status.
+All you have to do is write down the occupation, marital status, model of Apple that person used to be, computer language, and its application, and send it in with a facsimile of the coupon below. That’s it!
+In case of a tie, a winner will be dragged screaming from within the ruthless random number generator.
+Mail in your entry with the following information, postmarked by October 10, 1983, to Softalk Reincarnation, Box 60, North Hollywood, CA 91603. Go!
+Name:____________________
+Address:_________________
+City, state, zip:________
+Phone number_____________
+My computer dealer:______
+Here’s what I wanna win: Signature:_______________
+CONTEST WINNERS
+What a mess. The June Final Exam contest sent readers scrambling to libraries, writing letters to Apple, and looking up Wozniak’s phone number in the directory. Needless to say, it probably disrupted a lot of innocent people’s lives. The carnage of contests, oh, the carnage.
+It really wasn’t that hard. As we said in the rules, all information was at one time or another publicly available if you knew where to look.
+He Looked, He Wrote, He Entered, He Won. Brian Fleming (Los Altos, CA) knew where to look. Fleming's research skills helped him answer all but two questions correctly, which won him all of $100 in prizes. He says

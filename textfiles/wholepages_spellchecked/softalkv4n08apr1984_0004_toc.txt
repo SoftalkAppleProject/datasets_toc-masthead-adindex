@@ -1,0 +1,72 @@
+﻿APRIL 1984
+
+Debut: Softly Comment
+Softalk takes the stand: opinion and commentary. VisiCorp versus Software Arts, Macintosh versus the media, fleecing WordStar users, the trouble with McWilliams, Exec Slipshod................... 28
+Exec Quality Software: At Home in Apple Manor
+Company profile: Two guys named Bob and a guy named Don like what they're doing. Big business never had it so good.
+DAVID HUNTER................ 4
+
+The Most Popular Software of 1983 and All-Time
+Here it is. The results of Softalk's
+Fourth Annual Most Popular
+Software Poll. Readers unload their
+choices for the top runners in the
+world of Apple software........... 72
+
+Born To Compute: Apples Monitor Perinatal Babes
+Sinai Hospital in Detroit has adopted Dr. Edward Lichten's Apple II Plus fetal monitoring system.
+MICHAEL FERRIS..............112
+
+Picking Up the Tab
+Hints and tips on tabbing with an Apple lIe and an Epson FX-100.
+Also, the difference between emphasized and double-strike modes.
+BILL PARKER...................136
+
+Storytalk: Sherlock Holmes and the Analytical Engine
+Holmes and his brother Mycroft need something to help crack German codes. The solution? An elementary computer.
+BRUNO B. WOLFF, JR...........155
+
+Micros Burn Rubber, or, Hot Rod Apples in Hell
+The National Hot Rod Association needed computers to speed up the business. Now, before races, they yell, “Start your Apples!"
+TODD ZILBERT.................168
+
+DEPARTMENTS
+
+Advertisers’ Index......................Opposite Page
+Beginners’ Corner, by Matt Yuen
+RAM cards, clocks, and CP/M.....................179
+Bestsellers..........................................217
+Buttonwood Apples, by Ken Landis
+Reviewing Trader’s Forecaster and Accountant ..... 59
+Contest: GHOXT WXBEH GFLHA
+You figure it out................................. 4
+Contest Winners
+Oracle's first winner; washed-up adventurer........ 7
+DOStalk, by Tom Weishaar
+Converting silicon into intelligence............. 51
+Everyone's Guide to Assembly Language, by Jock Root
+How to output a message to the screen........... 87
+Fastalk
+A quick guide to new and classic releases.......201
+Follow the Floating Point, by David Durkee
+Introduction to lo-res graphics...................145
+The Graphics Page, by Bill Budge
+Hi-res clipping and windowing......... . ... 80
+If Then Maybe, by the Softalk Sages
+Big shots help little shots...................... 67
+Keys to the World, by Matt Yuen
+Teleconferences: Nighthawks at the keyboard..... 97
+Debut: Mac ’n’ Lisa, by Kevin Goldstein
+New from the Apple thirty-two-bit front..........143
+Marketalk News
+Announcing new products and services.............103
+Marketalk Reviews.....................................121
+Mind Your Business, by Peter Olivieri
+Telecommunications, new products, Mac stuff..... 93
+Open Discussion
+Wringing responses, righting wrongs, rapping ..... 11
+Schoolhouse Apple, by Carol Ray A look at PEAL, Keytalk, and TSTP
+and a Logo tutorial by Donna Bearden.............163
+Tradetalk
+Industry news: Softcon; Software Consortium...... 69
+The Pascal Path and SoftCard Symposium will return next month.

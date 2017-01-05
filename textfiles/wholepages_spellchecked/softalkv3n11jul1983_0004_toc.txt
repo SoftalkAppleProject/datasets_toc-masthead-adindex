@@ -1,0 +1,94 @@
+﻿JULY 1983
+SOFTALK
+2
+
+Chairman	John Haller
+Publisher	Al Tommervik
+Editor	Margot Comstock Tommervik
+Art Director	Kurt A. Wahlner
+Managing Editor	Patricia Ryall
+Assistant Managing Editor	Jean Varven
+Associate Editor	David Hunter
+Special Assignments	Andrew Christie
+Open Discussion Editor	Tommy Gear
+News Editor	Matthew T. Yuen
+Programs Editor	David Durkee
+Education Editor	Jock Root
+Reviews Editor	Roe Adams
+Assistant Editor	Catherine Petersen
+Copy Editor	Cordell Cooper
+Editorial Coordinator	Betsy Barnes
+Proofreaders	Harry McNeil Judith Pfeffer
+Contributing Editors	
+Assembly Language	Roger Wagner
+Pascal	Jim Merritt
+Business	Peter Olivieri
+Apple CP/M	Greg Tibbetts
+Apple III	Taylor Pohlman
+Hardware	Jeffrey Mazur
+Applesoft	Doug Carlston
+Investing	Kenneth Landis
+DOS	Tom Weishaar
+Graphics	Mark Pelczarski
+Financial Modeling	Joe Shelton
+Basic Solutions	William V. R. Smith
+Art	
+Production Manager	Don Robertson
+Assistants	Timothy Durr Lucas McClure Michael G. Pender
+Business	
+Associate Publisher	Mary Sue Rennells
+Director of Operations	Three Tyler
+Accounting	Evelyn Burke
+Accounting Assistants	Mary Jo Milam Carla Swanson Lois Mencsik
+Dealer Sales	Judy Weinstein Dan Yoder
+Book Sales	Meredith Tabor
+Advertising	
+Coordinator	Linda McGuire
+Assistant	Cathy Stewart
+West Coast Sales	Mike Antich Softalk 11160 McCormick Street Box 60 North Hollywood, CA 91603 (213) 980-5074
+East Coast Sales	Ian Ross Paul McGinnis Advertising Sales 898 Broadway Massapequa, NY 11758 (212) 490-1021
+Midwest and Rocky Mountain Sales	Ted Rickard John Sienkiewicz John Bollweg Kevin Sullivan Market/Media Associates 435 Locust Road Wilmette, IL 60091 (312) 251-2541
+Circulation	
+Trial Subscriptions	Hal Schick Deirdre Booth Laurie O'Connell Marsha Stewart
+Paid Subscriptions	Pam Kelley
+Back Issues	Michael Jones
+List Maintenance	Pat Adams Tamera Moore
+Assistant	Cliff Martinez
+Systems	Sam Pawley
+Guest Reviewers	Howard A. Shore, William H. Harrington, Randall Roberts
+
+Cover: Design and photo by Kurt Wahlner.
+Credits: Composition by Photographics, Hollywood, California. Printing by Volkmuth Printers, Saint Cloud, Minnesota.
+
+Apple and Applesoft are registered trademarks of Apple Computer Inc., Cupertino, California. UCSD Pascal is a trademark of the University of California at San Diego. VisiCalc is a trademark of VisiCorp, San Jose, California. SoftCard is a trademark of Microsoft, Bellevue, Washington. Softalk is a trademark of Softalk Publishing Inc., North Hollywood, California.
+
+Softalk, Volume 3, Number 11. Copyright (c) 1983 by Softalk Publishing Inc All rights reserved. ISSN:0274-9629. Softalk is published monthly by Softalk Publishing Inc., 11160 McCormick Street, North Hollywood, California; telephone (213) 980-5074. Second-class postage paid at North Hollywood, California, and additional mailing offices.
+Postmaster: Send address changes to Softalk, Box 60, North Hollywood, CA 91603.
+Free Subscriptions: Complimentary trial subscription to all owners of Apple computers in the USA. It you own an Apple but you’ve never received Softalk, send your name, address, and Apple serial number with a request for subscription to Softalk Circulation, Box 60, North Hollywood, CA 91603. Softalk is totally independent of Apple Computer Inc., sending your warranty card to Apple Computer will not inform Softalk of your existence.
+Paid Subscription: $24 per year without sponsor, $18 per year with sponsor At the end of trial period, each subscriber will be notified, response is required only if you wish to continue receiving Softalk Lack of response will be taken as your choice to discontinue the magazine Special rates for schools and libraries, $12; additional subscriptions for schools and libraries, $8 each.
+Back Issues: $2 through February 1981; $2.50 through July 1981; $3.50 through September 1982; $4.00 thereafter. November and December 1980, January, February, March, September, October, and November 1981, and December 1982 are sold out. December 1981, February and May 1982, and February 1983 are in short supply.
+Problems? If you haven’t received your Softalk by the fifteenth of the month, or if you have other problems with your subscription, Hal Schick or Pam Kelley can help out. Call (213) 980-5074.
+Moving? Send new address and old to Softalk Circulation, Box 60, North Hollywood, CA 91603; telephone (213) 980-5074.
+
+CONTEST:
+Design-A-Game Construction Set
+
+You read a game review that says the game is not bad. You go to the store, buy the game, and bring it home to play. The review was right; the game isn’t bad. It’s horrible. Sound familiar? If you’re like most people, it should.
+The truth is, the game isn’t all that bad—we just have high expectations. And no wonder! After spending all those hours, quarters, and tokens in the local arcades, we’ve grown accustomed to the smooth graphics, realistic sound effects, and sweaty palms those game machines give us. Let’s face it. A big reason we have Apples at home (or in the office) is to be able to recreate similar effects without having to dig out the quarters. Anybody who denies this is either a potential buyer of another computer or a liar.
+So where does that leave us? In the dark? In the rain? Incognito? No way! We have a problem, and there’s nothing to be gained by closing our eyes and ignoring it. The masses (that’s us) will no longer sit and be spoon-fed the mediocrity that game writers settle for just because they want to quit programming early and watch Gilligan's Island reruns.
+After all, programming games is the occupation they chose, and it’s up to them to do it right or not do it at all. And don’t settle for any of that “But the Apple has its limits as a game machine’’ nonsense. We once heard of a guy who wrote a game for the Apple that, when the game ended, would shoot itself through the ceiling and skywrite “Surrender, Dorothy!” all the while playing the theme from Superman III in Dolby stereo.
+So if the Apple is capable of all sorts of incredible things, then that must mean that today’s game programmers simply lack imagination. The ball’s in our court, contest fans. This contest, if it’s done properly, will revolutionize computer gaming. If nothing else, it will cause the world to sit up and take notice of what this eight-bit, 6502-based baby can do. Rumor has it that Secretary of State George Shultz has already expressed an interest in the Apple as a weapon (for defensive purposes only, of course).
+Here’s how the contest works. Send us a written description of the ultimate computer game. That’s it.
+As usual with these kinds of contests, there are no rules; everything is legal. What we want you to describe to us is how the game looks, what the object is, what hardware (real or imaginary) is required, special effects, and anything else you can think of that makes up the ultimate game. Oh, yeah. Don’t forget to give your
+game a title. And be imaginative. Names like Alien Blaster, The Shooting Game, Outer Space Experience, and other dull names will be sneered at and stepped upon.
+In this contest, there won’t be any moaning about the machine’s limits; the only limits are in your imagination. If you’re having a rough time getting started, check out the example that follows. That’s what we mean by imaginative. Your entry, of course, will be much better.
+The only real limit in this contest is the length of your entry. Entries should be no more than one page long. If you type, your entry must be double-spaced. That means an empty line between lines. Hence the name. We’re serious. If you handwrite your entry, please write neatly. If we can’t read your writing, we can’t play your game.
+Send in your entry with your name, address, phone number, and vital statistics, postmarked by August 15, 1983.
+The best entries, including those that don’t win, will be forwarded to computer game publishers around the country to let them know what kinds of games they should be coming out with. Let your voice be heard!
+The best entry overall will receive $100 in shiny new merchandise made by our advertisers and will be featured in a special Contest Winners section in our gala Third Anniversary and one month (October) issue. Is that incentive or what?
+Now get to work, and more important, have a heck of a good time!
+--------------- EXAMPLE --------------------
+Rocket Robin Hood. This game is the latest arcade offering from Brodersirimost On-Line Software. In this game, you control Socialist Sam, intergalactic redistributor of wealth.
+On the screen you see Capitalist Carl and his troops, on their way to this year’s debutante ball. Carl and his group are in charge of the ball’s budget, so they’re the ones you want to rob. Jump his troops when they fly by, and then the real fun begins.
+The first round of battle is hand-to-hand fighting between you, your forces (which you control through telepathic impulses to the 6502), and Carl’s field fighters.
+Hand-to-Hand Combat Grips, by Holy Cow Hardware, are plugged into one of fifteen game ports. The Grips attach to the palms of your hands, measuring the force exerted by your fingers. If you happen to grasp hands with

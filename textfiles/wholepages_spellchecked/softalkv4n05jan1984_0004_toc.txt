@@ -1,0 +1,78 @@
+﻿January 1984
+SOFTALK
+
+Exec Learning Company: Booting Up Kids’ Minds
+Company profile: The best aspects of the hot field of educational software are characterized by this enterprising firm and its brilliant founder.
+CHRISTOPHER CERF............60
+
+It’s New and Improved and Never Needs Winding: Apple III Plus
+It isn't a lot different from its predecessor, but the Apple III Plus has its own exclusive and devoted family—and a lot more software.
+DAVID DURKEE ...............72
+
+Vote! For 1983’s Most Popular Program
+Softalk’s Fourth Annual Most Popular Software Poll gives you a chance to vote for the ten best programs released in 1983..........96
+New Apple DOS Isn’t Strictly for the Pros
+It's faster, slicker, and able to leap over DOS 3.3. But Apple's new ProDOS isn’t always easier to use.
+TOM WEISHAAR..................112
+
+Backtalk: The Wizard and Princess of Coarsegold; Apple’s Education Foundation Takes a New Tack
+When Ken Williams gave up the reins, Sierra On-Line stumbled; now Williams is back in the saddle and driving hard into the stretch. Also, a revisit to Apple's Education Foundation.
+TOMMY GEAR..................122
+
+The Futurological Congress:
+Peering Cautiously Forward (a Month or Two)
+Softalk asked two dozen computer industry shakers what events and trends they predict for the future.
+But the future, it appears, is hazy, with poor visibility at best.
+TOMMY GEAR....................144
+
+Teachers Teaching Teachers
+They call themselves Computer Using Educators and they've been around since 1978. Here's a look at CUE’S past and present accomplishments.
+ELIZABETH RAY ANDERS .166
+
+Back in the Old Pascal Patch
+Dr. Jeppson updates his Apple HU Pascal patch for Apple’s new Pascal
+JOHN JEPPSON.............178
+
+DEPARTMENTS
+
+Advertisers’ Index.......................Opposite Page
+Basic Solution, by Wm. V.R. Smith
+Graphic menus and file cabinet icons..............171
+Beginner’s Corner, by Matt Yuen
+Inputting Basic programs.............................68
+Bestsellers...........................................265
+Buttonwood Apples, by Ken Landis
+How To Buy Stocks, review of Teleminder...........127
+Contest: The Continuing Adventures of. . .
+Can you figure out what the adventurer is doing?	4
+Contest Winners
+Final Oracle '83 results, Tricker Treat..............10
+DOStalk, by Tom Weishaar
+Investigating VisiCalc files.......................237
+Everyone's Guide to Assembly Language, by Jock Root
+Learning to think like the 6502 .................. 183
+Fastalk
+A quick guide to new and classic releases...........15
+Follow the Floating Point, by David Durkee
+An introduction to Applesoft strings ...............104
+If Then Maybe, by the Softalk Sages
+Experts answer readers' questions, maybe............76
+Keys to the World, by Matt Yuen
+Bridging the telecommunications gap...............108
+Marketalk News
+Announcing new products and services............. 131
+Marketalk Reviews ...................................152
+Mind Your Business, by Peter Olivieri
+Resolutions, database programs, keyboards.........225
+Open Discussion
+Readers talking to readers talking to readers ....39
+The Pascal Path, by Jim Merritt
+Rational UNITS, Rational numbers package..........210
+Schoolhouse Apple, by Jock Root Woz’s vision of computers in education
+and a Logo tutorial by Donna Bearden...............81
+SoftCard Symposium, by Greg Tibbetts
+BDOS system calls, subroutine library.............191
+Tradetalk
+Industry news......................................94
+
+Calcs and Then Sum and The Graphics Page will return next month.

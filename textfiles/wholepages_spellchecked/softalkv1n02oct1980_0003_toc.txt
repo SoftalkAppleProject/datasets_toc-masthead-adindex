@@ -1,0 +1,91 @@
+﻿[START PAGE]
+
+OCTOBER 1980
+SOFTALK [LOGO HERE]
+
+Chairman	John Haller
+President	Margot Comstock Tommervik
+Vice-President	Allan Tommervik
+Vice-President	William Depew
+Treasurer	William V. R. Smith
+Secretary	John Mitchell
+Editor	Margot Comstock Tommervik
+Technical Editor	Bill Depew
+Contributing Editor	Roger Wagner
+Art Director	Kurt A. Wahlner
+Business Manager	William V. R. Smith
+Operations Manager	John Mitchell
+Circulation Manager	Robert Koehler
+Marketing and Production	Al Tommervik
+Editorial Assistant	Matthew Yuen
+Circulation	Carmen Cowper
+Advertising Sales 213-980-5074	Bill Smith, Al Tommervik, Margot Tommervik
+	
+Cover and other pirate photos by Kurt Wahlner. Pirate portrayed by Jeff Warren, actor. Parrot by Thorvald Ericksen, parrot.
+Composition by Photographics, Hollywood, California. Printing by California Offset Printers, Glendale, California. Special equipment photographed at and courtesy of Computer World of Burbank, Burbank, California, and Computerland of South Bay, Lawndale, California.
+Apple is a trademark of Apple Computer Inc., Cupertino, California.
+
+Softalk. Volume 1, number 2. Copyright ® 1980 by Softalk Publishing Inc. All rights reserved. Subscriptions to Softalk are complimentary to all owners of Apple computers in the U.S.A.; multiple or non-Apple-owner subscriptions for one year: one, $10; two through five, $8 each; more than five, $6 each. Single issues: $1. Softalk is published monthly by Softalk Publishing Inc., 10432 Burbank Boulevard, North Hollywood, CA 91601. Tel. (213) 980-5074. Controlled circulation pending at North Hollywood, CA. Postmaster: Send address changes to Softalk, 10432 Burbank Boulevard, North Hollywood, CA 91601.
+
+ADVERTISERS INDEX
+
+Artsci......................... 28
+Automated Simulations......Cover 3
+Continental Software ............8
+D.C. Hayes....................  13
+Eaton..........................  9
+FSI............................ 20
+On-Line Systems ......19, 21, 23, 25
+PDI..............................5
+Rainbow Computing Company.......12
+Small Business Computer Systems . . 4
+Software Publishing Corp...Cover 4
+Southwestern Data Systems.......17
+Spectrum Software...............11
+Strategic Simulations........Cover	2
+Synergistic Software............26
+Syntauri ........................3
+
+TABLE OF CONTENTS
+
+Exec Personal: The VisiCalc People
+Quality is more important than quantity, according to Personal's top execs. But the company's proven that quality creates quantity.
+AL TOMMERVIK...................................6
+[PHOTO HERE]
+
+Disk Rebel: The Mystical, Magical Loading Machine
+Frank Krogh couldn't or wouldn't afford a disk drive, so he invented a foolproof gauge for loading cassettes.
+ROBERT KOEHLER ......................................10
+[PHOTO HERE]
+
+Pirate, Thief. Who Dares to Catch Him?
+Software piracy hurts everyone in the industry and every honest buyer. It must be stopped, but how and by whom are still questions—unless the answer is all of us.
+MATTHEW T. YUEN....................................14
+[PHOTO HERE]
+
+Apples and the Handicapped: New Road to Independence
+Apples can bring facility to the extra able, make entrepreneurs of the able, and promises to allow handicapped people to communicate as never before.
+MARGOT TOMMERVIK ...........................22
+[PHOTO HERE]
+
+The Softalk Bestseller List of Software
+The first anywhere, and to be a monthly feature of Softalk, the bestseller list results from a complex formula and an extensive poll of retailers nationwide.............................. 27
+[PHOTO HERE]
+
+DEPARTMENTS
+
+Tradetalk............................ 2
+Bobbing for Apples................... 2
+Assembly Lines:
+Roger Wagner.................... 3
+Newspeak ............................. 5
+Marketalk News	..................12
+Logical Way: Bill	Depew...............18
+Marketalk Reviews.....................21
+
+PREVIEW
+
+Singing of November . . . Music, music, music! Todd Rundgren and Roger Powell talk about their Apples in Utopia . . . Music systems, how they work and how to use them . . . Exec Mountain Computer . . . Everyone's Guide to Assembly Language, Part 2 .. . Bestsellers . . . Thanksgiving contest; talking turkey . . . and more.
+[BACKGROUND PHOTO HERE]
+
+[END PAGE]

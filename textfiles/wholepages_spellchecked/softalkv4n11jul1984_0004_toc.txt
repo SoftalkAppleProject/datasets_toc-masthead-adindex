@@ -1,0 +1,36 @@
+﻿July 1984
+SOFTALK
+
+Softly Comment
+Softalk takes the stand with opinion and commentary: At Tommervik laments the Apple Ill’s day of reckoning; Bert Kersey examines the impossible, inaccessible filename generator; Steve Shendelman reviews reviewing; and Michael Berlyn ponders future adventuring ... 24
+
+Exec Haba Systems: Fame for the Fun of It
+Company profile: Chaz Haba has known and worked with some of the biggest names in computers. Now he's put his name on a software firm that's making waves.
+DAVID HUNTER...............32
+
+DEPARTMENTS
+Advertisers' Index ......................Opposite Page
+Beginners' Corner, by Todd Zilbert
+Disks, drives, DOS basics ..........................57
+Bestsellers............................................123
+Contest: If You Believe in Softalk, Clap Your Hands!
+Write the right slogan and win.....................4
+Contest Winners
+Results of April's cipher contest; Oracle 500..........6
+DOStalk, by Tom Weishaar
+Secrets of the IIc; DOS text-file commands.........41
+Everyone's Guide to Assembly Language, by Jock Root
+The logic of input and output processing ..........115
+Keys to the World, by Matt Yuen
+A look at ABBS, Net-Works, TBBS, CommuniTree....97
+Mac 'n' Lisa, by Kevin Goldstein
+Of mice and megabytes...........................121
+Marketalk News
+Announcing new products and services............65
+Marketalk Reviews..................................79
+Mind Your Business, by Peter Olivieri
+Of spreadsheets and database manners.............61
+Open Discussion
+Questions and answers: Taking it to the mailbox.11
+Tradetalk
+Industry news: Summer CES report and more........88

@@ -1,0 +1,26 @@
+	Dan Yoder	Circulation Supervisors	2	08	Circulation	
+	Dan Yoder	Paid Subscriptions	2	09	Circulation	
+	Dan Yoder	Paid Subscriptions	2	10	Circulation	
+	Dan Yoder	Paid Subscriptions	2	11	Circulation	
+	Dan Yoder	Assistant to the Publisher	2	12		
+	Dan Yoder	Assistant to the Publisher	3	01		
+	Dan Yoder	Assistant to the Publisher	3	02		
+	Dan Yoder	Assistant to the Publisher	3	03		
+	Dan Yoder	Assistant to the Publisher	3	04		
+	Dan Yoder	Assistant to the Publisher	3	05		
+	Dan Yoder	Assistant to the Publisher	3	06		
+	Dan Yoder	Assistant to the Publisher	3	07		
+	Dan Yoder	Assistant to the Publisher	3	08		
+	Dan Yoder	Dealer Sales	3	09		
+	Dan Yoder	Dealer Sales	3	10	Business	
+	Dan Yoder	Dealer Sales	3	11	Business	
+	Dan Yoder	Dealer Sales	3	12	Business	
+	Dan Yoder	Dealer Sales	4	01	Business	
+	Dan Yoder	Dealer Sales	4	02	Circulation	
+	Dan Yoder	Dealer Sales	4	03	Circulation	
+	Dan Yoder	Dealer Sales	4	04	Circulation	
+	Dan Yoder	Dealer Sales	4	05	Circulation	
+	Dan Yoder	Dealer Sales	4	06	Circulation	
+	Dan Yoder	Dealer Sales	4	07	Circulation	
+	Dan Yoder	Dealer Sales	4	08	Circulation	
+	Dan Yoder	Dealer Sales	4	09	Circulation	

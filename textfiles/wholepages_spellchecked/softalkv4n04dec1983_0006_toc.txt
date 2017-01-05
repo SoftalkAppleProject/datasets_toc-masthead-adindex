@@ -1,0 +1,94 @@
+﻿4
+
+Chairman	John Haller
+Publisher	Al Tommervik
+Editor	Margot Comstock Tommervik
+Art Director	Kurt A. Wahlner
+Editorial	
+Managing Editor	Patricia Ryall
+Senior Editor	David Hunter
+Assistant Managing Editor	Carol Ray
+Associate Editor	Jean Varven
+Special Assignments	Andrew Christie
+Letters	Tommy Gear
+News. Telecom	Matthew T. Yuen
+Programs	David Durkee
+Education	Jock Root
+Reviews. Trade	Catherine Petersen
+Market News	Lashea Lowe
+Copy	Cordell Cooper
+Submissions	Betsy Barnes
+Proofreading	Harry McNeil Judith Pfeffer
+Editorial Assistant	Marlene Lunnon
+Regional Editors	
+East Coast	Roe Adams
+Northern California	Hartley G. Lesser
+Contributing Editors	
+Assembly Language	Roger Wagner
+Pascal	Jim Merritt
+Business	Peter Olivieri
+Apple CP/M	Greg Tibbetts
+Apple III	Taylor Pohlman
+Hardware	Jeffrey Mazur Bill Parker
+Applesoft	Doug Carlston
+Investing	Kenneth Landis
+DOS	Tom Weishaar
+Graphics	Mark Pelczarski Bill Budge
+Financial Modeling	Joe Shelton
+Basic Solutions	William V R Smith
+Art	
+Production Manager	Donald J. Robertson
+Ad Production	Michael G. Pender
+Assistants	Nancy Baldwin Timothy Durr Weldon O. Lewin Lucas McClure Malcolm Rodgers Ruth Seid Glenn Thorne Dan Winkler
+Business	
+Associate Publisher	Mary Sue Rennells
+Director of Operations	Three Tyler
+Accounting	Evelyn Burke
+Accounting Assistants	Mary Jo Milam Carla Swanson Lois Mencsik Donna Flushman
+Advertising	
+Coordinator	Linda McGuire Carter
+Assistant	Cathy Stewart
+Advertising Services	Marcia Shepard
+West Coast Sales	Mike Antich Michael Biel Softalk 7250 Laurel Canyon Boulevard Box 60 North Hollywood. CA 91605 (213) 980-5074
+East Coast Sales	Ian Ross Paul McGinnis Advertising Sales 690 Broadway Massapequa. NY 11758 (212) 490-1021
+Midwest and Rocky Mountain Sales	Ted Rickard John Bollweg Kevin Sullivan Market/Media Associates 435 Locust Road Wilmette. IL 60091 (312)251-2541
+Circulation	
+Trial Subscriptions	Marsha Stewart Deirdre Booth Cliff Martinez Anna Gusland
+Paid Subscriptions	Michelle Vigneault-Kirschenbaum Leticia Garcia David Kahn Jan Aguiar Barbara Naimoli
+Back Issues	Michael Jones
+Dealer Sales	Pattie Lesser Dan Yoder
+Systems	John Heitmann
+
+Credits: Composition by Photographics, Hollywood. California Printing by Volkmuth Printers, Saint Cloud. Minnesota
+
+Apple and Applesoft arc registered trademarks of Apple Computer Inc.. Cupertino. California UCSD Pascal is a trademark of the University of California at San Diego. VisiCalc is a trademark of VisiCorp, San Jose. California SoftCard is a trademark of Microsoft. Bellevue, Washington. Softalk is a trademark of Softalk Publishing Inc., North Hollywood, California.
+
+Softalk. Volume 4. Number 4 Copyright © 1983 by Softalk Publishing Inc All rights reserved ISSN :0274-9629 Softalk is published monthly by Softalk Publishing Inc., 7250 Laurel Canyon Boulevard, North Hollywood. California; telephone (213) 980-5074 Second-class postage paid at North Hollywood. California. and additional mailing offices.
+Postmaster: Send address changes to Softalk, Box 60. North Hollywood. CA 91603
+Free Subscriptions: Complimentary trial subscriptions to all owners of Apple computers in the USA If you own an Apple but you’ve never received Softalk, send your name, address, and Apple serial number with a request for subscription to Softalk Circulation. Box 60, North Hollywood, CA 91603. Please allow six to eight weeks for processing. Softalk is totally independent of Apple Computer Inc.; sending your warranty card to Apple Computer will not inform Softalk of your existence.
+Paid Subscriptions: $24 per year At the end of trial period, each subscriber will be notified, response is required only if you wish to continue receiving Softalk Lack of response will be taken as your choice to discontinue the magazine. Special rates for schools and libraries, $12; concurrent additional subscriptions for schools and libraries, $8 each Please allow six to eight weeks for processing.
+Back Issues: $2 through February 1981; $2.50 through July 1981. $3.50 through September 1982. $4 00 thereafter November and December 1980. January, February. March. September. October, and November 1981, and December 1982 are sold out December 1981, February and May 1982. and February 1983 are in short supply.
+Problems? If you haven’t received your Softalk by the fifteenth of the month, or if you have other problems with your subscription, Marsha Stewart can help out Call (213) 980-5074
+Moving? Send new address and a label from a recent Softalk to Softalk Circulation. Box 60, North Hollywood, CA 91603; telephone (2 13) 980-5074. Please allow six to eight weeks for processing
+
+CONTEST:
+Oracle '84
+
+These Oracle contests just keep getting more popular all the time.
+The Oracle 1984 contest contains more predictions, more challenges, and more prizes than any of the Oracle contests before it. Why? Because we’re crazy! We’re giving away prizes left and right because we don’t know any better.
+We do know that our readers love to win things, so the payoff is bigger for each part of the contest this year, and the grand prize . . . well, let’s just say that we like to keep up with the latest developments at Apple (and we don’t mean gossip).
+To enter this contest is easy. Just take a look at all the events listed on this page and make your prediction. That’s it!
+Rules. You can enter as many times as you like, as long as each entry is different. Please submit no more than five entries per envelope.
+All entries must be on standard 8 1/2 x 11-inch paper. Nothing smaller, nothing larger. Be sure to print your name, address, phone number, and signature on each entry.
+All entries must be postmarked by Saturday, December 31, 1983. No exceptions!
+Anyone who hits a prediction exactly or comes closer than anyone else will win $200 worth of goods made by our advertisers. In case of ties, the fearsome random number generator will pick a winner. All decisions are final. Keep a close eye on the Contest Winners section for announcements of winners.
+Each part of the contest will be scored. The person with the highest cumulative score at the
+end of the contest will reign as Softalk Oracle 1984. And here’s the good part: That person will win not two, not three, but one bright and shiny mystery computer from the dark recesses of Apple R&D.
+So, what are you waiting for? Get off the can and start predicting!
+Oracle ’84. Predict the following:
+1.	Who (or what) will be Time magazine’s Man of the Year. Fifteen points.
+2.	The greatest number of medals won by the United States in one sport (ice hockey excluded) during the Winter Olympics. Minus one point for each medal off. Bonus: five points for predicting the sport.
+3.	Academy Award winners in the categories of best picture, best actor, and best actress. Ten points for each correct answer. Ten bonus points if you get all three correct.
+4.	The greatest difference between the high temperature in Sydney, Australia, and the low temperature in Juneau, Alaska, on any one day during the first seven days in April. Give your prediction in degrees Fahrenheit. Minus one point for each degree off.
+5.	The top three finishers (drivers) in the Indianapolis 500 stock car race. Ten points each. Bonus: five points for predicting the winner.
+6.	The number of undergraduates to graduate from the Massachusetts Institute of Technology at the end of the spring 1984 semester. Official count will come from the MIT office of the registrar. Minus one point for every hundred off.

@@ -1,0 +1,89 @@
+﻿MAY 1983
+SOFTALK
+2
+
+Chairman	John Haller
+Publisher	Al Tommervik
+Editor	Margot Comstock Tommervik
+Art Director	Kurt A. Wahlner
+Managing Editor	Patricia Ryall
+Associate Editors	Jean Varven David Hunter Andrew Christie
+Special Assignments	Jonathan Miller
+Open Discussion Editor	Tommy Gear
+News and Trade Editor	Matthew T. Yuen
+Reviews Editor	Roe Adams
+Assistant Editor	David Durkee
+Copy Editor	Cordell Cooper
+Proofreaders	Harry McNeil Betsy Barnes
+Contributing Editors	
+Assembly Language	Roger Wagner
+Pascal	Jim Merritt
+Business	Peter Olivieri
+Apple CP/M	Greg Tibbetts
+Apple III	Taylor Pohlman
+Hardware	Jeffrey Mazur
+Applesoft	Doug Carlston
+Investing	Kenneth Landis
+DOS	Tom Weishaar
+Graphics	Mark Pelczarski
+Financial Modeling	Joe Shelton
+Basic Solutions	William V. R. Smith
+Art Manager	Kevin McKeon
+Art Production	Don Robertson
+Art Assistants	Timothy Durr Lucas McClure Michael G. Pender
+Associate Publisher	Mary Sue Rennells
+Director of Operations	Three Tyler
+Accounting	Evelyn Burke
+Accounting Assistants	Mary Jo Milam Carla Swanson
+Dealer Sales	Judy Weinstein Dan Yoder
+Book Sales	Lois Mencsik
+Advertising Coordinator	Linda McGuire
+West Coast Sales	Mike Antich Softalk 11160 McCormick Street Box 60 North Hollywood, CA 91603 (213) 980-5074
+East Coast Sales	Ian Ross Paul McGinnis Advertising Sales 898 Broadway Massapequa, NY 11758 (212) 490-1021
+Midwest and Rocky Mountain Sales	Ted Rickard John Sienkiewicz John Bollweg Kevin Sullivan Market/Media Associates 435 Locust Road Wilmette, IL 60091 (312) 251-2541
+Circulation	
+Trial Subscriptions	Hal Schick Deirdre Booth Laurie O’Connell Marsha Stewart Laurie Berger
+Paid Subscriptions	Pam Kelley Connie Mastelotto
+	I. K. Frasca
+Back Issues	Ron Rennells
+List Maintenance	Pat Adams
+Assistant	Cliff Martinez
+Systems	Sam Pawley
+Guest Reviewers	Dave Albert, William H. Harrington, Robert Moog, Tom Repstad, Sharon Stea, Ethan Winer, Robert Woodhead
+
+Cover: Internationally acclaimed jazz musician Herbie Hancock at home. Photo by Kurt Wahlner.
+Credits: Composition by Photographics, Hollywood, California. Printing by Volkmuth Printers, Saint Cloud, Minnesota.
+
+Apple and Applesoft are registered trademarks of Apple Computer Inc., Cupertino, California. UCSD Pascal is a trademark of the University of California at San Diego. VisiCalc is a trademark of VisiCorp, San Jose, California. SoftCard is a trademark of Microsoft, Bellevue, Washington. Softalk is a trademark of Softalk Publishing Inc., North Hollywood, California.
+
+Softalk. Volume 3, Number 9. Copyright (c) 1983 by Softalk Publishing Inc. All rights reserved. ISSN:0274-9629. Softalk is published monthly by Softalk Publishing Inc., 11160 McCormick Street, North Hollywood, California; telephone (213) 980-5074. Second-class postage paid at North Hollywood, California, and additional mailing offices.
+Postmaster: Send address changes to Softalk, Box 60, North Hollywood, CA 91603.
+Free Subscription: Complimentary trial subscription to all owners of Apple computers in the USA. If you own an Apple, but you’ve never received Softalk, send your name, address, and Apple serial number with a request for subscription to Softalk Circulation, Box 60, North Hollywood, CA 91603. Softalk is totally independent of Apple Computer Inc.; sending your warranty card to Apple Computer will not inform Softalk of your existence.
+Paid Subscription: $24 per year without sponsor, $18 per year with sponsor. At the end of trial period, each subscriber will be notified; response is required only if you wish to continue receiving Softalk Lack of response will be taken as your choice to discontinue the magazine. Special rates for schools and libraries, $12; additional subscriptions for schools and libraries, $8 each.
+Back Issues: $2 through February 1981; $2.50 through July 1981; $3.50 through September 1982, $4.00 thereafter. November and December 1980, January, February, March, September, October, and November 1981, and December 1982 are sold out. December 1981, February and May 1982, and February 1983 are in short supply.
+Problems? If you haven’t received your Softalk by the fifteenth of the month, or if you have other problems with your subscription, Hal Schick or Pam Kelley can help out. Call (213) 980-5074.
+Moving? Send new address and old to Softalk Circulation, Box 60, North Hollywood, CA 91603; telephone (213) 980-5074.
+
+CONTEST:
+RING AROUNDTHE MAYPOLE
+
+May.
+There’s the month of May, May Flowers, May Day, “Mother, May I?’’ May pull syrup, Maymie Eisenhower, the Mayflower, May din Japan, and Maypole. Maypole? That’s a good one; it’s contest time.
+You don’t see a whole lot of Maypoles around anymore. But they were fun while they lasted. People used to dance around them while holding on to brightly colored streamers. Now, in case you’re picturing a bunch of party animals getting drunk and doing disco steps around a pole, it wasn’t quite like that.
+Here’s how it worked. There was this great big pole with streamers attached to the top. Kids would form a circle around the pole, each one holding on to a streamer. Numbered from one to however many kids there were, the odd-numbered ones would start walking in one direction around the pole, and the rest would walk in the opposite direction.
+At first, they all bumped into each other after taking two steps. Then they got the great idea of weaving over and under each other’s streamers. This had two nifty effects. One, the kids didn’t bump into each other anymore; and two, the pole ended up elaborately decorated with braided colored streamers.
+Well, this month we’re going to make our own Maypoles, only we’re going to use word chains as streamers. A word chain is a sequence of words, names, or phrases that link from one to the next by words in common, words that sound alike, puns, or special relationships. An example: baseball. . . Yankees . . . keystone . . . cops . . . Copts and Robbers . . . Sirius Software .. . dogstar . . . and so on. Simple.
+Our Maypole has six streamers, which means you’ll have to make six word chains. And just to create a little brain twisting, we’ll add one small catch. Each time streamers (chains) “cross,” the links in each chain must also link to the streamer it’s crossing. For instance, if our chain given in the previous example were to cross another chain at the link, “dogstar,” then the other chain’s link must link to “dogstar.”
+Sure it sounds confusing; and it’s even more tricky than it sounds. But just to show that nothing is impossible, we’ve included an example of a Maypole on the next page.
+Send in your entry in matrix form, just like the example on the next page. Each box contains two links. The top link in each box moves
+from left to right, and the bottom one moves from right to left. In our example, “baseball diamond” in box A (top) moves to box B and changes to “Diamonds Are Forever,” while “Sir-tech” in box C (bottom) goes left to box B and changes to “Knight of Diamonds.”
+Start your first turn by filling in boxes A, C, and E. On the next turn, the top links will move from A to B, from C to D, and from E to F. The bottom links, on the other hand, will move from A to F, from C to B, and from E to D (whew!).
+In other words, for each turn, each link moves to the box on its left; each bottom one moves to the box on its right. And don’t overlook wraparound. When a top link gets to box F, it moves next to box A; when a bottom link gets to box A, it next moves to box F. It’s easier if you just picture the top row as words on a conveyor belt going one way, and the bottom row as words on a belt going the other way. Each time the rows line up, the words have to change, yet still relate to each other.
+In our example, each chain has a different color to make the chain easier to follow. We’ve even left the fifth turn empty for you to try your hand at Maypole building.
+Scoring. Give yourself ten points for each link of each chain. You also get twenty bonus (extra) points for each link that represents an Apple-related company or product. In other words, Apple-related links are worth thirty points.
+The person with the highest score will reign as the Softalk Maypole Dance Champ and will receive $100 in all sorts of wonderful stuff made by our advertisers. Send in your entry matrix with your name, address, phone number, and what you’d like to win to Softalk Maypole, Box 60, North Hollywood, CA 91603, postmarked by June 10, 1983.
+Name
+Address
+City, State, Zip
+Phone
+If I win, I want

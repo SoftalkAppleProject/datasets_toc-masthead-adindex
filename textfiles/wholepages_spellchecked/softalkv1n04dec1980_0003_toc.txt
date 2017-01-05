@@ -1,0 +1,75 @@
+﻿DECEMBER 1980
+SOFTALK
+
+Chairman	John Haller
+President	Margot Comstock Tommervik
+Vice- President	Al Tommervik
+Vice- President	William Depew
+Treasurer	William V. R. Smith
+Secretary	John Mitchell
+
+Cover by Kurt Wahlner and Aaron Landy. The apple on Santa’s monitor is a simulation of the Apple logo, which is a trademark of Apple Computer Inc., Cupertino, California. Drawing of Santa Claus working on his Apple was done using the Apple Graphics Input Tablet with the assistance of Eric Popejoy, courtesy of Computer-World of Burbank.
+Composition by Photographics, Hollywood, California. Printing by California Offset Printers, Glendale, California. Special equipment photographed at and courtesy of Com-puterWorld of Burbank, Burbank, California.
+Apple is a trademark of Apple Computer Inc., Cupertino, California.
+
+Softalk. Volume 1, Number 4. Copyright ® 1980 by Softalk Publishing Inc. All rights reserved. Subscriptions to Softalk are complimentary to all owners of Apple computers In the USA; multiple or non-Apple-owner subscriptions for one year: one, $10; two through five, $8 each; more than five, $6 each. Back issues, $2. Softalk is published monthly by Softalk Publishing Inc., 10432 Burbank Boulevard, North Hollywood, CA 91601. Tel (213) 980-5074. Controlled circulation pending at North Hollywood, CA, and at Los Angeles, CA. Mailed as controlled circulation at San Jose, CA. Postmaster: Send address changes to Softalk, 10432 Burbank Boulevard, North Hollywood, CA 91601.
+
+ADVERTISERS INDEX
+
+Advanced Business Technology .......33
+Automated Simulations ...............3
+Avant Garde ..........................8
+Balance Sheet.......................19
+Book Publishing Company..............32
+Continental Software ...............10
+Eaton................................16
+Edu-ware .......................Cover	3
+FSI...................................4
+Hayden Book Company...................5
+Microlab............................17
+Muse ............................13,	30
+On-Line Systems ...........21, 23, 25, 27
+Rainbow Computing....................28
+Small Business Computer Systems.....31
+Softape ........................ 24, 26
+Software Publishing Corp.........Cover	4
+Strategic Simulations.......Cover 2, 11
+Southwestern Data Systems...........29
+Spectrum Software .................  20
+Synergistic Software..................9
+Syntauri, Ltd........................35
+Technical Analysis Group............15
+
+CONTENTS
+
+Intelligent Stocking Stutters
+Guide to computer gifts for family and friends with Apples.
+CONTRIBUTED BY PUBLISHERS
+AND MANUFACTURERS .........................6
+
+An Eye for the Apple
+Digitizers bring direct television images to your monitor through Apple—then Apple tells you all about them, even identifies people.
+ROBERT KOEHLER ....................................18
+
+Christmas Spirits for Holiday Hosts
+The new Super Bar and Wine Guide makes a bartender and wine steward of your Apple,
+just in time for holiday entertaining . .....................31
+
+Exec M&R: Pioneer in Peripherals for Micros
+Marty and Rona Spergel began at the beginning, when Apple was a seedling in the minds of members of the Homebrew Users Group.
+PETER O'HALLIGAN................................34
+
+D E P A R T M E N T S
+
+Oracle '81: Contest ......................2
+More Contest Winners......................2
+Open Discussion...........................3
+Assembly Lines: Roger Wagner............. 14
+Tradetalk.................................17
+Marketalk:	Reviews......................20
+Marketalk:	News ........................33
+Softalk Presents the Bestsellers..........36
+
+PREVIEWS
+
+Speaking of January . . . Apple in the Big Apple . . . You cost your vote for the Most Popular Programs Ever . . . Play the Robot Game and learn programming . . . World of Computer Space—beginning with Budge . . . Meet the Disk Doctor, for sure . . . and

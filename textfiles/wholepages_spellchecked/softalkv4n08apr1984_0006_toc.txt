@@ -1,0 +1,89 @@
+﻿APRIL 1984
+SOFTALK
+4
+
+Chairman	John Haller
+Publisher	Al Tommervik
+Editor Art Director	Margot Comstock Tommervik Kurt A. Wahlner
+Editorial	
+Senior Editor	David Hunter
+Managing Editor	Three Tyler
+Assistant Managing Editor	Carol Ray
+Associate Editors	Jean Varven David Durkee
+Reviews, Telecom	Matthew T. Yuen
+Special Assignments	Andrew Christie
+Features, News, Trade	Michael Ferris
+If. Then, Maybe	Tommy Gear
+Hardware	Jock Root
+Letters	Todd Zilbert
+Regional Editor. East Coast	Roe Adams
+Market Research	Lanny Broyles
+Copy	Cordell Cooper Judith Pfeffer
+Submissions	Betsy Barnes
+Proofreading	Harry McNeil Steve Thomsen
+Word Processing	Brenda Johnson
+Contributing Editors	
+Pascal	Jim Merritt
+Business	Peter Olivieri
+Apple CP/M	Greg Tibbetts
+Investing	Kenneth Landis
+DOS	Tom Weishaar
+Graphics	Bill Budge
+Printers	Bill Parker
+32 Bits	Kevin Goldstein
+Softalk Sages	Doug Carlston Bob Clardy Roy Hicks John Jeppson Mark Pelczarski Joe Shelton Roger Wagner
+Art	
+Production Manager	Donald J. Robertson
+Assistant Art Director	Lucas McClure
+Ad Production	Michael G. Pender
+Assistant Production Manager	Nancy Baldwin
+Assistants	Weldon O. Lewin Ruth Seid Dan Winkler
+Business	
+Associate Publisher	Mary Sue Rennells
+Operations	Marjorie Kaufman
+Advance Projects	Steve Shendelman
+Director of Finance	Chari Hilario
+Controller	Duane Runyon
+Accounting Assistant	Donna Flushman
+Advertising	
+Coordinator	Linda McGuire Carter
+Assistant	Cathy Stewart
+West Coast Sales	Randie James Softalk 7250 Laurel Canyon Blvd. North Hollywood, CA 91605 (818) 980-5074
+East Coast Sales	Ian Ross Paul McGinnis Advertising Sales 690 Broadway Massapequa, NY 11758 (212) 490-1021
+Midwest and Rocky Mountain Sales	Ted Rickard Bill Chalifaux Kevin Sullivan Market/Media Associates 435 Locust Road Wilmette. IL 60091 (312)251-2541
+Circulation	
+Customer Service	Marsha Stewart
+Trial Subscriptions	Deirdre Galen Cliff Martinez Anna Gusland Terez Carroll Ramona Gordon Joe Bellinger Rickie Kaufman
+Paid Subscriptions	Michelle Vigneault-Kirschenbaum Leticia Garcia Jan Godoy-Aguiar Barbara Naimoli Josie Walley
+Back Issues	Robert Williams
+Dealer Sales	Dan Yoder
+Systems	John Heitmann
+
+Credits: Composition by Photographics, Hollywood, California. Printing by Volkmuth Printers. Saint Cloud. Minnesota
+
+Apple, Applesoft. Macintosh, and Lisa are registered trademarks of Apple Computer Inc., Cupertino, California UCSD Pascal is a trademark of the University of California at San Diego. SoftCard is a trademark of Microsoft, Bellevue, Washington Softalk is a trademark of Softalk Publishing Inc., North Hollywood, California
+
+Softalk. Volume 4, Number 8. Copyright © 1984 by Softalk Publishing Inc. All rights reserved ISSN 0274-9629. Softalk is published monthly by Softalk Publishing Inc., 7250 Laurel Canyon Boulevard. North Hollywood, California; telephone (818) 980-5074 Second-class postage paid at North Hollywood, California, and additional mailing offices.
+Postmaster: Send address changes to Softalk. Box 7039. North Hollywood, CA 91605
+Advertising: Send ad material to Linda McGuire Carter. Softalk, 7250 Laurel Canyon Boulevard, North Hollywood, CA 91605
+Free Subscriptions: Complimentary six-month subscriptions to all owners of 6502 Apple computers in the USA and Canada If you own an Apple but you've never received Softalk, send your name, address, and Apple serial number with a request for subscription to Softalk Circulation, Box 7039, North Hollywood, CA 91605. Please allow six to eight weeks for processing Softalk is totally independent of Apple Computer Inc., sending your warranty card to Apple Computer will not inform Softalk of your existence.
+Paid Subscriptions: $24 per year At the end of trial period, each subscriber will be notified, response is required only if you wish to continue receiving Softalk Lack of response will be taken as your choice to discontinue the magazine. Special rates for schools and libraries, $12; concurrent additional subscriptions for schools and libraries, $8 each Please allow six to eight weeks for processing
+Back Issues: $2 through February 1981; $2.50 through July 1981, $3.50 through September 1982; $4 00 thereafter November and December 1980, January, February, March. September, October, and November 1981, and December 1982 are sold out December 1981, February and May 1982, and February and December 1983 are in short supply.
+Problems? If you haven't received your Softalk by the fifteenth of the month, or if you have other problems with your subscription, Marsha Stewart can help out Call (818) 980-5074 or (800) 821-6231 Moving? Send new address and a label from a recent Softalk to Softalk Circulation, Box 7039, North Hollywood. CA 91605; telephone (818) 980-5074. Please allow six to eight weeks for processing.
+
+GHUXT WXBEH GFLHA
+
+NBCJH	VXMXP	RTYBM	HGTQM	XPMYB	OXTWT	BYMXH	FUPVT	QBTFH	MFPNM	XPMNB
+CXPRT	MBFBE	RTMXH	FGWNU	MBVWP	JMBTY	MTWMX	TGBYM	TFMMX	TLPGM	MXPMN
+BCWTW	TPQHY	VMXHF	FPNFM	XPMNB	CXPRT	MXTIH	YQBLH	YHMHP	MHRTP	YQQWH
+RTHMM	PITFM	BDTPO	HYYTW	MBTYM	TWMXH	FGBYM	TFMPE	ENBCX	PRTMB	QBHFF
+TYQCF	BYTUH	TGTBL	HYLBW	JPMHB	YMXPM	GPYDT	LBCYQ	HYMXH	FJPVP	KHYTM
+BDTTE	HVHDE	TMBOH	YSCFM	FTYQC	FPUBF	MGPWQ	MTEEH	YVCFO	XPMGB	EBWEH
+VXMFP	WTBYP	GXWHF	MJPFM	WTTHM	GPYDT	PUBFM	GPWQB	LNBCW	XBJTM	BOYPU
+EPGTN	BCRTR	HFHMT	QBWSC	FMPUE	PHYBE	QHYQT	AGPWQ	HMJCF	MDTUB	FMJPW
+ITQDN	JPNMO	TYMHT	MXYHY	TMTTY	THVXM	NLBCW	MXTOH	YYTWO	HEEWT	GTHRT
+MOBXC	YQWTQ	QBEEP	WFOBW	MXBLU	WBQCG	MFJPQ	TDNPQ	RTWMH	FTWFH	YMXHF
+HFFCT	DTFCW	TMBHY	GECQT	NBCWY	PJTPQ	QWTFF	UXBYT	YCJDT	WPYQP	EHFMB
+LOXPM	NBCQE	HITMB	OHYFT	YQNBC	WUBFM	GPWQM	BFBLM	PEIAJ	PFMWT	TDBAF
+TRTYK	TWBMX	WTTYH	YTYBW	MXXBE	ENOBB	QGPEH	LBWYH	PYHYT	BYTFH	AKTWB
+LHRTG	BYRTW	MYCJD	TWFMB	YCJTW	PEFUE	TPFTV	BMBHM			

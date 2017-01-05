@@ -1,0 +1,117 @@
+﻿JUNE 1983
+SOFTALK
+2
+
+Chairman	John Haller
+Publisher	Al Tommervik
+Editor	Margot Comstock Tommervik
+Art Director	Kurt A. Wahlner
+Managing Editor	Patricia Ryall
+Assistant Managing Editor	Jean Varven
+Associate Editor	David Hunter
+Special Assignments	Andrew Christie
+Open Discussion Editor	Tommy Gear
+News Editor	Matthew T. Yuen
+Reviews Editor	Roe Adams
+Assistant Editors	David Durkee Catherine Petersen
+Copy Editor	Cordell Cooper
+Proofreaders	Harry McNeil Betsy Barnes
+Contributing Editors	
+Assembly Language	Roger Wagner
+Pascal	Jim Merritt
+Business	Peter Olivieri
+Apple CP/M	Greg Tibbetts
+Apple III	Taylor Pohlman
+Hardware	Jeffrey Mazur
+Applesoft	Doug Carlston
+Investing	Kenneth Landis
+DOS	Tom Weishaar
+Graphics Financial Modeling	Mark Pelczarski
+	Joe Shelton
+Basic Solutions	William V. R. Smith
+Guest Reviewers	Dave Albert, Don A. Dyer, William H. Harrington
+Art	
+Production Manager	Don Robertson
+Assistants	Lucas McClure Timothy Durr Michael G. Pender
+Business	
+Associate Publisher	Mary Sue Rennells
+Director of Operations	Three Tyler
+Accounting	Evelyn Burke
+Accounting Assistants	Mary Jo Milam Carla Swanson
+Dealer Sales	Judy Weinstein Dan Yoder
+Book Sales	Lois Mencsik
+Advertising	
+Coordinator	Linda McGuire
+West Coast Sales	Mike Antich Softalk 11160 McCormick Street Box 60 North Hollywood, CA 91603 (213) 980-5074
+East Coast Sales	Ian Ross Paul McGinnis Advertising Sales 898 Broadway Massapequa, NY 11758 (212) 490-1021
+Midwest and Rocky Mountain Sales	Ted Rickard John Sienkiewicz John Bollweg Kevin Sullivan Market/Media Associates 435 Locust Road Wilmette, IL 60091 (312) 251-2541
+Circulation	
+Trial Subscriptions	Hal Schick Deirdre Booth Laurie O’Connell Marsha Stewart
+Paid Subscriptions	Pam Kelley
+Back Issues	Patrie Weston
+List Maintenance	Pat Adams
+Assistant	Tamara Moore Cliff Martinez
+
+Cover: The Chauncey farm’s Apple can tell you that Ka-borr++ + is the son of Russian-bred Polish-Arabian champion *Naborr, the archetype of Arabian show horses. Photo by Kurt Wahlner.
+Credits: Composition by Photographics, Hollywood, California. Printing by Volkmuth Printers, Saint Cloud, Minnesota.
+
+Apple and Applesoft are registered trademarks of Apple Computer Inc., Cupertino, California. UCSD Pascal is a trademark of the University of California at San Diego. VisiCalc is a trademark of VisiCorp, San Jose, California. SoftCard is a trademark of Microsoft, Bellevue, Washington. Softalk is a trademark of Softalk Publishing Inc., North Hollywood, California.
+
+Softalk, Volume 3, Number 10. Copyright 1983 by Softalk Publishing Inc. All rights reserved. ISSN:0274-9629. Softalk is published monthly by Softalk Publishing Inc., 11160 McCormick Street, North Hollywood, California; telephone (213) 980-5074. Second-class postage paid at North Hollywood, California, and additional mailing offices.
+Postmaster: Send address changes to Softalk, Box 60, North Hollywood, CA 91603.
+Free Subscription: Complimentary trial subscription to all owners of Apple computers in the USA. If you own an Apple but you’ve never received Softalk, send your name, address, and Apple serial number with a request for subscription to Softalk Circulation, Box 60, North Hollywood, CA 91603. Softalk is totally independent of Apple Computer Inc.; sending your warranty card to Apple Computer will not inform Softalk of your existence.
+Paid Subscription: $24 per year without sponsor, $18 per year with sponsor. At the end of trial period, each subscriber will be notified; response is required only if you wish to continue receiving Softalk. Lack of response will be taken as your choice to discontinue the magazine. Special rates for schools and libraries, $12; additional subscriptions for schools and libraries, $8 each.
+Back Issues: $2 through February 1981; $2.50 through July 1981; $3.50 through September 1982; $4.00 thereafter. November and December 1980, January, February, March, September, October, and November 1981, and December 1982 are sold out. December 1981, February and May 1982, and February 1983 are in short supply.
+Problems? If you haven’t received your Softalk by the fifteenth of the month, or if you have other problems with your subscription, Hal Schick or Pam Kelley can help out. Call (213) 980-5074.
+Moving? Send new address and old to Softalk Circulation, Box 60, North Hollywood, CA 91603; telephone (213) 980-5074.
+
+CONTEST:
+Final Exam
+
+Good afternoon, class. We’re all anxious to go home and pack our bags for Hawaii, Europe, Greece, or wherever we’re planning to go for summer vacation, but nobody leaves this room until everyone’s taken the final examination.
+The test covers the following subjects: history, folklore, literature and humanities, mathematics, anatomy, and general knowledge.
+It’s really simple. All you have to do is read the questions, write your answers on a separate sheet of paper, and send it in. And, just to keep everyone in the competitive spirit, we’ll award $100 worth of Softalk advertisers’ goods to the person who ends up with the highest score.
+Here are a few guidelines for the test:
+1.	Many of the answers can be found within the confines of your computer room. Others have appeared in books and national publications (Softalk, Newsweek, Time, Wall Street Journal, Mad). If you think you have a correct answer, but you’re not sure your source is the same as ours, be sure to list your source of information with your answer.
+2.	The test can be a team effort. Work with your family, friends, pets, and local computer store if you like. The more help you get, the better you’ll probably do. Visit your computer store. If you have to, go over to Steve Jobs’s house and interview him. Your final grade is limited only by your creativity and resourcefulness. Go for it.
+3.	Some sections have two questions per number. In these cases, the first question (24a, for example) is for students with the Apple II or II Plus. The second question (24b, for example)
+is for students with the IIe. Apple III students will have to trek down to their computer stores.
+If you have a IIe, you don’t have to answer the question for the II, and vice versa. If you have a III, you can answer either question.
+Questions with several parts to them (a—e, for example) are to be answered by everybody.
+4.	All questions are worth 5 points each, except where noted. There is a total of 157 points possible.
+5.	Write your answers on a sheet (or sheets) of paper, with answers appearing by their corresponding numbers.
+6.	On the bottom left-hand comer of the envelope, indicate which test you’re taking II, IIe, or III.
+That’s all there is to it. Please do not begin the test until you see the word go. You must turn in your test so that it’s postmarked by July 10, 1983. Please include the following information on your test form:
+Name:___________________________________
+Address:________________________________
+City, State, Zip:_______________________
+Phone number ___________________________
+My local dealer:________________________
+What I’d like to win:___________________
+Send your exam to Softalk (Con)Test, Box 60, North Hollywood, CA 91603, postmarked by July 10, 1983. Go\
+THE QUESTIONS:
+Literature and Humanities
+1.	Who is the author of Super Invader?
+2.	Animals was written by R. Wigginton. Who does he say the original program idea came from?
+3.	What is the lowest score you must achieve to attain a rating of “nearly perfect” in Brick Out or Little Brick Out?. Hint: You don’t have to play the game to answer this question.
+4.	Cite the program from which the following quotes are taken (one point each):
+a.	“Now loading DOS image.”
+b.	“Apple II File Developer.”
+c.	“To operate a demonstration, type its number.”
+d.	“Merge to program on hold.”
+e.	“Happy executing.”
+f.	“Before we begin, please type your first name and then press the return key.”
+Name the works written by the following people:
+5a. Christopher Espinosa
+5b. Allen Watson
+6a. Caryl Richardson
+6b. Meg Beeler
+7a. Give the poem, word for word, written by Richard Shacklock in 1565 that has to do with Applesoft. One point off for each spelling error.
+7b. What important literary work is Joe Meyers responsible for?
+History
+8.	The Apple IIe was first available on January 19, 1983. When was the first Apple II (not the II Plus) available to the public?
+9.	Give the dates that the following were introduced (one point each):
+a.	DOS 3
+b.	DOS 3.1
+c.	DOS 3.2
+d.	DOS 3.2.1

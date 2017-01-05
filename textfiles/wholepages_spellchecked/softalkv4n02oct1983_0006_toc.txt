@@ -1,0 +1,90 @@
+﻿4
+
+Chairman	John Haller
+Publisher	Al Tommervik
+Editor	Margot Comstock Tommervik
+Art Director	Kurt A Wahlner
+Editorial	
+Managing Editor	Patricia Ryall
+Senior Editor	David Hunter
+Associate Editor	Jean Varven
+Special Assignments	Andrew Christie
+Letters	Tommy Gear
+News. Telecom	Matthew T Yuen
+Programs	David Durkee
+Education	Jock Root
+Reviews, Trade	Catherine Petersen
+Copy	Cordell Cooper
+Submissions	Betsy Barnes
+Proofreading	Harry McNeil Judith Pfeffer
+Editorial Assistant	Marlene Lunnon
+Regional Editors	
+East Coast	Roe Adams
+Nonhem California Contributing Editors	Hartley Lesser
+Assembly Language	Roger Wagner
+Pascal	Jim Merritt
+Business	Peter Olivieri
+Apple CP/M	Greg Tibbetts
+Apple III	Taylor Pohlman
+Hardware	Jeffrey Mazur Bill Parker
+Applesoft	Doug Carlston
+Investing	Kenneth Landis
+DOS	Tom Weishaar
+Graphics	Mark Pelczarski Bill Budge
+Financial Modeling	Joe Shelton
+Basic Solutions	William V R Smith
+Art	
+Production Manager	Donald J. Robertson
+Assistants	Nancy Baldwin Timothy Durr Weldon O Lewin Lucas McClure Michael G Pender Malcolm Rodgers Glenn Thorne Dan Winkler
+Business	
+Associate Publisher	Mary Sue Rennells
+Director of Operations	Three Tyler
+Accounting	Evelyn Burke
+Accounting Assistants	Mary Jo Milam Carla Swanson
+	Lois Mencsik
+Marketing	Gail Lasko
+Advertising Coordinator	Linda McGuire Carter
+Assistant	Cathy Stewart
+Advertising Services	Julie Fletcher
+West Coast Sales	Mike Antich Michael Biel Softalk 11160 McCormick Street Box 60 North Hollywood. CA 91603 (213) 980-5074
+East Coast Sales	Ian Ross Paul McGinnis
+	Advertising Sales 690 Broadway Massapequa, NY 11758 (212) 490-1021
+Midwest and	
+Rocky Mountain Sales	Ted Rickard John Bollweg Kevin Sullivan Market/Media Associates 435 Locust Road Wilmette, IL 60091 (312) 251-2541
+Circulation	
+Trial Subscriptions	Hal Schick Deirdre Booth Laurie O'Connell Marsha Stewart Cliff Martinez
+	Pam Kelley Donna Siebert
+	Judy Weinstein
+Paid Subscriptions	Michelle Vigneault-Kirschenbaum Holly Pierce Leticia Garcia David Kahn
+Back Issues	Michael Jones
+Dealer Sales	Pattie Lesser Dan Yoder
+Systems	Pat Adams
+
+Credits: Composition by Photographics, Hollywood, California Printing by Volkmuth Printers, Saint Cloud. Minnesota
+
+Apple and Applesoft are registered trademarks of Apple Computer Inc., Cupertino, California UCSD Pascal is a trademark of the University of California at San Diego VisiCalc is a trademark of VisiCorp, San Jose. California SoftCard is a trademark of Microsoft, Bellevue, Washington Softalk is a trademark of Softalk Publishing Inc., North Hollywood, California.
+
+Softalk. Volume 4, Number 2 Copyright © 1983 by Softalk Publishing Inc. All rights reserved ISSN:0274-9629 Softalk is published monthly by Softalk Publishing Inc., 11160 McCormick Street, North Hollywood. California, telephone (213) 980-5074 Second-class postage paid at North Hollywood, California, and additional mailing offices
+Postmaster: Send address changes to Softalk, Box 60, North Hollywood, CA 91603
+Free Subscriptions: Complimentary trial subscriptions to all owners of Apple computers in the USA If you own an Apple but you've never received Softalk, send your name, address, and Apple serial number with a request for subscription to Softalk Circulation, Box 60, North Hollywood, CA 91603 Please allow six to eight weeks for processing. Softalk is totally independent of Apple Computer Inc . sending your warranty card to Apple Computer will not inform Softalk of your existence.
+Paid Subscriptions: $24 per year At the end of trial period, each subscriber will be notified; response is required only if you wish to continue receiving Softalk Lack of response will be taken as your choice to discontinue the magazine Special rates for schools and libraries, $12; concurrent additional subscriptions for schools and libraries, $8 each Please allow six to eight weeks for processing.
+Back Issues: $2 through February 1981, $2.50 through July 1981; $3.50 through September 1982, $4.00 thereafter. November and December 1980, January, February, March, September, October, and November 1981, and December 1982 are sold out. December 1981, February and May 1982, and February 1983 are in short supply.
+Problems? If you haven't received your Softalk by the fifteenth of the month, or if you have other problems with your subscription, Hal Schick can help out. Call (213) 980-5074.
+Moving? Send new address and a label from a recent Softalk to Softalk Circulation, Box 60, North Hollywood, CA 91603; telephone (213) 980-5074 Please allow six to eight weeks for processing.
+
+CONTEST:
+TRICK OR TREAT
+
+Finally, a contest for kids! That’s right, all kids under the age of one hundred fifty-two can play.
+The San Francisco Applefest takes place October 28-30, and rumor has it that there will be a massive trick or treat in the Moscone Center on Monday, October 31. All you have to do is show up, tell the security guards you’re there for the trick-or-treat party, and go in. Once inside, go from booth to booth, with your plastic bag in hand, and ask for software, hardware, and other goodies from the exhibitors. It’s easy!
+For those who can’t or don’t feel like taking part in the city-by-the-bay extravaganza, here’s a contest for you.
+Later on in this contest, you’ll find a list of fifty treats we want you to find. Some are ordinary items you can find around the house, while others are not-so-ordinary items you probably couldn’t find in a hundred years. This complicates things a bit. The ordinary items offer no challenge, and the others make the contest impossible.
+Through the miracle of magazine publishing, we have been able to come to a compromise. The treats we want you to find are scattered throughout this issue of Softalk, and all you have to do is flip through the pages, find them, and write them down.
+Some of the treats in question can be found in pictures, some are hidden in text, and some are indirectly referred to. For example, if the treat listed here were “candy bars,’’ you would look for a picture of some candy bars, just the words, “candy bars,’’ or even “Almond Joy.’’ Finding either a picture or the words is good enough; you don’t have to find both. In some cases, there will be several places where treats
+can be found. If this happens, you have to find only one.
+Sorry, finding them in the contest section of the magazine doesn’t count, but anywhere else in the magazine does. That’s right. You can look in articles, photographs, ads, drawings, or even your mailing label.
+Items on the treats list that refer to words, rather than pictures, must be found exactly as they appear here. For example, “safe deposit box’’ in number nineteen cannot be extracted from “safe deposit boxers.’’
+Get Your Costumes On. Number your paper from one to fifty, and write each treat by its corresponding number. When you have found a treat, write a short description of where in the magazine you found it. Example one: scissors—page 347, second paragraph, right-hand column, third line; if it helps, include the sentence you found it in. Example two: chopsticks—the middle-left side of the Oriental Express word processor ad on page 2.
+Simple? You betcha. Ah, but there is a small catch. Not all the treats listed on the next page are found in the magazine. Those you can’t find are tricks. If you suspect that a certain item can’t be found in the magazine, write “trick’’ after it. Example: Atari 810 disk drive—trick!
+We won’t tell you how many tricks there are mixed in with the treats, but if you have really keen eyes you’ll be able to figure it out.
+The trick-or-treater who compiles the most accurate list of tricks and treats will be treated to $200 worth of Softalk advertisers’ products. In the case of a tie (ha!), the entry with the scariest appearance will receive special consideration. The tie, however, will be broken by the spooky random number generator.

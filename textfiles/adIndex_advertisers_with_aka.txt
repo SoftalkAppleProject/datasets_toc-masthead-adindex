@@ -1,0 +1,1140 @@
+# This list of advertising companies that placed ads in Softalk magazine currently cites 
+# 220 entries as possible alternate names (AKA, aliases).
+#
+# With 1127 entries and 220 potential aliases, the initial guess at the number
+# of Softalk advertisers is 907! :-) This number is subject to revision to accomodate
+# corrections to OCR and text verification as well as to further in situ investigation 
+# of any discrepancies or clarifications that validate the mined text based on inspection
+# of the actual advertisements referenced by the Adervisters Index from which this list
+# was developed, etc.
+#
+# This data was produced 25 Dec 2016 by Jim Salmons on behalf of The Softalk Apple Project
+# and its affiliated applied research project/community, FactMiners.
+#
+1-Protect
+21st Century Tek
+3G Company
+3M Company
+	3M
+A B Computers
+A.G. Becker
+A.M. Loveman Lumber & Box Co
+A.P.P.L.E
+ABC Software
+ABT Microcomputer Software
+ALF Copy Service
+	ALF
+ATI Training Power
+Abacus Enterprises
+Abbee Systems
+Accelerated Logic
+Accent Software
+	Accent
+Accessory III
+Accessory Products Company
+Accuroi
+Action-Research Northwest
+	Action-Research NW
+Actioncraft
+Adaptive Software
+Advanced Business Computing
+Advanced Business Technology
+Advanced Data Institute
+Advanced Logic Systems
+	Advanced Logic
+	Advanced Logic Systems/Digital Research
+Advanced Operating Systems
+Advanced Software Technology
+Adventure International
+	Adventure International/Softsel
+Adwar Video Corp
+	Adwar
+Aguila Corporation
+Alco Computing
+Alf Copy Service
+Alien Group
+Alpha Byte Computer Products
+Alpha Logic Business Systems
+	Alpha Logic
+Alpine Software
+Amdek
+American Access Software
+American Software Club
+American Software House
+American Training International
+Amkey
+Androbot
+Anidata
+Animation Graphics
+Anthro-Digital Software
+	Anthro-Digital
+Apex Software Co
+	Apex Software
+Apogee Designs Ltd
+Apogee Software
+Apple Computer Inc
+	Apple
+	Apple Computer
+	Apple Computer / Acces. Prod. Div
+	Apple Computer / Accessory Products Division
+Applefest
+Appletech
+Applied Analytics
+Applied Engineering
+Applied Software Technology
+	Applied Software
+Aquila Corporation
+Arrays, Inc./Continental Software
+Artemis Systems
+Artic Technologies
+Artra Inc
+	Artra
+Artsci
+Artworx Software
+Ashton-Tate
+At Home w/Basics
+Atari
+Atlantic Cabinet
+Atlantis Corporation
+Atsuko Computing International
+Aurora Systems
+	Aurora
+Automated Simulations
+Avalanche Productions
+	Avalanche Prods
+Avalon Hill
+Avant-Garde Creations
+	Avant Garde
+	Avant-Garde
+Aviation Services Limited
+Axiom
+Axlon
+B&H Systems
+B. Dalton
+BASF
+BCS
+BK Technologies
+BPI Systems
+BREM Enterprises
+Backus Data Systems
+Balance Sheet
+Baudville
+Beagle Bros. Software
+	Beagle Bros
+Beaman Porter
+Behavioral Engineering
+Bell & Howell
+Bench Collection
+Berlinersoft
+Bible Research Systems
+	Bible Research
+Bit 3
+BitCards
+Bite-Soft
+	Bite-soft
+Black Sun
+Blue Chip Software
+Blue Lakes Software
+Blue Ridge Software
+Bluebush
+Blythe Valley Software
+Book 1981
+Book Publishing Company
+	Book Publishing
+Borland International
+Boston Computer Society
+Bourbon Street Press
+	Bourbon Street
+Brem Enterprises
+Bright-Side
+	Bright Side
+Brillig Systems
+	Brillig
+Britco
+Broderbund Software
+	Broderbund
+BudgeCo
+Business & Professional Software
+Business Computer Center
+Business Solutions Inc
+	Business Solutions
+Bytes & Pieces
+C & H Video
+	C & H
+	C&H
+	C&H Video
+COM Press
+C&C Software
+C-E Software
+C.P.U., Inc
+	C.P.U.,Inc
+	C-P-U
+	C-P-U Software
+CBS Software
+CE Software
+CECO
+CP/M ’83 East
+CPU Software
+CalcShop
+California Pacific
+Calsoft
+Cannella Sales Corporation
+	Cannella Sales
+	Cannella Sales Corp
+Cardinal Software
+Caribbean Computer Sales
+Cavalier Computer
+	Cavalier
+Cavri Systems, Inc
+	Cavri Systems
+Cdex Corporation
+	Cdex
+Central Software
+Central Valley Electronics
+Chemical Bank
+Chemron
+Circadian Software
+Classified Ads
+Clover Microsystems
+Co-op Software
+Color Software
+Com-Pute Services
+Comark Corp
+	Comark
+Commercial Software Systems
+Commsoft
+CompAid Products
+CompPro
+Compco Industries
+Compdent
+Compress
+CompuServe
+CompuShack
+Compufun
+Compusoft
+Computechniques
+Computek
+Computer Advanced Ideas
+Computer Camp
+Computer Case Company
+Computer Challenges
+Computer Comer of New Jersey
+Computer Data Services
+Computer Discount Products
+Computer Management Systems
+Computer Micro Works
+Computer Outlet
+Computer Solutions
+Computer Station
+	Computer Stations
+Computer Tax Service
+	Computer Tax Services
+Computer Town
+Computer Ware
+Computer Works
+Computerized Management Systems
+Computerscope
+Computerware
+Computrac
+Computronics
+Comshare
+Concepts & Systems
+Concorde Peripheral Systems
+Conroy-LaPointe
+	Conroy-La Pointe
+Consultant Systems
+Consumers Software
+Context
+Continental Software
+Control Data
+Corona Data Systems
+	Corona Data
+Counterpoint Software
+Covers By Babette
+	Covers by Babette
+Craftsbury Software
+Crane
+Crane Hill
+Crane Software
+Crates
+Creative Computer
+	Creative Computer Peripherals
+	Creative Computer Products
+Creative Computers
+	Creative Computers Innovative
+Creative Computing
+Creative Games Intl
+	Creative Games
+Creative Peripherals Unlimited
+Creative Software
+Cross Educational Software
+Crystal Computer
+Culverin
+Curtis, Inc
+Custom Data Systems
+Cypher
+D. R. Jarvis Computing
+D.C. Hayes
+D/Punch
+DTI DataTrek
+	DTI Data Trek
+Dak Industries
+Dakin5
+	Dakin 5
+Dana Industries
+Dann McCreary Software
+Data Impact Products
+Data Knight
+Data Security Concepts
+Data Terminals & Communications
+	Data Terminals
+Data Transforms
+Data Trek
+DataMost
+	Datamost
+Datascan Software
+Datasoft
+David Data
+Davidson & Associates
+Davka Corporation
+Decillionix
+Decision Economics
+Decision Software
+Decision Support Software
+	Decision Support
+Delta Point Corporation
+Delta Point Software
+Deluxe Computer Forms
+Demo Disk
+Dennison Computer Supplies
+Denver Software
+Design Trends Ltd
+	Design Trends
+DesignWare
+Desktop Computer Software
+Desktop Solutions
+DiNess Software
+Dickens Data Systems
+DietWare
+Digital Electronic Systems
+Digital Research
+Disk World
+Diskazine
+Diskette Depot
+Diskus Products
+Diversified Software Research
+	Diversified Software
+Don’t Ask Computer Software
+Doss Industries
+Double-Gold Software
+	Double Gold
+	Double-Gold
+Doublestuff Software
+Dow Jones Software
+	Dow Jones
+Dresselhaus Computer Products
+Dynacomp
+Dysan Corporation
+	Dysan
+ED-U-COMP
+ERE Marketing
+ERIC Software Publishing
+Earthware Computer Service
+	Earthware
+Eastcoast Software
+Eastern House Software
+Eaton
+Eclectic Systems
+Eden II
+Edu-Ware Services
+	Edu-Ware
+	Edu-ware
+Educational Courseware
+Educational Services ofAlaska
+Einstein Corporation
+Electrohome Electronics
+Electronic Arts
+Empire Software
+	Empire
+Encyclopaedia Britannica
+Energy Games
+Epson America
+Eric Software
+Evasco
+Evergreen Data Systems
+Evergreen Micros
+Excalibur Technologies Corp
+	Excalibur
+	Excalibur Technologies
+Exec Software
+ExecSystems Corporation
+Executive Peripheral Systems
+Exemplary Software
+Expotek
+FMJ Inc
+	FMJ
+FSI
+Falcon Safety Products
+Fast Feedback Technologies
+Financial Software
+First Byte
+First Software
+Flexible Software
+FlipTrack Learning Systems
+	Flip Track
+	FlipTrack
+	FlipTrack Training Tapes
+	Fliptrack Training Tapes
+FlowerSoft
+FoggWare
+Fooddata
+Formaster
+Fountain Computer Products
+Foxware Products
+Foxxivision
+Friendly Software
+Frobco
+Funk Software
+Funk Vocab-Ware
+Funtastic Inc
+Futra Company
+Futureworld
+GS Computer Enterprises
+Galfo Systems
+Gamestar
+Garbo Software
+	Garbo
+Garden of Eden Computers
+Gebelli Software
+	Gebelli
+Gemini Info Systems
+Gnosis
+Gold Disk Software
+	Gold Disk
+Goodnews Software
+Gooth Software
+Gourmet Software
+Graformations/Creative Associates
+Gray Matter Ltd
+Great Lakes Digital
+	Great Lakes
+Great Plains Software
+Gryphon
+H.A.L. Labs
+Haba Systems
+Happ Electronics
+	Happ
+Harcourt Brace Jovanovich
+Hardin Computer
+Harper & Row
+Hartley Educational Software
+Hayden
+Hayden Book Company
+Hayden Software Co
+	Hayden Software
+Hayes Microcomputer Products
+	Hayes Microcomputer
+	Hayes Microcomputers
+	Hayes Products
+Hewlett-Packard
+	Hewlett Packard
+Hexcraft Inc
+High Order Micro Electronics
+High Technology Software
+	High Technology
+Highland Computer Services
+Highland Software
+Highlands Computer Services
+	Highlands Computers
+	Highlands
+	Highlands Computer
+Hollister MicroSystems
+	Hollister Microsystems
+Hollywood Hardware Products
+	Hollywood Hardware
+Horizon Simulations
+Howard Industries
+Howard Software Services
+	Howard Software
+Howard W. Sams & Co.
+	Howard W. Sams
+	Howard W. Sams & Co
+	Howard W. Sams Co
+	Howard W. Sams Co.
+	Howard W. Sams Company
+Human Factor Designs
+Human Systems Dynamics
+Humans
+Hutton Industries
+I-Protect
+	I Protect
+ICA Systems
+IDSI
+Ibid
+Image Computer Products
+Image Systems
+Individualized Operand
+Infocom
+Information Unlimited Software
+	Information Unlimited
+Inmac
+Innova Systems
+Innovative Design Software
+Innovative Measurements
+Innovative Micro Goodies
+Innovative Programming Associates
+Insoft
+Institute for Scientific Information
+Intelligent Computer Systems
+Intelligent Statements, Inc
+	Intelligent Statements
+Interactive Fantasies
+Interactive Microware
+Interactive Structures
+Interactive Video Corporation
+	Interactive Video Corp
+Interface, Inc
+Interfirm Systems Corporation
+Interlaken Technology
+Interlude
+International Software Marketing
+	International Software
+Intra Computer
+Intra Day AnalysisCompany
+Investor’s Software
+	Investors Software
+JMC Corp
+JR Software
+	J R Software
+Jade Computer Products
+Janus Disk
+John Wiley & Sons
+Jor-And
+Judco Computer Expos
+Juki Industries of America
+K & R Data Works
+KM International Services
+Kangaroo
+Kelcom Management Ltd
+Kengore
+Kennen Publishing
+Kensington Microware
+Kern Publications
+Key Enterprises
+Keyboard Company
+Keyboard Exchange
+Kline Productions
+Knoware
+Koala Technologies
+Kraft Systems
+	Kraft
+Krell Software
+L & S Computerware
+	L&S Computerware
+LAMA Software Directory
+LJK Enterprises
+	LJK
+	LJK Enteprises
+Lakefront Software
+Lanari Investment
+Last Electronics
+Laumer Research
+Lazer Systems
+	Lazer
+Learning Co
+Learning Shack
+Legend
+Legend Industries
+Lewis Lee
+Lightning Software
+Link Systems
+Little, Brown and Company
+	Little Brown
+Living Videotext
+	Living Video Text
+Lobo Drives International
+	Lobo Drives
+Logic General
+Logo Computer Systems
+Lotus Development
+M&R Enterprises
+MCT
+MD Software
+MEA Software
+MECA
+MICRO-vision
+MPI
+MUSE Software
+	Muse
+	Muse Software
+Mad West Software
+Magnetic Harvest
+Magnum Software
+Mannesmann Tally
+Mark Four Imports
+Mastertype
+Masterworks Software
+	Masterworks
+Math City
+Mattel Electronics
+McCreary Software
+McGraw-Hill
+Megahaus Corporation
+	Megahaus
+Mesa Research
+Metamorphic Systems Inc
+Micro Business Industries
+Micro Co-Op
+	Micro Co-op
+Micro Craft
+Micro D
+Micro Focus
+Micro Ink
+Micro Instructional
+Micro Lab
+Micro Magic
+Micro Program Designs
+Micro ProgramDesigns
+Micro Sci
+Micro TSP
+Micro Times
+Micro Ware
+Micro-Computer Business Industries
+Micro-Mart Distributors
+Micro-Ware Distributing
+	Micro-Ware
+	Micro-Ware Dist
+MicroCom
+MicroLab
+MicroManagement Systems
+MicroMotion
+MicroPro International
+	MicroPro
+MicroSPARC
+MicroStand
+Microcom
+Microcomputer Accessories
+Microcomputer Applications
+Microcomputer Business Ind
+	Microcomputer Business
+Microcomputer Games (EAV)
+Microlab Software
+	Microlab
+Micromate
+Micromax Systems
+Micromedia
+Micromize
+Micron Technology
+Micropro
+Microproducts
+Microsoft
+Microstand
+Microtek
+Midwest Data Source
+	Midwest Data
+Midwest Software Associates
+	Midwest Software
+Millennium Group
+Millionaire Pastimes
+Milton Bradley Educational Software
+Mimco Stick
+	Mimco
+Mind Games
+Mind Systems
+Modular Media
+Moneydisk
+	Money Disk
+Monogram
+Morgan Computing
+Morningstar
+Mountain Distributor
+Moxie Software
+	Moxie
+Multi-Tech Systems
+My Supplier
+Mytek
+Mytopia Software Institute
+	Mytopia
+	Mytopia Gameware Institute
+N-Squared Computing
+NF Systems
+National Integrated Software
+National Software
+Navic Corp
+	Navic Software
+Nebs Computer Forms
+Network Inc
+New Horizons
+New Tech Associates
+Nibble
+	Nibble Notch
+Nikrom
+Nonagon Software
+	Nonagon
+Nordic Software
+Northeast Expositions
+Northeastern Software
+Northern Technology Books
+Nova Software
+Novation
+Nucleus Software
+Odesta Publishing
+Okidata
+Omega Microware
+	Omega
+On-Line Systems
+	On-Line
+One Step Software
+Open Systems
+Optimal Technology
+Orange Micro
+Orange Stand
+Orbital Systems
+Origin Systems
+Orion Software
+Osborne McGraw-Hill
+	Osborne McGraw Hill
+	Osborne/McGraw-Hill
+Output
+Owlcat/Digital Research
+P&B Research
+P.A.C.E
+PDI
+PVI
+Pacific Exchanges
+Pascal Systems
+Passport Designs
+	Passport
+Pathway Software
+Peachtree Software
+Pear Software
+Pear Systems
+Peelings
+	Peelings II
+Pegasys
+Penguin Software
+	Penguin (formerly Micro Co-op)
+Percom Data
+Peripheral Visions
+Peripherals Plus
+Personal Computer
+Personal Computer Accessories
+Personal Computer Products
+	Personal Computer Prods
+Personal Software, Inc
+	Personal Software
+Personal Tutor Associates
+Phase Zero
+Philadelphia Area Computer Society
+Phoenix Software
+	Phoenix
+Photographic Sciences
+Piccadilly Software
+	Picadilly
+	Piccadilly
+Pickam Software
+	Pickam
+Picture House
+Piggybank Programs
+Pirate Software
+Polytel Computer Products
+Powersoft
+PractiCorp International
+Practical Peripherals
+Practical Software
+Precision Data Products
+Precision Software
+PrintaColor
+Pro/Pac
+	Pro\Pac
+Products
+Professional Data Systems
+Professional Medical Software
+	Professional Medical
+Professional Software Technology
+Proforma Software
+Program Design Inc
+	Program Design
+Program Management Limited
+Program Store
+ProgramDesign
+Programma
+Programmers Software Exchange
+Programs Plus
+Progressive Software
+Prometheus Products
+	Prometheus
+Prosoft
+Protecto Enterprizes
+	Protecto Enterpnzes
+Pryority Software
+Psychological Psoftware
+Quadram Corporation
+	Quadram
+	Quadram Corp
+Quality Software
+Quantum Leap Technologies
+Quark Engineering
+	Quark
+Quentin Research
+Quinsept
+RH Electronics
+RTR Market Charter
+RTR Software, Inc
+Raff Craft
+Rainbow Computing Company
+	Rainbow Computing
+	Rainbow Computing, Inc
+Rana Systems
+Realty Software Company
+Rems Software
+Rena-Soft
+Resource Development Institute
+Reston Publishing
+	Reston
+Rhiannon Computer Games for Girls
+Rhino Robots
+Right Stuff Software
+Rising Sun Software
+	Rising Sun
+Riverbank Software
+RoMac
+Robert H. Flast
+Robert J. Brady Co
+Rock Roy
+Rocky Mountain Software
+Roger Wagner Publishing
+Round Lake Studios
+S P Software
+S&H Software
+SEI
+SJB Distributors
+	SJB Distributers
+SRA
+SSM Microcomputer Products
+	SSM Microcomputer
+	SSM Microcomputing
+SSR Corporation
+	SSR
+STB Systems
+SVE
+Saber Software
+Sansoft Plus
+Santa Clara Systems
+Satori Software
+Saturn
+Saturn Software
+Saturn Systems
+Savvy
+Scarborough Systems
+Scholastic
+Science Research Associates
+Scott, Foresman and Company
+Screenplay
+Secure-It
+Sensible Software
+Sentient Software
+	Sentient
+Serendipity Systems
+Shannon Software
+Shelter Software
+Shenandoah Software
+Sierra On-Line
+	Sierra On-Line (On-Line Systems)
+	Sierra Software
+Silicon Valley Systems
+	Silicon Valley
+Sinequanon
+Sir-tech Software
+	Sir Tech
+	Sir tech
+	Sir-tech
+	SirTech
+	Sirtech
+Sirius Software
+Sky Software
+SkySoft
+Sleeping Bear Software
+Small Business Computer Systems
+Smart Data
+Smartware
+Smith Micro Software
+	Smith Microsoftware
+Smith-Corona
+Sof-tech
+Sof/Sys Inc
+	SOF/SYS
+	Sof/Sys
+	Sof-Sys
+SofTech Microsystems
+	Softech Microsystems
+Soft CTRL Systems
+	Soft-CTRL
+	Soft Ctrl Systems
+Soft Disk
+Soft Images
+Soft Touch
+Soft school
+Soft-Life Corp
+Soft-tech
+SoftCorp International
+SoftSpoken
+SoftStyle
+SoftVue
+Softalk
+Softape
+Softclub
+Softdisk
+Softhouse
+Softkey
+Softline
+Softlink
+Softlore Corporation
+Softpak Associates
+	Softpak
+Softquest
+Softrent
+Softronics
+Softsel
+Softsmith
+Softspoken
+Softstalker
+Software Alternatives
+Software Arts
+Software By H
+Software City
+Software Development
+Software Digest
+Software Dimensions
+Software Entertainment Company
+	Software Entertainment
+Software Farm
+Software Guild
+Software Horizons
+Software Management Group
+Software Masters
+Software Productions
+Software Publishing Corporation
+	Software Publishing
+	Software Publishing Company
+	Software Publishing Corp
+Software Source
+Software Store
+Software Supply Corporation
+	Software Supply Corp
+Software Technology for Computers
+	Software Technology
+Software by H
+Solitaire
+Solutions Inc
+Sonora Software
+Sophisticated Microsystems
+Sophisticated Software
+Sorrento Valley Associates
+	Sorrento Valley
+SouthWest EdPsych Services
+Southeastern Software
+Southern California Research Group
+	Southern California Research
+	Southern Calif. Research
+	Southern California Research Grp
+Southwest EdPsych Services
+Southwest Microcomputer
+Southwestern Data Systems
+Space Studies Institute
+SpectraSoft
+Spectrum Software
+Spies Laboratories
+Spinnaker Software
+	Spinnaker
+Staff Computer Technology Corp
+Stallion Software
+Standard and Poor’s
+	Standard & Poor’s
+Star Logic
+Star Micronics
+Starfire Games
+Stellation Two
+Sterling Swift Publishing
+	Sterling Swift
+Stoneware Incorporated
+	Stoneware
+StorWares
+Strategic Simulations
+Strategic Software Systems
+Strawberry Tree
+Street Electronics
+Strictly Software
+	Strictly Soft Ware
+SubEtha Systems
+SubLogic Corp
+	SubLogic
+	SubLogic Communications
+	Sublogic Corp
+Such A Deal
+Sun Microsystems
+Sunburst
+Sundex Software Corp
+	Sundex Software
+SuperSoft
+Superior Software
+Sweet Micro Systems
+Sydney Data Products
+Symtec
+Syncom
+Synergistic Software
+	Synergistic Soft Ware
+Synetix
+Syntauri Corp
+	Syntauri
+	Syntauri, Ltd
+Systems Design Lab
+Systems Plus
+T & W Systems
+	T&W Systems
+TG Products
+TIMECOR
+TMQ Software
+TSK Electronics Corporation
+Talk-U-Thru Tutorial Systems
+	Talk You Through Tutorial Systems
+Taurus Computer Systems
+	Taurus Computer
+Tava Corp
+Taxco Systems
+Taxman
+Tayco Business Forms
+Tech Data Corp
+Tech Designs
+Tech-Data Corp
+Technical Analysis Group
+Technical Horizons
+Telephone Software Connection
+Telesoft
+Teleware
+Tencal
+Terrapin, Inc
+	Terrapin
+Texas Inroads
+Texprint
+The Apple’s Apprentice
+The Avalon Hill Game Company
+The Big Pig Software
+The Book Company
+	The Book
+	The Book 1981
+	The Book 1982
+	The Book Co
+The Boston Company
+The Brady Communications Company
+	The Brady Company
+	The Brady Communication Company
+The Computer Colorworks
+The Computer Room
+The Computer Software Store
+The Computer Tutor Publishing Co
+The Halfway House
+The International Management Institute
+	The International Management Institution
+The Keyboard Company
+The Learning Company
+	The Learning Co
+The National Software Exchange
+The Personal Computer Userfest
+The Picture House
+The Professor
+The Small Computer Company
+The Soft Estate
+The Software Guild
+ThinkTank
+Third Millennium Engineering
+Third Wave Technology
+Three Sigma
+Thunderware
+Tid Bit Software
+	Tidbit Software
+Tiger Supply
+Time-Trax
+Timecor
+TinkerTron
+Titan Data Systems
+Titan Technologies
+Top-Notch Productions
+Touch Technology
+Tovatech
+Townsend Microware
+Trace Systems
+Track House
+Transend
+Transtar
+Trinity Press
+Truguard
+Trutec Software
+Turning Point Software
+	Turning Point
+Turnkey Software
+Turnkey/Ram Software
+U-Microcomputers
+UItrasoft
+UK
+UMKC Software Series School of Medicine
+USE
+USI Computer Products
+UltraSoft
+	Ultrasoft
+Unicom
+United Computer
+United Software
+United Software Industries
+United Software of America
+Universal Systems for Education
+Utilities Engineering
+VF Associates
+	V F Associates
+Vagabondo Enterprises
+Vanguard Systems
+Venture Software
+Verbatim Corp
+	Verbatim
+Video Technology
+Videx Micro Peripherals
+	Videx
+Village Software
+Virtual Combinatics
+VisiCorp
+Vision Information Products
+Vista Computer Company
+	Vista Computer
+Visual Horizons
+Vital Information
+Voice Machine Communications
+Voice Tech Industries
+Vorpal Gallery
+Votrax
+Vufax
+W.H. Nail Company
+WM Enterprises
+Wadsworth Electronic Publishing
+Wallace Micro-Mart
+Washington Apple Pi
+Wesper Microsystems
+West Side Electronics
+Westside
+Westware
+Weyer-Ware
+Wheaton
+Wiley Professional Software
+Williams & Foltz
+Window, Inc
+	Window
+Winner's Circle
+Word-Power
+	Word Power
+Wytand Pyt. Ltd
+XComp
+XPS Inc
+	XPS
+Xerox Education Publications
+Yucaipa Software
+Zoom Telephonics
+Zork Users Group

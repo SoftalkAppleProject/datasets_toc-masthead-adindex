@@ -1,0 +1,11 @@
+﻿POSITION	NAME
+Chairman	John Haller
+Editor	Margot Comstock Tommervik
+Managing Editor	Al Tommervik
+Art Director	Kurt A. Wahlner
+Contributing Editors	Roger Wagner, Jim Merritt, Craig Stinson, Frank Malone, Robert Koehler, William Depew
+Editorial Assistant	Robert Koehler
+Circulation	David Hunter
+Operations Manager	John Mitchell
+Advertising Sales	Al Tommervik, Margot Tommervik
+

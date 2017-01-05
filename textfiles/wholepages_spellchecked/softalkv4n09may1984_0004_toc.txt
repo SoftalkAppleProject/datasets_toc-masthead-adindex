@@ -1,0 +1,62 @@
+﻿MAY 1984
+SOFTALK
+
+Softly Comment
+Softalk takes the stand with opinion
+and commentary: the confusing
+state of computer talk, in praise of
+DOS, simplifying dBase II,
+overworked computerholics, priming
+your original computer...............28
+
+Exec Apple Computer International: Chez Paris
+Mike Spindler, Henri Aebischer, Bob Kissach, and a lively group of Europeans prove Apple can have a foreign affair.
+DAVID HUNTER...................40
+
+The Elfin IIc: Light, Tiny, and Sweet
+The new Apple lIc Is portable paradise. Here’s an Introductory look at the (c)ompact II, plus the inside story of the lIc's European introduction.
+MARGOT COMSTOCK TOMMERVIK.....................56
+
+Special Section: Apples All
+Over the World ............100
+
+Apples Down Under
+JOHN MACGIBBON ... 102
+
+DEPARTMENTS
+
+Advertiser’s Index ......................Opposite Page
+Debut: The Basic Solution, by Roger Wagner
+The Earl of Assembly becomes Lord of Basic	79
+Beginners’ Corner, by Matt Yuen
+Computers and education...........................69
+Bestsellers...........................................201
+Contest: Gravy-Boat Diplomacy
+Reseat fussy professors at a dinner party........4
+Contest Winners
+Results of February's Phonies contest	6
+DOStalk, by Tom Weishaar
+Inside look at text files with type .	...........164
+Fastalk
+A quick guide to new and classic releases........185
+Follow the Floating Point, by David Durkee
+Introduction to hi-res graphics..................140
+Keys to the World, by Matt Yuen
+Telecommuting: working on a phone line...........169
+Mac ’n' Lisa, by Kevin Goldstein
+Junking Jr., more on modems, Mac books............151
+Marketalk News
+Announcing new products and services................91
+Marketalk Reviews......................................129
+Mind Your Business, by Peter Olivieri
+Selecting a modem, business graphics, III stuff...51
+Open Discussion
+Blossoming letters: questions, answers, opinions .11
+The Pascal Path, by Jim Merritt
+Pointers about pointers.............................61
+Schoolhouse Apple, by Carol Ray Telelearning's Electronic University,
+and a Logo tutorial by Donna Bearden................83
+SoftCard Symposium, by Greg Tibbetts
+BDOS's file-related disk functions.................153
+Tradetalk
+Industry news: West Coast Faire report..............72

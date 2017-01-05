@@ -1,0 +1,56 @@
+﻿POSITION	NAME
+Chairman	John Haller
+Publisher	Al Tommervik
+Editor	Margot Comstock Tommervik
+Art Director	Kurt A. Wahlner
+Editorial	
+	Senior Editor	David Hunter
+	Managing Editor	Three Tyler
+	Assistant Managing Editor	Carol Ray
+	Associate Editor	Jean Varven
+	Special Assignments	Andrew Christie, Michael Ferris
+	Letters	Tommy Gear, Todd Zilbert
+	Telecom	Matthew T. Yuen
+	Programs	David Durkee
+	Education	Jock Root
+	Reviews - Trade	Catherine Petersen
+	Market News	Lashea Lowe
+	Market Research	Lanny Broyles
+	Copy	Cordell Cooper
+	Submissions	Betsy Barnes
+	Proofreading	Harry McNeil, Judith Pfeffer
+Regional Editors	
+	East Coast	Roe Adams
+	Northern California	Hartley G. Lesser
+Contributing Editors	
+	Pascal	Jim Merritt
+	Business	Peter Olivieri
+	Apple CP/M	Greg Tibbetts
+	Investing	Kenneth Landis
+	DOS	Tom Weishaar
+	Graphics	Bill Budge
+	Printers	Bill Parker
+	Basic Tips	William V. R. Smith
+Softalk SAGES	Doug Carlston, Bob Clardy, Roy Hicks, John Jeppson, Mark Pelczarski, Joe Shelton, Roger Wagner
+Art	
+	Production Manager	Donald J. Robertson
+	Ad Production	Michael G. Pender
+	Assistants	Nancy Baldwin, Ken Goehner, Weldon O. Lewin, Lucas McClure, Malcolm Rodgers, Ruth Seid, Glenn Thorne, Dan Winkler
+Business	
+	Associate Publisher	Mary Sue Rennells
+	Operations	Marjorie Kaufman
+	Accounting	Evelyn Burke
+	Accounting Assistants	Mary Jo Milam, Carla Swanson, Lois Mencsik, Donna Flushman
+Advertising	
+	Coordinator	Linda McGuire Carter
+	Assistant	Cathy Stewart
+	Advertising Services	Marcia Shepard
+	West Coast Sales	Mike Antich, Michael Biel
+	East Coast Sales	Ian Ross, Paul McGinnis, [Advertising Sales]
+	Midwest and Rocky Mountain Sales	Ted Rickard, John Bollweg, Kevin Sullivan, [Market/Media Associates]
+Circulation	
+	Trial Subscriptions	Marsha Stewart, Deirdre Booth, Cliff Martinez, Anna Gusland, Terez Carroll, Ramona Gordon, Joe Bellinger
+	Paid Subscriptions	Michelle Vigneault-Kirschenbaum, Leticia Garcia, David Kahn, Jan Aguiar, Barbara Naimoli
+	Back Issues	Michael Jones
+	Dealer Sales	Pattie Lesser, Dan Yoder
+Systems	John Heitmann
