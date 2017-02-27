@@ -1,0 +1,2782 @@
+{
+    "1": {
+        "pageNum": "Cover1",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:26:16 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Cover"
+    },
+    "2": {
+        "pageNum": "Cover2",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:26:18 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "3": {
+        "pageNum": "1",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:26:21 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Contents"
+    },
+    "4": {
+        "pageNum": "2",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": 2,
+        "validated_on": "02/25/17 19:26:23 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "5": {
+        "pageNum": "3",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": 5,
+        "validated_on": "02/25/17 19:26:24 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "6": {
+        "pageNum": "4",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": 4,
+        "validated_on": "02/25/17 19:26:31 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "7": {
+        "pageNum": "5",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:26:33 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "8": {
+        "pageNum": "6",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": 6,
+        "validated_on": "02/25/17 19:26:42 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "9": {
+        "pageNum": "7",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:26:46 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "10": {
+        "pageNum": "8",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:26:51 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "11": {
+        "pageNum": "9",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": 12,
+        "validated_on": "02/25/17 19:27:21 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "12": {
+        "pageNum": "10",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:27:25 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "13": {
+        "pageNum": "11",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 11,
+        "validated_on": "02/25/17 19:27:38 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "14": {
+        "pageNum": "12",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:27:41 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "15": {
+        "pageNum": "13",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:27:43 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "16": {
+        "pageNum": "14",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:27:44 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "17": {
+        "pageNum": "15",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:27:46 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "18": {
+        "pageNum": "16",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": 16,
+        "validated_on": "02/25/17 19:27:52 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "19": {
+        "pageNum": "17",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:27:54 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "20": {
+        "pageNum": "18",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": 18,
+        "validated_on": "02/25/17 19:27:56 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "21": {
+        "pageNum": "19",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:27:58 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "22": {
+        "pageNum": "20",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:28:00 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "23": {
+        "pageNum": "21",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:28:02 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "24": {
+        "pageNum": "22",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": 22,
+        "validated_on": "02/25/17 19:28:08 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "25": {
+        "pageNum": "23",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:28:10 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "26": {
+        "pageNum": "24",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:28:13 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "27": {
+        "pageNum": "25",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:28:15 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "28": {
+        "pageNum": "26",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": 26,
+        "validated_on": "02/25/17 19:29:02 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "29": {
+        "pageNum": "27",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 27,
+        "validated_on": "02/25/17 19:29:05 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "30": {
+        "pageNum": "28",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": 28,
+        "validated_on": "02/25/17 19:29:08 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "31": {
+        "pageNum": "29",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 29,
+        "validated_on": "02/25/17 19:29:09 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "32": {
+        "pageNum": "30",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:29:11 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "33": {
+        "pageNum": "31",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:29:12 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "34": {
+        "pageNum": "32",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": 32,
+        "validated_on": "02/25/17 19:29:14 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "35": {
+        "pageNum": "33",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:29:16 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "36": {
+        "pageNum": "34",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": 34,
+        "validated_on": "02/25/17 19:29:17 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "37": {
+        "pageNum": "35",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:29:21 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "38": {
+        "pageNum": "36",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:29:24 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "39": {
+        "pageNum": "37",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 37,
+        "validated_on": "02/25/17 19:29:28 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "40": {
+        "pageNum": "38",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:29:38 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "41": {
+        "pageNum": "39",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:29:39 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "42": {
+        "pageNum": "40",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:29:40 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "43": {
+        "pageNum": "41",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:29:42 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "44": {
+        "pageNum": "42",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:29:43 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "45": {
+        "pageNum": "43",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 43,
+        "validated_on": "02/25/17 19:29:48 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "46": {
+        "pageNum": "44",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:29:52 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "47": {
+        "pageNum": "45",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:29:54 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "48": {
+        "pageNum": "46",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:29:56 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "49": {
+        "pageNum": "47",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:29:57 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "50": {
+        "pageNum": "48",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:30:01 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "51": {
+        "pageNum": "49",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:30:04 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "52": {
+        "pageNum": "50",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:30:06 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "53": {
+        "pageNum": "51",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:30:09 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "54": {
+        "pageNum": "52",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:30:16 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "55": {
+        "pageNum": "53",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:30:43 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "56": {
+        "pageNum": "54",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:30:58 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "57": {
+        "pageNum": "55",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:35:32 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "58": {
+        "pageNum": "56",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:35:34 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "59": {
+        "pageNum": "57",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:35:38 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "60": {
+        "pageNum": "58",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": 58,
+        "validated_on": "02/25/17 19:35:40 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "61": {
+        "pageNum": "59",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:35:41 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "62": {
+        "pageNum": "60",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:35:47 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "63": {
+        "pageNum": "61",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:35:49 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "64": {
+        "pageNum": "62",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": 62,
+        "validated_on": "02/25/17 19:35:50 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "65": {
+        "pageNum": "63",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:35:52 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "66": {
+        "pageNum": "64",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:35:53 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "67": {
+        "pageNum": "65",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 65,
+        "validated_on": "02/25/17 19:35:55 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "68": {
+        "pageNum": "66",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:35:58 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "69": {
+        "pageNum": "67",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:36:05 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "70": {
+        "pageNum": "68",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": 68,
+        "validated_on": "02/25/17 19:36:06 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "71": {
+        "pageNum": "69",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:36:08 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "72": {
+        "pageNum": "70",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:36:09 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "73": {
+        "pageNum": "71",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 75,
+        "validated_on": "02/25/17 19:36:14 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "74": {
+        "pageNum": "72",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:36:16 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "75": {
+        "pageNum": "73",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 73,
+        "validated_on": "02/25/17 19:36:19 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "76": {
+        "pageNum": "74",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:37:07 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "77": {
+        "pageNum": "75",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:37:12 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "78": {
+        "pageNum": "76",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:37:14 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "79": {
+        "pageNum": "77",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 77,
+        "validated_on": "02/25/17 19:37:17 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "80": {
+        "pageNum": "78",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": 78,
+        "validated_on": "02/25/17 19:37:19 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "81": {
+        "pageNum": "79",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:37:21 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "82": {
+        "pageNum": "80",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:37:24 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "83": {
+        "pageNum": "81",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:37:25 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "84": {
+        "pageNum": "82",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:37:29 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "85": {
+        "pageNum": "83",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:37:32 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "86": {
+        "pageNum": "84",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": 84,
+        "validated_on": "02/25/17 19:37:35 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "87": {
+        "pageNum": "85",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:37:38 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "88": {
+        "pageNum": "86",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": 86,
+        "validated_on": "02/25/17 19:37:42 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "89": {
+        "pageNum": "87",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:37:45 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "90": {
+        "pageNum": "88",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": 88,
+        "validated_on": "02/25/17 19:37:50 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "91": {
+        "pageNum": "89",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": 93,
+        "validated_on": "02/25/17 19:37:53 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "92": {
+        "pageNum": "90",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:37:56 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "93": {
+        "pageNum": "91",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:38:02 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "94": {
+        "pageNum": "92",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:38:06 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "95": {
+        "pageNum": "93",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:38:10 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "96": {
+        "pageNum": "94",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": 94,
+        "validated_on": "02/25/17 19:38:27 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "97": {
+        "pageNum": "95",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:38:29 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "98": {
+        "pageNum": "96",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:38:31 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "99": {
+        "pageNum": "97",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:38:33 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "100": {
+        "pageNum": "98",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:38:35 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "101": {
+        "pageNum": "99",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:38:37 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "102": {
+        "pageNum": "100",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:38:38 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "103": {
+        "pageNum": "101",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:38:40 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "104": {
+        "pageNum": "102",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:38:41 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "105": {
+        "pageNum": "103",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:38:44 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "106": {
+        "pageNum": "104",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": 104,
+        "validated_on": "02/25/17 19:38:45 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "107": {
+        "pageNum": "105",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:38:49 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "108": {
+        "pageNum": "106",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:38:52 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "109": {
+        "pageNum": "107",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:38:57 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "110": {
+        "pageNum": "108",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:38:59 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "111": {
+        "pageNum": "109",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:39:01 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "112": {
+        "pageNum": "110",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:39:03 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "113": {
+        "pageNum": "111",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 111,
+        "validated_on": "02/25/17 19:39:05 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "114": {
+        "pageNum": "112",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:39:07 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "115": {
+        "pageNum": "113",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:39:09 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "116": {
+        "pageNum": "114",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:39:11 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "117": {
+        "pageNum": "115",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:39:14 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "118": {
+        "pageNum": "116",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:39:26 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "119": {
+        "pageNum": "117",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 117,
+        "validated_on": "02/25/17 19:39:50 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "120": {
+        "pageNum": "118",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:39:59 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "121": {
+        "pageNum": "119",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 119,
+        "validated_on": "02/25/17 19:40:04 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "122": {
+        "pageNum": "120",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": 112,
+        "validated_on": "02/25/17 19:40:08 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "123": {
+        "pageNum": "121",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:42:28 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "124": {
+        "pageNum": "122",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": 126,
+        "validated_on": "02/25/17 19:42:34 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "125": {
+        "pageNum": "123",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:42:36 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "126": {
+        "pageNum": "124",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": 124,
+        "validated_on": "02/25/17 19:42:38 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "127": {
+        "pageNum": "125",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:42:39 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "128": {
+        "pageNum": "126",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:42:41 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "129": {
+        "pageNum": "127",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 127,
+        "validated_on": "02/25/17 19:42:42 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "130": {
+        "pageNum": "128",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:42:47 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "131": {
+        "pageNum": "129",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:42:51 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "132": {
+        "pageNum": "130",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": 130,
+        "validated_on": "02/25/17 19:42:53 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "133": {
+        "pageNum": "131",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 131,
+        "validated_on": "02/25/17 19:42:54 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "134": {
+        "pageNum": "132",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:42:56 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "135": {
+        "pageNum": "133",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:42:58 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "136": {
+        "pageNum": "134",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:42:59 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "137": {
+        "pageNum": "135",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:43:01 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "138": {
+        "pageNum": "136",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:43:03 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "139": {
+        "pageNum": "137",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 137,
+        "validated_on": "02/25/17 19:43:06 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "140": {
+        "pageNum": "138",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:43:08 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "141": {
+        "pageNum": "139",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:44:00 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "142": {
+        "pageNum": "140",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:44:04 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "143": {
+        "pageNum": "141",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:44:06 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "144": {
+        "pageNum": "142",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": 142,
+        "validated_on": "02/25/17 19:44:09 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "145": {
+        "pageNum": "143",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:44:13 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "146": {
+        "pageNum": "144",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:44:16 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "147": {
+        "pageNum": "145",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 145,
+        "validated_on": "02/25/17 19:44:27 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "148": {
+        "pageNum": "146",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:44:39 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "149": {
+        "pageNum": "147",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:44:42 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "150": {
+        "pageNum": "148",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": 148,
+        "validated_on": "02/25/17 19:44:44 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "151": {
+        "pageNum": "149",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 149,
+        "validated_on": "02/25/17 19:44:46 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "152": {
+        "pageNum": "150",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": 150,
+        "validated_on": "02/25/17 19:44:47 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "153": {
+        "pageNum": "151",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 151,
+        "validated_on": "02/25/17 19:44:49 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "154": {
+        "pageNum": "152",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:44:53 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "155": {
+        "pageNum": "153",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:44:55 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "156": {
+        "pageNum": "154",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": 154,
+        "validated_on": "02/25/17 19:44:57 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "157": {
+        "pageNum": "155",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 155,
+        "validated_on": "02/25/17 19:45:26 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "158": {
+        "pageNum": "156",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:45:27 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "159": {
+        "pageNum": "157",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:45:29 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "160": {
+        "pageNum": "158",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:45:32 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "161": {
+        "pageNum": "159",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 159,
+        "validated_on": "02/25/17 19:45:36 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "162": {
+        "pageNum": "160",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": 160,
+        "validated_on": "02/25/17 19:45:38 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "163": {
+        "pageNum": "161",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:45:53 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "164": {
+        "pageNum": "162",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": 162,
+        "validated_on": "02/25/17 19:45:57 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "165": {
+        "pageNum": "163",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:46:01 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "166": {
+        "pageNum": "164",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:46:04 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "167": {
+        "pageNum": "165",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 165,
+        "validated_on": "02/25/17 19:46:05 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "168": {
+        "pageNum": "166",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:46:07 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "169": {
+        "pageNum": "167",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:46:12 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "170": {
+        "pageNum": "168",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:46:14 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "171": {
+        "pageNum": "169",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:46:16 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "172": {
+        "pageNum": "170",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:46:18 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "173": {
+        "pageNum": "171",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:46:20 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "174": {
+        "pageNum": "172",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:46:25 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "175": {
+        "pageNum": "173",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 173,
+        "validated_on": "02/25/17 19:46:49 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "176": {
+        "pageNum": "174",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:46:53 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "177": {
+        "pageNum": "175",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:46:55 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "178": {
+        "pageNum": "176",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:47:11 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "179": {
+        "pageNum": "177",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 177,
+        "validated_on": "02/25/17 19:47:13 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "180": {
+        "pageNum": "178",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:47:15 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "181": {
+        "pageNum": "179",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:47:19 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "182": {
+        "pageNum": "180",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:47:22 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "183": {
+        "pageNum": "181",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:47:28 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "184": {
+        "pageNum": "182",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:47:32 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "185": {
+        "pageNum": "183",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:47:33 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "186": {
+        "pageNum": "184",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:47:34 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "187": {
+        "pageNum": "185",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 185,
+        "validated_on": "02/25/17 19:47:37 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "188": {
+        "pageNum": "186",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:47:38 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "189": {
+        "pageNum": "187",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 187,
+        "validated_on": "02/25/17 19:47:44 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "190": {
+        "pageNum": "188",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:47:48 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "191": {
+        "pageNum": "189",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:47:50 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "192": {
+        "pageNum": "190",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:47:53 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "193": {
+        "pageNum": "191",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:47:54 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "194": {
+        "pageNum": "192",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:47:55 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "195": {
+        "pageNum": "193",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:47:59 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "196": {
+        "pageNum": "194",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:48:02 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "197": {
+        "pageNum": "195",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 195,
+        "validated_on": "02/25/17 19:48:04 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "198": {
+        "pageNum": "196",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": 196,
+        "validated_on": "02/25/17 19:48:10 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "199": {
+        "pageNum": "197",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:48:13 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "200": {
+        "pageNum": "198",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:48:18 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "201": {
+        "pageNum": "199",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:48:23 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "202": {
+        "pageNum": "200",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:48:26 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "203": {
+        "pageNum": "201",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:48:28 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "204": {
+        "pageNum": "202",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:48:31 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "205": {
+        "pageNum": "203",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:48:32 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "206": {
+        "pageNum": "204",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:48:34 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "207": {
+        "pageNum": "205",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:48:37 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "208": {
+        "pageNum": "206",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:49:18 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "209": {
+        "pageNum": "207",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": 211,
+        "validated_on": "02/25/17 19:49:25 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "210": {
+        "pageNum": "208",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:49:31 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "211": {
+        "pageNum": "Insert Content",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:49:43 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "212": {
+        "pageNum": "Insert Content",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:49:52 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "213": {
+        "pageNum": "209",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:50:05 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "214": {
+        "pageNum": "210",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:50:21 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "215": {
+        "pageNum": "211",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:50:23 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "216": {
+        "pageNum": "212",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:50:24 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "217": {
+        "pageNum": "213",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 213,
+        "validated_on": "02/25/17 19:50:27 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "218": {
+        "pageNum": "214",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:50:28 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "219": {
+        "pageNum": "215",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 215,
+        "validated_on": "02/25/17 19:50:30 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "220": {
+        "pageNum": "216",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:50:33 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "221": {
+        "pageNum": "217",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 217,
+        "validated_on": "02/25/17 19:50:35 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "222": {
+        "pageNum": "218",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": 218,
+        "validated_on": "02/25/17 19:50:37 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "223": {
+        "pageNum": "219",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:50:40 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "224": {
+        "pageNum": "220",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:50:41 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "225": {
+        "pageNum": "221",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:50:45 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "226": {
+        "pageNum": "222",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:50:47 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "227": {
+        "pageNum": "223",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:50:51 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "228": {
+        "pageNum": "224",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:50:58 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "229": {
+        "pageNum": "225",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:50:59 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "230": {
+        "pageNum": "226",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:51:14 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "231": {
+        "pageNum": "227",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 227,
+        "validated_on": "02/25/17 19:51:17 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "232": {
+        "pageNum": "228",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:51:18 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "233": {
+        "pageNum": "229",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 229,
+        "validated_on": "02/25/17 19:51:21 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "234": {
+        "pageNum": "230",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:51:26 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "235": {
+        "pageNum": "231",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:51:29 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "236": {
+        "pageNum": "232",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:51:32 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "237": {
+        "pageNum": "233",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:51:34 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "238": {
+        "pageNum": "234",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:51:37 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "239": {
+        "pageNum": "235",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:51:44 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "240": {
+        "pageNum": "236",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:51:50 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "241": {
+        "pageNum": "237",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 237,
+        "validated_on": "02/25/17 19:51:52 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "242": {
+        "pageNum": "238",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": 238,
+        "validated_on": "02/25/17 19:51:54 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "243": {
+        "pageNum": "239",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 239,
+        "validated_on": "02/25/17 19:51:56 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "244": {
+        "pageNum": "240",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:52:01 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "245": {
+        "pageNum": "241",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:52:03 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "246": {
+        "pageNum": "242",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:52:07 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "247": {
+        "pageNum": "243",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 243,
+        "validated_on": "02/25/17 19:52:10 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "248": {
+        "pageNum": "244",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": 244,
+        "validated_on": "02/25/17 19:52:12 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "249": {
+        "pageNum": "245",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 245,
+        "validated_on": "02/25/17 19:52:14 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "250": {
+        "pageNum": "246",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:52:15 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "251": {
+        "pageNum": "247",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 247,
+        "validated_on": "02/25/17 19:52:19 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "252": {
+        "pageNum": "248",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:52:22 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "253": {
+        "pageNum": "249",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 249,
+        "validated_on": "02/25/17 19:52:24 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "254": {
+        "pageNum": "250",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:52:26 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "255": {
+        "pageNum": "251",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:52:47 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "256": {
+        "pageNum": "252",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": 252,
+        "validated_on": "02/25/17 19:52:49 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "257": {
+        "pageNum": "253",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:53:05 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "258": {
+        "pageNum": "254",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": 254,
+        "validated_on": "02/25/17 19:53:07 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "259": {
+        "pageNum": "255",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:53:10 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "260": {
+        "pageNum": "256",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:53:13 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "261": {
+        "pageNum": "257",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:53:15 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "262": {
+        "pageNum": "258",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:53:17 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "263": {
+        "pageNum": "259",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:53:22 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "264": {
+        "pageNum": "260",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:53:25 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "265": {
+        "pageNum": "261",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:53:28 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "266": {
+        "pageNum": "262",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:53:29 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "267": {
+        "pageNum": "263",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:53:31 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "268": {
+        "pageNum": "264",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:53:35 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "269": {
+        "pageNum": "265",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 265,
+        "validated_on": "02/25/17 19:53:37 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "270": {
+        "pageNum": "266",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:53:39 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "271": {
+        "pageNum": "267",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:53:41 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "272": {
+        "pageNum": "268",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:53:43 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "273": {
+        "pageNum": "269",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 269,
+        "validated_on": "02/25/17 19:53:45 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "274": {
+        "pageNum": "270",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:53:47 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "275": {
+        "pageNum": "271",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "RIGHT",
+        "ocr_ppg": 271,
+        "validated_on": "02/25/17 19:53:49 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "276": {
+        "pageNum": "272",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "printed",
+        "handSide": "LEFT",
+        "ocr_ppg": 272,
+        "validated_on": "02/25/17 19:53:51 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "277": {
+        "pageNum": "Cover3",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "RIGHT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:54:23 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Normal"
+    },
+    "278": {
+        "pageNum": "Cover4",
+        "issue_id": "softalkv3n09may1983",
+        "validation": "inferred",
+        "handSide": "LEFT",
+        "ocr_ppg": null,
+        "validated_on": "02/25/17 19:54:18 -0700",
+        "validator": "Jim Salmons",
+        "pgType": "Cover"
+    }
+}

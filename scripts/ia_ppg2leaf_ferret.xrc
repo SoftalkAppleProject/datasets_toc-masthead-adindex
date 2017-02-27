@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource version="2.3.0.1" xmlns="http://www.wxwidgets.org/wxxrc">
+    <object class="wxFrame" name="ID_APPWIN">
+        <style>wxCAPTION|wxRESIZE_BORDER|wxSYSTEM_MENU|wxMINIMIZE_BOX|wxMAXIMIZE_BOX|wxCLOSE_BOX|wxTAB_TRAVERSAL</style>
+        <size>640,800</size>
+        <title>FactMiners ppg2leaf Ferret: </title>
+        <centered>1</centered>
+        <object class="wxMenuBar" name="ID_MENUBAR">
+            <object class="wxMenu">
+                <label>Tasks</label>
+                <object class="wxMenuItem" name="ID_NEXT_ISSUE_TASK">
+                    <label>Get Next Issue</label>
+                </object>
+                <object class="wxMenuItem" name="ID_SAVE_MAP_TASK">
+                    <label>Save ppg2leaf Map</label>
+                </object>
+                <object class="wxMenuItem" name="ID_SETTINGS_TASK">
+                    <label>Settings...</label>
+                </object>
+            </object>
+        </object>
+        <object class="wxBoxSizer">
+            <orient>wxHORIZONTAL</orient>
+            <object class="sizeritem">
+                <flag>wxALIGN_TOP|wxALL</flag>
+                <border>5</border>
+                <object class="wxPanel" name="ID_WIDGETBAR">
+                    <style>wxSUNKEN_BORDER|wxTAB_TRAVERSAL</style>
+                    <exstyle>wxWS_EX_VALIDATE_RECURSIVELY</exstyle>
+                    <object class="wxBoxSizer">
+                        <orient>wxVERTICAL</orient>
+                        <object class="sizeritem">
+                            <flag>wxALIGN_CENTER_HORIZONTAL|wxALL</flag>
+                            <border>5</border>
+                            <object class="wxPanel" name="ID_CORNERZOOM">
+                                <size>110,110</size>
+                                <pos>0,0</pos>
+                                <style>wxSUNKEN_BORDER|wxTAB_TRAVERSAL</style>
+                                <exstyle>wxWS_EX_VALIDATE_RECURSIVELY</exstyle>
+                            </object>
+                        </object>
+                        <object class="sizeritem">
+                            <flag>wxALIGN_CENTER_HORIZONTAL|wxALL</flag>
+                            <border>5</border>
+                            <object class="wxStaticBoxSizer" name="wxID_ANY">
+                                <orient>wxVERTICAL</orient>
+                                <label>PpgNum or Name</label>
+                                <object class="sizeritem">
+                                    <flag>wxALIGN_CENTER_HORIZONTAL|wxALL</flag>
+                                    <border>5</border>
+                                    <object class="wxComboBox" name="ID_PPGNUM_NAME">
+                                        <size>100,-1</size>
+                                        <tooltip>Enter Print Page Number, or Select Special Name</tooltip>
+                                        <style>wxCB_DROPDOWN</style>
+                                        <content>
+                                            <item>Enter PpgNum or name</item>
+                                            <item>Cover1</item>
+                                            <item>Cover2</item>
+                                            <item>Cover3</item>
+                                            <item>Cover4</item>
+                                            <item>Insert Stub</item>
+                                            <item>Insert Content</item>
+                                            <item>Foldout</item>
+                                        </content>
+                                    </object>
+                                </object>
+                            </object>
+                        </object>
+                        <object class="sizeritem">
+                            <flag>wxALIGN_CENTER_HORIZONTAL|wxALL</flag>
+                            <border>5</border>
+                            <object class="wxStaticBoxSizer" name="ID_RBGROUP">
+                                <orient>wxVERTICAL</orient>
+                                <label>Print Page Number</label>
+                                <object class="sizeritem">
+                                    <flag>wxALIGN_LEFT|wxALL</flag>
+                                    <border>5</border>
+                                    <object class="wxRadioButton" name="ID_PRINTED_RB">
+                                        <style>wxRB_GROUP</style>
+                                        <label>Printed on pg</label>
+                                        <value>0</value>
+                                    </object>
+                                </object>
+                                <object class="sizeritem">
+                                    <flag>wxALIGN_LEFT|wxALL</flag>
+                                    <border>5</border>
+                                    <object class="wxRadioButton" name="ID_INFER_RB">
+                                        <label>Inferred</label>
+                                        <value>0</value>
+                                    </object>
+                                </object>
+                            </object>
+                        </object>
+                        <object class="sizeritem">
+                            <flag>wxALIGN_CENTER_HORIZONTAL|wxALL</flag>
+                            <border>5</border>
+                            <object class="wxBoxSizer">
+                                <orient>wxVERTICAL</orient>
+                                <object class="sizeritem">
+                                    <flag>wxALIGN_CENTER_HORIZONTAL|wxALL</flag>
+                                    <border>5</border>
+                                    <object class="wxButton" name="ID_NEXTLEAF">
+                                        <label>Next Leaf</label>
+                                    </object>
+                                </object>
+                                <object class="sizeritem">
+                                    <flag>wxALIGN_CENTER_HORIZONTAL|wxALL</flag>
+                                    <border>5</border>
+                                    <object class="wxButton" name="ID_PREVLEAF">
+                                        <enabled>0</enabled>
+                                        <label>Previous Leaf</label>
+                                    </object>
+                                </object>
+                            </object>
+                        </object>
+                        <object class="sizeritem">
+                            <flag>wxALIGN_CENTER_HORIZONTAL|wxALL</flag>
+                            <border>5</border>
+                            <object class="wxStaticBoxSizer" name="wxID_ANY">
+                                <orient>wxVERTICAL</orient>
+                                <label>Page Type</label>
+                                <object class="sizeritem">
+                                    <flag>wxALIGN_CENTER_HORIZONTAL|wxALL</flag>
+                                    <border>5</border>
+                                    <object class="wxComboBox" name="ID_PAGETYPE">
+                                        <style>wxCB_DROPDOWN</style>
+                                        <content>
+                                            <item>Normal</item>
+                                            <item>Cover</item>
+                                            <item>Contents</item>
+                                            <item>Insert</item>
+                                            <item>Foldout</item>
+                                            <item>MissingPgs</item>
+                                        </content>
+                                    </object>
+                                </object>
+                            </object>
+                        </object>
+                        <object class="sizeritem">
+                            <flag>wxALIGN_CENTER_HORIZONTAL|wxALL</flag>
+                            <border>5</border>
+                            <object class="wxStaticBoxSizer" name="ID_LEAFNUM_BOX">
+                                <orient>wxVERTICAL</orient>
+                                <label>Leaf Num</label>
+                                <object class="sizeritem">
+                                    <flag>wxALIGN_CENTER_HORIZONTAL|wxALL</flag>
+                                    <border>5</border>
+                                    <object class="wxStaticText" name="ID_LEAFNUM">
+                                        <size>80,-1</size>
+                                        <style>wxALIGN_CENTRE|wxST_NO_AUTORESIZE</style>
+                                        <label>0 of XXX</label>
+                                    </object>
+                                </object>
+                            </object>
+                        </object>
+                        <object class="sizeritem">
+                            <flag>wxALIGN_CENTER_HORIZONTAL|wxALL</flag>
+                            <border>5</border>
+                            <object class="wxCheckBox" name="ID_INFERRED_ONLY">
+                                <label>Inferred only</label>
+                                <checked>0</checked>
+                            </object>
+                        </object>
+                    </object>
+                </object>
+            </object>
+            <object class="sizeritem">
+                <flag>wxALIGN_TOP|wxALL</flag>
+                <border>5</border>
+                <object class="wxPanel" name="ID_LEAF_PANEL">
+                    <style>wxSUNKEN_BORDER</style>
+                    <exstyle>wxWS_EX_VALIDATE_RECURSIVELY</exstyle>
+                </object>
+            </object>
+        </object>
+    </object>
+</resource>

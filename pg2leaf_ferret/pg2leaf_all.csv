@@ -1,4 +1,4 @@
-Vol,No,Month,Year,PageType,LeafNum,PgNum
+Vol,Num,Month,Year,PageType,LeafNum,PpgNum
 1,01,sep,1980,Cover,1,None
 1,01,sep,1980,Normal,2,None
 1,01,sep,1980,Contents,3,None
