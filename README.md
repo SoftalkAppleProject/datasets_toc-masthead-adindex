@@ -16,6 +16,22 @@ together with an Excel spreadsheet with all 9,547 leafs combined and providing a
 pivot table with breakout stats on the ratio, issue by issue, for actual (54%) vs. 
 inferred (46%) print page numbers. The full ppg2leaf map is also provided in CSV format.
 
+## Video Updates on our ppg2leaf_ferret Project
+
+FactMiners and The Softalk Apple Project have submitted two applied research papers to 
+**DATeCH2017**. The second paper is all about the "ppg2leaf" challenge, that is, to recognize
+the importance of the foundational metadata tuple relating a document's printed page number
+(whether printed on the page or confirmed via human #GroundTruth metadata discovery and curation)
+with it digitized image filename known as "leaf" numbers at the Internet Archive.
+
+[![ppg2leaf_ferret Video Update #1](http://img.youtube.com/vi/ei1YoSgNL6w/0.jpg)](http://www.youtube.com/watch?v=ei1YoSgNL6w)
+
+This second video project update shows a much improved ppg2leaf_ferret app and includes a
+brief demonstration of using the ferret to develop the ppg2leaf map for the historic
+August 1981 issue of Byte magazine which is all about Smalltalk.
+
+[![ppg2leaf_ferret Video Update #2](http://img.youtube.com/vi/mttUby8NRpw/0.jpg)](http://www.youtube.com/watch?v=mttUby8NRpw)
+
 The **images** subdirectory contains the full-resolution individual page images
 for each of the 91 pages that contain one or more of the document structures
 included in this dataset. The **djvu_text** directory contains both the djvuXML
@@ -39,4 +55,4 @@ Softalk TOC/Masthead/AdIndex Dataset by The Softalk Apple Project is licensed
 under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
 Based on a work by the Citizen Scientists of The Softalk Apple Project
-(http://www.SoftalkApple.com).
+(http://www.SoftalkApple.com) and by FactMiners' Citizen Scientists.
