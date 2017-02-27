@@ -24,6 +24,8 @@ the importance of the foundational metadata tuple relating a document's printed 
 (whether printed on the page or confirmed via human #GroundTruth metadata discovery and curation)
 with it digitized image filename known as "leaf" numbers at the Internet Archive.
 
+*Click on the images below to watch the YouTube videos.*
+
 [![ppg2leaf_ferret Video Update #1](http://img.youtube.com/vi/ei1YoSgNL6w/0.jpg)](http://www.youtube.com/watch?v=ei1YoSgNL6w)
 
 This second video project update shows a much improved ppg2leaf_ferret app and includes a
