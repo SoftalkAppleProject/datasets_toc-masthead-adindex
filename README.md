@@ -14,7 +14,7 @@ is the unique component in the page's digitized image filename at the Internet A
 In the **ppg2leaf_map** subdirectory, there are 48 interim datafiles in JSON format 
 together with an Excel spreadsheet with all 9,547 leafs combined and providing a
 pivot table with breakout stats on the ratio, issue by issue, for actual (54%) vs. 
-inferred (46%) print page numbers.
+inferred (46%) print page numbers. The full ppg2leaf map is also provided in CSV format.
 
 The **images** subdirectory contains the full-resolution individual page images
 for each of the 91 pages that contain one or more of the document structures
