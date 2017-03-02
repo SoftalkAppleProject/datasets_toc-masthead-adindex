@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MagazineGTS xmlns="http://www.factminers.org/MAGAZINE/gts//2017-02-14"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.factminers.org/MAGAZINE/gts/2017-02-14/factminers_magazine_gts_schema.xsd"
+	MagazineGTS_Id="softalkv1n10jun1981">
+	<Metadata>
+		<Creator>FactMiners and The Softalk Apple Project</Creator>
+		<Created>2017-02-14T12:00:00</Created>
+		<LastChange>2017-02-14T12:00:00</LastChange>
+		<Comments>softalkv1n10jun1981 issue MAGAZINE Ground Truth Storage</Comments>
+	</Metadata>
+	<ppg2leaf_map>
+		<leaf leafnum="1">
+			<pageNum>Cover1</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>inferred</validation>
+			<pgType>Cover</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:22:12 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="2">
+			<pageNum>Cover2</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>inferred</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:22:15 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="3">
+			<pageNum>1</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>inferred</validation>
+			<pgType>Contents</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:22:35 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="4">
+			<pageNum>2</pageNum>
+			<ocr_ppg>2</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:22:38 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="5">
+			<pageNum>3</pageNum>
+			<ocr_ppg>3</ocr_ppg>
+			<validation>inferred</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:22:43 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="6">
+			<pageNum>4</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>inferred</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:22:46 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="7">
+			<pageNum>5</pageNum>
+			<ocr_ppg>5</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:23:10 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="8">
+			<pageNum>6</pageNum>
+			<ocr_ppg>6</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:23:11 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="9">
+			<pageNum>Insert Content</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>inferred</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:23:42 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="10">
+			<pageNum>Insert Content</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>inferred</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:23:58 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="11">
+			<pageNum>Insert Content</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>inferred</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:24:17 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="12">
+			<pageNum>Insert Content</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>inferred</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:24:29 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="13">
+			<pageNum>7</pageNum>
+			<ocr_ppg>11</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:24:47 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="14">
+			<pageNum>8</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>inferred</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:25:48 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="15">
+			<pageNum>9</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>inferred</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:25:50 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="16">
+			<pageNum>10</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:25:56 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="17">
+			<pageNum>11</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>inferred</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:25:57 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="18">
+			<pageNum>12</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:26:00 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="19">
+			<pageNum>13</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>inferred</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:26:03 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="20">
+			<pageNum>14</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:26:06 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="21">
+			<pageNum>15</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>inferred</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:26:08 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="22">
+			<pageNum>16</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:26:11 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="23">
+			<pageNum>17</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:26:21 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="24">
+			<pageNum>18</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:26:27 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="25">
+			<pageNum>19</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:26:38 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="26">
+			<pageNum>20</pageNum>
+			<ocr_ppg>20</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:29:12 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="27">
+			<pageNum>21</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:29:21 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="28">
+			<pageNum>22</pageNum>
+			<ocr_ppg>22</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:30:13 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="29">
+			<pageNum>23</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>inferred</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:30:15 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="30">
+			<pageNum>24</pageNum>
+			<ocr_ppg>24</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:30:17 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="31">
+			<pageNum>25</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>inferred</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:30:20 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="32">
+			<pageNum>26</pageNum>
+			<ocr_ppg>26</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:30:23 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="33">
+			<pageNum>27</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:30:38 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="34">
+			<pageNum>28</pageNum>
+			<ocr_ppg>28</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:30:39 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="35">
+			<pageNum>29</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>inferred</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:30:43 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="36">
+			<pageNum>30</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>inferred</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:30:49 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="37">
+			<pageNum>31</pageNum>
+			<ocr_ppg>31</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:30:51 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="38">
+			<pageNum>32</pageNum>
+			<ocr_ppg>32</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:30:53 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="39">
+			<pageNum>33</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>inferred</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:31:08 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="40">
+			<pageNum>34</pageNum>
+			<ocr_ppg>34</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:31:13 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="41">
+			<pageNum>35</pageNum>
+			<ocr_ppg>35</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:31:16 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="42">
+			<pageNum>36</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>inferred</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:31:17 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="43">
+			<pageNum>37</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:31:21 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="44">
+			<pageNum>38</pageNum>
+			<ocr_ppg>38</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:31:25 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="45">
+			<pageNum>39</pageNum>
+			<ocr_ppg>39</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:31:32 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="46">
+			<pageNum>40</pageNum>
+			<ocr_ppg>40</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:31:33 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="47">
+			<pageNum>41</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>inferred</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:31:36 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="48">
+			<pageNum>42</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>inferred</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:31:39 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="49">
+			<pageNum>43</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>inferred</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:31:41 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="50">
+			<pageNum>44</pageNum>
+			<ocr_ppg>44</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:31:43 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="51">
+			<pageNum>45</pageNum>
+			<ocr_ppg>45</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:31:45 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="52">
+			<pageNum>46</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>inferred</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:31:46 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="53">
+			<pageNum>47</pageNum>
+			<ocr_ppg>47</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:31:48 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="54">
+			<pageNum>48</pageNum>
+			<ocr_ppg>48</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:31:50 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="55">
+			<pageNum>49</pageNum>
+			<ocr_ppg>49</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:31:51 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="56">
+			<pageNum>50</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:31:56 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="57">
+			<pageNum>51</pageNum>
+			<ocr_ppg>51</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:31:58 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="58">
+			<pageNum>52</pageNum>
+			<ocr_ppg>52</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:31:59 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="59">
+			<pageNum>53</pageNum>
+			<ocr_ppg>53</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:32:00 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="60">
+			<pageNum>54</pageNum>
+			<ocr_ppg>54</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:32:02 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="61">
+			<pageNum>55</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>inferred</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:32:05 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="62">
+			<pageNum>56</pageNum>
+			<ocr_ppg>56</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:32:06 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="63">
+			<pageNum>57</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>inferred</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:32:08 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="64">
+			<pageNum>58</pageNum>
+			<ocr_ppg>58</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:32:10 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="65">
+			<pageNum>59</pageNum>
+			<ocr_ppg>59</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:32:12 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="66">
+			<pageNum>60</pageNum>
+			<ocr_ppg>60</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:32:14 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="67">
+			<pageNum>61</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>inferred</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:32:16 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="68">
+			<pageNum>61</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>inferred</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:32:35 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="69">
+			<pageNum>61</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>inferred</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:32:44 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="70">
+			<pageNum>62</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:32:56 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="71">
+			<pageNum>63</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:35:13 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="72">
+			<pageNum>64</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>inferred</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:35:29 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="73">
+			<pageNum>65</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:35:35 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="74">
+			<pageNum>66</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:35:39 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="75">
+			<pageNum>67</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>inferred</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:35:41 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="76">
+			<pageNum>68</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:35:43 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="77">
+			<pageNum>69</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>inferred</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:35:47 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="78">
+			<pageNum>70</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>inferred</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:35:48 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="79">
+			<pageNum>71</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>inferred</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:35:52 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="80">
+			<pageNum>72</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:35:57 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="81">
+			<pageNum>73</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:36:00 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="82">
+			<pageNum>74</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:36:04 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="83">
+			<pageNum>75</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:36:10 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="84">
+			<pageNum>76</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:36:15 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="85">
+			<pageNum>77</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>inferred</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:36:18 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="86">
+			<pageNum>78</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:36:21 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="87">
+			<pageNum>79</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:36:23 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="88">
+			<pageNum>80</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:36:27 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="89">
+			<pageNum>81</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:36:30 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="90">
+			<pageNum>82</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>inferred</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:36:33 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="91">
+			<pageNum>83</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:36:39 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="92">
+			<pageNum>84</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>printed</validation>
+			<pgType>Normal</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:36:43 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="93">
+			<pageNum>Cover3</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>inferred</validation>
+			<pgType>Normal</pgType>
+			<handSide>RIGHT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:36:47 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+		<leaf leafnum="94">
+			<pageNum>Cover4</pageNum>
+			<ocr_ppg>None</ocr_ppg>
+			<validation>inferred</validation>
+			<pgType>Cover</pgType>
+			<handSide>LEFT</handSide>
+			<issue_id>softalkv1n10jun1981</issue_id>
+			<validated_on>02/22/17 17:36:52 -0700</validated_on>
+			<validator>Jim Salmons and Timlynn Babitsky</validator>
+		</leaf>
+	</ppg2leaf_map>
+</MagazineGTS>
