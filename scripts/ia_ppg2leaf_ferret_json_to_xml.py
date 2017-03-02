@@ -2,25 +2,28 @@
 """
     Convert the ia_ppg2leaf_ferret's interim json metadata files to an XML file.
     This will initially be a simple XML version of the ppg2leaf map via conversion
-    of the in-memory Pandas DataFrame.
-    -: Jim Salmons :- for FactMiners and The Softalk Apple Project.
+    of the in-memory Pandas DataFrame the output is an early version of
+    FactMiners' MAGAZINE #GTS (Ground Truth Storage) metadata file format.
+        -: Jim Salmons :- for FactMiners and The Softalk Apple Project.
 
 """
 
 import internetarchive
-import os
+import sys
 import json
 import pandas as pd
 from collections import OrderedDict
 
-"""Change the current working directory"""
-path = 'C:/Users/salmo/OneDrive/_STAP/IAscanning/pg2leaf_ferret/ia_softalkapple'
+collectionID = ""
+source_dir = ""
+if len(sys.argv) != 3:
+    print("Please supply a command-line argument for the IA collection URL and" +
+          " the source directory and try again.")
+    exit()
+else:
+    collectionID = sys.argv[1]
+    source_dir = sys.argv[2]
 
-if path == "":
-    path = os.getcwd()
-
-os.chdir(path)
-"""End the Working Directory change snippet"""
 
 xml_header = '<?xml version="1.0" encoding="UTF-8"?>\n\
 <MagazineGTS xmlns="http://www.factminers.org/MAGAZINE/gts//2017-02-14"\n\
@@ -36,7 +39,7 @@ xml_header = '<?xml version="1.0" encoding="UTF-8"?>\n\
 
 
 def to_xml(df, item_id=None, mode='w'):
-    global path, xml_header
+    global source_dir, xml_header
 
     def df_dict_to_xml(dataframe):
         ordered_fields = OrderedDict([
@@ -65,15 +68,15 @@ def to_xml(df, item_id=None, mode='w'):
 
     if item_id is None:
         return res
-    with open(path + '/xml/' + item_id + '_magazine.xml', mode) as f:
+    with open(source_dir + '/xml/' + item_id + '_magazine.xml', mode) as f:
         f.write(res)
 
 pd.DataFrame.to_xml = to_xml
 
 
 def json_to_xml(item_id):
-    global path
-    myFile = open(path + '/' + item_id + '_metadata_in_process.json', 'r')
+    global source_dir
+    myFile = open(source_dir + '/' + item_id + '_metadata_in_process.json', 'r')
     myObject = myFile.read()
     myFile.close()
     myData = json.loads(myObject)
