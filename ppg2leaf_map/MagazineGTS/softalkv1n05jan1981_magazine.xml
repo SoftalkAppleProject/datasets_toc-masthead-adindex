@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<MagazineGTS xmlns="http://www.factminers.org/MAGAZINE/gts//2017-02-14"
+<MagazineGTS xmlns="http://www.factminers.org/MAGAZINE/gts/2017-02-14"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://www.factminers.org/MAGAZINE/gts/2017-02-14/factminers_magazine_gts_schema.xsd"
+	xsi:schemaLocation="http://www.factminers.org/MAGAZINE/gts/2017-02-14 http://www.factminers.org/MAGAZINE/gts/2017-02-14/factminers_magazine_gts_schema.xsd"
 	MagazineGTS_Id="softalkv1n05jan1981">
 	<Metadata>
 		<Creator>FactMiners and The Softalk Apple Project</Creator>
