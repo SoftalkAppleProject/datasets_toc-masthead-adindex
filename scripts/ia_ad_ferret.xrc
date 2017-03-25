@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource version="2.3.0.1" xmlns="http://www.wxwidgets.org/wxxrc">
+    <object class="wxFrame" name="ID_APPWIN">
+        <style>wxCAPTION|wxRESIZE_BORDER|wxSYSTEM_MENU|wxMINIMIZE_BOX|wxMAXIMIZE_BOX|wxCLOSE_BOX|wxTAB_TRAVERSAL</style>
+        <size>640,800</size>
+        <title>FactMiners Ad Ferret: </title>
+        <centered>1</centered>
+        <object class="wxMenuBar" name="ID_MENUBAR">
+            <object class="wxMenu">
+                <label>Tasks</label>
+                <object class="wxMenuItem" name="ID_NEXT_ADVERTISER_GROUP_TASK">
+                    <label>Get Next 10 Advertisers</label>
+                </object>
+                <object class="wxMenuItem" name="ID_PREV_ADVERTISER_GROUP_TASK">
+                    <label>Get Previous 10 Advertisers</label>
+                </object>
+                <object class="wxMenuItem" name="ID_GET_GROUP_WITH_ADVERTISER_TASK">
+                    <label>Get Advertiser Group with Advertiser...</label>
+                </object>
+                <object class="separator">
+                </object>
+                <object class="wxMenuItem" name="ID_SETTINGS_TASK">
+                    <label>Settings...</label>
+                </object>
+            </object>
+        </object>
+        <object class="wxBoxSizer">
+            <orient>wxHORIZONTAL</orient>
+            <object class="sizeritem">
+                <flag>wxALIGN_TOP|wxALL</flag>
+                <border>5</border>
+                <object class="wxPanel" name="ID_WIDGETBAR">
+                    <style>wxSUNKEN_BORDER|wxTAB_TRAVERSAL</style>
+                    <exstyle>wxWS_EX_VALIDATE_RECURSIVELY</exstyle>
+                    <object class="wxBoxSizer">
+                        <orient>wxVERTICAL</orient>
+                        <object class="sizeritem">
+                            <flag>wxGROW|wxALL</flag>
+                            <border>5</border>
+                            <object class="wxStaticBoxSizer" name="ID_ADS">
+                                <orient>wxVERTICAL</orient>
+                                <label>Advertiser</label>
+                                <object class="sizeritem">
+                                    <flag>wxGROW|wxALL</flag>
+                                    <border>5</border>
+                                    <object class="wxComboBox" name="ID_ADVERTISER">
+                                        <size>100,-1</size>
+                                        <style>wxCB_DROPDOWN</style>
+                                    </object>
+                                </object>
+                                <object class="sizeritem">
+                                    <flag>wxGROW|wxALL</flag>
+                                    <border>5</border>
+                                    <object class="wxStaticBoxSizer" name="ID_ADS_BOX">
+                                        <orient>wxVERTICAL</orient>
+                                        <label>Advertisements</label>
+                                        <object class="sizeritem">
+                                            <flag>wxGROW|wxALL</flag>
+                                            <border>5</border>
+                                            <object class="wxComboBox" name="ID_ADS_COMBOBOX">
+                                                <style>wxCB_DROPDOWN</style>
+                                            </object>
+                                        </object>
+                                    </object>
+                                </object>
+                            </object>
+                        </object>
+                        <object class="sizeritem">
+                            <flag>wxALIGN_CENTER_HORIZONTAL|wxALL</flag>
+                            <border>5</border>
+                            <object class="wxStaticBoxSizer" name="ID_STRUCTURE_BOX">
+                                <orient>wxHORIZONTAL</orient>
+                                <label>Structure</label>
+                                <object class="sizeritem">
+                                    <flag>wxALIGN_CENTER_VERTICAL|wxALL</flag>
+                                    <border>5</border>
+                                    <object class="wxBoxSizer">
+                                        <orient>wxVERTICAL</orient>
+                                        <object class="sizeritem">
+                                            <flag>wxALIGN_CENTER_HORIZONTAL|wxLEFT|wxRIGHT|wxBOTTOM</flag>
+                                            <border>5</border>
+                                            <object class="wxStaticBoxSizer" name="ID_SIZE_GROUP">
+                                                <orient>wxVERTICAL</orient>
+                                                <label>Size</label>
+                                                <object class="sizeritem">
+                                                    <flag>wxALIGN_LEFT|wxALL</flag>
+                                                    <border>5</border>
+                                                    <object class="wxRadioButton" name="ID_2PG_SPREAD_RB">
+                                                        <style>wxRB_GROUP</style>
+                                                        <label>2 pgs</label>
+                                                        <value>0</value>
+                                                    </object>
+                                                </object>
+                                                <object class="sizeritem">
+                                                    <flag>wxALIGN_LEFT|wxALL</flag>
+                                                    <border>5</border>
+                                                    <object class="wxRadioButton" name="ID_FULL_PG_RB">
+                                                        <label>Full pg</label>
+                                                        <value>0</value>
+                                                    </object>
+                                                </object>
+                                                <object class="sizeritem">
+                                                    <flag>wxALIGN_LEFT|wxALL</flag>
+                                                    <border>5</border>
+                                                    <object class="wxRadioButton" name="ID_2_THIRDS_RB">
+                                                        <label>2/3 pg</label>
+                                                        <value>0</value>
+                                                    </object>
+                                                </object>
+                                                <object class="sizeritem">
+                                                    <flag>wxALIGN_LEFT|wxALL</flag>
+                                                    <border>5</border>
+                                                    <object class="wxRadioButton" name="ID_2_THIRDS_H">
+                                                        <label>1/2 pg</label>
+                                                        <value>0</value>
+                                                    </object>
+                                                </object>
+                                                <object class="sizeritem">
+                                                    <flag>wxALIGN_LEFT|wxALL</flag>
+                                                    <border>5</border>
+                                                    <object class="wxRadioButton" name="ID_1_THIRD_RB">
+                                                        <label>1/3 pg</label>
+                                                        <value>0</value>
+                                                    </object>
+                                                </object>
+                                                <object class="sizeritem">
+                                                    <flag>wxALIGN_CENTER_HORIZONTAL|wxALL</flag>
+                                                    <border>5</border>
+                                                    <object class="wxRadioButton" name="ID_1_QTR_RB">
+                                                        <label>1/4 pg</label>
+                                                        <value>0</value>
+                                                    </object>
+                                                </object>
+                                                <object class="sizeritem">
+                                                    <flag>wxALIGN_CENTER_HORIZONTAL|wxALL</flag>
+                                                    <border>5</border>
+                                                    <object class="wxRadioButton" name="ID_RADIOBUTTON">
+                                                        <label>1/6 pg</label>
+                                                        <value>0</value>
+                                                    </object>
+                                                </object>
+                                            </object>
+                                        </object>
+                                        <object class="sizeritem">
+                                            <flag>wxALIGN_CENTER_HORIZONTAL|wxALL|wxRESERVE_SPACE_EVEN_IF_HIDDEN</flag>
+                                            <border>5</border>
+                                            <object class="wxButton" name="ID_HELP">
+                                                <label>Help</label>
+                                            </object>
+                                        </object>
+                                    </object>
+                                </object>
+                                <object class="sizeritem">
+                                    <flag>wxALIGN_TOP|wxALL</flag>
+                                    <border>5</border>
+                                    <object class="wxBoxSizer">
+                                        <orient>wxVERTICAL</orient>
+                                        <object class="sizeritem">
+                                            <flag>wxGROW|wxLEFT|wxRIGHT|wxBOTTOM</flag>
+                                            <border>5</border>
+                                            <object class="wxStaticBoxSizer" name="ID_SHAPE_BOX">
+                                                <orient>wxVERTICAL</orient>
+                                                <label>Shape</label>
+                                                <object class="sizeritem">
+                                                    <flag>wxGROW|wxLEFT|wxRIGHT|wxBOTTOM</flag>
+                                                    <border>5</border>
+                                                    <object class="wxRadioButton" name="ID_VERT_RB">
+                                                        <style>wxRB_GROUP</style>
+                                                        <label>Vertical</label>
+                                                        <value>0</value>
+                                                    </object>
+                                                </object>
+                                                <object class="sizeritem">
+                                                    <flag>wxALIGN_LEFT|wxLEFT|wxRIGHT|wxBOTTOM</flag>
+                                                    <border>5</border>
+                                                    <object class="wxRadioButton" name="ID_HOR_RB">
+                                                        <label>Horizontal</label>
+                                                        <value>0</value>
+                                                    </object>
+                                                </object>
+                                                <object class="sizeritem">
+                                                    <flag>wxALIGN_LEFT|wxLEFT|wxRIGHT|wxBOTTOM</flag>
+                                                    <border>5</border>
+                                                    <object class="wxRadioButton" name="ID_SQUARE_RB">
+                                                        <label>Square</label>
+                                                        <value>0</value>
+                                                    </object>
+                                                </object>
+                                                <object class="sizeritem">
+                                                    <flag>wxALIGN_LEFT|wxLEFT|wxRIGHT|wxBOTTOM</flag>
+                                                    <border>5</border>
+                                                    <object class="wxRadioButton" name="ID_ISLAND_RB">
+                                                        <label>Island</label>
+                                                        <value>0</value>
+                                                    </object>
+                                                </object>
+                                            </object>
+                                        </object>
+                                        <object class="sizeritem">
+                                            <flag>wxGROW|wxALL</flag>
+                                            <border>5</border>
+                                            <object class="wxStaticBoxSizer" name="ID_COLOR_BOX">
+                                                <orient>wxVERTICAL</orient>
+                                                <label>Color/Bleed</label>
+                                                <object class="sizeritem">
+                                                    <flag>wxALIGN_LEFT|wxLEFT|wxRIGHT|wxBOTTOM</flag>
+                                                    <border>5</border>
+                                                    <object class="wxRadioButton" name="ID_FULLCOLOR_RB">
+                                                        <style>wxRB_GROUP</style>
+                                                        <label>Full color</label>
+                                                        <value>0</value>
+                                                    </object>
+                                                </object>
+                                                <object class="sizeritem">
+                                                    <flag>wxALIGN_LEFT|wxLEFT|wxRIGHT|wxBOTTOM</flag>
+                                                    <border>5</border>
+                                                    <object class="wxRadioButton" name="ID_1COLOR_RB">
+                                                        <label>1 color</label>
+                                                        <value>0</value>
+                                                    </object>
+                                                </object>
+                                                <object class="sizeritem">
+                                                    <flag>wxALIGN_LEFT|wxLEFT|wxRIGHT|wxBOTTOM</flag>
+                                                    <border>5</border>
+                                                    <object class="wxRadioButton" name="ID_BW_RB">
+                                                        <label>B&amp;&amp;W</label>
+                                                        <value>0</value>
+                                                    </object>
+                                                </object>
+                                                <object class="sizeritem">
+                                                    <flag>wxALIGN_LEFT|wxLEFT|wxRIGHT|wxBOTTOM</flag>
+                                                    <border>5</border>
+                                                    <object class="wxCheckBox" name="ID_BLEED_CHECKBOX">
+                                                        <label>w/ bleed</label>
+                                                        <checked>0</checked>
+                                                    </object>
+                                                </object>
+                                            </object>
+                                        </object>
+                                    </object>
+                                </object>
+                            </object>
+                        </object>
+                        <object class="sizeritem">
+                            <flag>wxGROW|wxALL</flag>
+                            <border>5</border>
+                            <object class="wxStaticBoxSizer" name="ID_CONTENT_GROUP">
+                                <orient>wxVERTICAL</orient>
+                                <label>Content</label>
+                                <object class="sizeritem">
+                                    <flag>wxGROW|wxALL</flag>
+                                    <border>5</border>
+                                    <object class="wxStaticBoxSizer" name="ID_PRODUCT_BOX">
+                                        <orient>wxVERTICAL</orient>
+                                        <label>Product(s) Featured</label>
+                                        <object class="sizeritem">
+                                            <flag>wxGROW|wxALL</flag>
+                                            <border>5</border>
+                                            <object class="wxCheckListBox" name="ID_PRODUCTS_CHECK_LB">
+                                                <content>
+                                                    <item>this</item>
+                                                    <item>that</item>
+                                                    <item>the other</item>
+                                                </content>
+                                            </object>
+                                        </object>
+                                    </object>
+                                </object>
+                                <object class="sizeritem">
+                                    <flag>wxGROW|wxALL</flag>
+                                    <border>5</border>
+                                    <object class="wxBoxSizer">
+                                        <orient>wxHORIZONTAL</orient>
+                                        <object class="sizeritem">
+                                            <flag>wxALIGN_CENTER_VERTICAL|wxALL</flag>
+                                            <border>5</border>
+                                            <object class="wxTextCtrl" name="ID_ADD_PRODUCT">
+                                                <size>132,-1</size>
+                                                <tooltip>Enter a new product and press '+' if the advertised product is not listed.</tooltip>
+                                            </object>
+                                        </object>
+                                        <object class="sizeritem">
+                                            <flag>wxALIGN_CENTER_VERTICAL|wxALL</flag>
+                                            <border>5</border>
+                                            <object class="wxButton" name="ID_ADD_PRODUCT_BTN">
+                                                <style>wxBU_EXACTFIT</style>
+                                                <label>Add</label>
+                                            </object>
+                                        </object>
+                                    </object>
+                                </object>
+                            </object>
+                        </object>
+                        <object class="sizeritem">
+                            <flag>wxALIGN_CENTER_HORIZONTAL|wxALL</flag>
+                            <border>5</border>
+                            <object class="wxBoxSizer">
+                                <orient>wxHORIZONTAL</orient>
+                                <object class="sizeritem">
+                                    <flag>wxALIGN_TOP|wxALL</flag>
+                                    <border>5</border>
+                                    <object class="wxButton" name="ID_NEXTAD">
+                                        <label>Next Ad</label>
+                                    </object>
+                                </object>
+                                <object class="sizeritem">
+                                    <flag>wxGROW|wxALL</flag>
+                                    <border>5</border>
+                                    <object class="wxButton" name="ID_PREVAD">
+                                        <enabled>0</enabled>
+                                        <label>Previous Ad</label>
+                                    </object>
+                                </object>
+                            </object>
+                        </object>
+                        <object class="sizeritem">
+                            <flag>wxGROW|wxALL</flag>
+                            <border>5</border>
+                            <object class="wxStaticBoxSizer" name="wxID_ISSUEDATE_SIZER">
+                                <orient>wxHORIZONTAL</orient>
+                                <label>Issue Date</label>
+                                <object class="sizeritem">
+                                    <flag>wxALIGN_CENTER_VERTICAL|wxALL</flag>
+                                    <border>5</border>
+                                    <option>1</option>
+                                    <object class="wxStaticText" name="wxID_ISSUEDATE">
+                                        <font>
+                                            <size>24</size>
+                                            <family>swiss</family>
+                                            <face>VAGRounded BT</face>
+                                        </font>
+                                        <label>Sep 1980</label>
+                                    </object>
+                                </object>
+                            </object>
+                        </object>
+                    </object>
+                </object>
+            </object>
+            <object class="sizeritem">
+                <flag>wxALIGN_TOP|wxALL</flag>
+                <border>5</border>
+                <object class="wxPanel" name="ID_LEAF_PANEL">
+                    <style>wxSUNKEN_BORDER</style>
+                    <exstyle>wxWS_EX_VALIDATE_RECURSIVELY</exstyle>
+                </object>
+            </object>
+        </object>
+        <object class="wxStatusBar" name="ID_STATUSBAR">
+            <style>wxST_SIZEGRIP|wxNO_BORDER</style>
+            <fields>2</fields>
+            <widths></widths>
+        </object>
+    </object>
+</resource>

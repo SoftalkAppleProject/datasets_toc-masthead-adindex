@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema targetNamespace="http://www.factminers.org/MAGAZINE/gts/2017-02-14"
+	elementFormDefault="qualified" xmlns="http://www.w3.org/2001/XMLSchema"
+	xmlns:gts="http://www.factminers.org/MAGAZINE/gts/2017-02-14">
+  <element name="MAGAZINEpublicationGTS">
+    <complexType>
+      <sequence>
+        <element ref="gts:Metadata"/>
+        <element ref="gts:Metamodel"/>
+        <element ref="gts:DocumentStructure"/>
+        <element ref="gts:ContentDepiction"/>
+      </sequence>
+      <attribute name="MAGAZINEpublicationGTS_Id" use="required" type="NCName"/>
+    </complexType>
+  </element>
+  <element name="Metadata">
+    <complexType>
+      <sequence>
+        <element ref="gts:Creator"/>
+        <element ref="gts:Created"/>
+        <element ref="gts:LastChange"/>
+        <element ref="gts:Comment"/>
+      </sequence>
+    </complexType>
+  </element>
+  <element name="Creator" type="string"/>
+  <element name="Created" type="dateTime"/>
+  <element name="LastChange" type="dateTime"/>
+  <element name="Metamodel">
+    <complexType>
+      <sequence>
+        <element ref="gts:ReferenceModels"/>
+        <element ref="gts:ThisPublication"/>
+      </sequence>
+    </complexType>
+  </element>
+  <element name="ReferenceModels">
+    <complexType>
+      <sequence>
+        <element ref="gts:cidocCRM"/>
+        <element ref="gts:FRBRoo"/>
+        <element ref="gts:PRESSoo"/>
+        <element ref="gts:FactMiners_MAGAZINEgts"/>
+        <element ref="gts:PRImA_PAGEgts"/>
+      </sequence>
+    </complexType>
+  </element>
+  <element name="cidocCRM">
+    <complexType>
+      <sequence>
+        <element ref="gts:Entities"/>
+        <element ref="gts:Properties"/>
+      </sequence>
+    </complexType>
+  </element>
+  <element name="FRBRoo">
+    <complexType>
+      <sequence>
+        <element ref="gts:Classes"/>
+        <element ref="gts:Properties"/>
+      </sequence>
+    </complexType>
+  </element>
+  <element name="PRESSoo">
+    <complexType>
+      <sequence>
+        <element ref="gts:Classes"/>
+        <element ref="gts:Properties"/>
+      </sequence>
+    </complexType>
+  </element>
+  <element name="FactMiners_MAGAZINEgts">
+    <complexType>
+      <sequence>
+        <element ref="gts:Entities"/>
+        <element ref="gts:Properties"/>
+      </sequence>
+    </complexType>
+  </element>
+  <element name="PRImA_PAGEgts">
+    <complexType>
+      <sequence>
+        <element ref="gts:PcGTS"/>
+      </sequence>
+    </complexType>
+  </element>
+  <element name="PcGTS">
+    <complexType>
+      <sequence>
+        <element ref="gts:Comment"/>
+        <element ref="gts:simpleTypes"/>
+        <element ref="gts:complexTypes"/>
+      </sequence>
+    </complexType>
+  </element>
+  <element name="simpleTypes">
+    <complexType/>
+  </element>
+  <element name="complexTypes">
+    <complexType/>
+  </element>
+  <element name="ThisPublication">
+    <complexType>
+      <sequence>
+        <element ref="gts:Comment"/>
+        <element ref="gts:DocumentStructure"/>
+        <element ref="gts:ContentDepiction"/>
+      </sequence>
+      <attribute name="name" use="required" type="NCName"/>
+    </complexType>
+  </element>
+  <element name="Comment" type="string"/>
+  <element name="Entities">
+    <complexType>
+      <sequence>
+        <element minOccurs="0" ref="gts:Comment"/>
+      </sequence>
+    </complexType>
+  </element>
+  <element name="Properties">
+    <complexType>
+      <sequence>
+        <element minOccurs="0" ref="gts:Comment"/>
+      </sequence>
+    </complexType>
+  </element>
+  <element name="Classes">
+    <complexType/>
+  </element>
+  <element name="DocumentStructure">
+    <complexType>
+      <choice>
+        <sequence>
+          <element ref="gts:Entitities"/>
+          <element ref="gts:Properties"/>
+        </sequence>
+        <sequence>
+          <element ref="gts:Comment"/>
+          <element ref="gts:IssuingRules"/>
+          <element ref="gts:DataSets"/>
+        </sequence>
+      </choice>
+    </complexType>
+  </element>
+  <element name="Entitities">
+    <complexType/>
+  </element>
+  <element name="IssuingRules">
+    <complexType>
+      <sequence>
+        <element ref="gts:Comment"/>
+      </sequence>
+    </complexType>
+  </element>
+  <element name="ContentDepiction">
+    <complexType>
+      <choice>
+        <sequence>
+          <element ref="gts:Comment"/>
+          <element ref="gts:DataSets"/>
+        </sequence>
+        <sequence>
+          <element ref="gts:Entities"/>
+          <element ref="gts:Properties"/>
+        </sequence>
+      </choice>
+    </complexType>
+  </element>
+  <element name="DataSets">
+    <complexType>
+      <choice>
+        <sequence>
+          <element ref="gts:TableOfContents"/>
+          <element ref="gts:Mastheads"/>
+          <element ref="gts:Advertisements"/>
+          <element ref="gts:FeatureArticles"/>
+          <element ref="gts:Contests"/>
+          <element ref="gts:Columns"/>
+          <element ref="gts:BestSellerLists"/>
+        </sequence>
+        <sequence>
+          <element ref="gts:People"/>
+          <element ref="gts:Organizations"/>
+          <element ref="gts:Products"/>
+          <element ref="gts:Roles"/>
+          <element ref="gts:StaffAssignments"/>
+        </sequence>
+      </choice>
+    </complexType>
+  </element>
+  <element name="TableOfContents">
+    <complexType/>
+  </element>
+  <element name="Mastheads">
+    <complexType/>
+  </element>
+  <element name="Advertisements">
+    <complexType/>
+  </element>
+  <element name="FeatureArticles">
+    <complexType/>
+  </element>
+  <element name="Contests">
+    <complexType/>
+  </element>
+  <element name="Columns">
+    <complexType>
+      <sequence>
+        <element ref="gts:OpenDiscussion"/>
+        <element ref="gts:AssemblyLines"/>
+      </sequence>
+    </complexType>
+  </element>
+  <element name="OpenDiscussion">
+    <complexType/>
+  </element>
+  <element name="AssemblyLines">
+    <complexType/>
+  </element>
+  <element name="BestSellerLists">
+    <complexType/>
+  </element>
+  <element name="People">
+    <complexType/>
+  </element>
+  <element name="Organizations">
+    <complexType>
+      <sequence>
+        <element ref="gts:Companies"/>
+        <element ref="gts:IndustryGroups"/>
+        <element ref="gts:UserGroups"/>
+      </sequence>
+    </complexType>
+  </element>
+  <element name="Companies">
+    <complexType/>
+  </element>
+  <element name="IndustryGroups">
+    <complexType/>
+  </element>
+  <element name="UserGroups">
+    <complexType/>
+  </element>
+  <element name="Products">
+    <complexType>
+      <sequence>
+        <element ref="gts:Software"/>
+        <element ref="gts:Hardware"/>
+        <element ref="gts:Services"/>
+        <element ref="gts:Other"/>
+      </sequence>
+    </complexType>
+  </element>
+  <element name="Software">
+    <complexType/>
+  </element>
+  <element name="Hardware">
+    <complexType/>
+  </element>
+  <element name="Services">
+    <complexType/>
+  </element>
+  <element name="Other">
+    <complexType/>
+  </element>
+  <element name="Roles">
+    <complexType>
+      <sequence>
+        <element ref="gts:ContentReferenced"/>
+        <element ref="gts:Advertisers"/>
+        <element ref="gts:Authors"/>
+        <element ref="gts:StaffPositions"/>
+      </sequence>
+    </complexType>
+  </element>
+  <element name="ContentReferenced">
+    <complexType/>
+  </element>
+  <element name="Advertisers">
+    <complexType>
+      <sequence>
+        <element ref="gts:Comment"/>
+      </sequence>
+    </complexType>
+  </element>
+  <element name="Authors">
+    <complexType/>
+  </element>
+  <element name="StaffPositions">
+    <complexType/>
+  </element>
+  <element name="StaffAssignments">
+    <complexType>
+      <sequence>
+        <element ref="gts:Comment"/>
+      </sequence>
+    </complexType>
+  </element>
+</schema>
